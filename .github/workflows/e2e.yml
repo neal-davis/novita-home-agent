@@ -4,14 +4,10 @@ name: E2E
 # （mcr.microsoft.com/playwright:v<ver>-jammy，tag 必须与 @playwright/test 版本对齐）——
 # 不再在 runner 上现装浏览器（曾因 Playwright CDN stall 反复卡死，见 git history 一串 ci(e2e) 修复）。
 #
-# 分片（sharding）加速：~356 用例切成 N 片并行——每片一台独立 runner，自建 + 自启 app +
-# 只跑自己那 1/N 用例（Playwright --shard=i/N），墙钟 ≈ build + 测试时间/N。
-# 各片产出 blob 分片报告，最后 merge job 合并成单一 HTML/JSON + 覆盖率 + PR 评论。
-# 为什么不在单机加 worker：单机 app server 是共享瓶颈，10 worker 抢同一批 CPU 只会更慢更 flaky；
-# 真正的水平扩展是多机分片（每片独享 runner + 独享 app server）。
-#   - 每片各自 build：完全复用单机时已验证的 build+start 步骤（最稳），代价是 build 计算量 ×N（并行，
-#     不影响墙钟，只多耗 runner 分钟）。想省这份计算量可改成「build 一次 + 传 .next/standalone 产物」。
-#   - 调分片数：只改下方 strategy.matrix.shard 数组；--shard 的 /N 用 strategy.job-total 自动对齐。
+# 分片（sharding）加速：~356 用例切成 N 片并行——Playwright --shard=i/N，墙钟 ≈ build(一次) + 测试时间/N。
+# 架构：① scope 决策 → ② build job **只构建一次**（含 prepare-standalone）→ ③ N 个 shard 下载产物只跑测。
+# 避免「每片各 build + 各写 .next/cache」（4×~4min 计算 + 4×~50s cache 上传，墙钟几乎不降）。
+# 调分片数：只改下方 strategy.matrix.shard 数组；--shard 的 /N 用 strategy.job-total 自动对齐。
 #
 # 跑什么随触发分流（避免每个 PR 都全量巡检 139 路由）：
 #   - pull_request：deep 行为门禁全跑；全站 @sweep 仅在 serverImpact（中间件 / next.config /
@@ -38,6 +34,7 @@ concurrency:
 permissions:
   contents: read
   pull-requests: write # 给 PR 贴覆盖率/结果评论（失败感知）
+  actions: write # build job 上传 standalone 产物、shard 下载
 
 jobs:
   # ① 决定本次跑 deep-only 还是 deep + 全量 sweep——**单点决策**，输出给所有分片，保证各片
@@ -78,28 +75,18 @@ jobs:
             echo "PR 仅局部改动 → 只跑 deep（全站 sweep 交给 nightly / push:main 兜底）"
           fi
 
-  # ② 分片跑：每片独立 runner，自建 + 自启 app + 跑自己那 1/N 用例，产出 blob 分片报告。
-  shard:
-    name: E2E shard
+  # ② 构建一次：i18n + build:test + prepare-standalone，打成产物供全部分片复用。
+  # 跑在普通 ubuntu（不需 Playwright 容器）；.next/cache 只在此 job restore/save 一次（省 4×~50s 上传）。
+  build:
+    name: Build test app
     needs: scope
     runs-on: ubuntu-latest
-    # 官方 Playwright 容器：chromium/firefox/webkit + headless-shell 与系统依赖全部预装。
-    # ⚠ tag 必须与 package.json 的 @playwright/test 版本一致（当前 1.55.0）；升级 Playwright 时同步改本 tag，
-    # 否则浏览器 build 号与 npm 包对不上、报 "browser not found"。
-    container:
-      image: mcr.microsoft.com/playwright:v1.55.0-jammy
-    timeout-minutes: 30
-    strategy:
-      fail-fast: false # 一片挂不取消其它片——要收齐全部分片结果再汇总/门禁
-      matrix:
-        shard: [1, 2, 3, 4] # 调分片数只改这里；--shard 的 /N 用 strategy.job-total 自动对齐
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v5
         with:
-          fetch-depth: 1 # 分片只 build+跑测；全量 git 历史仅 scope job（diff-routes）需要
+          fetch-depth: 1
 
-      # 容器自带 Node 20，但本仓库 engines 要求 24.x——叠装 24 对齐本地/CI 行为。
-      # 浏览器在 /ms-playwright（镜像 ENV 已指向），与 Node 版本无关，不受影响。
       - uses: actions/setup-node@v5
         with:
           node-version: 24.x
@@ -108,9 +95,6 @@ jobs:
       - name: Install dependencies
         run: npm ci --prefer-offline --no-audit --no-fund
 
-      # 跨 run 复用 Next 编译缓存；4 片并行 restore 同 key，job 末 save 竞态可接受（最后写入者生效）。
-      # key 两层 hash：① 工具链 + i18n + build:test 资源（变则冷启动）；② src/样式（变则 primary miss，
-      #    但 restore-keys 仍命中① → 安全局部复用）。去掉宽泛的 `next-build-` 回退，避免 lockfile 变了还吃到旧缓存。
       - name: Restore Next.js build cache
         uses: actions/cache@v4
         with:
@@ -119,8 +103,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-next-e2e-${{ hashFiles('package-lock.json', 'next.config.js', 'tsconfig.json', 'tailwind.config.ts', 'postcss.config.js', 'components.json', '.i18n/manifest.json', 'scripts/i18n/**', 'scripts/watcher/**', 'locales/**/messages/**', 'locales/en/public/**', 'locales/en/.env.test') }}-
 
-      # build:test 无 prebuild 钩子——显式先编 i18n（与 predev/prebuild 一致），否则构建缺资源。
-      # build:test 已跳过 PWA（next.config.js）；NODE_OPTIONS 抬堆上限防大应用 next build OOM。
       - name: Build test app
         env:
           NODE_OPTIONS: --max-old-space-size=6144
@@ -128,6 +110,54 @@ jobs:
           npm run i18n:scan
           npm run i18n:compile
           npm run build:test
+          node scripts/prepare-standalone.js
+
+      - name: Pack standalone artifact
+        run: tar -czf e2e-standalone.tar.gz -C .next standalone
+
+      - name: Upload standalone artifact
+        uses: actions/upload-artifact@v5
+        with:
+          name: e2e-standalone
+          path: e2e-standalone.tar.gz
+          retention-days: 1
+          compression-level: 0 # 已 gzip，避免二次压缩
+
+  # ③ 分片跑：下载 build 产物 + 自启 app + 跑本片用例，产出 blob 分片报告。
+  shard:
+    name: E2E shard
+    needs: [scope, build]
+    runs-on: ubuntu-latest
+    # 官方 Playwright 容器：chromium/firefox/webkit + headless-shell 与系统依赖全部预装。
+    # ⚠ tag 必须与 package.json 的 @playwright/test 版本一致（当前 1.55.0）；升级 Playwright 时同步改本 tag，
+    # 否则浏览器 build 号与 npm 包对不上、报 "browser not found"。
+    container:
+      image: mcr.microsoft.com/playwright:v1.55.0-jammy
+    timeout-minutes: 15 # 无 build，仅下载产物 + 跑测
+    strategy:
+      fail-fast: false # 一片挂不取消其它片——要收齐全部分片结果再汇总/门禁
+      matrix:
+        shard: [1, 2, 3, 4, 5, 6] # 6 片：测试段更短；build 已集中，加片不重复构建
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24.x
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --prefer-offline --no-audit --no-fund
+
+      - name: Download standalone artifact
+        uses: actions/download-artifact@v5
+        with:
+          name: e2e-standalone
+
+      - name: Extract standalone app
+        run: mkdir -p .next && tar -xzf e2e-standalone.tar.gz -C .next
 
       - name: Generate route catalog
         run: node scripts/agent/route-catalog.mjs --out e2e_tests/route-catalog.generated.json
@@ -149,7 +179,7 @@ jobs:
           HOSTNAME: 0.0.0.0
           PORT: "3000"
         run: |
-          npm run start > /tmp/app.log 2>&1 &
+          node .next/standalone/server.js > /tmp/app.log 2>&1 &
           APP_PID=$!
           ready=0
           for i in $(seq 1 90); do
@@ -177,12 +207,12 @@ jobs:
           retention-days: 7
           if-no-files-found: ignore
 
-  # ③ 汇总 + 门禁：合并各分片 blob → 单一 HTML/JSON 报告 + 覆盖率 + PR 评论；任一分片失败本 job 红。
+  # ④ 汇总 + 门禁：合并各分片 blob → 单一 HTML/JSON 报告 + 覆盖率 + PR 评论；任一分片失败本 job 红。
   #    name 固定为 "E2E hermetic"——分支保护的 required check 认这个名，沿用即可不必改配置。
   #    不需要浏览器（merge-reports / 覆盖率脚本都是纯 Node），故跑在普通 ubuntu，省 2GB 容器拉取。
   merge:
     name: E2E hermetic
-    needs: [scope, shard]
+    needs: [scope, build, shard]
     if: ${{ !cancelled() }} # 有分片失败也要出报告 + 走门禁；仅整体被取消时跳过
     runs-on: ubuntu-latest
     timeout-minutes: 15
@@ -312,4 +342,8 @@ jobs:
             echo "✗ 有分片未通过（needs.shard.result=${{ needs.shard.result }}）——见上方 PR 评论 / HTML 报告"
             exit 1
           fi
-          echo "✓ 全部分片通过"
+          if [ "${{ needs.build.result }}" != "success" ]; then
+            echo "✗ build job 未通过（needs.build.result=${{ needs.build.result }}）"
+            exit 1
+          fi
+          echo "✓ build + 全部分片通过"
