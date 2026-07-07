@@ -1,0 +1,36 @@
+.card {
+  padding: 24px 24px 20px 24px;
+  background-color: var(--gray-3);
+  border-radius: 8px;
+
+  .location {
+    @include font-subtle;
+    color: var(--dark-2);
+  }
+
+  .card_name {
+    margin-top: 4px;
+    padding-bottom: 12px;
+    @include font-h5;
+    color: var(--dark-1);
+    border-bottom: 1px solid var(--gray-2);
+  }
+
+  .card_parameters {
+    @include font-subtle;
+    color: var(--dark-2);
+  }
+
+  .card_footer {
+    padding-top: 12px;
+    @include font-body;
+    color: var(--dark-3);
+    border-top: 1px solid var(--gray-2);
+
+    .card_price {
+      margin-left: 5px;
+      @include font-body-medium;
+      color: var(--brand-1);
+    }
+  }
+}

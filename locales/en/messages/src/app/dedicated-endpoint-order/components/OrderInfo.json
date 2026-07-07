@@ -1,0 +1,12 @@
+{
+  "billingMethods": "Billing Methods",
+  "bySubscribingYouAuthorizeUsTo": "By subscribing, you authorize us to automatically deduct the subscription cost each month to renew your service until you cancel.",
+  "importantOnceYouSelectTheBilling": "Important: Once you select the billing method for your current plan, all previous plans will automatically switch to the same billing method.",
+  "included": "included",
+  "paymentSuccess": "Payment success",
+  "plans": "Plans",
+  "price": "price",
+  "quantities": "quantities",
+  "submit": "Submit",
+  "total": "Total"
+}

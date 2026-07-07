@@ -1,0 +1,8 @@
+{
+  "back": "戻る",
+  "cancel": "キャンセル",
+  "download": "ダウンロード",
+  "generate": "生成",
+  "theCenterOfTheCropShould": "クロップの中心は画像の外側にあってはなりません",
+  "theWidthAndHeightOfThe": "クロップの幅と高さは256から1024の間である必要があります。"
+}

@@ -1,0 +1,12 @@
+{
+  "addEnvironmentVariable": "+ 添加环境变量",
+  "configuration": "配置",
+  "containerImage": "容器镜像",
+  "containerStartCommand": "容器启动命令",
+  "entrypoint": "入口点",
+  "environmentVariables": "环境变量",
+  "exposeHttpPortsMax10": "暴露 HTTP 端口（最多 10 个）",
+  "exposeTcpPorts": "暴露 TCP 端口",
+  "key": "键",
+  "value": "值"
+}

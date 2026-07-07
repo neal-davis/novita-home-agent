@@ -1,0 +1,12 @@
+{
+  "billingMethods": "Abrechnungsmethoden",
+  "bySubscribingYouAuthorizeUsTo": "Mit dem Abonnement autorisieren Sie uns, die Abonnementkosten jeden Monat automatisch abzubuchen, um Ihren Service zu verlängern, bis Sie kündigen.",
+  "importantOnceYouSelectTheBilling": "Wichtig: Sobald Sie die Abrechnungsmethode für Ihren aktuellen Plan auswählen, werden alle vorherigen Pläne automatisch auf dieselbe Abrechnungsmethode umgestellt.",
+  "included": "enthalten",
+  "paymentSuccess": "Zahlung erfolgreich",
+  "plans": "Pläne",
+  "price": "Preis",
+  "quantities": "Mengen",
+  "submit": "Absenden",
+  "total": "Gesamt"
+}

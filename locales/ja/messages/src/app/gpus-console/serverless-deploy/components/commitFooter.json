@@ -1,0 +1,8 @@
+{
+  "deploy": "デプロイ >",
+  "deploySuccessfully": "デプロイに成功しました",
+  "pleaseLogInFirst": "先にログインしてください",
+  "serverlessPrice": "サーバーレス料金:",
+  "storagePrice": "ストレージ料金:",
+  "thePriceOfEachWorkerNot": "GPU 単位ではなく、各 Worker の料金です。実行中/起動中の状態にある Worker に対して課金され、請求は秒単位で正確に計算されます。"
+}

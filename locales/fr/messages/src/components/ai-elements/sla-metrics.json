@@ -1,0 +1,7 @@
+{
+  "speed": "VITESSE :",
+  "timeToFirstToken": "Temps jusqu’au premier token",
+  "tokensPerSecond": "Tokens par seconde",
+  "tokensS": "tokens/s",
+  "ttft": "TTFT :"
+}

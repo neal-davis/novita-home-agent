@@ -1,0 +1,13 @@
+{
+  "aiSearch": "AI Search",
+  "allModels": "All Models",
+  "audio": "Audio",
+  "embedding": "Embedding",
+  "featured": "Featured",
+  "image": "Image",
+  "provider": "PROVIDER",
+  "reranker": "Reranker",
+  "task": "TASK",
+  "video": "Video",
+  "vision": "Vision"
+}

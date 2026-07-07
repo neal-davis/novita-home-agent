@@ -1,0 +1,12 @@
+{
+  "chatCompletionResponse": "Respuesta de finalización de chat",
+  "completionResponse": "Respuesta de finalización",
+  "createAnOpenaiCompatibleChatCompletion": "Crear una finalización de chat compatible con OpenAI.",
+  "createAnOpenaiCompatibleTextCompletion": "Crear una finalización de texto compatible con OpenAI.",
+  "createOpenaiCompatibleEmbeddings": "Crear embeddings compatibles con OpenAI.",
+  "discoveryDocumentForNovitasOpenaiCompatible": "Documento de descubrimiento para las APIs de modelos compatibles con OpenAI y las APIs de plataforma de Novita.",
+  "embeddingResponse": "Respuesta de embedding",
+  "listAvailableOpenaiCompatibleModels": "Listar los modelos compatibles con OpenAI disponibles.",
+  "modelList": "Lista de modelos",
+  "novitaApi": "API de Novita"
+}

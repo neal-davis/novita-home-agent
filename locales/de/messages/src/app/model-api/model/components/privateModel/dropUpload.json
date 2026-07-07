@@ -1,0 +1,9 @@
+{
+  "clickOrDragFileToThis": "Klicken Sie hier oder ziehen Sie eine Datei in diesen Bereich, um sie hochzuladen",
+  "modelNameCanOnlyContainLetters": "Der Modellname darf nur Buchstaben, Zahlen und Unterstriche enthalten und darf eine Länge von 100 nicht überschreiten",
+  "pleaseAddKeyFirst": "Bitte fügen Sie zuerst den Schlüssel hinzu",
+  "pleaseEnterModelNameFirst": "Bitte geben Sie zuerst den Modellnamen ein",
+  "sha256ComputationFailedPleaseCheckIf": "SHA256-Berechnung fehlgeschlagen. Bitte prüfen Sie, ob Ihre Browserversion die Funktionen crypto und btoa unterstützt, oder kontaktieren Sie uns, um Probleme beim Hochladen des Modells zu beheben.",
+  "supportForASingleOrBulk": "Unterstützung für Einzel- oder Massen-Uploads. Das Hochladen von Unternehmensdaten oder anderen verbotenen Dateien ist strengstens untersagt.",
+  "uploadFailed": "Upload fehlgeschlagen"
+}

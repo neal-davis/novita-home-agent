@@ -1,0 +1,9 @@
+{
+  "advancedScalingOptions": "高级扩缩容选项",
+  "optional": "（可选）",
+  "scaleDownWindow": "缩容窗口",
+  "seconds": "秒",
+  "stableWindow": "稳定窗口",
+  "timeInSecondsBeforeScalingDown": "缩容副本之前的等待时间（秒）。",
+  "timeInSecondsBeforeScalingUp": "扩容副本之前的等待时间（秒）。"
+}

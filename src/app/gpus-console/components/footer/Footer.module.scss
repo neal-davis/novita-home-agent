@@ -1,0 +1,169 @@
+.footer {
+  background-color: #171717;
+  padding: 40px 140px;
+  text-align: center;
+  display: flex;
+  color: #fff;
+  font-size: 13px;
+  align-items: center;
+}
+.copyFooter {
+  margin-right: 24.31%;
+  color: #e0e0e0;
+  line-height: 22px;
+}
+.rightFooter {
+  display: flex;
+  .name {
+    margin-right: 24px;
+  }
+}
+.footerCard {
+  padding: 102px 0 77px;
+  background-color: #2f2f2f;
+  text-align: center;
+  width: 1160px;
+  position: relative;
+  z-index: 10;
+  .btn {
+    background: rgba(17, 20, 45, 1);
+    border-radius: 8px;
+    color: #fff;
+    font-style: normal;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 41.31px;
+    text-transform: none;
+  }
+  .cardTitle {
+    color: #fff;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 145%;
+    margin-bottom: 53px;
+  }
+  .greenBtn {
+    width: 150px;
+    height: 50px;
+    font-size: 16px;
+    background-color: #38c185;
+    font-weight: 600;
+    margin: auto;
+    border: none;
+    &:hover {
+      background-color: rgba(56, 193, 133, 0.8) !important;
+    }
+  }
+}
+.animationFadein {
+  animation: 2s ease-out 0s 1 normal forwards running fadeIn;
+}
+.cardWrap {
+  display: flex;
+  justify-content: center;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.docCard {
+  padding: 65px 0 128px;
+  display: flex;
+  background: #000;
+  width: 1160px;
+  .cardContent {
+    width: 25%;
+    margin-right: 40px;
+    letter-spacing: 2px;
+    &:last-child {
+      margin-right: 0;
+    }
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  .subContent {
+    &:hover {
+      color: rgba(255, 255, 255, 0.8);
+      text-decoration: underline;
+      cursor: pointer;
+    }
+  }
+  .cardTitle {
+    color: #fff;
+    font-weight: bold;
+  }
+  .cardBorder {
+    width: 70%;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.3);
+    margin-top: 16px;
+  }
+  .subContentWrap {
+    padding-top: 12px;
+  }
+  .subContent {
+    margin-top: 20px;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .footerCard,
+  .docCard {
+    width: 1000px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .footerCard,
+  .docCard {
+    width: 700px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .footerCard,
+  .docCard {
+    width: 542px;
+  }
+  .footerCard {
+    padding-top: 78px;
+    .cardTitle {
+      font-size: 38px;
+    }
+  }
+}
+@media screen and (max-width: 500px) {
+  .docCard {
+    padding: 40px 5px;
+    width: 100%;
+  }
+  .cardContent {
+    margin-right: 10px;
+  }
+  .cardTitle {
+    font-size: 30px !important;
+  }
+  .greenBtn {
+    height: 64px !important;
+    font-size: 24px !important;
+    img {
+      margin-left: 5px;
+    }
+  }
+  .docCard {
+    .cardTitle {
+      font-size: 16px !important;
+    }
+    .cardContent {
+      margin-right: 10px !important;
+    }
+    .subContentWrap {
+      font-size: 14px;
+    }
+  }
+}

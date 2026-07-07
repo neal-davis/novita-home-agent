@@ -1,0 +1,9 @@
+{
+  "deployGpuInstancesCloserToYour": "Stellen Sie GPU-Instanzen näher bei Ihren Nutzern über unser weltweites Netzwerk bereit. Sorgen Sie für minimale Latenz und schnellen Zugriff, unabhängig davon, wo sich Ihre Nutzer oder Teams befinden.",
+  "gpuPricing-9ceff5": "GPU-Preise",
+  "gpuPricing-aac889": "GPU-Preise",
+  "onDemand": "On-Demand",
+  "sampleConfiguration": "Beispielkonfiguration",
+  "spot": "SPOT",
+  "usageExample": "Anwendungsbeispiel"
+}

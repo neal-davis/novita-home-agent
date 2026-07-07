@@ -1,0 +1,12 @@
+{
+  "accountBalance": "Account balance",
+  "availableCredit": "Available Credit",
+  "creditLimit": "Credit limit",
+  "outstandingInvoices": "Outstanding invoices",
+  "pendingCharges": "Pending charges",
+  "prepaidFundsInYourAccountThat": "Prepaid funds in your account that decrease as you make usage-based purchases.",
+  "theMaximumPostpaidAmountApprovedBased": "The maximum postpaid amount approved based on your account's credit profile, allowing you to consume first and pay later.",
+  "totalAmountOwedUnderYourCredit": "Total amount owed under your credit limit that must be repaid within the payment period.",
+  "usageChargesThatHaveBeenIncurred": "Usage charges that have been incurred but are not yet due for deduction. These amounts will be automatically charged from your balance or credit limit once the billing cycle reaches its payment time.",
+  "yourAvailableCreditIsTheRemaining": "Your available credit is the remaining amount you can use after pending charges, before reaching your credit limit."
+}

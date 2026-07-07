@@ -1,0 +1,9 @@
+{
+  "cacheRead": "キャッシュ読み取り",
+  "cacheWrite1h": "キャッシュ書き込み(1h)",
+  "cacheWrite5m": "キャッシュ書き込み(5m)",
+  "context": "コンテキスト",
+  "input": "入力",
+  "maxOutput": "最大出力",
+  "output": "出力"
+}

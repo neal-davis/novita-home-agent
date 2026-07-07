@@ -1,0 +1,19 @@
+{
+  "averageTokenCountPerRequest": "リクエストあたりの平均トークン数",
+  "endToEndE2eLatency": "エンドツーエンド（E2E）レイテンシ",
+  "isSet": "が設定されている場合にのみ追跡されます。",
+  "loading": "読み込み中...",
+  "message10S": "10秒",
+  "message1Min": "1分",
+  "message30S": "30秒",
+  "message5S": "5秒",
+  "noLlmApiCalls": "LLM API 呼び出しなし",
+  "off": "オフ",
+  "requestPerMinuteRpm": "1分あたりのリクエスト数（RPM）",
+  "requestSuccessRate": "リクエスト成功率",
+  "streamTrue": "stream=true",
+  "theAverageTimeTakenToGenerate": "出力トークンの生成にかかる平均時間。リクエストパラメータ",
+  "theTimeRequiredToProcessThe": "プロンプトを処理して最初の出力トークンを生成するまでに必要な時間。リクエストパラメータ",
+  "timePerOutputTokenTpot": "出力トークンあたりの時間（TPOT）",
+  "timeToFirstTokenTtft": "最初のトークンまでの時間（TTFT）"
+}

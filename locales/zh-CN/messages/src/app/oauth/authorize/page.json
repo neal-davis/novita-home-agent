@@ -1,0 +1,9 @@
+{
+  "applicationInformationError": "应用程序信息错误",
+  "isRequestingAccessToYourNovita": "正在请求访问与你的邮箱关联的 Novita 账户",
+  "missingRequiredParametersAuthorizationCannotBe": "缺少必需参数，无法完成授权",
+  "permissionsNotice": "权限通知：",
+  "requestParameterError": "请求参数错误",
+  "selectTheTeamAccountYouWish": "选择你希望授权访问的团队账户：",
+  "unableToGetApplicationInformationPlease": "无法获取应用程序信息，请联系应用程序提供方"
+}

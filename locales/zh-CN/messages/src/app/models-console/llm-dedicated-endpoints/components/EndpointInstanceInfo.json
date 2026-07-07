@@ -1,0 +1,8 @@
+{
+  "cancel": "取消",
+  "edit": "编辑",
+  "instanceType": "实例类型",
+  "numberOfGpus": "GPU 数量",
+  "pleaseSelectAnInstance": "请选择一个实例",
+  "save": "保存"
+}

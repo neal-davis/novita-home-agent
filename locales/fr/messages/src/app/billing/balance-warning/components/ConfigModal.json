@@ -1,0 +1,21 @@
+{
+  "addAlert": "Ajouter une alerte",
+  "balanceAlertsAreTriggeredBasedOn": "Les alertes de solde sont déclenchées en fonction de votre crédit disponible, qui inclut le solde de votre compte et la limite de crédit restante.",
+  "cancel": "Annuler",
+  "confirm": "Confirmer",
+  "editAlert": "Modifier l’alerte",
+  "email": "E-mail",
+  "enableStatus": "Statut d’activation",
+  "enterAmount": "Saisir le montant",
+  "inbox": "Boîte de réception",
+  "notificationMembers": "Membres à notifier",
+  "notificationMethod": "Méthode de notification",
+  "pleaseEnterTheWarningAmount": "Veuillez saisir le montant d’avertissement",
+  "pleaseSelectAtLeastOneNotification": "Veuillez sélectionner au moins une méthode de notification",
+  "selectMethods": "Sélectionner des méthodes",
+  "theMaximumPostpaidAmountApprovedBased": "Le montant postpayé maximal approuvé en fonction du profil de crédit de votre compte, vous permettant de consommer d’abord et de payer plus tard.",
+  "theWarningAmountMustBeBetween": "Le montant d’avertissement doit être compris entre 1 $ et 10 000 000 $, et l’intervalle entre les montants avec un statut d’avertissement actif doit être d’au moins 5 $.",
+  "thresholdMustBeAnInteger": "Le seuil doit être un entier",
+  "thresholdMustBeBetween1And": "Le seuil doit être compris entre 1 et 10000000",
+  "warningAmount": "Montant d’avertissement"
+}

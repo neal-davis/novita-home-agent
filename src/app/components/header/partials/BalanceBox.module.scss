@@ -1,0 +1,48 @@
+.module_title {
+  margin-bottom: 12px;
+  padding: 0 8px;
+  @include font-subtle-medium;
+  color: var(--black);
+}
+
+.add_card_container {
+  margin-bottom: 16px;
+  padding: 8px 12px;
+  border: 1px solid #d4ede0;
+  background-color: #f6fdf9;
+  border-radius: 6px;
+
+  .title {
+    @include font-subtle-medium;
+    color: var(--black);
+  }
+
+  .description {
+    @include font-small-console;
+    color: var(--dark-2);
+  }
+}
+
+.nav_item {
+  justify-content: space-between;
+}
+
+.go_link {
+  margin-top: 20px;
+  padding: 0 8px;
+  color: var(--brand-0);
+  cursor: pointer;
+
+  &:hover {
+    opacity: 0.85;
+  }
+
+  span:first-child {
+    @include font-link-small;
+  }
+
+  span:last-child {
+    @include font-subtle;
+    text-decoration: none;
+  }
+}

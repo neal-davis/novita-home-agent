@@ -1,0 +1,22 @@
+.card {
+  // &:hover {
+  //   .btnArrow {
+  //     animation: slideOut 0.3s linear forwards;
+  //   }
+  //   // .cardContent {
+  //   //   border-color: var(--brand-0);
+  //   //   background-color: var(--brand-2);
+  //   // }
+  // }
+}
+
+// .cardContent {
+//   border: 1px solid transparent;
+// }
+.btnArrow {
+  margin-left: 5px;
+  animation: slideRecover 0.3s linear forwards;
+}
+
+@include slideOut;
+@include slideRecover;

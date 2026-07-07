@@ -1,0 +1,11 @@
+{
+  "basedOnSdxl10Visit": "SDXL 1.0 に基づいています。以下をご覧ください",
+  "cancel": "キャンセル",
+  "download": "ダウンロード",
+  "forAccessToMoreModelsAnd": "より多くのモデルと機能にアクセスできます。",
+  "generate": "生成",
+  "generateAiImagesWith": "AI 画像を生成する：",
+  "playground": "Playground",
+  "stableDiffusionApi": "Stable Diffusion API",
+  "tryImageToImageApi": "image to image API を試す"
+}

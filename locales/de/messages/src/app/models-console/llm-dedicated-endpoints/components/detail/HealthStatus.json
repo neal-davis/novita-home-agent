@@ -1,0 +1,21 @@
+{
+  "allSystemsOperational": "Alle Systeme betriebsbereit",
+  "autoscalingInProgress": "Autoscaling läuft...",
+  "deploying": "Bereitstellung läuft",
+  "deploymentFailedCheckLogsOrRedeploy": "Bereitstellung fehlgeschlagen. Protokolle prüfen oder erneut bereitstellen.",
+  "endpointIsShuttingDown": "Endpunkt wird heruntergefahren...",
+  "endpointTerminatedRedeployToRestart": "Endpunkt beendet. Erneut bereitstellen, um neu zu starten.",
+  "failed": "Fehlgeschlagen",
+  "health": "Status",
+  "healthy": "Fehlerfrei",
+  "initialDeploymentInProgress": "Erstbereitstellung läuft...",
+  "pending": "Ausstehend",
+  "rolling": "Rollierend",
+  "rollingUpdateInProgress": "Rollierendes Update läuft...",
+  "scaleToZeroActiveWillWake": "Scale-to-Zero aktiv. Wird bei der ersten Anfrage gestartet.",
+  "scaling": "Skalierung läuft",
+  "sleeping": "Ruhezustand",
+  "terminated": "Beendet",
+  "terminating": "Wird beendet",
+  "waitingForResources": "Warten auf Ressourcen..."
+}

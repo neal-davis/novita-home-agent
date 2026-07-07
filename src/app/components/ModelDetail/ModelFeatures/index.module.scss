@@ -1,0 +1,213 @@
+.serverlessContainer {
+  padding: 12px 16px;
+  background-color: var(--fill-5);
+  border: 1px solid var(--border-2);
+  border-radius: 6px;
+
+  .header {
+    display: flex;
+    margin-bottom: 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+
+    @include screen-lg {
+      flex-direction: row;
+      align-items: center;
+      margin-bottom: 0;
+    }
+  }
+
+  .headerContent {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin-bottom: 8px;
+
+    .title {
+      @include font-h6;
+      color: var(--black);
+    }
+
+    .subtitle {
+      @include font-small-console;
+      color: var(--dark-2);
+    }
+  }
+
+  .pricingTable {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--white);
+    border: 1px solid var(--gray-2);
+
+    .pricingRow {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      &:not(:last-child) {
+        border-bottom: 1px solid var(--gray-2);
+      }
+
+      .pricingLabel {
+        padding: 6px 14px;
+        flex: 1;
+        @include font-subtle;
+        color: var(--dark-1);
+      }
+
+      .pricingValue {
+        padding: 6px 14px;
+        flex: 1;
+        @include font-subtle-medium;
+        color: var(--brand-1);
+        border-left: 1px solid var(--gray-2);
+      }
+    }
+  }
+}
+
+.tieredSection {
+  display: flex;
+  padding: 12px;
+  flex-direction: column;
+  gap: 12px;
+  background-color: var(--gray-3);
+  border-radius: 6px;
+  border: 1px solid var(--gray-2);
+
+  .tieredTitle {
+    @include font-h6;
+    color: var(--black);
+  }
+
+  .tableWrapper {
+    width: 100%;
+    overflow-x: auto;
+  }
+
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: var(--white);
+
+    tr {
+      border-bottom: 1px solid var(--gray-2);
+
+      &:first-child {
+        border-top: 1px solid var(--gray-2);
+      }
+    }
+
+    th {
+      text-align: left;
+      padding: 6px 14px;
+      @include font-small-console;
+      color: var(--dark-1);
+    }
+
+    td {
+      padding: 6px 14px;
+      @include font-small-console;
+      color: var(--dark-1);
+    }
+  }
+}
+
+.pricingOriginValue {
+  @include font-subtle-medium;
+  color: var(--gray-1);
+  margin-left: 10px;
+  text-decoration: line-through;
+}
+
+.multimodalSection {
+  display: flex;
+  padding: 0;
+  flex-direction: column;
+  gap: 0;
+  background-color: transparent;
+
+  .tableWrapper {
+    width: 100%;
+    overflow-x: auto;
+    background-color: var(--white);
+  }
+
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: var(--white);
+    border: 1px solid var(--gray-2);
+
+    thead {
+      background-color: var(--white);
+      border-bottom: 1px solid var(--gray-2);
+
+      tr {
+        border-bottom: 1px solid var(--gray-2);
+      }
+    }
+
+    tbody {
+      tr {
+        border-bottom: 1px solid var(--gray-2);
+
+        &:last-child {
+          border-bottom: none;
+        }
+      }
+    }
+
+    tr {
+      border-bottom: 1px solid var(--gray-2);
+
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+
+    th {
+      text-align: left;
+      padding: 7px 16px;
+      height: 34px;
+      @include font-small-console;
+      color: var(--dark-1);
+      font-weight: 600;
+      white-space: nowrap;
+      background-color: var(--white);
+      border-right: 1px solid var(--gray-2);
+      box-sizing: border-box;
+
+      &:first-child {
+        min-width: 120px;
+      }
+
+      &:last-child {
+        border-right: none;
+      }
+    }
+
+    td {
+      padding: 7px 16px;
+      height: 34px;
+      @include font-small-console;
+      color: var(--dark-1);
+      white-space: nowrap;
+      background-color: var(--white);
+      border-right: 1px solid var(--gray-2) !important;
+      box-sizing: border-box;
+
+      &:first-child {
+        font-weight: 500;
+        color: var(--dark-2);
+      }
+
+      &:last-child {
+        border-right: none !important;
+      }
+    }
+  }
+}

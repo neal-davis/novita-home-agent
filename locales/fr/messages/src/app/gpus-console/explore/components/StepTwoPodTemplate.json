@@ -1,0 +1,13 @@
+{
+  "capacityHasExceededTheLimitPlease": "La capacité a dépassé la limite, veuillez contacter",
+  "containerDisk": "Disque du conteneur",
+  "createVolume": "+ Créer un volume",
+  "free": "gratuit",
+  "gb": "GB",
+  "networkMountPath": "Chemin de montage réseau",
+  "networkVolume": "Volume réseau",
+  "podTemplate": "Modèle de pod",
+  "support": "support",
+  "updateTemplateNow": "Mettre à jour le modèle maintenant",
+  "yourTemplateCurrentlyIncludesVolumeDisk": "Votre modèle inclut actuellement le montage du disque de volume, qui n’est plus pris en charge (le disque de conteneur a été étendu). Veuillez mettre à jour votre modèle pour supprimer les configurations de montage du disque de volume et stocker les données sur le disque de conteneur."
+}

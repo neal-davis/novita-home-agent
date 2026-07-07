@@ -1,0 +1,17 @@
+{
+  "all": "全部",
+  "audio": "音频",
+  "embedding": "嵌入",
+  "exploreModelsReadyForProductionDeploy": "探索可用于生产环境的模型 — 数秒内完成部署。",
+  "image": "图像",
+  "modelLibrary": "模型库",
+  "models": "模型（",
+  "noModelsFoundTryAdjustingYour": "未找到模型。请尝试调整筛选条件。",
+  "reranker": "重排序器",
+  "seeEventTerms": "查看活动条款",
+  "textToAudio": "文本转音频",
+  "textToImage": "文本转图像",
+  "textToText": "文本转文本",
+  "video": "视频",
+  "vision": "视觉"
+}

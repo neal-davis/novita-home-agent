@@ -1,0 +1,49 @@
+{
+  "_comment": "Synthetic GET /api/v1/image/prewarm (reqGpuImagePrewarm) response for hermetic /gpus-console/image. The read-only prod capture returned 401 (image-prewarm data loads client-side only after login), so this is shaped to the contract consumed in components/section.tsx: { total, data: ImagePrewarmJob[] }. Each row carries id/imageName/imageUrl/note/imageSize/clusterName/products/state/reason/createTime which the row renders (one [class*='itemContainer'] per row, JobState span shows SUCCEEDED/RUNNING/FAILED). All ids/urls are synthetic (registry.example.com), no real PII or tokens.",
+  "code": 0,
+  "total": 3,
+  "data": [
+    {
+      "id": "prewarm-e2e-0001",
+      "imageName": "e2e-image-alpha",
+      "imageUrl": "registry.example.com/e2e/alpha:latest",
+      "note": "alpha remarks",
+      "imageSize": 1610612736,
+      "clusterName": "E2E-US-CLUSTER",
+      "repositoryAuth": "",
+      "products": [{ "productName": "RTX-4090" }],
+      "state": "Succeeded",
+      "reason": [],
+      "createTime": "1718000000",
+      "completeTime": "1718000600"
+    },
+    {
+      "id": "prewarm-e2e-0002",
+      "imageName": "e2e-image-beta",
+      "imageUrl": "registry.example.com/e2e/beta:latest",
+      "note": "beta remarks",
+      "imageSize": 3221225472,
+      "clusterName": "E2E-EU-CLUSTER",
+      "repositoryAuth": "",
+      "products": [{ "productName": "A100" }, { "productName": "H100" }],
+      "state": "Running",
+      "reason": [],
+      "createTime": "1718100000",
+      "completeTime": "0"
+    },
+    {
+      "id": "prewarm-e2e-0003",
+      "imageName": "e2e-image-gamma",
+      "imageUrl": "registry.example.com/e2e/gamma:latest",
+      "note": "gamma remarks",
+      "imageSize": 5368709120,
+      "clusterName": "E2E-AP-CLUSTER",
+      "repositoryAuth": "",
+      "products": [{ "productName": "RTX-5090" }],
+      "state": "Failed",
+      "reason": ["image pull failed: not found"],
+      "createTime": "1718200000",
+      "completeTime": "0"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+.data {
+  color: var(--dark-3);
+  @include font-subtle;
+  margin-top: var(--spacing-console-24);
+}

@@ -1,0 +1,12 @@
+{
+  "addEnvironmentVariable": "+ Add Environment Variable",
+  "configuration": "Configuration",
+  "containerImage": "Container Image",
+  "containerStartCommand": "Container Start Command",
+  "entrypoint": "Entrypoint",
+  "environmentVariables": "Environment Variables",
+  "exposeHttpPortsMax10": "Expose HTTP Ports (Max 10)",
+  "exposeTcpPorts": "Expose TCP Ports",
+  "key": "key",
+  "value": "value"
+}

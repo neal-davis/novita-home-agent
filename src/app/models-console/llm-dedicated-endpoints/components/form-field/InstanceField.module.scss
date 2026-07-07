@@ -1,0 +1,27 @@
+.instance_card {
+  display: flex;
+  padding: 8px 12px;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  border-radius: 6px;
+  border: 1px solid var(--gray-2);
+  background-color: var(--white);
+  cursor: pointer;
+
+  .instance_name {
+    margin-bottom: 4px;
+    @include font-small-console-medium;
+    color: var(--dark-2);
+  }
+
+  .select_trigger {
+    border: 1px solid var(--gray-2);
+    @include font-small-console;
+    color: var(--dark-1);
+  }
+}
+
+.selected {
+  background-color: var(--gray-3);
+}

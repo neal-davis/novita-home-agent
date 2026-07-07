@@ -1,0 +1,21 @@
+{
+  "allSystemsOperational": "All systems operational",
+  "autoscalingInProgress": "Autoscaling in progress...",
+  "deploying": "Deploying",
+  "deploymentFailedCheckLogsOrRedeploy": "Deployment failed. Check logs or redeploy.",
+  "endpointIsShuttingDown": "Endpoint is shutting down...",
+  "endpointTerminatedRedeployToRestart": "Endpoint terminated. Redeploy to restart.",
+  "failed": "Failed",
+  "health": "Health",
+  "healthy": "Healthy",
+  "initialDeploymentInProgress": "Initial deployment in progress...",
+  "pending": "Pending",
+  "rolling": "Rolling",
+  "rollingUpdateInProgress": "Rolling update in progress...",
+  "scaleToZeroActiveWillWake": "Scale-to-Zero active. Will wake on first request.",
+  "scaling": "Scaling",
+  "sleeping": "Sleeping",
+  "terminated": "Terminated",
+  "terminating": "Terminating",
+  "waitingForResources": "Waiting for resources..."
+}

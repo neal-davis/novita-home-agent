@@ -1,0 +1,14 @@
+{
+  "cancel": "Annuler",
+  "crop": "Recadrer",
+  "estimatedCost": "Coût estimé :",
+  "generate": "Générer",
+  "model": "Modèle",
+  "originalResolution": "Résolution d’origine",
+  "resizeMode": "Mode de redimensionnement",
+  "seed": "Graine",
+  "steps": "Étapes",
+  "svd": "SVD",
+  "svdXt": "SVD-XT",
+  "theImageResolutionShouldBeLess": "La résolution de l’image doit être inférieure à 576 * 1024 si vous choisissez « Résolution d’origine » comme mode de redimensionnement."
+}

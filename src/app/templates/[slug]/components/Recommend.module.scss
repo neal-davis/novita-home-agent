@@ -1,0 +1,35 @@
+.wrap {
+  padding-top: 180px;
+  padding-bottom: 100px;
+
+  .title {
+    margin-bottom: 45px;
+    text-align: center;
+    @include font-h3;
+
+    @media screen and (max-width: 600px) {
+      font-size: 24px;
+    }
+  }
+
+  .card_wrap {
+    position: relative;
+    .card {
+      margin-left: -1px;
+      margin-top: -1px;
+      padding: 24px;
+      max-width: 208px;
+      min-width: 208px;
+      border: 1px solid var(--dark-1);
+
+      h3 {
+        margin-bottom: 9px;
+        @include font-h5;
+      }
+
+      p {
+        @include font-body;
+      }
+    }
+  }
+}

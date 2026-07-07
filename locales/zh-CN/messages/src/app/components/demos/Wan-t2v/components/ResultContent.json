@@ -1,0 +1,6 @@
+{
+  "blockedByNsfwFilter": "已被 NSFW 过滤器拦截",
+  "queueing": "正在排队...",
+  "thisTaskMayTakeSomeTime": "此任务可能需要一些时间（几分钟），请耐心等待。",
+  "thisVideoWasFlaggedAndBlocked": "此视频已被标记并拦截。由于 GPU 使用，可能会产生费用。"
+}

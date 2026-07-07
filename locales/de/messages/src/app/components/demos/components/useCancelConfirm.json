@@ -1,0 +1,7 @@
+{
+  "cancel": "Abbrechen",
+  "cancelingStillIncursFullCharges": "Beim Abbrechen fallen dennoch die vollen Gebühren an",
+  "cancelingTheTaskWillStopFurther": "Das Abbrechen der Aufgabe stoppt die weitere Verarbeitung, aber Ihnen wird dennoch der volle Betrag berechnet, sobald die Generierung gestartet wurde. Bitte stellen Sie sicher, dass Sie wirklich abbrechen möchten, bevor Sie fortfahren.",
+  "confirm": "Bestätigen",
+  "processing": "Wird verarbeitet..."
+}

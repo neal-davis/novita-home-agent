@@ -1,0 +1,17 @@
+{
+  "addApiKey": "Añadir clave de API",
+  "belowIsASimpleExampleShowing": "A continuación se muestra un ejemplo sencillo de cómo crear un entorno aislado mediante el SDK y ejecutar comandos especificados.",
+  "buildStatefulAgentsWithNovitaSandbox": "Crea agentes con estado con Novita Sandbox",
+  "cliReference": "Referencia de CLI",
+  "copyCode": "Copiar código",
+  "createApiKey": "Crear clave de API",
+  "docs": "Documentación",
+  "executeTheFollowingCommandsToRun": "Ejecuta los siguientes comandos para ejecutar el código anterior.",
+  "goToKeyManagement": "Ir a la gestión de claves",
+  "installSdk": "Instalar SDK",
+  "runAiGeneratedCodeToolsAnd": "Ejecuta código, herramientas y navegadores generados por IA en entornos aislados seguros en la nube",
+  "scaleFromOneSandboxToThousands": "Escala desde un entorno aislado hasta miles para cargas de trabajo de codificación, análisis de datos y RL",
+  "useSdkToStartAgentSandbox": "Usa el SDK para iniciar el entorno aislado del agente",
+  "youCanInstallTheSdkBy": "Puedes instalar el SDK ejecutando los siguientes comandos.",
+  "zeroInfrastructureManagement": "Cero gestión de infraestructura"
+}

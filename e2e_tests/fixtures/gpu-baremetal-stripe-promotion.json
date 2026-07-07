@@ -1,0 +1,9 @@
+{
+  "_comment": "De-PII'd capture of /v3/stripe/promotion observed while loading /gpu-baremetal (fired by the shared navbar/checkout promo context, not by the page body which does no XHR). Source: .claude/tasks/20260621-batchC-console-deep/verify/gpu-baremetal-captured.json. The real payload already carried no PII (empty coupon, valid:false). Injected so the hermetic run is deterministic regardless of any global promo call.",
+  "couponId": "",
+  "percentOff": 0,
+  "amountOff": "0",
+  "redeemBy": "0",
+  "valid": false,
+  "activityName": ""
+}

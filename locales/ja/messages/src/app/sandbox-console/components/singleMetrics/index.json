@@ -1,0 +1,12 @@
+{
+  "averageCpuUtilization": "平均CPU使用率:",
+  "ifThereAreMultiplePausesOnly": "複数のPauseがある場合、",
+  "mb": "MB",
+  "memoryUtilizationAvg": "平均メモリ使用率:",
+  "memoryUtilizationMax": "最大メモリ使用率:",
+  "metrics": "メトリクス",
+  "peakCpuUtilization": "ピークCPU使用率:",
+  "secondsAgo": "秒前",
+  "supportsQueryingDataFromThe72": "Pause前72時間のデータのクエリをサポートします。",
+  "theMostRecentPauseIsDisplayed": "直近のPauseより前のデータクエリのみが表示されます。"
+}

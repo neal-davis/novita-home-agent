@@ -1,0 +1,12 @@
+{
+  "autoscalingConfiguration": "Autoscaling-Konfiguration",
+  "availableGpuTypesAndQuantitiesDepend": "Verfügbare GPU-Typen und -Mengen hängen vom ausgewählten Modell ab.",
+  "endpointName": "Endpoint-Name",
+  "engineConfiguration": "Engine-Konfiguration",
+  "gpuConfiguration": "GPU-Konfiguration",
+  "loadingModelConfiguration": "Modellkonfiguration wird geladen...",
+  "lowercaseLettersNumbersAndHyphensMust": "Kleinbuchstaben, Zahlen und Bindestriche. Muss mit einem Buchstaben beginnen (3–63 Zeichen).",
+  "model": "Modell",
+  "pleaseEnterTheEndpointName": "Bitte geben Sie den Endpoint-Namen ein...",
+  "pleaseSelectAModelFirstTo": "Bitte wählen Sie zuerst ein Modell aus, um verfügbare GPU-Optionen zu sehen."
+}

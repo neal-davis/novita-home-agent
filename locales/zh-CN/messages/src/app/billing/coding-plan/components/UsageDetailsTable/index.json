@@ -1,0 +1,10 @@
+{
+  "billedTokens": "计费 tokens",
+  "billingMultiplier": "计费倍数",
+  "modelId": "模型 ID",
+  "next": "下一页",
+  "noUsageData": "无使用数据",
+  "previous": "上一页",
+  "rawUsageTokens": "原始用量（tokens）",
+  "startTimeEndTime": "开始时间 - 结束时间"
+}

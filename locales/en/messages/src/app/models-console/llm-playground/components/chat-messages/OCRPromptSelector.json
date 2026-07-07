@@ -1,0 +1,21 @@
+{
+  "convertDocumentToMarkdownFormat": "Convert document to markdown format",
+  "detailedImageDescription": "Detailed image description",
+  "document": "Document",
+  "enterTextToLocate": "Enter text to locate",
+  "enterTheTextToLocateIn": "Enter the text to locate in the image...",
+  "figuresInDocument": "Figures in Document",
+  "freeOcrWithoutLayoutDetection": "Free OCR without layout detection",
+  "general": "General",
+  "inTheImage": "in the image.",
+  "locateSpecificTextInImageRequires": "Locate specific text in image (requires custom input)",
+  "ocrRecognitionForGeneralImages": "OCR recognition for general images",
+  "otherImage": "Other Image",
+  "parseFiguresFromDocuments": "Parse figures from documents",
+  "promptLocate": "Prompt: Locate",
+  "recognition": "Recognition",
+  "ref-8f2130": "<|/ref|>",
+  "ref-cb1038": "<|ref|>",
+  "selectOcrMode": "Select OCR mode...",
+  "withoutLayouts": "Without Layouts"
+}

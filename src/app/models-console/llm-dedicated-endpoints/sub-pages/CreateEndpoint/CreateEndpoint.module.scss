@@ -1,0 +1,35 @@
+.breadcrumb_wrapper {
+  margin-top: -16px;
+  margin-left: -16px;
+  margin-bottom: 16px;
+  display: flex;
+  height: 30px;
+  width: calc(100% + 32px);
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  background-color: var(--white);
+  @include font-small-console;
+  color: var(--dark-1);
+}
+
+.form_card {
+  padding: 16px;
+  border-radius: 6px;
+  border: 1px solid var(--gray-2);
+  background-color: var(--white);
+
+  .subtitle {
+    @include font-subtle-medium;
+    color: var(--black);
+  }
+}
+
+.input_error {
+  border: 1px solid var(--red-1);
+  background-color: var(--red-7);
+
+  &:focus {
+    background-color: var(--white);
+  }
+}

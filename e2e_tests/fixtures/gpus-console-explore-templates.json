@@ -1,0 +1,228 @@
+{
+  "template": [
+    {
+      "Id": "268",
+      "user": "",
+      "name": "Pytorch:2.2.1",
+      "readme": "e2e readme placeholder",
+      "logo": "pytorch",
+      "type": "instance",
+      "channel": "official",
+      "image": "novitalabs/pytorch:2.2.1",
+      "imageAuth": "",
+      "startCommand": "",
+      "rootfsSize": 60,
+      "volumes": [],
+      "ports": [
+        {
+          "type": "http",
+          "ports": []
+        },
+        {
+          "type": "tcp",
+          "ports": []
+        }
+      ],
+      "envs": [],
+      "tools": [
+        {
+          "name": "Jupyter",
+          "describe": "Start Jupyter Notebook",
+          "port": 8888,
+          "type": "http"
+        }
+      ],
+      "createdAt": "1713608589",
+      "creator": "e2e-creator",
+      "uuid": "e2e-template-uuid",
+      "isUsed": true,
+      "description": "Run PyTorch v2.2.1 on Novita AI for seamless, scalable AI model deployment.",
+      "collectNum": "14",
+      "isCollected": false,
+      "complaintNum": "0",
+      "updatedAt": "1760415749",
+      "nickname": "e2e-user",
+      "extra": {
+        "author": "",
+        "origin": "",
+        "originLink": "",
+        "tags": []
+      },
+      "recommendCards": [],
+      "clusterIds": [],
+      "minCudaVersion": "",
+      "sort": 1,
+      "entrypoint": "",
+      "enableApplication": false,
+      "enableApplicationServerless": false,
+      "enableApplicationInstance": false,
+      "instanceApplicationConfig": {
+        "recommendCards": []
+      },
+      "serverlessApplicationConfig": {
+        "name": "",
+        "appName": "",
+        "recommendCards": [],
+        "workerConfig": null,
+        "policy": null,
+        "image": null,
+        "rootfsSize": 0,
+        "volumeMounts": [],
+        "envs": [],
+        "ports": [],
+        "products": [],
+        "healthy": null,
+        "clusterIds": [],
+        "type": ""
+      }
+    },
+    {
+      "Id": "269",
+      "user": "",
+      "name": "Tensorflow:2.7.0",
+      "readme": "e2e readme placeholder",
+      "logo": "tensorflow",
+      "type": "instance",
+      "channel": "official",
+      "image": "novitalabs/tensorflow:2.7.0",
+      "imageAuth": "",
+      "startCommand": "",
+      "rootfsSize": 60,
+      "volumes": [],
+      "ports": [
+        {
+          "type": "http",
+          "ports": []
+        },
+        {
+          "type": "tcp",
+          "ports": []
+        }
+      ],
+      "envs": [],
+      "tools": [
+        {
+          "name": "Jupyter",
+          "describe": "Start Jupyter Notebook",
+          "port": 8888,
+          "type": "http"
+        }
+      ],
+      "createdAt": "1713608868",
+      "creator": "e2e-creator",
+      "uuid": "e2e-template-uuid",
+      "isUsed": true,
+      "description": "Explore TensorFlow 2.7.0 on Novita AI for seamless integration, enhanced performance, and efficient AI/ML development. ",
+      "collectNum": "6",
+      "isCollected": false,
+      "complaintNum": "0",
+      "updatedAt": "1744271541",
+      "nickname": "e2e-user",
+      "extra": {
+        "author": "",
+        "origin": "",
+        "originLink": "",
+        "tags": []
+      },
+      "recommendCards": [],
+      "clusterIds": [],
+      "minCudaVersion": "",
+      "sort": 1,
+      "entrypoint": "",
+      "enableApplication": false,
+      "enableApplicationServerless": false,
+      "enableApplicationInstance": false,
+      "instanceApplicationConfig": {
+        "recommendCards": []
+      },
+      "serverlessApplicationConfig": {
+        "name": "",
+        "appName": "",
+        "recommendCards": [],
+        "workerConfig": null,
+        "policy": null,
+        "image": null,
+        "rootfsSize": 0,
+        "volumeMounts": [],
+        "envs": [],
+        "ports": [],
+        "products": [],
+        "healthy": null,
+        "clusterIds": [],
+        "type": ""
+      }
+    },
+    {
+      "Id": "270",
+      "user": "",
+      "name": "Cuda:11.8.0",
+      "readme": "e2e readme placeholder",
+      "logo": "docker",
+      "type": "instance",
+      "channel": "official",
+      "image": "nvidia/cuda:11.8.0-devel-ubuntu22.04",
+      "imageAuth": "",
+      "startCommand": "",
+      "rootfsSize": 60,
+      "volumes": [],
+      "ports": [
+        {
+          "type": "tcp",
+          "ports": []
+        },
+        {
+          "type": "http",
+          "ports": []
+        }
+      ],
+      "envs": [],
+      "tools": [],
+      "createdAt": "1713609472",
+      "creator": "e2e-creator",
+      "uuid": "e2e-template-uuid",
+      "isUsed": true,
+      "description": "",
+      "collectNum": "6",
+      "isCollected": false,
+      "complaintNum": "0",
+      "updatedAt": "1739270212",
+      "nickname": "e2e-user",
+      "extra": {
+        "author": "",
+        "origin": "",
+        "originLink": "",
+        "tags": []
+      },
+      "recommendCards": [],
+      "clusterIds": [],
+      "minCudaVersion": "",
+      "sort": 1,
+      "entrypoint": "",
+      "enableApplication": false,
+      "enableApplicationServerless": false,
+      "enableApplicationInstance": false,
+      "instanceApplicationConfig": {
+        "recommendCards": []
+      },
+      "serverlessApplicationConfig": {
+        "name": "",
+        "appName": "",
+        "recommendCards": [],
+        "workerConfig": null,
+        "policy": null,
+        "image": null,
+        "rootfsSize": 0,
+        "volumeMounts": [],
+        "envs": [],
+        "ports": [],
+        "products": [],
+        "healthy": null,
+        "clusterIds": [],
+        "type": ""
+      }
+    }
+  ],
+  "pageSize": 0,
+  "pageNum": 0,
+  "total": 3
+}

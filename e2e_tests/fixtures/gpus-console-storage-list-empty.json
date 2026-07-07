@@ -1,0 +1,6 @@
+{
+  "_comment": "Empty /api/v1/networkstorages/list response for hermetic /gpus-console/storage empty-state branch. Section renders <DataEmpty> (NoData, img[alt='no data']) when total === 0.",
+  "code": 0,
+  "total": 0,
+  "data": []
+}

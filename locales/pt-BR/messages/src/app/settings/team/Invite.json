@@ -1,0 +1,23 @@
+{
+  "account": "Conta",
+  "assignAccessPermissionsToMembersBy": "Atribua permissões de acesso aos membros selecionando funções. O orçamento de cada novo membro é ilimitado por padrão. Se precisar ajustá-lo, acesse a página \"Budgets\".",
+  "budget": "Orçamento",
+  "cancel": "Cancelar",
+  "changeTheBudgetOnTheBudgets": "Altere o orçamento na página \"Orçamentos\" depois que os convidados entrarem na sua equipe.",
+  "close": "Fechar",
+  "invitationEmailsHaveBeenSentYou": "Os e-mails de convite foram enviados! Você também pode compartilhar estes links de convite abaixo diretamente com os membros da sua equipe. E os links permanecerão acessíveis na lista de membros para referência futura.",
+  "invitationEmailsSentSuccessfully": "E-mails de convite enviados com sucesso!",
+  "invitationFailed": "Falha no convite",
+  "inviteLink": "Link de convite",
+  "inviteLinkCopied": "Link de convite copiado",
+  "inviteMembers-2aadfa": "+ Convidar membros",
+  "inviteMembers-4ee562": "+ Convidar membros",
+  "inviteMembersToYourTeam": "Convide membros para sua equipe",
+  "inviteSelectAntSelectArrowRight": ".invite-select .ant-select-arrow { right: 18px !important; }",
+  "role": "Função",
+  "selectARole": "Selecione uma função",
+  "separateMultipleEmailsWithCommas": "Separe vários e-mails com vírgulas",
+  "status": "Status",
+  "unlimited": "Ilimitado",
+  "viewPermissionDetails": "Ver detalhes das permissões"
+}

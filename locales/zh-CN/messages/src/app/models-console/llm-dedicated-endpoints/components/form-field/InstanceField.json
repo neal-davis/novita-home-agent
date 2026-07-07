@@ -1,0 +1,7 @@
+{
+  "instanceType": "实例类型",
+  "insufficientGpuResourcesPleaseRetryAfter": "GPU 资源不足。请稍后重试。",
+  "selectGpu": "选择 GPU",
+  "thereIsCurrentlyNoRecommendedGpu": "当前没有推荐的 GPU 配置。",
+  "xGpu": "X GPU $"
+}

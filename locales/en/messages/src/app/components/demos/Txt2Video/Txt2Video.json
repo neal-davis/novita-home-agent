@@ -1,0 +1,17 @@
+{
+  "cancel": "Cancel",
+  "estimatedCost": "Estimated cost:",
+  "generate": "Generate",
+  "guidanceScale": "Guidance Scale",
+  "heigh": "Heigh",
+  "model": "Model",
+  "negativePrompt": "Negative Prompt",
+  "prompt": "Prompt",
+  "queueing": "Queueing...",
+  "seed": "Seed",
+  "showcase": "Showcase",
+  "steps": "Steps",
+  "thisTaskMayTakeSomeTime": "This task may take some time (a few minutes), please be patient.",
+  "whatYouWantToAvoidGenerating": "What you want to avoid generating...",
+  "width": "Width"
+}

@@ -1,0 +1,176 @@
+.form_card_edit {
+  padding-top: 0 !important;
+  border: none !important;
+}
+
+.base_model_wrapper {
+  margin-top: 8px;
+  padding: 12px 16px;
+  border-radius: 6px;
+  background-color: var(--gray-3);
+
+  .base_model_title {
+    margin-bottom: 8px;
+    @include font-small-console;
+    color: var(--dark-1);
+  }
+
+  .base_model_card {
+    margin-bottom: 8px;
+    padding: 8px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 6px;
+    background-color: var(--white);
+
+    .card_title {
+      @include font-subtle;
+      color: var(--dark-1);
+    }
+
+    .card_description {
+      @include font-small-console;
+      color: var(--dark-2);
+    }
+  }
+
+  .token_title {
+    @include font-small-console;
+    color: var(--dark-3);
+  }
+
+  .token_value {
+    @include font-small-console;
+    color: var(--dark-1);
+  }
+
+  .token_edit_button {
+    padding: 0 4px;
+    font-size: 14px;
+    color: var(--dark-2);
+    border-radius: 4px;
+    background-color: var(--gray-3);
+
+    &:hover {
+      background-color: var(--gray-2);
+    }
+  }
+}
+
+.model_checking {
+  @include font-small-console;
+  color: var(--dark-3);
+}
+
+.model_checked {
+  @include font-small-console;
+  color: var(--dark-1);
+}
+
+.model_error {
+  @include font-small-console;
+  color: var(--red-1);
+}
+
+.base_model_wrapper_edit {
+  padding: 0;
+  background-color: var(--white);
+
+  .base_model_card_edit {
+    padding: 6px 16px;
+    border: 1px solid var(--gray-1);
+    border-radius: 6px;
+  }
+}
+
+.lora_adapter_list {
+  margin-top: 8px;
+  padding: 12px;
+  border-radius: 6px;
+  background-color: var(--gray-3);
+
+  .adapter_item {
+    margin: 4px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    border-radius: 6px;
+    border: 1px solid var(--gray-1);
+    background-color: var(--white);
+    @include font-small-console;
+    color: var(--dark-1);
+
+    .adapter_name_wrapper {
+      max-width: calc(100% - 80px);
+
+      .adapter_name {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+    }
+
+    .remove_button {
+      @include font-small-console;
+      color: var(--dark-3);
+
+      &:hover {
+        color: var(--dark-1);
+      }
+    }
+  }
+}
+
+.lora_adapter_wrapper {
+  padding: 5px 6px;
+  border-radius: 6px;
+  border: 1px solid var(--black);
+  background-color: var(--white);
+  @include font-small-console;
+  color: var(--black);
+  cursor: pointer;
+}
+
+.lora_adapter_wrapper_disabled {
+  border: 1px solid var(--gray-2);
+  background-color: var(--gray-3);
+  color: var(--dark-3);
+}
+
+.submit_access_request_link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 2px;
+  color: var(--dark-1);
+  text-decoration: underline;
+}
+
+.input_error {
+  border: 1px solid var(--red-1);
+  background-color: var(--red-7);
+
+  &:focus {
+    background-color: var(--white);
+  }
+}
+
+.route_input_error {
+  border: 1px solid var(--red-1) !important;
+  background-color: var(--red-7) !important;
+}
+
+.route_error {
+  margin-top: 6px;
+  padding: 0 12px;
+  min-height: 16px;
+  @include font-small-console;
+  color: var(--red-1);
+  line-height: 16px;
+}
+
+.route_error_hidden {
+  visibility: hidden;
+}

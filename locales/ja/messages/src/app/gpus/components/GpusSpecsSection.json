@@ -1,0 +1,9 @@
+{
+  "deployGpuInstancesCloserToYour": "世界規模のネットワークを通じて、ユーザーにより近い場所に GPU インスタンスをデプロイできます。ユーザーやチームがどこにいても、最小限のレイテンシと高速アクセスを実現します。",
+  "gpuPricing-9ceff5": "GPU 料金",
+  "gpuPricing-aac889": "GPU 料金",
+  "onDemand": "オンデマンド",
+  "sampleConfiguration": "サンプル構成",
+  "spot": "スポット",
+  "usageExample": "使用例"
+}

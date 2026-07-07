@@ -1,0 +1,8 @@
+{
+  "billingItems": "Éléments de facturation",
+  "gpuFee": "Frais de GPU",
+  "storageFeeBeyondFreeQuota": "Frais de stockage (au-delà du quota gratuit)",
+  "total": "Total",
+  "unitPrice": "Prix unitaire",
+  "usage": "Utilisation"
+}

@@ -1,0 +1,10 @@
+{
+  "continents": "大洲",
+  "deployGpuInstancesCloserToYour": "通过我们的全球网络，将 GPU 实例部署到更靠近用户的位置。无论您的用户或团队身处何处，都能确保最低延迟和快速访问。",
+  "globalDeployment": "全球部署",
+  "gpuPricingBackground": "GPU 定价背景",
+  "locations": "位置",
+  "message20ms": "<20ms",
+  "network": "网络",
+  "startNow": "立即开始"
+}

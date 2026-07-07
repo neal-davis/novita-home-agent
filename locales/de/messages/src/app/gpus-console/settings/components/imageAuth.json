@@ -1,0 +1,23 @@
+{
+  "addCredential": "Anmeldedaten hinzufügen",
+  "addingPublicKeysToYourAccount": "Durch das Hinzufügen öffentlicher Schlüssel zu Ihrem Konto wird der Zugriff auf Instanzen über die grundlegende Terminalzugriffsoption mit dem zugehörigen privaten Schlüssel ermöglicht. Sie können mehrere öffentliche Schlüssel hinzufügen, indem Sie sie durch einen Zeilenumbruch trennen.",
+  "automaticFaultMigration": "Automatische Fehlermigration",
+  "confirm": "Bestätigen",
+  "confirmPassword": "Passwort bestätigen",
+  "containerRegistryAuth": "Container-Registry-Authentifizierung",
+  "enterNameMaxLength255": "Namen eingeben, maximale Länge 255",
+  "enterPasswordAgainMaxLength8000": "Passwort erneut eingeben, maximale Länge 8000",
+  "enterPasswordMaxLength8000": "Passwort eingeben, maximale Länge 8000",
+  "enterUsernameMaxLength511": "Benutzernamen eingeben, maximale Länge 511",
+  "name": "Name",
+  "password": "Passwort",
+  "singleNuma": "Single-NUMA",
+  "sshPublicKey": "Öffentlicher SSH-Schlüssel",
+  "sshPublicKeys": "Öffentliche SSH-Schlüssel",
+  "success": "Erfolg",
+  "thisPolicyWouldAllowResourceAllocation": "Diese Richtlinie würde die Ressourcenzuweisung von verschiedenen NUMA-Knoten nur dann erlauben, wenn es niemals eine andere Möglichkeit gäbe, diese Zuweisungsanforderung zu erfüllen.",
+  "username": "Benutzername",
+  "usernameCannotContainCharacter": "Der Benutzername darf das Zeichen „:“ nicht enthalten",
+  "whenHardwareFailuresSuchAsNode": "Wenn Hardwarefehler wie Knotenausfälle oder GPU-Ausnahmen auf dem Knoten auftreten, auf dem sich die Instanz befindet, kann die Plattform die Instanz automatisch auf einen fehlerfreien Knoten migrieren. Dabei bleiben Instanz-ID, öffentliche IP und Daten unverändert, und die Auswirkungen auf den Geschäftsbetrieb werden so weit wie möglich minimiert.",
+  "youCanRegisterYourContainerRegistry": "Sie können hier Ihre Anmeldedaten für die Container Registry registrieren, um private Images aus verschiedenen Container Registries abzurufen. Bitte beachten Sie, dass wir derzeit nur Anmeldedaten vom Typ docker login unterstützen. Sie können Ihre Anmeldedaten zu einer Vorlage hinzufügen, indem Sie die Anmeldedaten hier registrieren und sie anschließend beim Bearbeiten oder Erstellen Ihrer Vorlage im Dropdown-Menü auswählen."
+}

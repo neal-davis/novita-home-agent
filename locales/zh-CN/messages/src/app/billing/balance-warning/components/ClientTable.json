@@ -1,0 +1,20 @@
+{
+  "addAlerts": "添加提醒",
+  "alias": "别名",
+  "areYouSureYouWantTo": "您确定要删除此提醒吗？",
+  "confirm": "确认",
+  "confirmationOfOperation": "操作确认",
+  "deleteSuccessfully": "删除成功",
+  "edit": "编辑",
+  "email": "电子邮件",
+  "informationalNotes": "信息说明",
+  "loadingTeamMembers": "正在加载团队成员...",
+  "members": "成员",
+  "notificationMethod": "通知方式",
+  "operation": "操作",
+  "remove": "移除",
+  "status": "状态",
+  "success": "成功",
+  "warningAmount": "预警金额",
+  "whenYourAccountBalanceFallsBelow": "当您的账户余额低于您设置的预警阈值时，您将收到一封电子邮件通知，以确保服务不间断运行。在账户余额超过指定阈值之前，通知最多每个自然日（00:00-24:00，UTC+0）发送一次。"
+}

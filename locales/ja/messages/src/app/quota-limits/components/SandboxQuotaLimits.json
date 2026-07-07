@@ -1,0 +1,18 @@
+{
+  "aboutPricing": "料金について",
+  "afterTopUp": "チャージ後。",
+  "contactSales": "営業に問い合わせる",
+  "forAdvancedWorkloadsThatNeedHigher": "より高いリソース制限、カスタムデプロイ地域、または専用インフラストラクチャを必要とする高度なワークロード向け。",
+  "increaseLimit": "制限を引き上げる",
+  "maximumConcurrentSandboxes": "最大同時サンドボックス数",
+  "maximumLocalStoragePerSandbox": "サンドボックスあたりの最大ローカルストレージ",
+  "maximumMemoryPerSandbox": "サンドボックスあたりの最大メモリ",
+  "maximumVcpuPerSandbox": "サンドボックスあたりの最大 vCPU",
+  "needCustomQuotas": "カスタムクォータが必要ですか？",
+  "promoCredits": "プロモーションクレジット",
+  "quotaTier": "クォータティア",
+  "sandboxMaximumLifetime": "サンドボックスの最大有効期間",
+  "unlockHigherQuotas": "より高いクォータを利用可能にする",
+  "upgradeToPaidTier": "有料ティアにアップグレード",
+  "yourCurrentTier": "現在のティア:"
+}

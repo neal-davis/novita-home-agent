@@ -1,0 +1,7 @@
+{
+  "backToEndpoints": "返回端点",
+  "createDedicatedEndpoint": "创建专用端点",
+  "deployAnOpenSourceModelFrom": "从以下位置部署开源模型：",
+  "modelLibrary": "模型库",
+  "orYourOwnCustomModelIn": "或只需几条命令即可部署您自己的自定义模型。"
+}

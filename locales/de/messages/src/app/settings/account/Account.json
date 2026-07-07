@@ -1,0 +1,15 @@
+{
+  "change": "Ändern",
+  "companyName": "Firmenname",
+  "completeAQuickSurveyToClaim": "Füllen Sie eine kurze Umfrage aus, um 1 $ Gratisguthaben zu erhalten!",
+  "country": "Land",
+  "email": "E-Mail",
+  "firstName": "Vorname",
+  "goToSettings": "Zu den Einstellungen",
+  "lastName": "Nachname",
+  "password": "Passwort",
+  "save": "Speichern",
+  "saveAccountInfoFailed": "Speichern der Kontoinformationen fehlgeschlagen",
+  "saveAccountInfoSuccess": "Kontoinformationen erfolgreich gespeichert",
+  "userId": "Benutzer-ID"
+}

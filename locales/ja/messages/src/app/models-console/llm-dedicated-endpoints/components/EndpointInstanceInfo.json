@@ -1,0 +1,8 @@
+{
+  "cancel": "キャンセル",
+  "edit": "編集",
+  "instanceType": "インスタンスタイプ",
+  "numberOfGpus": "GPUs の数",
+  "pleaseSelectAnInstance": "インスタンスを選択してください",
+  "save": "保存"
+}

@@ -1,0 +1,10 @@
+{
+  "decrementCodingPlanDoesNotSupport": "O plano de codificação Decrement não oferece suporte à atualização da assinatura",
+  "loginExpiredPleaseLoginAgain": "Login expirado, faça login novamente",
+  "modelAccess": "Acesso ao modelo",
+  "monthly": "mensal",
+  "pleaseLoginFirst": "Faça login primeiro",
+  "subscribe": "Assinar",
+  "subscriptionFailedThePurchasedCodingPlan": "Falha na assinatura, o plano de codificação adquirido é maior ou igual a este nível",
+  "yourPlan": "Seu plano"
+}

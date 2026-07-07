@@ -1,0 +1,9 @@
+{
+  "advancedScalingOptions": "Options avancées de mise à l’échelle",
+  "optional": "(facultatif)",
+  "scaleDownWindow": "Fenêtre de réduction d’échelle",
+  "seconds": "Secondes",
+  "stableWindow": "Fenêtre de stabilité",
+  "timeInSecondsBeforeScalingDown": "Temps en secondes avant la réduction d’échelle des répliques.",
+  "timeInSecondsBeforeScalingUp": "Temps en secondes avant l’augmentation d’échelle des répliques."
+}

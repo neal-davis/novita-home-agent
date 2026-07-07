@@ -1,0 +1,29 @@
+---
+description: Writing Front-End Code
+globs: src/**/*.tsx,src/**/*.scss,src/**/*.css,src/**/*.ts,src/**/*.js,*.js,*.ts
+alwaysApply: false
+---
+## Style guidelines
+- Try to use TailwindCSS to implement styles. The configuration file is located at [tailwind.config.ts](mdc:tailwind.config.ts)
+- The project's CSS variables and common classes are located in [globals.scss](mdc:src/app/globals.scss)
+- Other variables and mixins related to colors, fonts, etc. are located in [colors.scss](mdc:src/styles/colors.scss), [mixins.scss](mdc:src/styles/mixins.scss), [theme.scss](mdc:src/styles/theme.scss).
+- When implementing UI interfaces, try to use the shadcn/ui components under src/components/ui.
+- When writing style code, if I provide a Figma link, try to identify which UI components, common classes, or mixins should be used from the Figma file. Especially when it comes to fonts and colors.
+- If you cannot read the Figma file I provided, just refuse to code anything and tell me you cannot get the Figma file.
+- For color values, for example: if you encounter a color `#FFFBEB`, you should first search it in [colors.scss](mdc:src/styles/colors.scss) and [theme.scss](mdc:src/styles/theme.scss). You will find it assigned to the variable: `--dark-1`. Then you should use `var(--dark-1)` in the `.scss` file, or use `bg-[var(--dark-1)]` or `text-[var(--dark-1)]` in `.tsx` file.
+- For font styles, for example: if you encounter text with font-size of 16px and font-weight of 500, you can find in [theme.scss](mdc:src/styles/theme.scss) that these two values correspond to the variables --p-medium-font-size and --p-medium-font-weight. Then you can find the corresponding mixin called font-p-medium in [mixins.scss](mdc:src/styles/mixins.scss). You can use `@include font-p-medium` in `.css` or `.scss` files, or find the corresponding className `font-p-medium` in [globals.scss](mdc:src/app/globals.scss) and assign that className to the element.
+- For icons, this project uses `lucide-react` and iconfont (see [iconfont.scss](mdc:src/styles/iconfont.scss)). Try to use icons in `lucide-react` first and then [iconfont.scss](mdc:src/styles/iconfont.scss).
+
+
+## Code Linting
+This project uses ESLint to do code linting and prettier to do code formatting. The rules are at .eslintrc.js and .prettierrc
+
+## Code Implementation Guidelines
+Follow these rules when you write code:
+- Do not run `npm run dev` to check if your code works. Normally I have already started the dev server.
+- Use early returns whenever possible to make the code more readable.
+- Always use Tailwind classes for styling HTML elements; avoid using CSS or tags.
+- Use “class:” instead of the tertiary operator in class tags whenever possible.
+- Use descriptive variable and function/const names. Also, event functions should be named with a “handle” prefix, like “handleClick” for onClick and “handleKeyDown” for onKeyDown.
+- Implement accessibility features on elements. For example, a tag should have a tabindex=“0”, aria-label, on:click, and on:keydown, and similar attributes.
+- Use consts instead of functions, for example, “const toggle = () =>”. Also, define a type if possible.

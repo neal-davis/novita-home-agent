@@ -1,0 +1,10 @@
+{
+  "cachedReads": "Lecturas en caché",
+  "cachedWrites1h": "Escrituras en caché (1 h)",
+  "cachedWrites5m": "Escrituras en caché (5 min)",
+  "inputLength": "Longitud de entrada",
+  "inputPriceMTokens": "Precio de entrada (M tokens)",
+  "outputLength": "Longitud de salida",
+  "outputPriceMTokens": "Precio de salida (M tokens)",
+  "tieredPricing": "Precios por niveles"
+}

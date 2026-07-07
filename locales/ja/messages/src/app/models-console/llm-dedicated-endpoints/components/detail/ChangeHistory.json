@@ -1,0 +1,15 @@
+{
+  "by": "作成者",
+  "changeHistory": "変更履歴",
+  "noChangeHistoryYet": "変更履歴はまだありません",
+  "records": "件)",
+  "showAll": "すべて表示 (",
+  "showLess": "表示を減らす",
+  "textVarBrand1": "text-[var(--brand-1)]",
+  "textVarCyan2": "text-[var(--cyan-2)]",
+  "textVarDark2": "text-[var(--dark-2)]",
+  "textVarPurple1": "text-[var(--purple-1)]",
+  "textVarRed1": "text-[var(--red-1)]",
+  "textVarYellow1": "text-[var(--yellow-1)]",
+  "utc": "UTC"
+}

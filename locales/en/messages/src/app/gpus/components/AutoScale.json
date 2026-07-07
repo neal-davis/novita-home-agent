@@ -1,0 +1,5 @@
+{
+  "autoScaleWithServerlessGpus": "Auto-scale with serverless GPUs",
+  "novitasServerlessGpuPlatformAutomaticallyScales": "Novita's serverless GPU platform automatically scales to your workload demands. Billed only for the resources consumed.",
+  "startNow": "Start Now"
+}

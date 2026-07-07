@@ -1,0 +1,10 @@
+{
+  "cachedReads": "缓存读取",
+  "cachedWrites1h": "缓存写入（1 小时）",
+  "cachedWrites5m": "缓存写入（5 分钟）",
+  "inputLength": "输入长度",
+  "inputPriceMTokens": "输入价格（百万 tokens）",
+  "outputLength": "输出长度",
+  "outputPriceMTokens": "输出价格（百万 tokens）",
+  "tieredPricing": "阶梯定价"
+}

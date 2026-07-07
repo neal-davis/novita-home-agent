@@ -1,0 +1,14 @@
+{
+  "autoRenew": "Automatische Verlängerung",
+  "bulkAutoRenew": "Massenweise automatische Verlängerung",
+  "cancel": "Abbrechen",
+  "confirm": "Bestätigen",
+  "confirmCurrentOperation": "Aktuellen Vorgang bestätigen?",
+  "instancesDifferentExpirationDatesAreSupported": "Instanzen. Unterschiedliche Ablaufdaten werden unterstützt. Das System verlängert jede Instanz automatisch basierend auf ihrem jeweiligen Ablaufdatum.",
+  "month": "Monat",
+  "months": "Monate",
+  "processing": "Wird verarbeitet",
+  "renewalDuration": "Verlängerungsdauer",
+  "scopeThisOperationWillApplyTo": "Umfang: Dieser Vorgang gilt für",
+  "warningFailedPaymentsDueToLow": "Warnung: Fehlgeschlagene Zahlungen aufgrund eines niedrigen Guthabens werden täglich erneut versucht. Wenn das Problem bis zum Fälligkeitsdatum nicht behoben ist, wird die Abrechnung auf Pay-As-You-Go umgestellt"
+}

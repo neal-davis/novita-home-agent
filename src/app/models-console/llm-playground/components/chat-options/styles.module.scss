@@ -1,0 +1,141 @@
+.wrap {
+  width: 100%;
+  gap: 6px;
+  min-height: 0;
+}
+
+.title {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  color: var(--black);
+  line-height: 24px;
+  margin-bottom: 16px;
+}
+
+.subtitle {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  color: var(--dark-1);
+  margin-bottom: 0px;
+  line-height: 20px;
+}
+
+.textarea {
+  resize: vertical;
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid var(--gray-2);
+  outline: none;
+  box-sizing: border-box;
+  padding: 8px 12px;
+  font-size: 14px;
+  line-height: 20px;
+  min-height: 134px;
+  max-height: 300px;
+  overflow-y: auto;
+}
+.textarea:disabled {
+  background-color: var(--gray-2);
+  cursor: not-allowed;
+}
+
+.params .subtitle {
+  margin-bottom: 0px;
+}
+
+.model_select .select_btn {
+  height: 50px;
+  background: #0b0219 !important;
+  border-color: #433e5c;
+}
+
+.model_select .select_btn:hover {
+  background: #0b0219 !important;
+  border-color: #433e5c !important;
+  color: #fff !important;
+}
+
+.menu_bg {
+  border-radius: 4px;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.menu_bg::-webkit-scrollbar,
+.menu_bg::-webkit-scrollbar-corner {
+  background: transparent;
+  height: 12px;
+  width: 12px;
+}
+.menu_bg::-webkit-scrollbar-thumb {
+  background: content-box rgba(255, 255, 255, 0.4);
+  border: 2px solid transparent;
+  border-radius: 8px;
+  color: #0e0c14;
+  min-height: 48px;
+  min-width: 48px;
+}
+
+.menu_item {
+  color: #fff !important;
+  padding: 12px 20px;
+  transition: all 0.3s;
+}
+
+.menu_item:hover {
+  background-color: #282436;
+}
+
+.del_btn {
+  padding: 6px;
+  color: rgba(255, 255, 255, 0.5);
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.del_btn:hover {
+  color: rgba(255, 255, 255, 1);
+}
+
+.btn_cancel {
+  background-color: #fff;
+  color: var(--primary-color) !important;
+  padding: 4px 10px;
+  border-radius: 4px;
+}
+
+.btn_confirm {
+  background-color: var(--primary-color);
+  color: #fff !important;
+  padding: 4px 10px;
+  border-radius: 4px;
+}
+
+.inputNumber {
+  border-radius: 8px !important;
+  border: 1px solid var(--gray-2) !important;
+  box-shadow: none !important;
+}
+
+.cBtn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 0 10px;
+  border-radius: 8px;
+  border: 1px solid var(--gray-2);
+  color: var(--dark-3) !important;
+  height: 26px;
+  font-size: 12px;
+  justify-content: center;
+}
+
+.cBtn span {
+  display: inline-block;
+}

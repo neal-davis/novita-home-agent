@@ -1,0 +1,8 @@
+{
+  "gbRamNode": "Go de RAM/ nœud",
+  "gbVram": "Go de VRAM",
+  "gpusNode": "GPUs/ nœud",
+  "reserve": "Réserver",
+  "startingAt": "À partir de",
+  "vcpuNode": "vCPU/ nœud"
+}

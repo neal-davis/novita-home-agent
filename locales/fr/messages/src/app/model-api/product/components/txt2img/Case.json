@@ -1,0 +1,12 @@
+{
+  "basedOnSdxl10Visit": "basé sur SDXL 1.0. Visitez le",
+  "cancel": "Annuler",
+  "download": "Télécharger",
+  "forAccessToMoreModelsAnd": "pour accéder à davantage de modèles et de fonctionnalités.",
+  "generate": "Générer",
+  "generateAiImagesWith": "Générez des images IA avec",
+  "novitaAiImg": "image Novita AI",
+  "playground": "Playground",
+  "stableDiffusionApi": "API Stable Diffusion",
+  "tryTextToImage": "Essayez le texte en image"
+}

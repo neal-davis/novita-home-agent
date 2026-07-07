@@ -1,0 +1,445 @@
+#CybotCookiebotDialog.nv-cookiebot,
+.nv-cookiebot {
+  position: fixed;
+  right: 32px;
+  bottom: 32px;
+  z-index: 2147483647;
+  width: 500px;
+  max-width: 500px;
+  max-height: 720px;
+  max-height: calc(100vh - 64px);
+  overflow: hidden;
+  border: 1px solid rgba(10, 10, 10, 0.1);
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow:
+    0 24px 64px rgba(10, 10, 10, 0.18),
+    0 6px 18px rgba(10, 10, 10, 0.08);
+  color: #0a0a0a;
+  font-family:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+.nv-cookiebot,
+.nv-cookiebot * {
+  box-sizing: border-box;
+}
+
+.nv-cookiebot__accent {
+  height: 6px;
+  background: #23d57c;
+  background: linear-gradient(90deg, #23d57c 0%, #72efa6 56%, #0a0a0a 100%);
+}
+
+.nv-cookiebot__body {
+  max-height: 714px;
+  max-height: calc(100vh - 70px);
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding: 28px 28px 112px;
+}
+
+.nv-cookiebot__header {
+  margin-bottom: 16px;
+}
+
+.nv-cookiebot__eyebrow {
+  margin: 0 0 8px;
+  color: #16b063;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+
+.nv-cookiebot__title {
+  margin: 0;
+  color: #0a0a0a;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 28px;
+}
+
+.nv-cookiebot__message,
+.nv-cookiebot__message p {
+  margin: 0;
+  color: #404040;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.nv-cookiebot__message a,
+.nv-cookiebot__links a,
+.nv-cookiebot__details-button {
+  color: #16b063;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.nv-cookiebot__message a:hover,
+.nv-cookiebot__links a:hover,
+.nv-cookiebot__details-button:hover {
+  color: #0a0a0a;
+  text-decoration: underline;
+}
+
+.nv-cookiebot__details-button {
+  display: inline-block;
+  margin: 20px 0 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  font: inherit;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.nv-cookiebot__chevron {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin-left: 8px;
+  border-right: 2px solid #16b063;
+  border-bottom: 2px solid #16b063;
+  transform: rotate(45deg) translateY(-2px);
+  transition: transform 160ms ease;
+}
+
+.nv-cookiebot__details-button[aria-expanded="true"] .nv-cookiebot__chevron {
+  transform: rotate(225deg) translateY(-1px);
+}
+
+.nv-cookiebot__details {
+  margin-top: 20px;
+  padding: 14px;
+  border: 1px solid rgba(10, 10, 10, 0.1);
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.nv-cookiebot__details-intro {
+  margin: 0 0 12px;
+  padding: 12px 12px 13px;
+  border: 1px solid rgba(35, 213, 124, 0.2);
+  border-radius: 8px;
+  background: #f3fcf7;
+}
+
+.nv-cookiebot__details-title {
+  display: block;
+  margin: 0 0 4px;
+  color: #0a0a0a;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 18px;
+}
+
+.nv-cookiebot__details-copy {
+  display: block;
+  color: #404040;
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.nv-cookiebot__category {
+  position: relative;
+  display: block;
+  min-height: 68px;
+  margin: 8px 0 0;
+  padding: 12px 68px 12px 14px;
+  border: 1px solid rgba(10, 10, 10, 0.1);
+  border-radius: 8px;
+  background: #ffffff;
+}
+
+.nv-cookiebot__category:first-child {
+  margin-top: 0;
+}
+
+.nv-cookiebot__category input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+}
+
+.nv-cookiebot__category-copy {
+  display: block;
+}
+
+.nv-cookiebot__category-title {
+  display: block;
+  color: #0a0a0a;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.nv-cookiebot__category-description {
+  display: block;
+  margin-top: 4px;
+  color: #737373;
+  font-size: 12.5px;
+  line-height: 18px;
+}
+
+.nv-cookiebot__toggle {
+  position: absolute;
+  top: 50%;
+  right: 14px;
+  width: 42px;
+  height: 24px;
+  margin-top: -12px;
+  border-radius: 999px;
+  background: #e5e5e5;
+  transition:
+    background 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.nv-cookiebot__toggle:after {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #ffffff;
+  box-shadow: 0 1px 2px rgba(10, 10, 10, 0.16);
+  content: "";
+  transition: transform 160ms ease;
+}
+
+.nv-cookiebot__category input:checked + .nv-cookiebot__toggle {
+  background: #23d57c;
+  box-shadow: 0 0 0 3px rgba(35, 213, 124, 0.18);
+}
+
+.nv-cookiebot__category input:checked + .nv-cookiebot__toggle:after {
+  transform: translateX(18px);
+}
+
+.nv-cookiebot__category input:focus + .nv-cookiebot__toggle {
+  outline: 2px solid #0a0a0a;
+  outline-offset: 2px;
+}
+
+.nv-cookiebot__category--locked {
+  background: #f3fcf7;
+}
+
+.nv-cookiebot__tables {
+  margin-top: 12px;
+  padding: 12px;
+  border: 1px solid rgba(10, 10, 10, 0.1);
+  border-radius: 8px;
+  background: #ffffff;
+  color: #404040;
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.nv-cookiebot__tables summary {
+  cursor: pointer;
+  color: #0a0a0a;
+}
+
+.nv-cookiebot__tables-title {
+  display: block;
+  color: #16b063;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 18px;
+}
+
+.nv-cookiebot__tables-hint {
+  display: block;
+  margin-top: 2px;
+  color: #737373;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+}
+
+.nv-cookiebot__table-group {
+  max-height: 180px;
+  overflow-x: auto;
+  overflow-y: auto;
+  margin-top: 12px;
+  border: 1px solid rgba(10, 10, 10, 0.08);
+  border-radius: 8px;
+  background: #ffffff;
+}
+
+.nv-cookiebot__table-group table {
+  width: 760px;
+  min-width: 760px;
+  border-collapse: collapse;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.nv-cookiebot__table-group th,
+.nv-cookiebot__table-group td {
+  padding: 9px 10px;
+  border-bottom: 1px solid rgba(10, 10, 10, 0.1);
+  color: #404040;
+  text-align: left;
+  vertical-align: top;
+}
+
+.nv-cookiebot__table-group th {
+  background: #fafafa;
+  color: #0a0a0a;
+  font-weight: 700;
+}
+
+.nv-cookiebot__table-group a {
+  color: #16b063;
+  font-weight: 700;
+}
+
+.nv-cookiebot__links {
+  margin-top: 20px;
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.nv-cookiebot__links a {
+  display: inline-block;
+  margin: 0 12px 0 0;
+}
+
+.nv-cookiebot__actions {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 16px 28px 24px;
+  border-top: 1px solid rgba(10, 10, 10, 0.1);
+  background: #ffffff;
+}
+
+#CybotCookiebotDialog.nv-cookiebot--table-open .nv-cookiebot__body,
+.nv-cookiebot--table-open .nv-cookiebot__body {
+  padding-bottom: 28px;
+}
+
+#CybotCookiebotDialog.nv-cookiebot--table-open .nv-cookiebot__actions,
+.nv-cookiebot--table-open .nv-cookiebot__actions {
+  position: static;
+  margin: 20px -28px -28px;
+}
+
+.nv-cookiebot__actions:after {
+  display: block;
+  clear: both;
+  content: "";
+}
+
+.nv-cookiebot__button {
+  float: left;
+  width: 32%;
+  min-height: 44px;
+  margin: 0 0 0 2%;
+  padding: 10px 6px;
+  border: 1px solid #0a0a0a;
+  border-radius: 8px;
+  cursor: pointer;
+  font-family:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 18px;
+  white-space: nowrap;
+  transition:
+    background 160ms ease,
+    border-color 160ms ease,
+    box-shadow 160ms ease,
+    color 160ms ease,
+    transform 160ms ease;
+}
+
+.nv-cookiebot__button:first-child {
+  margin-left: 0;
+}
+
+.nv-cookiebot__button:hover {
+  transform: translateY(-1px);
+}
+
+.nv-cookiebot__button:focus {
+  outline: 2px solid #23d57c;
+  outline-offset: 2px;
+}
+
+.nv-cookiebot__button--secondary {
+  border-color: #0a0a0a;
+  background: #ffffff;
+  color: #0a0a0a;
+}
+
+.nv-cookiebot__button--selection {
+  border-color: #16b063;
+  background: #effcf5;
+  color: #0a0a0a;
+}
+
+.nv-cookiebot__button--primary {
+  border-color: #0a0a0a;
+  background: #0a0a0a;
+  color: #ffffff;
+}
+
+.nv-cookiebot__button--primary:hover {
+  border-color: rgba(10, 10, 10, 0.4);
+  background: rgba(10, 10, 10, 0.4);
+  box-shadow:
+    inset 0 0 0 2px #ffffff,
+    0 0 0 1px #ffffff;
+  color: #ffffff;
+  transform: none;
+}
+
+.nv-cookiebot__button--secondary:hover {
+  border-color: #0a0a0a;
+  background: #effcf5;
+  color: #0a0a0a;
+}
+
+@media (max-width: 767px) {
+  #CybotCookiebotDialog.nv-cookiebot,
+  .nv-cookiebot {
+    right: 12px;
+    bottom: 12px;
+    left: 12px;
+    width: auto;
+    max-width: none;
+    max-height: 820px;
+    max-height: calc(100vh - 24px);
+  }
+
+  .nv-cookiebot__body {
+    padding: 20px;
+  }
+
+  .nv-cookiebot__actions {
+    position: static;
+    margin: 20px -20px -20px;
+    padding: 14px 20px 20px;
+  }
+
+  .nv-cookiebot__button {
+    float: none;
+    display: block;
+    width: 100%;
+    margin: 10px 0 0;
+  }
+
+  .nv-cookiebot__button:first-child {
+    margin-top: 0;
+  }
+}

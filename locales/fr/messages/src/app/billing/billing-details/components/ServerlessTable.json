@@ -1,0 +1,15 @@
+{
+  "day": "Jour",
+  "endpoint": "Point de terminaison",
+  "export": "Exporter",
+  "forEachEndpointUsageDurationIs": "Pour chaque point de terminaison, la durée d’utilisation est calculée en fonction du temps GPU total consommé par tous les workers qui lui sont associés. Plus précisément, la durée d’utilisation de chaque worker est déterminée par (nombre de GPUs) * (temps en secondes), et la durée d’utilisation totale du point de terminaison est la somme de l’utilisation GPU de tous les workers pendant la période de facturation.",
+  "gpuType": "Type de GPU",
+  "groupBy": "Grouper par",
+  "hour": "Heure",
+  "month": "Mois",
+  "noData": "Aucune donnée !",
+  "seconds": "(secondes)",
+  "timeRange": "Plage de temps",
+  "usageDuration": "Durée d’utilisation",
+  "week": "Semaine"
+}

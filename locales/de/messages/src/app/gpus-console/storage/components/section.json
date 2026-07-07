@@ -1,0 +1,17 @@
+{
+  "createTime": "Erstellungszeit",
+  "creator": "Ersteller",
+  "delete": "Löschen",
+  "deploy": "Bereitstellen",
+  "edit": "Bearbeiten",
+  "gbI": "GB I",
+  "itIsHighlyAdvisableToContinually": "Es wird dringend empfohlen, alles, was Sie speichern möchten, kontinuierlich extern lokal oder bei einem Cloud-Anbieter zu sichern.",
+  "networkVolumeIsProvidedInThe": "Network Volume wird bereitgestellt, um Aufgaben mithilfe seiner GPUs auszuführen, und ist",
+  "newNetworkVolume": "+ Neues Netzwerk-Volume",
+  "notMeantToBeALong": "nicht als langfristige Backup-Lösung gedacht.",
+  "pleaseNoteThatIfYourAccount": "Bitte beachten Sie, dass Ihr Network Volume, wenn Ihr Konto im Zahlungsrückstand ist und keine Instanzen ausgeführt werden,",
+  "released3DaysLater": "3 Tage später freigegeben wird.",
+  "search": "Suchen",
+  "storageNameIdFilter": "Speichername/ID-Filter",
+  "success": "Erfolg"
+}

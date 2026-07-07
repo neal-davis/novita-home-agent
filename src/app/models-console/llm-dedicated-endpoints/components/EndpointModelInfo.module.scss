@@ -1,0 +1,26 @@
+.model_box {
+  display: flex;
+  margin: 0 16px 16px;
+  padding: 12px 16px;
+  flex-direction: row;
+  align-items: center;
+  border: 1px solid var(--gray-2);
+  border-radius: 6px;
+  cursor: pointer;
+
+  .model_name {
+    margin-left: 8px;
+    margin-right: 4px;
+    @include font-subtle-medium;
+    color: var(--dark-1);
+  }
+
+  .model_version {
+    margin-left: 4px;
+    padding: 0 6px;
+    border-radius: 4px;
+    background-color: var(--gray-3);
+    @include font-subtle;
+    color: var(--dark-1);
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "cachedReadsInput": "Cached (reads) input",
+  "cachedWrites1hInput": "Cached (writes:1h) input",
+  "cachedWrites5mInput": "Cached (writes:5m) input",
+  "output": "Output",
+  "text": "Text",
+  "uncachedInput": "Uncached input"
+}

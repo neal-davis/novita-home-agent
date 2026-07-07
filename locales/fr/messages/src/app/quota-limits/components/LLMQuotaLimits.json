@@ -1,0 +1,12 @@
+{
+  "currentTier": "Niveau actuel",
+  "endpointType": "Type de point de terminaison",
+  "here": "ici",
+  "increaseLimit": "Augmenter la limite",
+  "learnMore": "En savoir plus",
+  "limitAdjustable": "Limite ajustable",
+  "limitQuotaMetric": "Métrique de limite/​quota",
+  "searchService": "Rechercher un service",
+  "toUnlockQuotaLimitsForHigher": "pour débloquer les limites de quota des niveaux supérieurs.",
+  "topUp": "Recharger"
+}

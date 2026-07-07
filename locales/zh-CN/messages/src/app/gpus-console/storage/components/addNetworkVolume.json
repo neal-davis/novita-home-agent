@@ -1,0 +1,23 @@
+{
+  "available": "可用",
+  "balanceIsNotEnough": "余额不足。",
+  "cancel": "取消",
+  "close": "关闭",
+  "contactSupport": "联系支持",
+  "createNetworkVolume": "创建网络卷",
+  "dataCenterGpuAvailability": "数据中心 GPU 可用性",
+  "deleteNetworkVolume": "删除网络卷",
+  "editNetworkVolume": "编辑网络卷",
+  "forLargerVolumes": "用于更大的卷。",
+  "gbMinimum10gb": "GB（最低 10GB）",
+  "itIsHighlyAdvisableToContinually": "强烈建议您持续将任何想要保存的内容备份到本地异地位置或云服务提供商。",
+  "loading": "正在加载...",
+  "networkVolumeIsProvidedInThe": "提供网络卷是为了使用其 GPUs 运行任务，并且",
+  "none": "无",
+  "notMeantToBeALong": "并非旨在作为长期备份解决方案。",
+  "pleaseNoteThatIfYourAccount": "请注意，如果您的账户欠费且没有正在运行的实例，您的网络卷将会",
+  "released3DaysLater": "在 3 天后被释放。",
+  "save": "保存",
+  "selectDataCenter": "选择数据中心",
+  "volumeName": "卷名称"
+}

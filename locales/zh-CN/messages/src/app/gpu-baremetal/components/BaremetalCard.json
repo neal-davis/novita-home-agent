@@ -1,0 +1,8 @@
+{
+  "gbRamNode": "GB RAM/ 节点",
+  "gbVram": "GB VRAM",
+  "gpusNode": "GPUs/ 节点",
+  "reserve": "预留",
+  "startingAt": "起价",
+  "vcpuNode": "vCPU/ 节点"
+}

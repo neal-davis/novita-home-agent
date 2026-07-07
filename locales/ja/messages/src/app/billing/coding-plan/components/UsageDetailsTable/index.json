@@ -1,0 +1,10 @@
+{
+  "billedTokens": "請求対象トークン",
+  "billingMultiplier": "請求倍率",
+  "modelId": "モデルID",
+  "next": "次へ",
+  "noUsageData": "使用量データなし",
+  "previous": "前へ",
+  "rawUsageTokens": "生の使用量（トークン）",
+  "startTimeEndTime": "開始時刻 - 終了時刻"
+}

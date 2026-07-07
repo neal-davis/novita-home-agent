@@ -1,0 +1,10 @@
+{
+  "featured": "Featured",
+  "high": "High",
+  "low": "Low",
+  "max": "max",
+  "maxCuda": "Max CUDA",
+  "medium": "Medium",
+  "onDemand": "On-Demand",
+  "unavailable": "Unavailable"
+}

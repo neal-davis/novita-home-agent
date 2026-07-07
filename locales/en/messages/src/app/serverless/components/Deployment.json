@@ -1,0 +1,14 @@
+{
+  "configureCustomElasticScalingStrategiesThrough": "Configure custom elastic scaling strategies through a simple interface. Adjust in real time, with support for template-based creation, no complex operations needed.",
+  "instantColdStart": "Instant Cold Start",
+  "privateImageQuickDeployment": "Private Image, Quick Deployment",
+  "readyToUseEasyConfiguration": "Ready to Use, Easy Configuration",
+  "realTimeLogsMonitoring": "Real-Time Logs, Monitoring",
+  "retainAndReviewLogsInReal": "Retain and review logs in real time. Monitor key metrics and task execution, giving you full visibility into your running instances and ensuring smooth operations.",
+  "serverlessColdStart": "serverless cold start",
+  "serverlessConfig": "serverless config",
+  "serverlessConsoleDemo": "serverless console demo",
+  "serverlessLog": "serverless log",
+  "supportPrivateImagePullsFromDockerhub": "Support private image pulls from DockerHub or custom image uploads. Quickly deploy instances and scale them on-demand without affecting running services.",
+  "throughOptimizedPreloadingOurPlatformMinimizes": "Through optimized preloading, our platform minimizes cold start delays, ensuring your business operations are always responsive."
+}

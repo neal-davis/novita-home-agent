@@ -1,0 +1,16 @@
+{
+  "afterProtectionEndsInstanceMayBe": "保護期間終了後、インスタンスは回収される場合があります",
+  "forcedTermination": "強制終了",
+  "instanceEntersRunningState": "インスタンスが実行中状態になります",
+  "instanceIsStoppedAndReleasedAutomatically": "インスタンスは自動的に停止され、解放されます",
+  "interruptionWindow": "中断ウィンドウ",
+  "launch": "起動",
+  "message1HourGuaranteedRuntimeThenInterruptible": "1時間の実行時間が保証され、その後は自動回収の1時間前に通知されたうえで中断される可能性があります。スポットは余剰キャパシティを使用するため、低コストですがいつでも回収される可能性があります。",
+  "message1HourProtection": "1時間保護",
+  "noInterruptionsDuringThisPeriod": "この期間中は中断されません",
+  "note": "注:",
+  "sent1HourInAdvance": "1時間前に送信",
+  "spotInstanceLifecycle": "スポットインスタンスのライフサイクル",
+  "terminationNotice": "終了通知",
+  "workloadsShouldBeInterruptionTolerantUse": "ワークロードは中断に耐えられるようにする必要があります。データ損失を防ぐために、チェックポイント作成またはバックアップを使用してください。"
+}

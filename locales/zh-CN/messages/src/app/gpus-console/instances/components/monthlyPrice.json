@@ -1,0 +1,8 @@
+{
+  "billingItems": "计费项",
+  "gpuFee": "GPU 费用",
+  "storageFeeBeyondFreeQuota": "存储费用（超出免费额度）",
+  "total": "总计",
+  "unitPrice": "单价",
+  "usage": "用量"
+}

@@ -1,0 +1,9 @@
+{
+  "aiSearch": "AI Search",
+  "audio": "Audio",
+  "embedding": "Embedding",
+  "image": "Image",
+  "reranker": "Reranker",
+  "video": "Video",
+  "vision": "Vision"
+}

@@ -1,0 +1,40 @@
+.worker_manager {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.worker_nav {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+
+  .worker_nav_item {
+    display: inline-flex;
+    min-width: 36px;
+    height: 24px;
+    padding: 2px 8px;
+
+    text-align: center;
+    border-radius: 4px;
+
+    color: var(--dark-2);
+    background-color: var(--gray-4);
+    cursor: pointer;
+    user-select: none;
+    align-items: center;
+    border: 1px solid var(--gray-2);
+
+    @include font-small-console;
+
+    &.selected {
+      // background-color: var(--gray-3);
+      color: var(--green-2);
+    }
+
+    &.unhealthy {
+      background-color: var(--gray-3);
+      color: var(--red-1);
+    }
+  }
+}

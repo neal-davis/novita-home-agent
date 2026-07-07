@@ -1,0 +1,23 @@
+{
+  "businessType": "serverless",
+  "productCategory": "local_storage",
+  "productId": "serverless-local",
+  "basePrice0": "500",
+  "basePrice1": "0",
+  "basePrice2": "0",
+  "basePrice3": "0",
+  "basePrice4": "0",
+  "basePrice5": "0",
+  "priceUnit": "86400",
+  "pricePrecision": "10",
+  "displayPriceUnit": "$/day",
+  "discountPrice0": "0",
+  "discountPrice1": "0",
+  "discountPrice2": "0",
+  "discountPrice3": "0",
+  "discountPrice4": "0",
+  "discountPrice5": "0",
+  "id": "2626",
+  "billingMethod": "1",
+  "multimodalPricing": null
+}

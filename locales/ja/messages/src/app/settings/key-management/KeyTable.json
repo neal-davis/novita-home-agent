@@ -1,0 +1,11 @@
+{
+  "apiKey": "APIキー",
+  "createdBy": "作成者",
+  "creationTime": "作成日時",
+  "deleteSuccessfully": "削除に成功しました",
+  "expirationTime": "有効期限",
+  "keyName": "キー名",
+  "lastUsed": "最終使用",
+  "operation": "操作",
+  "permanentValidity": "永久有効"
+}

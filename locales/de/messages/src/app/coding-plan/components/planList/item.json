@@ -1,0 +1,10 @@
+{
+  "decrementCodingPlanDoesNotSupport": "Der Decrement-Coding-Plan unterstützt kein Abonnement-Upgrade",
+  "loginExpiredPleaseLoginAgain": "Anmeldung abgelaufen, bitte melden Sie sich erneut an",
+  "modelAccess": "Modellzugriff",
+  "monthly": "monatlich",
+  "pleaseLoginFirst": "Bitte melden Sie sich zuerst an",
+  "subscribe": "Abonnieren",
+  "subscriptionFailedThePurchasedCodingPlan": "Abonnement fehlgeschlagen, der erworbene Coding-Plan ist größer oder gleich dieser Stufe",
+  "yourPlan": "Ihr Plan"
+}

@@ -1,0 +1,15 @@
+{
+  "automaticInstanceMigration": "Automatische Instanzmigration",
+  "automaticMigration": "Automatische Migration",
+  "automaticallyMigratesTheInstanceToA": "Migriert die Instanz bei einem Hardwarefehler automatisch auf einen fehlerfreien Knoten. Instanz-ID, Port-Mapping-Adresse und Daten bleiben unverändert; es kommt nur zu einer kurzen Ausfallzeit.",
+  "cancel": "Abbrechen",
+  "confirm": "Bestätigen",
+  "ifNoActionIsTakenThe": "Wenn keine Aktion erfolgt, migriert das System automatisch, um die Servicekontinuität aufrechtzuerhalten.",
+  "ifTheSystemDiskIsIncluded": "Wenn die Systemfestplatte einbezogen wird, hängt die Ausfallzeit von ihrer Größe ab (typischerweise Minuten bis ~10+ Minuten).",
+  "migrateSystemDisk": "Systemfestplatte migrieren",
+  "success": "Erfolg",
+  "supportIsAvailableDuringMigrationIf": "Bei Bedarf ist während der Migration Support verfügbar.",
+  "theFollowingRegionsDontSupportThis": "Die folgenden Regionen unterstützen diese Funktion nicht:",
+  "usCa03UsCaNas": "US-CA-03/US-CA-NAS-01/US-02/US-CA-02",
+  "youllBeNotifiedOfFaultsAnd": "Sie werden über Fehler benachrichtigt und müssen innerhalb von 7 Tagen manuell migrieren."
+}

@@ -1,0 +1,43 @@
+.btn_wrap {
+  width: 100%;
+}
+
+.btn_wrap .button {
+  width: 100%;
+  height: 52px;
+  background: var(--brand-0) !important;
+  border-radius: 8px;
+  border: none;
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--white) !important;
+}
+
+.btn_wrap .outline_button {
+  width: 100%;
+  height: 52px;
+  border: 2px solid var(--gray-2) !important;
+  color: var(--dark-2) !important;
+  background: transparent;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.btn_wrap .outline_button:hover {
+  background: var(--gray-2) !important;
+  color: var(--black) !important;
+}
+
+.btn_wrap .button:hover {
+  background: var(--brand-0) !important;
+  color: var(--white) !important;
+}
+
+.btn_wrap .inner .disabled {
+  opacity: 0.5;
+}
+
+.btn_wrap .inner .outline_disabled {
+  opacity: 0.5;
+}

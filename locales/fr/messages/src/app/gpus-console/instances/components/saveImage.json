@@ -1,0 +1,15 @@
+{
+  "addCredential": "Ajouter des identifiants",
+  "afterAdjustingTheInstanceYouCan": "Après avoir ajusté l’instance, vous pouvez enregistrer l’instance mise à jour en tant qu’image, puis créer de nouveaux modèles et instances à partir de la dernière image !",
+  "cancel": "Annuler",
+  "containerRegistryCredentials": "Identifiants du registre de conteneurs",
+  "imagePath": "Chemin de l’image",
+  "pleaseEnterAPathConsistingOf": "Veuillez saisir un chemin composé de lettres minuscules et de chiffres, chaque segment pouvant éventuellement contenir ., _ ou -, et prenant en charge plusieurs niveaux séparés par /.",
+  "pleaseInputYourImageAddress": "Veuillez saisir l’adresse de votre image",
+  "pleaseSelectCredentials": "Veuillez sélectionner des identifiants",
+  "save": "Enregistrer",
+  "saveImage": "Enregistrer l’image",
+  "success": "succès",
+  "theContainerRegistryCredentialsCanNot": "Les identifiants du registre de conteneurs ne peuvent pas être vides",
+  "theImagePathCanNotBe": "Le chemin de l’image ne peut pas être vide et ne peut pas contenir de caractères d’espacement"
+}

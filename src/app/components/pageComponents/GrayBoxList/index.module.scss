@@ -1,0 +1,23 @@
+.li {
+  background: var(--gray-3);
+  padding: 28px;
+
+  .li_index {
+    position: relative;
+    padding-left: 24px;
+
+    &::before {
+      content: "";
+      width: 12px;
+      height: 24px;
+      border-top: 12px solid transparent;
+      border-bottom: 12px solid var(--brand-0);
+      border-left: 6px solid transparent;
+      border-right: 6px solid transparent;
+      display: inline-block;
+      position: absolute;
+      left: 0;
+      top: -10px;
+    }
+  }
+}

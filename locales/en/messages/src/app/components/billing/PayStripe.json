@@ -1,0 +1,6 @@
+{
+  "addFundsUsdMinimum5And": "Add funds (USD) Minimum >= $5 and Integer",
+  "pleaseEnterAnIntegerGreaterThan": "Please enter an integer greater than 5",
+  "pleaseLoginFirst": "Please login first",
+  "topUp": "$ Top Up"
+}

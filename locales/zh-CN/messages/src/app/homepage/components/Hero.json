@@ -1,0 +1,16 @@
+{
+  "agents": "智能体",
+  "andFollowTheInstructions": "并按照说明操作。",
+  "clickToCopyInstructionsForYou": "点击复制给你的智能体的说明：",
+  "copiedAgentInstructions": "已复制智能体指令",
+  "copyAgentInstructions": "复制智能体指令",
+  "forAgent": "给智能体",
+  "forAgents": "面向智能体：",
+  "forBuildersAnd": "面向构建者和",
+  "letYourAgentDiscoverAuthenticateAnd": "让你的智能体自主发现、认证并使用 Novita AI 产品。",
+  "read": "阅读",
+  "runModelsScaleGpusAndBuild": "运行模型、扩展 GPUs，并构建 AI 智能体，尽在同一平台。",
+  "startBuilding": "开始构建",
+  "talkToUs": "联系我们",
+  "theAiNativeCloud": "AI 原生云"
+}

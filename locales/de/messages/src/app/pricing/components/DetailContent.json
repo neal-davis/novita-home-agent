@@ -1,0 +1,6 @@
+{
+  "agentSandbox": "Agent-Sandbox",
+  "dedicatedEndpoints": "Dedizierte Endpunkte",
+  "gpus": "GPUs",
+  "serverlessEndpoints": "Serverless-Endpunkte"
+}

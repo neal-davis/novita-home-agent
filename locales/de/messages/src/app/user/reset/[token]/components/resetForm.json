@@ -1,0 +1,8 @@
+{
+  "confirm": "Bestätigen",
+  "invalidEmailAddress": "Ungültige E-Mail-Adresse.",
+  "password": "Passwort",
+  "passwordConfirmation": "Passwortbestätigung",
+  "passwordResetSuccessfully": "Passwort erfolgreich zurückgesetzt.",
+  "resetPassword": "Passwort zurücksetzen"
+}

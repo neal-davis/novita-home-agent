@@ -1,0 +1,45 @@
+.container {
+  position: relative;
+  height: 100%;
+
+  div {
+    position: absolute;
+    height: 100%;
+    border-radius: 6px;
+  }
+
+  img {
+    max-width: none;
+    object-fit: cover;
+  }
+
+  .baseWrapper {
+    overflow: hidden;
+    width: 100%;
+  }
+
+  .corverWrapper {
+    overflow: hidden;
+  }
+
+  .slider {
+    position: relative;
+    width: 2px;
+    background-color: #fff;
+
+    span {
+      position: absolute;
+      display: inline;
+      padding: 1px 3px;
+      width: 26px;
+      height: 20px;
+      top: calc(50% - 7px);
+      left: -12px;
+      background-color: #fff;
+      border-radius: 6px;
+      color: #0c1118;
+      font-size: 12px;
+      transform: scale(0.8);
+    }
+  }
+}

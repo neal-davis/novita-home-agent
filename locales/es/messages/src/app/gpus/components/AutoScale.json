@@ -1,0 +1,5 @@
+{
+  "autoScaleWithServerlessGpus": "Escalado automático con GPUs sin servidor",
+  "novitasServerlessGpuPlatformAutomaticallyScales": "La plataforma de GPUs sin servidor de Novita escala automáticamente según las demandas de tu carga de trabajo. Se factura solo por los recursos consumidos.",
+  "startNow": "Comenzar ahora"
+}

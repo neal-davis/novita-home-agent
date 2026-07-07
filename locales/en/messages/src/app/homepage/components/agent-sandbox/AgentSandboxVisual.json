@@ -1,0 +1,6 @@
+{
+  "agent": "agent",
+  "done": "done",
+  "queued": "queued",
+  "running": "running"
+}

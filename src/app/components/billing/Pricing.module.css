@@ -1,0 +1,133 @@
+.pricing_container {
+  padding: 0 24px 24px 24px;
+  background-color: var(--background-second-bg);
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.title {
+  padding: 28px 0;
+  /* border-bottom: 1px solid rgba(255, 255, 255, 0.15); */
+  font-size: var(--font-size-3);
+  color: #ffffff;
+  letter-spacing: 0;
+  font-weight: 700;
+}
+
+.calc_input {
+  width: 80px !important;
+  margin-left: 10px !important;
+}
+
+.pricing_box {
+  font-size: 16px;
+  color: var(--second-font-color);
+  margin-top: 20px;
+}
+
+.panel_box {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 10px;
+  row-gap: 10px;
+  /* margin-top: 32px; */
+}
+
+.panel_box .panel_item {
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 24px;
+  background: var(--bg-0);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 10px;
+}
+
+.panel_item .p_title {
+  font-size: 20px;
+  color: var(--white);
+  letter-spacing: 0;
+  font-weight: 500;
+}
+
+.panel_item .select {
+  display: flex;
+  margin-top: 32px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.panel_item .select_item {
+  width: 160px;
+}
+
+.panel_item .select_item2 {
+  width: 260px;
+}
+
+.select_item .item_title {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  color: var(--white);
+  margin-bottom: 12px;
+}
+
+.panel_item .box2 {
+  background: var(--background-second-bg);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  padding: 17px 20px 20px;
+  margin-top: 26px;
+}
+
+.box2 .b2_title {
+  font-size: 16px;
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+.box2 .b2_balance {
+  font-size: 24px;
+  color: #ffffff;
+  letter-spacing: 0;
+  font-weight: 700;
+  margin-top: 10px;
+}
+
+.e_title {
+  font-size: 20px;
+  color: var(--white);
+  letter-spacing: 0;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.table {
+  width: 100%;
+  margin-top: 10px;
+}
+
+@media screen and (max-width: 1000px) {
+  .pricing_container {
+    padding: 0 20px 20px 20px;
+  }
+  .panel_box {
+    grid-template-columns: 1fr;
+    row-gap: 20px;
+    margin-top: 32px;
+  }
+  .title {
+    padding: 20px 0;
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: 700;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .table td {
+    font-size: 13px;
+    padding: 2px 6px;
+  }
+}

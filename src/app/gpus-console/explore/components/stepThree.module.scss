@@ -1,0 +1,237 @@
+.halfContainer {
+  margin-top: var(--spacing-console-row);
+  display: flex;
+}
+.half {
+  width: calc(50% - var(--spacing-console-row) / 2);
+  border-radius: var(--radius-form);
+  border: 1px solid var(--gray-2);
+  display: inline-block;
+  margin-right: var(--spacing-console-row);
+  background-color: var(--white);
+}
+.otherHalf {
+  // width: calc(50% - var(--spacing-console-row) / 2);
+  width: 100%;
+  border-radius: var(--radius-form);
+  border: 1px solid var(--gray-2);
+  display: inline-block;
+  order: 2;
+  background-color: var(--white);
+}
+.addEnvVar {
+  width: 232px;
+}
+.topSelectSearch {
+  width: 15%;
+  float: right;
+  width: 200px;
+  height: 28px;
+  font-size: 12px !important;
+  border: 1px solid var(--gray-1) !important;
+  background: var(--white) !important;
+  box-shadow: none !important;
+  border-radius: var(--radius-input) !important;
+  &.secondSelect {
+    width: 132px;
+  }
+  fieldset {
+    border: none;
+  }
+}
+.topSelectSearch:hover {
+  border: 1px solid var(--gray-1) !important;
+}
+.topSelectSearch:focus-within {
+  border: 1px solid var(--gray-1) !important;
+}
+.dropDownClassName {
+  max-height: 320px !important;
+}
+.subHalf {
+  border-bottom: 1px solid var(--gray-2);
+  padding: var(--spacing-console-24);
+  color: var(--black);
+  @include font-h6;
+}
+.selectDemandItem {
+  // background: var(--gray-3);
+  border: 1px solid var(--gray-2);
+  padding: var(--spacing-console-12) var(--spacing-console-16);
+  // margin-bottom: var(--spacing-console-row);
+  border-radius: var(--radius-button);
+  display: flex;
+  flex-direction: column;
+  // align-items: center;
+  // justify-content: space-between;
+}
+.billingItem {
+  gap: var(--spacing-console-8);
+}
+.billingItemFull {
+  width: 100%;
+}
+.billingSelected {
+  background-color: rgba(202, 246, 224, 0.2);
+  border-color: var(--brand-1);
+}
+.billingUnselected {
+  background-color: var(--white);
+  border-color: var(--gray-2);
+}
+.billingOptionWrap {
+  margin-bottom: var(--spacing-console-16);
+}
+.billingOptionRow {
+  display: flex;
+}
+.savingPlanDesc {
+  margin-left: 3px;
+  @include font-subtle;
+}
+.monthlyOptionWrap {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  min-height: 54px;
+}
+.monthlyOptionWrapExpanded {
+  margin-bottom: var(--spacing-console-16);
+}
+.monthlySelectTrigger {
+  min-width: 180px;
+}
+.spotOriginPrice {
+  margin-left: 0;
+}
+.spotDesc {
+  @include font-subtle;
+}
+.unSelectDemandItem {
+  // background: var(--white);
+  border: 1px solid var(--gray-1);
+  padding: var(--spacing-console-12) var(--spacing-console-16);
+  // margin-bottom: 10px;
+  border-radius: var(--radius-button);
+  display: flex;
+  flex-direction: column;
+  // align-items: center;
+  // justify-content: space-between;
+}
+.size16 {
+  width: 16px;
+  height: 16px;
+}
+.itemName {
+  font-size: 14px;
+  line-height: 14px;
+  margin-right: 5px;
+  font-weight: 600;
+}
+.onDemandTxt {
+  color: var(--black);
+  @include font-body-medium;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.totalSaveTxt {
+  font-size: 14px;
+  text-align: right;
+  line-height: 14px;
+  margin-right: 10px;
+  font-weight: 400;
+}
+.price {
+  color: var(--brand-1);
+  @include font-body-medium;
+  text-align: left;
+  white-space: nowrap;
+}
+.demandDesc {
+  color: var(--black);
+  @include font-subtle;
+}
+.originPrice {
+  margin-left: 4px;
+  text-align: left;
+  color: var(--gray-1);
+  @include font-body-medium;
+  text-decoration-line: line-through;
+}
+.orderSummaryTxt {
+  border-bottom: 1px solid var(--gray-2);
+  padding: var(--spacing-console-24);
+  color: var(--black);
+  @include font-h6;
+}
+.specificationsTxt {
+  margin-bottom: var(--spacing-console-6);
+  color: var(--dark-2);
+  @include font-small-console;
+}
+.gpuNumInfo {
+  border: 1px solid var(--gray-2);
+  background: var(--gray-3);
+  color: var(--black);
+  border-radius: var(--radius-form);
+  padding: var(--spacing-console-24);
+  @include font-subtle;
+}
+.pricingSummaryTxt {
+  color: var(--dark-2);
+  margin-top: var(--spacing-console-16);
+  margin-bottom: var(--spacing-console-6);
+  @include font-small-console;
+}
+.moneyChar {
+  // font-size: 16px;
+  // line-height: 24px;
+  // font-weight: 400;
+}
+.gpuCostTxt {
+  // font-size: 16px;
+  // line-height: 24px;
+  // font-weight: 400;
+  // margin-right: 10px;
+}
+.costContainer {
+  border: 1px solid var(--gray-2);
+  background: var(--gray-3);
+  color: var(--black);
+  border-radius: var(--radius-form);
+  padding: var(--spacing-console-24);
+  @include font-subtle;
+}
+
+@media screen and (max-width: 780px) {
+  .halfContainer {
+    margin-top: 20px;
+    display: block;
+  }
+  .half {
+    margin-bottom: 20px;
+    width: 100% !important;
+    margin-right: 0 !important;
+    display: block !important;
+  }
+  .otherHalf {
+    width: 100% !important;
+    display: block !important;
+  }
+  .addEnvVar {
+    width: 100%;
+  }
+}
+.monthlyDesc {
+  display: flex;
+  padding: 12px 16px;
+  align-items: flex-end;
+  gap: 8px;
+  align-self: stretch;
+  border-radius: 6px;
+  border: 1px solid var(--gray-2);
+
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}

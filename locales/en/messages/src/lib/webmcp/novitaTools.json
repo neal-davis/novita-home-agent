@@ -1,0 +1,14 @@
+{
+  "novitaAgentSandboxWorkflow": "Novita Agent Sandbox workflow",
+  "novitaAuthPage": "Novita auth page",
+  "novitaConsole": "Novita console",
+  "novitaDocs": "Novita docs",
+  "novitaGpuWorkflow": "Novita GPU workflow",
+  "novitaModelApiWorkflow": "Novita Model API workflow",
+  "openANovitaAgentSandboxWorkflow": "Open a Novita Agent Sandbox workflow such as overview, console, templates, usage, pricing, or docs.",
+  "openANovitaAuthenticationPageFor": "Open a Novita authentication page for login, registration, or password reset.",
+  "openANovitaConsoleAreaSuch": "Open a Novita console area such as overview, API keys, billing, quota limits, GPU Cloud, Model API, or Agent Sandbox.",
+  "openANovitaGpuCloudWorkflow": "Open a Novita GPU Cloud workflow such as instances, serverless, templates, storage, jobs, settings, or pricing.",
+  "openANovitaModelApiWorkflow": "Open a Novita Model API workflow such as model library, playgrounds, dedicated endpoints, or pricing.",
+  "openNovitaDocumentationForQuickStart": "Open Novita documentation for quick start, Model API, LLM API, Serverless GPUs, GPU Instances, Sandbox, or API reference."
+}

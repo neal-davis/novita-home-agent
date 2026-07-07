@@ -1,0 +1,13 @@
+{
+  "cleanup": "クリーンアップ",
+  "img2img": "画像から画像",
+  "lcmTxt2img": "LCM-テキストから画像",
+  "outpainting": "アウトペインティング",
+  "reimagine": "再イメージ化",
+  "removeBackground": "背景を削除",
+  "removeText": "テキストを削除",
+  "removeWatermark": "透かしを削除",
+  "replaceSky": "空を置き換え",
+  "txt2img": "テキストから画像",
+  "upscale": "アップスケール"
+}

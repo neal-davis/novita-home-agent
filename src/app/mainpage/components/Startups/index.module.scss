@@ -1,0 +1,16 @@
+.container {
+  padding-top: 73px;
+  padding-bottom: 73px;
+  background-color: var(--white);
+  
+  @include screen-md {
+    padding-top: 143px;
+    padding-bottom: 143px;
+  }
+}
+.cards {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  justify-content: center;
+}

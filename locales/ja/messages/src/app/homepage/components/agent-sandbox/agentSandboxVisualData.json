@@ -1,0 +1,22 @@
+{
+  "analyseCorrelationMatrix": "分析 · 相関行列",
+  "billing": "請求",
+  "clickElementFormFieldLocated": "要素をクリック · フォームフィールドを検出",
+  "enterDataFormPopulated": "データを入力 · フォームに入力済み",
+  "generateReportMarkdownOutput": "レポートを生成 · マークダウン出力",
+  "identifyBugNullPointerLine84": "バグを特定 · 84行目のヌルポインター",
+  "initEnvironmentEpisode1248": "環境を初期化 · エピソード1,248",
+  "isolation": "分離",
+  "loadDataset24mRowsIngested": "データセットを読み込み · 240万行を取り込み済み",
+  "openBrowserNagivateToTarget": "ブラウザを開く · ターゲットへ移動",
+  "readCodebaseSrcApiRoutesPy": "コードベースを読み取り · src/api/routes.py",
+  "resetNextEpisodeQueued": "リセット · 次のエピソードをキューに追加済み",
+  "reward24StateUpdated": "報酬 · +2.4 · 状態を更新済み",
+  "runTestSuitePytest": "テストスイートを実行 · pytest",
+  "startup": "起動",
+  "status": "ステータス",
+  "stepActionSampledFromPolicy": "ステップ · ポリシーからアクションをサンプリング",
+  "submitAwaitConfirmation": "送信 · 確認待ち",
+  "transformCleanNormalize": "変換 · クリーンアップ + 正規化",
+  "writeFixPatchApplied": "修正を書き込み · パッチ適用済み"
+}

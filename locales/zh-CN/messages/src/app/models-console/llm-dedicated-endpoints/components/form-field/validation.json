@@ -1,0 +1,12 @@
+{
+  "huggingFaceModelRepositoryNameIs": "Hugging Face 模型仓库名称为必填项",
+  "maxReplicasMustNotExceed10": "最大副本数不得超过 10",
+  "minReplicasMustBeAtLeast": "最小副本数必须至少为 0",
+  "mustBeAtLeast1": "必须至少为 1",
+  "nameMustBeAtLeast3": "名称必须至少为 3 个字符",
+  "nameMustNotExceed63Characters": "名称不得超过 63 个字符",
+  "nameMustStartWithALowercase": "名称必须以小写字母开头，并且只能包含小写字母、数字和连字符",
+  "scaleDownDelayMustBeAt": "缩容延迟必须至少为 300 秒",
+  "scaleDownWindowMustBeAt": "缩容窗口必须至少为 60 秒",
+  "stableWindowMustBeAtLeast": "稳定窗口必须至少为 60 秒"
+}

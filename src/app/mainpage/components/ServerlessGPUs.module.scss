@@ -1,0 +1,93 @@
+.container {
+  position: relative;
+  height: 743px;
+  z-index: 2;
+  background-color: var(--white);
+  transform: translateY(-36px);
+
+  & > div {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .content_wrap {
+    width: 371px;
+
+    .label {
+      margin-bottom: 8px;
+      @include font-small-console;
+      color: var(--dark-2);
+    }
+
+    .title {
+      margin-bottom: 32px;
+      @include font-h3;
+      color: var(--dark-1);
+    }
+
+    .description {
+      margin-bottom: 32px;
+      @include font-body;
+      color: var(--dark-2);
+    }
+  }
+
+  .right_view {
+    background-image: url("/mainpage/home-bg-06.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+  }
+}
+
+.animation_wrap {
+  width: 1280px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+@include screen-lg {
+  .container {
+    & > div {
+      padding-left: var(--spacing-layout-x);
+      padding-right: var(--spacing-layout-x);
+    }
+  }
+}
+
+@include screen-xl {
+  .container {
+    & > div {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+}
+
+.mobile_container {
+  position: relative;
+
+  .content_wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    padding: 60px 24px 0;
+
+    .title {
+      @include font-h4-large;
+    }
+  }
+
+  .right_view {
+    position: absolute;
+    height: 320px;
+    width: 100%;
+    top: 420px;
+    left: 0;
+    background-position: 0px 33%;
+    background-size: 100%;
+  }
+}

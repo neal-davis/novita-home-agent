@@ -1,0 +1,8 @@
+{
+  "assignAccessPermissionsToMembersBy": "ロールを選択してメンバーにアクセス権限を割り当てます。各新規メンバーの予算はデフォルトで無制限です。調整が必要な場合は、「予算」ページに移動してください。",
+  "cancel": "キャンセル",
+  "edit": "編集",
+  "failedToUpdateRole": "ロールの更新に失敗しました",
+  "save": "保存",
+  "viewPermissionDetails": "権限の詳細を表示"
+}

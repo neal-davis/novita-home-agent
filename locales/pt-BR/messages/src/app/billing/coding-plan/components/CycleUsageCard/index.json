@@ -1,0 +1,20 @@
+{
+  "autoRenewal": "renovação automática",
+  "autoRenewalYourCodingPlanPackage": "renovação automática, seu pacote do plano Coding expirará em",
+  "cancel": "Cancelar",
+  "cancelSubscription": "Cancelar assinatura",
+  "changePlan": "Alterar plano",
+  "confirm": "Confirmar",
+  "cycleUsage": "Uso do ciclo",
+  "day": "Dia",
+  "ifYouConfirmCancelYour": "Se você confirmar o cancelamento do seu",
+  "no": "Não",
+  "notice": "Aviso",
+  "of": "de",
+  "processing": "Processando...",
+  "restartAutoRenewal": "Reiniciar renovação automática",
+  "tokens": "tokens",
+  "until": "Até",
+  "used": "% usado",
+  "warning": "Atenção"
+}

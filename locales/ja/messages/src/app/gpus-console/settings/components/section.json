@@ -1,0 +1,19 @@
+{
+  "action": "操作",
+  "addCredential-e41f30": "+ 認証情報を追加",
+  "addCredential-efd6c2": "認証情報を追加",
+  "addingPublicKeysToYourAccount": "アカウントに公開鍵を追加すると、関連付けられた秘密鍵を使用して、基本的なターミナルアクセスオプションでインスタンスにアクセスできるようになります。複数の公開鍵は、改行で区切って追加できます。",
+  "captionTable": "キャプションテーブル",
+  "changePassword": "パスワードを変更",
+  "containerRegistryAuth": "コンテナレジストリ認証",
+  "deleteRegistryAuth": "レジストリ認証を削除",
+  "name": "名前",
+  "preferSingleNuma": "Single-Numaを優先",
+  "singleNuma": "Single-Numa",
+  "sshPublicKey": "SSH公開鍵",
+  "sshPublicKeys": "SSH公開鍵",
+  "success": "成功",
+  "thisPolicyWouldAllowResourceAllocation": "このポリシーでは、その割り当てリクエストを満たす他の方法が決してない場合にのみ、異なるNUMAノードからのリソース割り当てが許可されます。",
+  "updatePublicKey": "公開鍵を更新",
+  "youCanRegisterYourContainerRegistry": "ここでコンテナレジストリの認証情報を登録すると、さまざまなコンテナレジストリからプライベートイメージをプルできます。現在サポートしているのはdocker loginタイプの認証情報のみであることにご注意ください。ここで認証情報を登録し、テンプレートの編集または作成時にドロップダウンから選択することで、テンプレートに認証情報を追加できます。"
+}

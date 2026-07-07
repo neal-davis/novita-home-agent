@@ -1,0 +1,10 @@
+{
+  "cancel": "Cancelar",
+  "dedicatedEndpointsResources": "Recursos de Endpoints Dedicados",
+  "learnMore": "Saiba mais",
+  "operationFailed": "Falha na operação",
+  "playground": "Playground",
+  "pleaseNoteThatThisWillShare": "Observe que isso compartilhará seus recursos de Endpoints Dedicados com outras gerações e poderá afetar o desempenho delas.",
+  "useDedicatedEndpointsResources": "Usar recursos de Endpoints Dedicados",
+  "yourCurrentPayAsYouGo": "Seu plano Pay-As-You-Go atual não inclui acesso a recursos Enterprise. Faça upgrade para desbloquear esses recursos."
+}

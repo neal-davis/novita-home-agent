@@ -1,0 +1,14 @@
+{
+  "application": "Anwendung",
+  "deployServerless": "Serverless bereitstellen",
+  "explore": "Erkunden",
+  "gpus": "GPUs",
+  "image": "Image",
+  "instances": "Instanzen",
+  "jobs": "Jobs",
+  "serverless": "Serverless",
+  "settings": "Einstellungen",
+  "storage": "Speicher",
+  "templates": "Vorlagen",
+  "templateslibrary": "Vorlagenbibliothek"
+}

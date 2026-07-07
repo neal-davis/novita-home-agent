@@ -1,0 +1,61 @@
+{
+  "_comment": "Synthetic GET /api/v1/market/auth/products (the prod capture for this endpoint was 401/unauthenticated, so no real body existed to de-PII; this body is constructed to match the contract Explore consumes: res.products filtered by canBuy, then mapped into GPUCard). 4 products with canBuy:true => 4 GPU cards (Explore slices to 4). instancePrice is raw 'points'; GPUCard divides by 100000. productName values are public GPU SKU names, no PII.",
+  "products": [
+    {
+      "productName": "RTX 4090",
+      "gpuSpecId": "spec-e2e-4090",
+      "canBuy": true,
+      "usableNode": true,
+      "inventoryState": "high",
+      "cloudServiceType": "Community",
+      "gpuMemory": "24",
+      "maxAvailableGpuNumber": 8,
+      "cpuNum": 16,
+      "memory": "120",
+      "cudaVersion": "12.4",
+      "instancePrice": { "price": 69000, "discount": 49000 }
+    },
+    {
+      "productName": "RTX 5090",
+      "gpuSpecId": "spec-e2e-5090",
+      "canBuy": true,
+      "usableNode": true,
+      "inventoryState": "normal",
+      "cloudServiceType": "Community",
+      "gpuMemory": "32",
+      "maxAvailableGpuNumber": 8,
+      "cpuNum": 24,
+      "memory": "200",
+      "cudaVersion": "12.8",
+      "instancePrice": { "price": 99000, "discount": 99000 }
+    },
+    {
+      "productName": "A100 SXM 80GB",
+      "gpuSpecId": "spec-e2e-a100",
+      "canBuy": true,
+      "usableNode": true,
+      "inventoryState": "low",
+      "cloudServiceType": "Center",
+      "gpuMemory": "80",
+      "maxAvailableGpuNumber": 8,
+      "cpuNum": 32,
+      "memory": "256",
+      "cudaVersion": "12.4",
+      "instancePrice": { "price": 189000, "discount": 159000 }
+    },
+    {
+      "productName": "H100 SXM 80GB",
+      "gpuSpecId": "spec-e2e-h100",
+      "canBuy": true,
+      "usableNode": true,
+      "inventoryState": "high",
+      "cloudServiceType": "Center",
+      "gpuMemory": "80",
+      "maxAvailableGpuNumber": 8,
+      "cpuNum": 32,
+      "memory": "256",
+      "cudaVersion": "12.4",
+      "instancePrice": { "price": 299000, "discount": 299000 }
+    }
+  ]
+}

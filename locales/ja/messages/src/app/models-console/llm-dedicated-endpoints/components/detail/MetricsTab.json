@@ -1,0 +1,16 @@
+{
+  "concurrentRequests": "同時リクエスト数",
+  "input": "入力",
+  "last5Minutes": "直近5分",
+  "output": "出力",
+  "p50": "P50",
+  "p95": "P95",
+  "p99": "P99",
+  "processedTokens": "処理済みトークン",
+  "replicasActive": "レプリカ（アクティブ）",
+  "streamingOnly": "ストリーミングのみ",
+  "total": "合計",
+  "tpotTimePerOutputToken": "TPOT（出力トークンあたりの時間）",
+  "ttftTimeToFirstToken": "TTFT（最初のトークンまでの時間）",
+  "utc0": "UTC+0"
+}

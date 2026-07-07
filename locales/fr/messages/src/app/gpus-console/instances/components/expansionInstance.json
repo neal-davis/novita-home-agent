@@ -1,0 +1,17 @@
+{
+  "cancel": "Annuler",
+  "confirm": "Confirmer",
+  "day": "jour",
+  "days": "jours",
+  "expansionCapacity": "Capacité d’extension",
+  "expansionFee": "Frais d’extension",
+  "expirationTime": "Heure d’expiration",
+  "freeCapacity": "Capacité gratuite",
+  "gb": "Go",
+  "instanceId": "ID de l’instance",
+  "remainingRentalPeriod": "Période de location restante",
+  "settlementAmount": "Montant du règlement",
+  "storagePrice": "Prix du stockage",
+  "subscriptionInstanceExpansionBilling": "Facturation de l’extension de l’instance d’abonnement",
+  "usedCapacity": "Capacité utilisée"
+}

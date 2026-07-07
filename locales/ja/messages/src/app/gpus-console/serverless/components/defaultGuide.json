@@ -1,0 +1,9 @@
+{
+  "builtForLightweightScenariosWithFast": "高速デプロイ、柔軟な利用、複数のワークロードに対応する軽量シナリオ向けに構築されています。",
+  "deployNow": "今すぐデプロイ",
+  "learnMore": "詳細を見る",
+  "multipleMixedResourceTypesWithOne": "複数の混在リソースタイプをワンクリックでデプロイし、自動スケーリング—選択",
+  "needToDeployCloudResources": "クラウドリソースをデプロイする必要がありますか？",
+  "serverless": "サーバーレス",
+  "serverlessReady": "サーバーレス対応"
+}

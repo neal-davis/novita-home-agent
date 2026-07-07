@@ -1,0 +1,12 @@
+{
+  "averageCpuUtilization": "平均 CPU 利用率：",
+  "ifThereAreMultiplePausesOnly": "如果存在多次暂停，则仅显示",
+  "mb": "MB",
+  "memoryUtilizationAvg": "平均内存利用率：",
+  "memoryUtilizationMax": "最大内存利用率：",
+  "metrics": "指标",
+  "peakCpuUtilization": "峰值 CPU 利用率：",
+  "secondsAgo": "秒前",
+  "supportsQueryingDataFromThe72": "支持查询暂停前 72 小时内的数据。",
+  "theMostRecentPauseIsDisplayed": "最近一次暂停前的数据查询。"
+}

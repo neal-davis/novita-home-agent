@@ -1,0 +1,17 @@
+{
+  "cancel": "取消",
+  "confirm": "确认",
+  "day": "天",
+  "days": "天",
+  "expansionCapacity": "扩容容量",
+  "expansionFee": "扩容费用",
+  "expirationTime": "到期时间",
+  "freeCapacity": "免费容量",
+  "gb": "GB",
+  "instanceId": "实例 ID",
+  "remainingRentalPeriod": "剩余租期",
+  "settlementAmount": "结算金额",
+  "storagePrice": "存储价格",
+  "subscriptionInstanceExpansionBilling": "订阅实例扩容计费",
+  "usedCapacity": "已用容量"
+}

@@ -1,0 +1,33 @@
+.title {
+  margin-bottom: 12px;
+  @include font-h6;
+  color: var(--black);
+}
+
+.link {
+  padding: 8px;
+  border-radius: 4px;
+  background-color: var(--gray-3);
+  border: 1px solid var(--gray-3);
+  min-width: 200px;
+  height: 40px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+  &:hover {
+    border: 1px solid var(--dark-1);
+    background-color: var(--white);
+  }
+
+  span:first-child {
+    @include font-link-small;
+  }
+
+  span:last-child {
+    @include font-subtle;
+    text-decoration: none;
+  }
+}

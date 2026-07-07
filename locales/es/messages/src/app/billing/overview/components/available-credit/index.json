@@ -1,0 +1,12 @@
+{
+  "accountBalance": "Saldo de la cuenta",
+  "availableCredit": "Crédito disponible",
+  "creditLimit": "Límite de crédito",
+  "outstandingInvoices": "Facturas pendientes",
+  "pendingCharges": "Cargos pendientes",
+  "prepaidFundsInYourAccountThat": "Fondos prepagados en tu cuenta que disminuyen a medida que realizas compras basadas en el uso.",
+  "theMaximumPostpaidAmountApprovedBased": "El importe máximo pospago aprobado según el perfil crediticio de tu cuenta, lo que te permite consumir primero y pagar después.",
+  "totalAmountOwedUnderYourCredit": "Importe total adeudado dentro de tu límite de crédito que debe reembolsarse dentro del período de pago.",
+  "usageChargesThatHaveBeenIncurred": "Cargos de uso que se han incurrido pero que aún no vencen para su deducción. Estos importes se cargarán automáticamente de tu saldo o límite de crédito una vez que el ciclo de facturación llegue a su momento de pago.",
+  "yourAvailableCreditIsTheRemaining": "Tu crédito disponible es el importe restante que puedes usar después de los cargos pendientes, antes de alcanzar tu límite de crédito."
+}

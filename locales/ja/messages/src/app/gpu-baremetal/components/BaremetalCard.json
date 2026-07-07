@@ -1,0 +1,8 @@
+{
+  "gbRamNode": "GB RAM/ノード",
+  "gbVram": "GB VRAM",
+  "gpusNode": "GPUs/ノード",
+  "reserve": "予約",
+  "startingAt": "～から",
+  "vcpuNode": "vCPU/ノード"
+}

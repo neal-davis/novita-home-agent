@@ -1,0 +1,7 @@
+{
+  "_comment": "Shape of /v1/enterprise-plan/config for the Enterprise-plan + opt-in branch. isEnterprisePlan:true => the upsell Dialog gate is bypassed. playgroundAPIConfig 'USE_ENTERPRISE' => PlaygroundSwitch effect sets the switch ON (aria-checked=true). No PII (config flags only).",
+  "isWhiteListUser": true,
+  "isEnterprisePlan": true,
+  "playgroundAPIConfig": "USE_ENTERPRISE",
+  "billingMethod": 1
+}

@@ -1,0 +1,6 @@
+{
+  "endpointIsWakingUp": "O endpoint está sendo ativado",
+  "failedToWakeUpEndpoint": "Falha ao ativar o endpoint",
+  "redeploy": "Reimplantar",
+  "wakeUp": "Ativar"
+}

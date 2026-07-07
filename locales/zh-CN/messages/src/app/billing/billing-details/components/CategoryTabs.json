@@ -1,0 +1,6 @@
+{
+  "aggregatedBilling": "聚合计费",
+  "enterpriseBilling": "企业计费",
+  "fixedTermBilling": "固定期限计费",
+  "usageBasedBilling": "按用量计费"
+}

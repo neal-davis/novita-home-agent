@@ -1,0 +1,7 @@
+{
+  "cancel": "Annuler",
+  "cancelingStillIncursFullCharges": "L’annulation entraîne toujours la facturation complète",
+  "cancelingTheTaskWillStopFurther": "L’annulation de la tâche interrompra la suite du traitement, mais vous serez tout de même facturé intégralement une fois la génération commencée. Veuillez vous assurer de vouloir annuler avant de continuer.",
+  "confirm": "Confirmer",
+  "processing": "Traitement en cours..."
+}

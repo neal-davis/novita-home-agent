@@ -1,0 +1,12 @@
+{
+  "averageCpuUtilization": "Durchschnittliche CPU-Auslastung:",
+  "ifThereAreMultiplePausesOnly": "Wenn es mehrere Pausen gibt, wird nur die Datenabfrage vor",
+  "mb": "MB",
+  "memoryUtilizationAvg": "Durchschnittliche Speicherauslastung:",
+  "memoryUtilizationMax": "Maximale Speicherauslastung:",
+  "metrics": "Metriken",
+  "peakCpuUtilization": "Spitzen-CPU-Auslastung:",
+  "secondsAgo": "Sekunden zuvor",
+  "supportsQueryingDataFromThe72": "Unterstützt die Abfrage von Daten aus den 72 Stunden vor der Pause.",
+  "theMostRecentPauseIsDisplayed": "der neuesten Pause angezeigt."
+}

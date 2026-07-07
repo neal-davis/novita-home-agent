@@ -1,0 +1,4 @@
+{
+  "_comment": "Empty /v3/model response for the empty-state branch: ModelTable renders the NoData component (title 'No Data') and the model table tbody has 0 rows. No PII.",
+  "models": []
+}

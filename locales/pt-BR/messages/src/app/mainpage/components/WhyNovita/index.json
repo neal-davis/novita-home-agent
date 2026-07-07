@@ -1,0 +1,15 @@
+{
+  "bringYourOwnModel": "Traga seu próprio modelo",
+  "costEfficient": "Econômico",
+  "deployCloseToUsersOnResilient": "Implante perto dos usuários em uma infraestrutura resiliente.",
+  "developerFirstDx": "DX voltada para desenvolvedores",
+  "globalReliable": "Global e confiável",
+  "highThroughputLlmServingAndLow": "Serviço de LLM de alta taxa de transferência e inicialização de baixa latência para agentes.",
+  "performance": "Desempenho",
+  "privateEndpointsCustomSlasWhenYou": "Endpoints privados e SLAs personalizados quando você precisar.",
+  "sandboxIsolationForAgentWorkloads": "Isolamento em sandbox para cargas de trabalho de agentes.",
+  "saveUpTo50WithSmart": "Economize até 50% com preços inteligentes e spot onde fizer sentido.",
+  "secureByDesign": "Seguro por design",
+  "simpleApisSdksClearDocsInstant": "APIs/SDKs simples, documentação clara, escala instantânea.",
+  "whyNovitaAi": "Por que Novita AI"
+}

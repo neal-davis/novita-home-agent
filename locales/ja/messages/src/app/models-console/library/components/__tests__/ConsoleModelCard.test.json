@@ -1,0 +1,6 @@
+{
+  "legacyLlmCard": "レガシー LLM カード",
+  "multimodalCardTestModel": "マルチモーダルカードのテストモデル",
+  "multimodalNonTextOnlyCard": "テキストのみではないマルチモーダルカード",
+  "tieredLlmCard": "階層型 LLM カード"
+}

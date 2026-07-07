@@ -1,0 +1,32 @@
+.prompt_wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 550px;
+}
+
+.preview_img_wrapper {
+  flex: 1;
+  margin-bottom: 20px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.preview_img_container {
+  position: relative;
+  max-width: 100%;
+  /* height: 100%; */
+  overflow: hidden;
+}
+.preview_img {
+  top: 0;
+  left: 0;
+  width: auto;
+  height: 100%;
+  object-fit: contain;
+}

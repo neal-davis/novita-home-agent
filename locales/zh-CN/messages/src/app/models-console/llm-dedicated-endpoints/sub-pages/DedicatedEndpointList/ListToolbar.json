@@ -1,0 +1,9 @@
+{
+  "allStatus": "所有状态",
+  "failed": "失败",
+  "newEndpoint": "新建端点",
+  "running": "运行中",
+  "searchByEndpointOrModelName": "按端点或模型名称搜索...",
+  "sleeping": "休眠中",
+  "terminated": "已终止"
+}

@@ -1,0 +1,21 @@
+{
+  "allSystemsOperational": "所有系统运行正常",
+  "autoscalingInProgress": "正在自动扩缩容...",
+  "deploying": "正在部署",
+  "deploymentFailedCheckLogsOrRedeploy": "部署失败。请检查日志或重新部署。",
+  "endpointIsShuttingDown": "端点正在关闭...",
+  "endpointTerminatedRedeployToRestart": "端点已终止。请重新部署以重启。",
+  "failed": "失败",
+  "health": "健康",
+  "healthy": "健康",
+  "initialDeploymentInProgress": "初始部署进行中...",
+  "pending": "待处理",
+  "rolling": "滚动中",
+  "rollingUpdateInProgress": "滚动更新进行中...",
+  "scaleToZeroActiveWillWake": "Scale-to-Zero 已启用。将在首次请求时唤醒。",
+  "scaling": "正在扩缩容",
+  "sleeping": "休眠中",
+  "terminated": "已终止",
+  "terminating": "正在终止",
+  "waitingForResources": "正在等待资源..."
+}

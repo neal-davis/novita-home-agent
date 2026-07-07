@@ -1,0 +1,7 @@
+{
+  "cancel": "Cancelar",
+  "cancelingStillIncursFullCharges": "Cancelar aún conlleva cargos completos",
+  "cancelingTheTaskWillStopFurther": "Cancelar la tarea detendrá el procesamiento adicional, pero se te cobrará el importe completo una vez que la generación haya comenzado. Asegúrate de que deseas cancelar antes de continuar.",
+  "confirm": "Confirmar",
+  "processing": "Procesando..."
+}

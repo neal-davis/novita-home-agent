@@ -1,0 +1,13 @@
+{
+  "agentSandbox": "Agent-Sandbox",
+  "eachTaskRunsInAnIsolated": "Jede Aufgabe läuft in einer isolierten Sandbox mit Trennung auf Systemebene, um Datenlecks und Risiken durch unbefugten Zugriff zu reduzieren.",
+  "fastStartupStrongIsolationMassiveConcurrency": "Schneller Start. Starke Isolation. Massive Parallelität.",
+  "highConcurrencyAtScale": "Hohe Parallelität im großen Maßstab",
+  "launchSandboxInstancesInMillisecondsIsolate": "Starten Sie Sandbox-Instanzen in Millisekunden, isolieren Sie jede Aufgabe und skalieren Sie auf Tausende gleichzeitige Ausführungen für reale Agent-Workloads.",
+  "launchSandboxInstancesInUnder200ms": "Starten Sie Sandbox-Instanzen im Durchschnitt in unter 200 ms, optimiert für sprunghafte und hochfrequente Workloads.",
+  "operating1159Instances": "1.159 Instanzen in Betrieb",
+  "runThousandsOfSandboxInstancesIn": "Führen Sie Tausende von Sandbox-Instanzen parallel mit konstant niedriger Latenz für Agent-Workloads mit hohem Durchsatz aus.",
+  "secureIsolation": "Sichere Isolation",
+  "subSecondStartup": "Start unter einer Sekunde",
+  "tryNow": "Jetzt ausprobieren"
+}

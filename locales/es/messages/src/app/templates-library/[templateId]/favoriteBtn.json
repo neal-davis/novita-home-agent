@@ -1,0 +1,10 @@
+{
+  "bookmarkThisTemplate": "Guardar esta plantilla en marcadores",
+  "favorite": "Añadir a favoritos",
+  "favoriteSuccessfully": "Añadido a favoritos correctamente",
+  "loginFailurePleaseLogInAgain": "Error de inicio de sesión, inicia sesión de nuevo",
+  "pleaseLogInFirst": "Inicia sesión primero",
+  "unbookmarkThisTemplate": "Quitar esta plantilla de marcadores",
+  "unfavorite": "Quitar de favoritos",
+  "unfavoriteSuccessfully": "Eliminado de favoritos correctamente"
+}

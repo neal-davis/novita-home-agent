@@ -1,0 +1,22 @@
+{
+  "afterMigrationInstanceDetailsEG": "Após a migração, os detalhes da instância (por exemplo, ID, IP de saída) permanecerão inalterados. A imagem será armazenada com segurança em",
+  "afterMigrationYourInstanceInformationWill": "Após a migração, as informações da sua instância permanecerão inalteradas (como ID da instância e IP de egresso).",
+  "backUpYourData": "faça backup dos seus dados",
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
+  "cudaVersionIsIncompatible": "A versão do CUDA é incompatível",
+  "howeverLocalDataOnTheNode": "No entanto, os dados locais no nó não serão preservados.",
+  "iUnderstandThatCurrentDataWill": "Entendo que os dados atuais não serão retidos após a migração e que concluí um backup.",
+  "ifSelectedTheContainerDiskWill": "Se selecionado, o Disco do Contêiner será transformado em imagem e migrado com a instância. A nova imagem inclui os dados do Disco do Contêiner e está pronta para uso.",
+  "inAdvanceToPreventLossInstance": "com antecedência para evitar perdas. A tarefa de migração da instância não pode ser encerrada.",
+  "instanceMigration": "Migração de Instância",
+  "migrateData": "Migrar dados",
+  "noResourcesAvailablePleaseTryAgain": "Não há recursos disponíveis; tente novamente mais tarde ou entre em contato com o suporte ao cliente!",
+  "please": "Por favor",
+  "pleaseConfirmThatYouHaveBacked": "Confirme que você fez backup dos seus dados.",
+  "success": "sucesso",
+  "theMigrationTaskCannotBeCanceled": "A tarefa de migração não pode ser cancelada depois de iniciada.",
+  "theNovitaOfficialRepo": "o Repo oficial da Novita.",
+  "toEnsureDataSafety": "Para garantir a segurança dos dados,",
+  "weRecommendBackingUpYourData": "recomendamos fazer backup dos seus dados com antecedência."
+}

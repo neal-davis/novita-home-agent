@@ -1,0 +1,16 @@
+{
+  "apiKey": "Clave API",
+  "apiKeyBudgetSavedSuccessfully": "Presupuesto de la clave API guardado correctamente",
+  "apiKeyBudgetSettings": "Configuración del presupuesto de la clave API",
+  "applyTheFollowingBudgetSettings": "¿Aplicar la siguiente configuración de presupuesto?",
+  "budgetLimit": "Límite de presupuesto",
+  "budgetType": "Tipo de presupuesto",
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
+  "confirmApiKeyBudget": "Confirmar presupuesto de la clave API",
+  "enterAmount": "Introducir importe",
+  "ifTheKeyBudgetExceedsThe": "Si el presupuesto de la clave supera el presupuesto del miembro, tendrá prioridad el presupuesto del miembro.",
+  "save": "Guardar",
+  "saving": "Guardando...",
+  "unlimited": "Ilimitado"
+}

@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "title": "random pokemon generator",
+      "url": "random-pokemon-generator",
+      "urlSlug": "random-pokemon-generator",
+      "list": [
+        {
+          "title": "random pokemon generator",
+          "prompt": "sugimori ken, electric pokemon, rabbit, yellow body, (masterpiece), high quality, best quality, high-definition, ultra-detailed, outdoors, grass <lora:pokemon_v3_offset_50934:1>",
+          "imgSrc": "https://next-app-static.s3.ap-southeast-1.amazonaws.com/model-image/pokemon/50d05624-3e87-4b40-920d-4260999eb24d-0.png",
+          "model_name": "anyloraCheckpoint_bakedvaeBlessedFp16_66208.safetensors",
+          "negative_prompt": "(painting by bad-artist-anime:0.9), (painting by bad-artist:0.9), watermark, text, error, blurry, jpeg artifacts, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, artist name, (worst quality, low quality:1.4), bad anatomy"
+        },
+        {
+          "title": "random pokemon generator",
+          "prompt": "sugimori ken, electric pokemon, rabbit, yellow body, (masterpiece), high quality, best quality, high-definition, ultra-detailed, outdoors, grass <lora:pokemon_v3_offset_50934:1>",
+          "imgSrc": "https://next-app-static.s3.ap-southeast-1.amazonaws.com/model-image/pokemon/f509e6e7-1b0e-42d0-94ec-648833fccb45-0.png",
+          "model_name": "anyloraCheckpoint_bakedvaeBlessedFp16_66208.safetensors",
+          "negative_prompt": "(painting by bad-artist-anime:0.9), (painting by bad-artist:0.9), watermark, text, error, blurry, jpeg artifacts, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, artist name, (worst quality, low quality:1.4), bad anatomy"
+        }
+      ]
+    },
+    {
+      "title": "pokemon team builder",
+      "url": "pokemon-team-builder",
+      "urlSlug": "pokemon-team-builder",
+      "list": [
+        {
+          "title": "pokemon team builder | Velociraptor",
+          "prompt": "Velociraptor <lora:pksp768_V2-1_213417:0.8>",
+          "imgSrc": "https://next-app-static.s3.ap-southeast-1.amazonaws.com/model-image/pokemon/0013bee734a345509029d78714cf087b.png",
+          "model_name": "dreamshaper_8_93211.safetensors"
+        },
+        {
+          "title": "pokemon team builder | ninja turtle",
+          "prompt": "ninja turtle <lora:pksp768_V2-1_213417:0.9>",
+          "imgSrc": "https://next-app-static.s3.ap-southeast-1.amazonaws.com/model-image/pokemon/dbdcb5d1-0a53-4580-88fd-5bb892099b1e-0.png",
+          "model_name": "dreamshaper_8_93211.safetensors"
+        },
+        {
+          "title": "pokemon team builder | kawai",
+          "prompt": "kawai <lora:pksp768_V2-1_213417:0.8>",
+          "imgSrc": "https://next-app-static.s3.ap-southeast-1.amazonaws.com/model-image/pokemon/184926b6-a650-42c7-884c-2efb66489fee-0.png",
+          "model_name": "dreamshaper_8_93211.safetensors"
+        }
+      ]
+    },
+    {
+      "title": "pokemon generator",
+      "url": "pokemon-generator",
+      "urlSlug": "pokemon-generator",
+      "list": [
+        {
+          "title": "pokemon generator",
+          "prompt": "rocket, hawk <lora:pksp768_V2-1_213417:0.8>",
+          "imgSrc": "https://next-app-static.s3.ap-southeast-1.amazonaws.com/model-image/pokemon/7930d404-1460-4e32-b40c-1f30415e0b0e-0.png",
+          "model_name": "dreamshaper_8_93211.safetensors"
+        },
+        {
+          "title": "pokemon generator",
+          "prompt": "matcha latte, mug <lora:pksp768_V2-1_213417:0.9>",
+          "imgSrc": "https://next-app-static.s3.ap-southeast-1.amazonaws.com/model-image/pokemon/715a9073-6f9d-4599-b7b1-99033c32dc8d-0.png",
+          "model_name": "dreamshaper_8_93211.safetensors"
+        },
+        {
+          "title": "pokemon generator",
+          "prompt": "fox, bikini <lora:pksp768_V2-1_213417:0.8>",
+          "imgSrc": "https://next-app-static.s3.ap-southeast-1.amazonaws.com/model-image/pokemon/5929c903-0e5e-46d8-8f5b-5bbc1ee613c1-0.png",
+          "model_name": "dreamshaper_8_93211.safetensors"
+        }
+      ]
+    }
+  ]
+}

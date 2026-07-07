@@ -1,0 +1,13 @@
+{
+  "all": "Todo",
+  "back": "Atrás",
+  "close": "Cerrar",
+  "loading": "Cargando...",
+  "loadingMessages": "Cargando mensajes...",
+  "markAllAsRead": "Marcar todo como leído",
+  "messages": "Mensajes",
+  "noMessagesYet": "Aún no hay mensajes",
+  "noMoreMessages": "No hay más mensajes",
+  "read": "Leído",
+  "unread": "No leído"
+}

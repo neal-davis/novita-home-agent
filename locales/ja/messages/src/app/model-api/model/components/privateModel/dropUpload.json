@@ -1,0 +1,9 @@
+{
+  "clickOrDragFileToThis": "ファイルをクリックするか、このエリアにドラッグしてアップロードしてください",
+  "modelNameCanOnlyContainLetters": "モデル名には文字、数字、アンダースコアのみ使用でき、長さは100文字を超えてはいけません",
+  "pleaseAddKeyFirst": "先にキーを追加してください",
+  "pleaseEnterModelNameFirst": "先にモデル名を入力してください",
+  "sha256ComputationFailedPleaseCheckIf": "SHA256 の計算に失敗しました。お使いのブラウザのバージョンが crypto および btoa 関数に対応しているか確認してください。または、モデルのアップロードに関する問題を解決するためにお問い合わせください。",
+  "supportForASingleOrBulk": "単一または一括アップロードに対応しています。会社データやその他の禁止ファイルのアップロードは固く禁じられています。",
+  "uploadFailed": "アップロードに失敗しました"
+}

@@ -1,0 +1,69 @@
+.container {
+  padding-top: 83px;
+  padding-bottom: 96px;
+  background-color: var(--gray-3);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  overflow-x: hidden;
+}
+.smallTitle {
+  @include font-small-console;
+  color: var(--dark-2);
+  text-align: center;
+  margin-bottom: 8px;
+}
+.title {
+  @include font-h2;
+  color: var(--dark-1);
+  text-align: center;
+  margin-bottom: 48px;
+}
+.cards {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+}
+.swiper_wrap {
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  position: relative;
+
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 60px;
+    height: 100%;
+    z-index: 2;
+  }
+
+  &::before {
+    left: 0;
+    background: linear-gradient(
+      to right,
+      rgba(255, 255, 255, 1),
+      rgba(255, 255, 255, 0)
+    );
+  }
+
+  &::after {
+    right: 0;
+    background: linear-gradient(
+      to left,
+      rgba(255, 255, 255, 1),
+      rgba(255, 255, 255, 0)
+    );
+  }
+
+  .slide {
+    max-width: 524px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

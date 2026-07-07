@@ -1,0 +1,10 @@
+{
+  "didntGetAnEmail": "没有收到邮件？",
+  "emailSentSuccessfully": "邮件已成功发送。",
+  "emailVerificationFailed": "邮箱验证失败",
+  "emailVerifiedSuccessfully": "邮箱验证成功",
+  "invalidEmailAddress": "无效的邮箱地址。",
+  "resendItHere": "在此重新发送",
+  "youWillReceiveAnEmailWith-1a60b7": "几分钟后，您将收到一封包含如何激活账户说明的邮件。",
+  "youWillReceiveAnEmailWith-858018": "几分钟后，您将收到一封包含如何重置密码说明的邮件。"
+}

@@ -1,0 +1,15 @@
+{
+  "bringYourOwnModel": "自带模型",
+  "costEfficient": "成本高效",
+  "deployCloseToUsersOnResilient": "在弹性基础设施上就近部署到用户身边。",
+  "developerFirstDx": "开发者优先的 DX",
+  "globalReliable": "全球化且可靠",
+  "highThroughputLlmServingAndLow": "高吞吐量 LLM 服务，以及面向代理的低延迟启动。",
+  "performance": "性能",
+  "privateEndpointsCustomSlasWhenYou": "在需要时提供私有端点和自定义 SLA。",
+  "sandboxIsolationForAgentWorkloads": "面向代理工作负载的沙盒隔离。",
+  "saveUpTo50WithSmart": "通过智能定价和合适场景下的竞价实例，最高节省 50%。",
+  "secureByDesign": "安全源于设计",
+  "simpleApisSdksClearDocsInstant": "简单的 APIs/SDKs、清晰的文档、即时扩展。",
+  "whyNovitaAi": "为什么选择 Novita AI"
+}

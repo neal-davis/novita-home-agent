@@ -1,0 +1,22 @@
+{
+  "all": "Tous",
+  "amountShouldPay": "Montant à payer",
+  "billingPeriod": "Période de facturation",
+  "captionTable": "tableau des légendes",
+  "cashPaid": "Montant payé en espèces",
+  "instance": "Instance",
+  "localStorage": "Stockage local",
+  "networkStorage": "Stockage réseau",
+  "onDemand": "À la demande",
+  "prepaid": "Prépayé",
+  "prepaidByDay": "Prépayé par jour",
+  "prepaidByMonth": "Prépayé par mois",
+  "prepaidByWeek": "Prépayé par semaine",
+  "prepaidByYear": "Prépayé par an",
+  "pricingModel": "Modèle de tarification",
+  "product": "Produit",
+  "productName": "Nom du produit",
+  "productType": "Type de produit",
+  "search": "rechercher",
+  "voucherDeduction": "Déduction du bon"
+}

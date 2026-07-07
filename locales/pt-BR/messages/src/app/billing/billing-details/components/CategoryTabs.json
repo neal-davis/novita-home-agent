@@ -1,0 +1,6 @@
+{
+  "aggregatedBilling": "Faturamento agregado",
+  "enterpriseBilling": "Faturamento empresarial",
+  "fixedTermBilling": "Faturamento com prazo fixo",
+  "usageBasedBilling": "Faturamento baseado no uso"
+}

@@ -1,0 +1,17 @@
+{
+  "cancel": "Cancelar",
+  "estimatedCost": "Costo estimado:",
+  "generate": "Generar",
+  "guidanceScale": "Escala de guía",
+  "heigh": "Altura",
+  "model": "Modelo",
+  "negativePrompt": "Prompt negativo",
+  "prompt": "Prompt",
+  "queueing": "En cola...",
+  "seed": "Semilla",
+  "showcase": "Galería",
+  "steps": "Pasos",
+  "thisTaskMayTakeSomeTime": "Esta tarea puede tardar un poco (unos minutos), tenga paciencia.",
+  "whatYouWantToAvoidGenerating": "Lo que desea evitar generar...",
+  "width": "Ancho"
+}

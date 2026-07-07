@@ -1,0 +1,13 @@
+{
+  "agentSandbox": "Bac à sable d’agent",
+  "eachTaskRunsInAnIsolated": "Chaque tâche s’exécute dans un bac à sable isolé avec une séparation au niveau du système afin de réduire les risques de fuite de données et d’accès non autorisé.",
+  "fastStartupStrongIsolationMassiveConcurrency": "Démarrage rapide. Isolation renforcée. Concurrence massive.",
+  "highConcurrencyAtScale": "Forte concurrence à grande échelle",
+  "launchSandboxInstancesInMillisecondsIsolate": "Lancez des instances de bac à sable en quelques millisecondes, isolez chaque tâche et passez à des milliers d’exécutions simultanées pour les charges de travail d’agents réelles.",
+  "launchSandboxInstancesInUnder200ms": "Lancez des instances de bac à sable en moins de 200 ms en moyenne, optimisées pour les charges de travail par pics et à haute fréquence.",
+  "operating1159Instances": "1 159 instances en cours d’exécution",
+  "runThousandsOfSandboxInstancesIn": "Exécutez des milliers d’instances de bac à sable en parallèle avec une latence constamment faible pour les charges de travail d’agents à haut débit.",
+  "secureIsolation": "Isolation sécurisée",
+  "subSecondStartup": "Démarrage en moins d’une seconde",
+  "tryNow": "Essayer maintenant"
+}

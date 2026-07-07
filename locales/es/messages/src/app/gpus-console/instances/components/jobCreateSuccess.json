@@ -1,0 +1,7 @@
+{
+  "aJobHasBeenCreatedJob": "Se ha creado un trabajo. ID del trabajo:",
+  "close": "Cerrar",
+  "jobCreatedSuccess": "Trabajo creado correctamente",
+  "toJobs": "Ir a [Trabajos]",
+  "youCanViewAndManageYour": ". Puedes ver y gestionar tus trabajos en [Consola - Trabajos]. Una vez que el trabajo se complete, podrás ver la imagen guardada en tu repositorio de imágenes."
+}

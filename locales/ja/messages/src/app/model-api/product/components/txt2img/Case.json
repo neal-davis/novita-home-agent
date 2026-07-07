@@ -1,0 +1,12 @@
+{
+  "basedOnSdxl10Visit": "SDXL 1.0 に基づいています。次をご覧ください",
+  "cancel": "キャンセル",
+  "download": "ダウンロード",
+  "forAccessToMoreModelsAnd": "より多くのモデルと機能にアクセスできます。",
+  "generate": "生成",
+  "generateAiImagesWith": "AI 画像を生成",
+  "novitaAiImg": "Novita AI 画像",
+  "playground": "プレイグラウンド",
+  "stableDiffusionApi": "Stable Diffusion API",
+  "tryTextToImage": "テキストから画像生成を試す"
+}

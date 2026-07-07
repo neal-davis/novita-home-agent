@@ -1,0 +1,21 @@
+{
+  "agentSandbox": "Sandbox de agentes",
+  "baseUrl": "BASE_URL",
+  "dedicatedEndpoints": "Endpoints dedicados",
+  "exploreAllModels": "Explorar todos los modelos",
+  "getStarted": "Comenzar",
+  "gpuCloud": "Nube GPU",
+  "model": "MODEL",
+  "modelApis-10b567": "APIs DE MODELOS",
+  "modelApis-8d449d": "APIs de modelos",
+  "noInfrastructureToManage": "Sin infraestructura que gestionar.",
+  "operational": "OPERATIVO",
+  "privateEndpointsGuaranteedPerformanceNoNoisy": "Endpoints privados. Rendimiento garantizado. Sin vecinos ruidosos.",
+  "productNavigation": "Navegación del producto",
+  "productionReadyYouCallItWe": "listo para producción. Tú lo llamas, nosotros lo ejecutamos. Facturado por",
+  "run200ModelsThroughASingle": "Ejecuta más de 200 modelos mediante una sola API.",
+  "serverlessModelApis": "APIs de modelos sin servidor",
+  "textImageAudioVideoAllServerless": "Texto, imagen, audio, video — todo sin servidor, todo",
+  "tokenNotTheHour": "token, no por hora.",
+  "yourModelYourComputeIsolatedResources": "Tu modelo. Tu capacidad de cómputo. Los recursos aislados implican una latencia constante con cualquier rendimiento. Porque la producción no cuenta con un presupuesto para reintentos."
+}

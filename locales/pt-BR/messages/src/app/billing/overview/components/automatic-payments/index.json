@@ -1,0 +1,21 @@
+{
+  "autoRecharge": "Recarga Automática",
+  "autoRechargeIs": "A Recarga Automática está",
+  "autoRechargeSettingsHaveBeenUpdated": "As configurações de Recarga Automática foram atualizadas com sucesso",
+  "autoTopUp": "Recarga automática",
+  "autoTopUpIs": "A recarga automática está",
+  "autoTopUpSettingsHaveBeen": "As configurações de recarga automática foram atualizadas com sucesso",
+  "automaticPayments": "Pagamentos automáticos",
+  "automaticallyRechargeWhenYourBalanceFalls": "Recarregue automaticamente quando seu saldo ficar abaixo de um limite.",
+  "failedToUpdateAutoRechargeSetting": "Falha ao atualizar a configuração de Recarga Automática.",
+  "failedToUpdateAutoRechargeSettings": "Falha ao atualizar as configurações de Recarga Automática",
+  "failedToUpdateAutoTopUp": "Falha ao atualizar a configuração de recarga automática.",
+  "failedToUpdateAutoTopUp2": "Falha ao atualizar as configurações de recarga automática",
+  "modify": "Modificar",
+  "off": "DESATIVADO",
+  "on": "ATIVADO",
+  "pleaseAddAPaymentMethodFirst": "Adicione primeiro uma forma de pagamento.",
+  "pleaseAddAPaymentMethodFor": "Adicione primeiro um método de pagamento para Recarga Automática.",
+  "setUp": "Configurar",
+  "whenYourAvailableCreditFallsBelow": "Quando seu Crédito disponível ficar abaixo do limite, cobraremos seu cartão padrão para restaurar seu saldo para esse valor."
+}

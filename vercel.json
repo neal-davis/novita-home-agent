@@ -1,0 +1,216 @@
+{
+  "buildCommand": "node scripts/build.js",
+  "framework": "nextjs",
+  "crons": [
+    {
+      "path": "/api/blog/revalidate",
+      "schedule": "0 * * * *"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/docs/guides/third-party-ai-gradio-guide",
+      "destination": "/docs/guides/ai-gradio"
+    },
+    {
+      "source": "/docs/guides/third-party-anythingllm-guide",
+      "destination": "/docs/guides/anythingllm"
+    },
+    {
+      "source": "/docs/guides/third-party-continue-guide",
+      "destination": "/docs/guides/continue"
+    },
+    {
+      "source": "/docs/guides/third-party-cursor-guide",
+      "destination": "/docs/guides/cursor"
+    },
+    {
+      "source": "/docs/guides/third-party-dify-guide",
+      "destination": "/docs/guides/dify"
+    },
+    {
+      "source": "/docs/guides/third-party-helicone-guide",
+      "destination": "/docs/guides/helicone"
+    },
+    {
+      "source": "/docs/guides/third-party-huggingface-guide",
+      "destination": "/docs/guides/huggingface"
+    },
+    {
+      "source": "/docs/guides/third-party-langchain-guide",
+      "destination": "/docs/guides/langchain"
+    },
+    {
+      "source": "/docs/guides/third-party-langflow-guide",
+      "destination": "/docs/guides/langflow"
+    },
+    {
+      "source": "/guides/quickstart",
+      "destination": "/docs/guides/quickstart"
+    },
+    {
+      "source": "/docs/model-api/reference/image-generator/flux-1/dev-controlnet.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-editor/image-to-mask.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/face-editor/instant-style.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/video-generator/animate-anyone.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-generator/create-tile.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-generator/doodle.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/face-editor/facefusion.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-generator/flux-1/dev-img2img.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-generator/flux-1/schnell-img2img.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-generator/image-to-image-with-lcm.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-generator/text-to-image-with-lcm.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/face-editor/make-photo.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-generator/mix-pose.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-editor/relight.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-editor/remove-watermark.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-editor/replace-sky.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-editor/replace-object.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-generator/flux-1/dev.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-generator/flux-1/dev-lora.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-generator/flux-1/dev-lora-realism.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/video-generator/img2video-motion.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/face-editor/restore-face.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/audio/voice-clone-instant.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/docs/model-api/reference/image-generator/re-imagine.html",
+      "destination": "/models/end-of-service"
+    },
+    {
+      "source": "/blogs",
+      "destination": "https://blogs.novita.ai",
+      "permanent": true
+    },
+    {
+      "source": "/blogs/",
+      "destination": "https://blogs.novita.ai",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/deepseek-r1",
+      "destination": "/models/llm/deepseek-deepseek-r1"
+    },
+    {
+      "source": "/deepseek-v3",
+      "destination": "/models/llm/deepseek-deepseek-v3-0324"
+    },
+    {
+      "source": "/models/llm/deepseek-deepseek_v3",
+      "destination": "/models/llm/deepseek-deepseek-v3-0324"
+    },
+    {
+      "source": "/sitemap-docs.xml",
+      "destination": "https://novita.ai/docs/sitemap.xml"
+    },
+    {
+      "source": "/docs/skill.md",
+      "destination": "https://raw.githubusercontent.com/novitalabs/novita-skills/main/skills/novita-ai/SKILL.md"
+    },
+    {
+      "source": "/docs",
+      "destination": "https://novitaai.mintlify.dev/docs"
+    },
+    {
+      "source": "/docs/:match*",
+      "destination": "https://novitaai.mintlify.dev/docs/:match*"
+    },
+    {
+      "source": "/get-started/:match*",
+      "destination": "https://novitaai.mintlify.dev/docs/get-started/:match*"
+    },
+    {
+      "source": "/reference/:match*",
+      "destination": "https://novitaai.mintlify.dev/docs/api-reference/:match*"
+    },
+    {
+      "source": "/blogs/:match*",
+      "destination": "https://novita-docs.vercel.app/blogs/:match*"
+    },
+    {
+      "source": "/assets/:match*",
+      "destination": "https://novita-docs.vercel.app/assets/:match*"
+    },
+    {
+      "source": "/manifest.webmanifest",
+      "destination": "https://novita-docs.vercel.app/manifest.webmanifest"
+    },
+    {
+      "source": "/service-worker.js",
+      "destination": "https://novita-docs.vercel.app/service-worker.js"
+    },
+    {
+      "source": "/search-pro.worker.js",
+      "destination": "https://novita-docs.vercel.app/search-pro.worker.js"
+    }
+  ]
+}

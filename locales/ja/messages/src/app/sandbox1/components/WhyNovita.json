@@ -1,0 +1,13 @@
+{
+  "agentSandbox": "Agent Sandbox",
+  "eachTaskRunsInAnIsolated": "各タスクはシステムレベルで分離されたサンドボックス内で実行され、データ漏洩や不正アクセスのリスクを低減します。",
+  "fastStartupStrongIsolationMassiveConcurrency": "高速起動。強力な分離。大規模な同時実行。",
+  "highConcurrencyAtScale": "大規模環境での高い同時実行性",
+  "launchSandboxInstancesInMillisecondsIsolate": "サンドボックスインスタンスをミリ秒単位で起動し、すべてのタスクを分離して、実際のエージェントワークロード向けに数千件の同時実行までスケールできます。",
+  "launchSandboxInstancesInUnder200ms": "バースト性が高く高頻度なワークロード向けに最適化され、サンドボックスインスタンスを平均200ms未満で起動します。",
+  "operating1159Instances": "1,159インスタンスを稼働中",
+  "runThousandsOfSandboxInstancesIn": "高スループットのエージェントワークロード向けに、一貫して低いレイテンシで数千のサンドボックスインスタンスを並列実行します。",
+  "secureIsolation": "安全な分離",
+  "subSecondStartup": "1秒未満の起動",
+  "tryNow": "今すぐ試す"
+}

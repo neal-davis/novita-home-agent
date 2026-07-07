@@ -1,0 +1,13 @@
+{
+  "baseImage": "基础图像",
+  "cancel": "取消",
+  "chooseBaseImage": "选择基础图像",
+  "chooseFaceImage": "选择人脸图像",
+  "download": "下载",
+  "estimatedCost": "预估费用：",
+  "faceImage": "人脸图像",
+  "generate": "生成",
+  "tipsTheDifferenceOfBaseImage": "提示：基础图像和人脸图像的区别",
+  "uploadBaseImage": "上传基础图像",
+  "uploadFaceImage": "上传人脸图像"
+}

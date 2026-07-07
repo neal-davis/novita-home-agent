@@ -1,0 +1,22 @@
+{
+  "afterMigrationInstanceDetailsEG": "迁移后，实例详情（例如，ID、出站 IP）保持不变。镜像将被安全存储在",
+  "afterMigrationYourInstanceInformationWill": "迁移后，您的实例信息将保持不变（例如实例 ID 和出口 IP）。",
+  "backUpYourData": "备份您的数据",
+  "cancel": "取消",
+  "confirm": "确认",
+  "cudaVersionIsIncompatible": "CUDA 版本不兼容",
+  "howeverLocalDataOnTheNode": "但是，节点上的本地数据将不会被保留。",
+  "iUnderstandThatCurrentDataWill": "我了解迁移后当前数据将不会保留，并且我已完成备份。",
+  "ifSelectedTheContainerDiskWill": "如果选中，容器磁盘将被制作为镜像并随实例一起迁移。新镜像包含容器磁盘数据，可直接使用。",
+  "inAdvanceToPreventLossInstance": "以防止丢失。实例迁移任务无法终止。",
+  "instanceMigration": "实例迁移",
+  "migrateData": "迁移数据",
+  "noResourcesAvailablePleaseTryAgain": "没有可用资源，请稍后重试或联系客户支持！",
+  "please": "请",
+  "pleaseConfirmThatYouHaveBacked": "请确认您已备份数据。",
+  "success": "成功",
+  "theMigrationTaskCannotBeCanceled": "迁移任务一旦开始将无法取消。",
+  "theNovitaOfficialRepo": "Novita 官方 Repo。",
+  "toEnsureDataSafety": "为确保数据安全，",
+  "weRecommendBackingUpYourData": "我们建议您提前备份数据。"
+}

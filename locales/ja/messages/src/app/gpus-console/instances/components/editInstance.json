@@ -1,0 +1,18 @@
+{
+  "cancel": "キャンセル",
+  "containerDiskExpansionCurrent": "コンテナディスク拡張（現在",
+  "editInstance": "インスタンスを編集",
+  "enterYourContainerDiskExpandSize": "コンテナディスクの拡張サイズを入力してください",
+  "expand": "拡張：",
+  "exposeHttpPortsMax10": "HTTPポートを公開（最大10個）",
+  "exposeTcpPorts": "TCPポートを公開",
+  "gb-4d1316": "GB）",
+  "gb-505a44": "GB",
+  "pleaseEnterAValidSizeAnd": "有効なサイズを入力してください。0 GB 未満にはできません",
+  "pleaseEnterAValidSizeCurrent": "有効なサイズを入力してください。拡張後の現在のサイズは次の値を超えることはできません",
+  "save": "保存",
+  "subscriptionInstanceExpansionRequiresPrepaymentOf": "サブスクリプションインスタンスの拡張には、サブスクリプションインスタンスの残り期間分の拡張ストレージ料金の前払いが必要です。",
+  "success": "成功",
+  "theCurrentInstanceHasBeenShut": "現在のインスタンスはシャットダウンされています。インスタンスの実行中に、システムディスク容量を調整できます。",
+  "youCanEditWhileTheInstance": "インスタンスの実行中に編集できます。データが失われることはありません。"
+}

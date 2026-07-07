@@ -1,0 +1,17 @@
+{
+  "allowAgentsToAccessExternalApis": "Permite que los agentes accedan a APIs externas y datos en línea según sea necesario.",
+  "automateWebNavigationFormFillingAnd": "Automatiza la navegación web, el llenado de formularios y la extracción de datos dentro del entorno aislado.",
+  "browserUse": "Uso del navegador",
+  "codeExecution": "Ejecución de código",
+  "computerUse": "Uso de la computadora",
+  "controlFullDesktopEnvironmentsForTyping": "Controla entornos de escritorio completos para escribir, hacer clic, desplazarse, tomar capturas de pantalla y realizar otras acciones de GUI.",
+  "coreRuntimeCapabilities": "Capacidades principales del entorno de ejecución",
+  "everythingAgentsNeedToExecuteCode": "Todo lo que los agentes necesitan para ejecutar código, interactuar con sistemas y mantener el control en flujos de trabajo del mundo real.",
+  "externalApis": "APIs externas",
+  "liveSessionView": "Vista de sesión en vivo",
+  "pauseAndResumeLongRunningAgent": "Pausa y reanuda tareas de agentes de larga duración sin perder el estado.",
+  "persistentSessions": "Sesiones persistentes",
+  "runPythonJavascriptCAndOther": "Ejecuta Python, JavaScript, C++ y otros lenguajes en un entorno aislado seguro.",
+  "sandboxCapabilities": "Capacidades del entorno aislado",
+  "viewAndStreamSandboxSessionsWith": "Visualiza y transmite sesiones del entorno aislado con VNC para supervisión y depuración interactivas."
+}

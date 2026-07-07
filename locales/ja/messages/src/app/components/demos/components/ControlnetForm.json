@@ -1,0 +1,11 @@
+{
+  "addControlnetUnit": "ControlNet ユニットを追加",
+  "controlnet": "ControlNet",
+  "end": "終了",
+  "guidance": "ガイダンス",
+  "image": "画像",
+  "model": "モデル",
+  "preprocessor": "プリプロセッサ",
+  "start": "開始",
+  "strength": "強度"
+}

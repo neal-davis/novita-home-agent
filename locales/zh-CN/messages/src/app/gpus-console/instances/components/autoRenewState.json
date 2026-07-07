@@ -1,0 +1,7 @@
+{
+  "autoRenewIsEnabledButNo": "已启用自动续费，但未检测到有效的付款方式。续费将失败并切换为按量付费。请添加付款方式。",
+  "autoRenewOff": "自动续费：关闭",
+  "budgetIsInsufficient": "预算不足。",
+  "lessThan3DaysLeftPlease": "剩余不足 3 天。请尽快续费。",
+  "moreThan3DaysLeftPlease": "剩余超过 3 天。请检查续费。"
+}

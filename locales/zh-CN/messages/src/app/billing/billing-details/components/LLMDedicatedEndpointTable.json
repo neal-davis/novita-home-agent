@@ -1,0 +1,11 @@
+{
+  "day": "天",
+  "endpointsId": "端点 ID",
+  "export": "导出",
+  "groupBy": "分组依据",
+  "hour": "小时",
+  "month": "月",
+  "noData": "暂无数据！",
+  "timeRange": "时间范围",
+  "week": "周"
+}

@@ -1,0 +1,6 @@
+{
+  "addFundsUsdMinimum5And": "添加资金（USD）最低 >= $5 且为整数",
+  "pleaseEnterAnIntegerGreaterThan": "请输入大于 5 的整数",
+  "pleaseLoginFirst": "请先登录",
+  "topUp": "$ 充值"
+}

@@ -1,0 +1,9 @@
+{
+  "copy": "COPIER",
+  "linkCopiedSuccessfully": "Lien copié avec succès",
+  "shareLink": "Partager le lien",
+  "shareLinkFailed": "Échec du partage du lien",
+  "shareLinkToReproducePlaygroundExample": "Partager le lien pour reproduire l’exemple du Playground",
+  "validFor30Days": "Valable pendant 30 jours",
+  "validIndefinitely": "Valable indéfiniment"
+}

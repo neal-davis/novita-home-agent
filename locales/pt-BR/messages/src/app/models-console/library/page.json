@@ -1,0 +1,10 @@
+{
+  "audio": "Áudio",
+  "embedding": "Embedding",
+  "image": "Imagem",
+  "recommendMeAModel": "Recomende-me um modelo",
+  "reranker": "Reclassificador",
+  "seeEventTerms": "Ver termos do evento",
+  "video": "Vídeo",
+  "vision": "Visão"
+}

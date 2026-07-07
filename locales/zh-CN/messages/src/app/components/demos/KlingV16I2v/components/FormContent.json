@@ -1,0 +1,10 @@
+{
+  "duration": "时长",
+  "guidanceScale": "引导系数",
+  "message10s": "10秒",
+  "message5s": "5秒",
+  "model": "模型",
+  "negativePrompt": "负面提示词",
+  "prompt": "提示词",
+  "showcase": "展示"
+}

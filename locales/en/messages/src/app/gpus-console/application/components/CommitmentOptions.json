@@ -1,0 +1,10 @@
+{
+  "commitment": "Commitment",
+  "message50OffInterruptible": "50% Off, Interruptible",
+  "onDemand": "On Demand",
+  "payAOneTimeFixedFee": "Pay a one-time fixed fee for a long-term commitment to reserve stable, dedicated resources.",
+  "payAsYouGoWithCosts": "Pay as you go,with costs based on actual usage time.",
+  "spot": "Spot",
+  "spotInstancesOfferLowPricesBut": "Spot instances offer low prices but may be interrupted at any time.",
+  "subscription": "Subscription"
+}

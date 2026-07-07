@@ -1,0 +1,12 @@
+{
+  "addCard": "カードを追加",
+  "cancel": "キャンセル",
+  "confirmationOfCardDeletion": "カード削除の確認",
+  "exp": "有効期限",
+  "noPaymentMethod": "お支払い方法がありません",
+  "remove": "削除",
+  "removeCard": "カードを削除",
+  "removingThisCardWillDisableAuto": "このカードを削除すると、自動リチャージが無効になります。",
+  "removingThisCardWillDisableRecharges": "このカードを削除すると、チャージと自動支払いが無効になります",
+  "youCanUpdateYourCreditCard": "クレジットカードは月に1回のみ更新できます。"
+}

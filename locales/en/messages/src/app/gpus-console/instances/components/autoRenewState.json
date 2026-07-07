@@ -1,0 +1,7 @@
+{
+  "autoRenewIsEnabledButNo": "Auto-renew is enabled but no valid payment method is detected. Renewal will fail and switch to pay-as-you-go. Please add a payment method.",
+  "autoRenewOff": "Auto-renew: Off",
+  "budgetIsInsufficient": "Budget is insufficient.",
+  "lessThan3DaysLeftPlease": "Less than 3 days left. Please renew soon.",
+  "moreThan3DaysLeftPlease": "More than 3 days left. Please check renewal."
+}

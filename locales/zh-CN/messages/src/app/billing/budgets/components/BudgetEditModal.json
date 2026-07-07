@@ -1,0 +1,15 @@
+{
+  "applyTheFollowingBudgetSettings": "应用以下预算设置？",
+  "budgetLimit": "预算限额",
+  "budgetSettings": "预算设置",
+  "budgetSettingsSavedSuccessfully": "预算设置已成功保存",
+  "budgetType": "预算类型",
+  "cancel": "取消",
+  "confirm": "确认",
+  "confirmBudgetSettings": "确认预算设置",
+  "enterAmount": "输入金额",
+  "member": "成员",
+  "save": "保存",
+  "saving": "正在保存...",
+  "unlimited": "无限制"
+}

@@ -1,0 +1,9 @@
+{
+  "_comment": "Captured /v3/stripe/promotion (prod, read-only) for hermetic /gpus-console/upgrade. This endpoint is consumed by a global header/promotion component (not the upgrade page itself); the page renders fine regardless. The real captured response was an inactive promotion (valid:false) — kept verbatim, contains no PII or secrets.",
+  "couponId": "",
+  "percentOff": 0,
+  "amountOff": "0",
+  "redeemBy": "0",
+  "valid": false,
+  "activityName": ""
+}

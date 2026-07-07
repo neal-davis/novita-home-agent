@@ -1,0 +1,5 @@
+{
+  "_comment": "Empty unread-notices for hermetic /coding-plan (voucherNotification reqNotices -> reads .data and .forEach). MUST be an array under data; an object {} crashes the notice loop (forEach is not a function). Empty => no voucher toast noise.",
+  "code": 0,
+  "data": []
+}

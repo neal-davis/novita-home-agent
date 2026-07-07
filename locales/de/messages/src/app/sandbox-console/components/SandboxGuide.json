@@ -1,0 +1,17 @@
+{
+  "addApiKey": "API-Schlüssel hinzufügen",
+  "belowIsASimpleExampleShowing": "Unten finden Sie ein einfaches Beispiel, das zeigt, wie Sie über das SDK eine Sandbox erstellen und angegebene Befehle ausführen.",
+  "buildStatefulAgentsWithNovitaSandbox": "Zustandsbehaftete Agents mit Novita Sandbox erstellen",
+  "cliReference": "CLI-Referenz",
+  "copyCode": "Code kopieren",
+  "createApiKey": "API-SCHLÜSSEL erstellen",
+  "docs": "Dokumentation",
+  "executeTheFollowingCommandsToRun": "Führen Sie die folgenden Befehle aus, um den obigen Code auszuführen.",
+  "goToKeyManagement": "Zur Schlüsselverwaltung gehen",
+  "installSdk": "SDK installieren",
+  "runAiGeneratedCodeToolsAnd": "Führen Sie KI-generierten Code, Tools und Browser in sicheren Cloud-Sandboxes aus",
+  "scaleFromOneSandboxToThousands": "Skalieren Sie von einer Sandbox auf Tausende für Coding-, Datenanalyse- und RL-Workloads",
+  "useSdkToStartAgentSandbox": "SDK verwenden, um Agent-Sandbox zu starten",
+  "youCanInstallTheSdkBy": "Sie können das SDK installieren, indem Sie die folgenden Befehle ausführen.",
+  "zeroInfrastructureManagement": "Kein Infrastrukturmanagement"
+}

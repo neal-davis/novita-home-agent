@@ -1,0 +1,4 @@
+{
+  "imageDedicatedEndpoints": "Points de terminaison dédiés aux images",
+  "llmDedicatedEndpoints": "Points de terminaison dédiés aux LLM"
+}

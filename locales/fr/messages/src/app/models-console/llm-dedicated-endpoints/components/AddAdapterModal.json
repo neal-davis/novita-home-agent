@@ -1,0 +1,18 @@
+{
+  "adapterAlreadyExists": "L’adaptateur existe déjà",
+  "adapterName": "Nom de l’adaptateur",
+  "adapterReadyToAdd": "Adaptateur prêt à être ajouté.",
+  "addAdapter": "Ajouter un adaptateur",
+  "cancel": "Annuler",
+  "clickTheButtonAboveToAdd-5002cb": "Cliquez sur le bouton ci-dessus pour ajouter des adaptateurs.",
+  "clickTheButtonAboveToAdd-fcb6d5": "Cliquez sur le bouton ci-dessus pour ajouter des adaptateurs Hugging Face.",
+  "enterAdaptersRepositoryName": "Saisissez le nom du dépôt de l’adaptateur",
+  "enterHuggingFaceAdaptersRepositoryName": "Saisissez le nom du dépôt de l’adaptateur Hugging Face",
+  "gatheringAdapterInformation": "Collecte des informations sur l’adaptateur...",
+  "loraAdapterSuccessfullyMatchedWithThe": "L’adaptateur LoRA a été associé avec succès au modèle de base.",
+  "noAdapterAdded": "Aucun adaptateur ajouté",
+  "optionalRouteForThisAdapterLeave": "Route facultative pour cet adaptateur. Laissez vide pour utiliser le nom de l’adaptateur par défaut. La route doit être unique au sein de l’endpoint.",
+  "remove": "Supprimer",
+  "route": "Route",
+  "save": "Enregistrer"
+}

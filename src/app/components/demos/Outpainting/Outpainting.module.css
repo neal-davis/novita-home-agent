@@ -1,0 +1,160 @@
+.outpainting_wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding: 24px;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+
+.dragger_wrapper {
+  height: 100%;
+}
+
+.dragger_text {
+  color: #fff;
+}
+
+.cropper_wrapper {
+  position: relative;
+  flex: 1;
+  width: 100%;
+  overflow: hidden;
+}
+.cropper_in_product {
+  height: 60vh;
+  flex: 0 0 60vh;
+}
+@media screen and (max-width: 600px) {
+  .cropper_in_product {
+    height: auto;
+    flex: auto;
+  }
+}
+
+.cropper_wrapper.hide {
+  height: 0;
+  flex: 0 0 0px;
+  visibility: hidden;
+}
+
+.cropper {
+  width: 100%;
+  height: 100%;
+}
+
+.cropper_info {
+  position: absolute;
+  height: 60px;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  column-gap: 20px;
+  background-color: var(--white);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 0 20px;
+  z-index: 100;
+}
+
+.cropper_input {
+  width: 60px;
+}
+.cropper_info span {
+  margin: 0 5px;
+}
+
+.cropper_info .cropper_res {
+  flex: 1;
+  white-space: nowrap;
+}
+.cropper_info .cropper_res.invalid {
+  color: red;
+}
+
+.cropper_info .gen_btn {
+  flex: 0 0 80px;
+  height: 36px !important;
+}
+
+.cropper_info .cancel_btn {
+  /* min-width: 60px; */
+  height: 36px !important;
+}
+
+@media screen and (max-width: 600px) {
+  .cropper_info {
+    position: relative;
+    flex-direction: column;
+    height: auto;
+    row-gap: 10px;
+    margin-top: 20px;
+    background-color: transparent;
+  }
+
+  .cropper_info .gen_btn {
+    flex: 0 0 40px;
+  }
+  .cropper_info .cropper_res {
+    display: flex;
+    width: 100%;
+    padding: 0;
+    flex-direction: row;
+    white-space: nowrap;
+  }
+  .cropper_input {
+    flex: 1;
+  }
+}
+
+.outpainting_wrapper .btn_group {
+  flex: 0 0 48px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  column-gap: 16px;
+}
+
+.preview_wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+}
+.preview_wrapper.preview_in_product {
+  max-height: 512px;
+}
+.preview_wrapper.preview_in_playground {
+  position: absolute;
+  top: 68px;
+  left: 24px;
+  right: 24px;
+  bottom: 24px;
+}
+
+.preview_img_wrapper {
+  position: relative;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.preview_img {
+  width: auto;
+  height: 100%;
+  object-fit: contain;
+}
+.preview_img_img {
+  height: 100% !important;
+}

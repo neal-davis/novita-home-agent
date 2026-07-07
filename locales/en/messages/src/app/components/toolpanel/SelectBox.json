@@ -1,0 +1,13 @@
+{
+  "cleanup": "cleanup",
+  "img2img": "img2img",
+  "lcmTxt2img": "LCM-txt2img",
+  "outpainting": "outpainting",
+  "reimagine": "reimagine",
+  "removeBackground": "remove-background",
+  "removeText": "remove-text",
+  "removeWatermark": "remove-watermark",
+  "replaceSky": "replace-sky",
+  "txt2img": "txt2img",
+  "upscale": "upscale"
+}

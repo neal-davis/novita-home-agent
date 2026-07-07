@@ -1,0 +1,19 @@
+{
+  "autoRenew": "自动续费",
+  "cancel": "取消",
+  "confirm": "确认",
+  "confirmCurrentOperation": "确认当前操作？",
+  "currentExpirationTime": "当前到期时间",
+  "details": "详情",
+  "estimatedRenewalAmount": "预计续费金额",
+  "gpuFee": "GPU 费用",
+  "instanceId": "实例 ID",
+  "manageAutoRenew": "管理自动续费",
+  "nextRenewalTime": "下次续费时间",
+  "off": "% 折扣",
+  "processing": "处理中",
+  "renewalDuration": "续费时长",
+  "storageFee": "存储费用",
+  "unitPrice": "单价",
+  "weWillAttemptCharge3Days": "我们将在到期前 3 天尝试扣费"
+}

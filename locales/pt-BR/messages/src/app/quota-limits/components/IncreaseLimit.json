@@ -1,0 +1,16 @@
+{
+  "cancel": "Cancelar",
+  "contactEmail": "E-mail de contato",
+  "currentLimit": "Limite atual",
+  "increaseLimit": "Aumentar limite",
+  "limitMetric": "Métrica de limite",
+  "pleaseEnterAPositiveIntegerValue": "Insira um valor inteiro positivo",
+  "pleaseEnterAValidEmailAddress": "Insira um endereço de e-mail válido",
+  "pleaseEnterTheReasonForYour": "Insira o motivo da sua solicitação de cota para agilizar nosso processo de análise",
+  "quotaIncreaseRequestSubmitted": "Solicitação de aumento de cota enviada",
+  "reasonForRequest": "Motivo da solicitação",
+  "requestRateLimitIncrease": "Solicitar aumento do limite de taxa",
+  "requestedRateLimit": "Limite de taxa solicitado",
+  "resourceService": "Recurso/Serviço",
+  "submit": "Enviar"
+}

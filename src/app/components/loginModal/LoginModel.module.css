@@ -1,0 +1,33 @@
+.title {
+  font-size: 26px;
+  font-weight: 600;
+  margin: 0;
+}
+.desc {
+  font-size: 14px;
+  font-weight: 400;
+  margin: 2px 0 9px;
+  color: hsla(180, 7%, 97%, 0.76);
+  max-width: 90%;
+}
+.policy {
+  color: hsla(180, 7%, 97%, 0.6);
+  padding: 12px 0;
+}
+.link {
+  color: #1677ff;
+}
+.link:hover {
+  color: #1063d7;
+}
+.github_btn {
+  margin-top: 10px;
+}
+
+.github_btn .btn {
+  width: 260px;
+  height: 40px;
+  color: #000 !important;
+  border-radius: 4px;
+  background-color: #fff !important;
+}

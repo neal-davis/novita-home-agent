@@ -1,0 +1,11 @@
+{
+  "deviceInformation": "设备信息",
+  "gb": "GB",
+  "gpuName": "GPU 名称",
+  "gpusNode": "GPUs/节点",
+  "interfaceType": "接口类型",
+  "ramNode": "RAM/节点",
+  "region": "区域",
+  "storageNode": "存储/节点",
+  "vcpuNode": "vCPU/节点"
+}

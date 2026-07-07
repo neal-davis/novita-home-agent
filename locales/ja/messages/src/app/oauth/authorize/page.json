@@ -1,0 +1,9 @@
+{
+  "applicationInformationError": "アプリケーション情報エラー",
+  "isRequestingAccessToYourNovita": "は、メールアドレスに関連付けられたあなたのNovitaアカウントへのアクセスをリクエストしています",
+  "missingRequiredParametersAuthorizationCannotBe": "必須パラメータが不足しているため、認証を完了できません",
+  "permissionsNotice": "権限に関する通知:",
+  "requestParameterError": "リクエストパラメータエラー",
+  "selectTheTeamAccountYouWish": "アクセスを許可するチームアカウントを選択してください:",
+  "unableToGetApplicationInformationPlease": "アプリケーション情報を取得できません。アプリケーション提供元にお問い合わせください"
+}

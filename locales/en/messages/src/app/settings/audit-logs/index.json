@@ -1,0 +1,11 @@
+{
+  "action": "Action",
+  "dateRange": "Date Range",
+  "failedToGetAuditLogs": "Failed to get audit logs",
+  "member": "Member",
+  "resource": "Resource",
+  "resourceGroup": "Resource Group",
+  "resourceId": "Resource ID",
+  "search": "Search",
+  "timestamp": "Timestamp"
+}

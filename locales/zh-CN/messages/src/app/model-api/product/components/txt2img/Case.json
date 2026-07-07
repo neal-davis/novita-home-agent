@@ -1,0 +1,12 @@
+{
+  "basedOnSdxl10Visit": "基于 SDXL 1.0。访问",
+  "cancel": "取消",
+  "download": "下载",
+  "forAccessToMoreModelsAnd": "以访问更多模型和功能。",
+  "generate": "生成",
+  "generateAiImagesWith": "使用以下工具生成 AI 图像：",
+  "novitaAiImg": "Novita AI 图片",
+  "playground": "Playground",
+  "stableDiffusionApi": "Stable Diffusion API",
+  "tryTextToImage": "尝试文本生成图像"
+}

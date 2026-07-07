@@ -1,0 +1,16 @@
+{
+  "agents": "Agentes",
+  "andFollowTheInstructions": "y sigue las instrucciones.",
+  "clickToCopyInstructionsForYou": "Haz clic para copiar las instrucciones para tu agente:",
+  "copiedAgentInstructions": "Instrucciones del agente copiadas",
+  "copyAgentInstructions": "Copiar instrucciones del agente",
+  "forAgent": "Para el agente",
+  "forAgents": "Para agentes:",
+  "forBuildersAnd": "para creadores y",
+  "letYourAgentDiscoverAuthenticateAnd": "Permite que tu agente descubra, se autentique y use los productos de Novita AI por sí solo.",
+  "read": "Leer",
+  "runModelsScaleGpusAndBuild": "Ejecuta modelos, escala GPUs y crea agentes de IA, todo en una sola plataforma.",
+  "startBuilding": "Empieza a crear",
+  "talkToUs": "Habla con nosotros",
+  "theAiNativeCloud": "La nube nativa de IA"
+}

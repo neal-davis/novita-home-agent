@@ -1,0 +1,17 @@
+{
+  "all": "Tous",
+  "automaticallyAdjustedToTheNearestValid-261322": "Ajusté automatiquement à la valeur valide la plus proche (le CPU doit être un entier, le minimum est 1)",
+  "automaticallyAdjustedToTheNearestValid-df2cec": "Ajusté automatiquement à la valeur valide la plus proche (seuls les multiples de 512 MiB sont pris en charge, le minimum est 512 MiB)",
+  "clickToCopy": "Cliquer pour copier",
+  "core": "Cœur",
+  "cores": "Cœurs",
+  "cpuCores": "Cœurs CPU",
+  "findATemplate": "Trouver un modèle",
+  "memory": "Mémoire",
+  "mib": "MiB",
+  "private": "Privé",
+  "public": "Public",
+  "template": "Modèle",
+  "thisTemplateIsProvidedByNovita": "Ce modèle est fourni par Novita AI et est disponible par défaut pour tous les utilisateurs.",
+  "visibility": "Visibilité"
+}

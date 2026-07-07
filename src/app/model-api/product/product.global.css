@@ -1,0 +1,8 @@
+body {
+  overflow-x: hidden;
+}
+
+.ant-upload-wrapper {
+  width: 100% !important;
+  flex: 1 !important;
+}

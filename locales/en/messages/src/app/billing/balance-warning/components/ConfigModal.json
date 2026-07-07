@@ -1,0 +1,20 @@
+{
+  "addAlert": "Add Alert",
+  "balanceAlertsAreTriggeredBasedOn": "Balance alerts are triggered based on your Available Credit, which includes your account balance and remaining credit limit.",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "editAlert": "Edit Alert",
+  "email": "Email",
+  "enableStatus": "Enable Status",
+  "enterAmount": "Enter Amount",
+  "inbox": "Inbox",
+  "notificationMembers": "Notification Members",
+  "notificationMethod": "Notification Method",
+  "pleaseEnterTheWarningAmount": "Please enter the warning amount",
+  "pleaseSelectAtLeastOneNotification": "Please select at least one notification method",
+  "theMaximumPostpaidAmountApprovedBased": "The maximum postpaid amount approved based on your account’s credit profile, allowing you to consume first and pay later.",
+  "theWarningAmountMustBeBetween": "The warning amount must be between $1 and $10,000,000, and the interval between amounts with an active warning status must be at least $5.",
+  "thresholdMustBeAnInteger": "Threshold must be an integer",
+  "thresholdMustBeBetween1And": "Threshold must be between 1 and 10000000",
+  "warningAmount": "Warning Amount"
+}

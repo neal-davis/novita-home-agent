@@ -1,0 +1,10 @@
+import Section from "./components/section";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Novita AI GPU Instance templates",
+};
+
+export default async function Page() {
+  return <Section />;
+}

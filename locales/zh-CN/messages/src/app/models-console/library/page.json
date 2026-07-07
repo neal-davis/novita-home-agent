@@ -1,0 +1,10 @@
+{
+  "audio": "音频",
+  "embedding": "嵌入",
+  "image": "图像",
+  "recommendMeAModel": "为我推荐一个模型",
+  "reranker": "重排序器",
+  "seeEventTerms": "查看活动条款",
+  "video": "视频",
+  "vision": "视觉"
+}

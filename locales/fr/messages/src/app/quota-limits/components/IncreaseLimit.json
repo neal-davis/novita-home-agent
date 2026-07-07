@@ -1,0 +1,16 @@
+{
+  "cancel": "Annuler",
+  "contactEmail": "E-mail de contact",
+  "currentLimit": "Limite actuelle",
+  "increaseLimit": "Augmenter la limite",
+  "limitMetric": "Métrique de limite",
+  "pleaseEnterAPositiveIntegerValue": "Veuillez saisir un entier positif",
+  "pleaseEnterAValidEmailAddress": "Veuillez saisir une adresse e-mail valide",
+  "pleaseEnterTheReasonForYour": "Veuillez saisir la raison de votre demande de quota afin d’accélérer notre processus d’examen",
+  "quotaIncreaseRequestSubmitted": "Demande d’augmentation de quota soumise",
+  "reasonForRequest": "Motif de la demande",
+  "requestRateLimitIncrease": "Demander une augmentation de la limite de débit",
+  "requestedRateLimit": "Limite de débit demandée",
+  "resourceService": "Ressource/Service",
+  "submit": "Soumettre"
+}

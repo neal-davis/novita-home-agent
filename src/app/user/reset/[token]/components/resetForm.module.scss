@@ -1,0 +1,26 @@
+.form_wrap {
+  width: 462px;
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  border-radius: 8px;
+  border: 1px solid var(--gray-2);
+  background-color: var(--white);
+  gap: 16px;
+  max-width: 100vw;
+  & > div {
+    width: 100%;
+  }
+}
+
+.form_wrap .title {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  text-align: center;
+  line-height: 38px;
+  text-align: center;
+}

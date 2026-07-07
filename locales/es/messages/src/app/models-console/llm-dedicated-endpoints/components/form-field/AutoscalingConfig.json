@@ -1,0 +1,15 @@
+{
+  "autoscaling": "Autoescalado",
+  "autoscalingHandlesHighlyVariableTrafficWhile": "El autoescalado gestiona tráfico muy variable mientras minimiza el gasto en recursos de computación inactivos.",
+  "max": "~ Máx.:",
+  "min": "Mín.:",
+  "min300s": "Mín.: 300 s",
+  "numberOfReplicas": "Número de réplicas:",
+  "off": "Desactivado",
+  "on": "Activado",
+  "replicaRange": "Rango de réplicas:",
+  "scaleDownDelay": "Retraso de reducción de escala:",
+  "scaleToZeroIsEnabled": "El escalado a cero está habilitado",
+  "sec": "s",
+  "yourEndpointHasADefaultMinimum": "Tu endpoint tiene un mínimo predeterminado de 1 réplica y entrará automáticamente en suspensión cuando esté inactivo. El tiempo de arranque en frío depende del tamaño de tu modelo y normalmente tarda unos minutos."
+}

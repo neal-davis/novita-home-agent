@@ -1,0 +1,6 @@
+{
+  "endpointIsWakingUp": "Endpoint is waking up",
+  "failedToWakeUpEndpoint": "Failed to wake up endpoint",
+  "redeploy": "Redeploy",
+  "wakeUp": "Wake Up"
+}

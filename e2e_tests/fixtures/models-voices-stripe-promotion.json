@@ -1,0 +1,9 @@
+{
+  "_comment": "De-PII'd capture of /v3/stripe/promotion observed while loading /models/voices (fired by the shared navbar/footer-banner promo context, NOT by the page body — /models/voices is a fully client-rendered static demo that issues no data XHR of its own). Source: .claude/tasks/20260621-batchD-marketing-deep/verify/models-voices-captured.json. The real payload already carried no PII (empty coupon, valid:false). Injected so the hermetic run is deterministic regardless of the global promo call.",
+  "couponId": "",
+  "percentOff": 0,
+  "amountOff": "0",
+  "redeemBy": "0",
+  "valid": false,
+  "activityName": ""
+}

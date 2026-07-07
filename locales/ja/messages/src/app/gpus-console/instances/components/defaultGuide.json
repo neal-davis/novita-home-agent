@@ -1,0 +1,9 @@
+{
+  "deployNow": "今すぐデプロイ",
+  "forHighComputeElasticMixedWorkloads": "高コンピュートで柔軟な混合ワークロードには、こちらを使用してください",
+  "gpuInstances": "GPUインスタンス",
+  "idealForHighComputeElasticMixed": "AIトレーニングからレンダリングまで、高コンピュートで柔軟な混合ワークロードに最適です。",
+  "instance": "インスタンス",
+  "learnMore": "詳細を見る",
+  "needToDeployCloudResources": "クラウドリソースをデプロイする必要がありますか？"
+}

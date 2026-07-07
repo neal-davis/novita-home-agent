@@ -1,0 +1,16 @@
+{
+  "baseModel": "Base Model",
+  "baseModelType": "Base Model Type",
+  "confirm": "Confirm",
+  "delete": "Delete",
+  "deleteSuccess": "Delete success!",
+  "modelNameInApi": "MODEL NAME In API",
+  "name": "Name",
+  "operate": "OPERATE",
+  "pleaseSelectAModelFirst": "Please select a model first!",
+  "running": "running",
+  "status": "STATUS",
+  "type": "Type",
+  "unavailable": "unavailable",
+  "warningThisActionCannotBeUndone": "Warning: This action cannot be undone."
+}

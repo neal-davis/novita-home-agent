@@ -1,0 +1,12 @@
+{
+  "addCard": "Añadir tarjeta",
+  "cancel": "Cancelar",
+  "confirmationOfCardDeletion": "Confirmación de eliminación de tarjeta",
+  "exp": "Venc.",
+  "noPaymentMethod": "Sin método de pago",
+  "remove": "Eliminar",
+  "removeCard": "Eliminar tarjeta",
+  "removingThisCardWillDisableAuto": "Al eliminar esta tarjeta se desactivará la recarga automática.",
+  "removingThisCardWillDisableRecharges": "Eliminar esta tarjeta desactivará las recargas y el pago automático",
+  "youCanUpdateYourCreditCard": "Solo puedes actualizar tu tarjeta de crédito una vez al mes."
+}

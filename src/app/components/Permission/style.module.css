@@ -1,0 +1,8 @@
+.no_permission_text {
+  color: var(--dark-3);
+  font-size: 14px;
+  line-height: 20px;
+  margin-top: 10px;
+  max-width: 374px;
+  margin-top: 28px;
+}

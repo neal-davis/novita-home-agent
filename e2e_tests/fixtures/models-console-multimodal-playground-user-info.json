@@ -1,0 +1,19 @@
+{
+  "uid": 900001,
+  "uuid": "e2e-user-uuid-0001",
+  "email": "e2e-user@example.com",
+  "role": 1,
+  "mobilePhone": "",
+  "firstName": "E2E",
+  "lastName": "User",
+  "username": "e2e-user",
+  "companyName": "",
+  "country": "",
+  "isQuestionnaire": true,
+  "isAlreadyTopup": true,
+  "billingAccount": "",
+  "teamOwnerUuid": "",
+  "thirdPartyName": "",
+  "tier": "",
+  "teams": []
+}

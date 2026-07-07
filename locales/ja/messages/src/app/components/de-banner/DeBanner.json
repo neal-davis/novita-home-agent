@@ -1,0 +1,6 @@
+{
+  "dedicatedEndpoint": "専用エンドポイント",
+  "enterpriseGradeInfrastructureForAi": "AI向けエンタープライズグレードのインフラストラクチャ",
+  "forEnterprisesThatRequireHigherPerformance": "より高いパフォーマンス、カスタマイズされたSLA、またはカスタムモデル向けのプライベートホスティングを必要とする企業向け",
+  "getEnterpriseGradeEndpoint": "エンタープライズグレードのエンドポイントを取得"
+}

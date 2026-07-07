@@ -1,0 +1,18 @@
+{
+  "cancel": "Cancelar",
+  "containerDiskExpansionCurrent": "Expansión del disco del contenedor (Actual",
+  "editInstance": "Editar instancia",
+  "enterYourContainerDiskExpandSize": "Introduce el tamaño de expansión del disco de tu contenedor",
+  "expand": "Expandir:",
+  "exposeHttpPortsMax10": "Exponer puertos HTTP (máx. 10)",
+  "exposeTcpPorts": "Exponer puertos TCP",
+  "gb-4d1316": "GB)",
+  "gb-505a44": "GB",
+  "pleaseEnterAValidSizeAnd": "Introduce un tamaño válido y no puede ser menor que 0 GB",
+  "pleaseEnterAValidSizeCurrent": "Introduce un tamaño válido; el tamaño actual después de la expansión no puede ser mayor que",
+  "save": "Guardar",
+  "subscriptionInstanceExpansionRequiresPrepaymentOf": "La expansión de la instancia de suscripción requiere el pago por adelantado de la tarifa de almacenamiento de expansión para el período restante de la instancia de suscripción.",
+  "success": "Éxito",
+  "theCurrentInstanceHasBeenShut": "La instancia actual se ha apagado. Cuando la instancia esté en ejecución, podrás ajustar la capacidad del disco del sistema.",
+  "youCanEditWhileTheInstance": "Puedes editar mientras la instancia está en ejecución; no perderás datos."
+}

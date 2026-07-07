@@ -1,0 +1,53 @@
+{
+  "templates": [
+    {
+      "Id": "tmpl-aaaa1111",
+      "name": "E2E Stable Diffusion",
+      "image": "docker.io/e2e/sd:latest",
+      "logo": "",
+      "type": "image",
+      "channel": "official",
+      "enableApplicationInstance": true,
+      "enableApplicationServerless": false,
+      "rootfsSize": 60,
+      "startCommand": "python app.py",
+      "entrypoint": "/bin/sh",
+      "instanceApplicationConfig": {
+        "recommendCards": [{ "gpuName": "RTX 4090", "gpuNum": 1 }]
+      }
+    },
+    {
+      "Id": "tmpl-bbbb2222",
+      "name": "E2E Llama 3 Chat",
+      "image": "docker.io/e2e/llama3:latest",
+      "logo": "",
+      "type": "llm",
+      "channel": "official",
+      "enableApplicationInstance": true,
+      "enableApplicationServerless": true,
+      "rootfsSize": 80,
+      "startCommand": "python serve.py",
+      "entrypoint": "/bin/sh",
+      "instanceApplicationConfig": {
+        "recommendCards": [{ "gpuName": "A100 SXM 80GB", "gpuNum": 2 }]
+      }
+    },
+    {
+      "Id": "tmpl-cccc3333",
+      "name": "E2E Whisper ASR",
+      "image": "docker.io/e2e/whisper:latest",
+      "logo": "",
+      "type": "audio",
+      "channel": "official",
+      "enableApplicationInstance": true,
+      "enableApplicationServerless": false,
+      "rootfsSize": 40,
+      "startCommand": "python asr.py",
+      "entrypoint": "/bin/sh",
+      "instanceApplicationConfig": {
+        "recommendCards": [{ "gpuName": "RTX 5090", "gpuNum": 1 }]
+      }
+    }
+  ],
+  "total": 3
+}

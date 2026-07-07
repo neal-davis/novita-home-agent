@@ -1,0 +1,54 @@
+.metricContainer {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 36px;
+  @media screen and (max-width: 800px) {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas: "a a" "b c";
+    & > div:first-child {
+      grid-area: a;
+    }
+    & > div:nth-child(2) {
+      grid-area: b;
+    }
+    & > div:nth-child(3) {
+      grid-area: c;
+    }
+    gap: 20px;
+  }
+  @media screen and (max-width: 500px) {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    grid-template-areas: "a" "b" "c";
+    & > div:first-child {
+      grid-area: a;
+    }
+    & > div:nth-child(2) {
+      grid-area: b;
+    }
+    & > div:nth-child(3) {
+      grid-area: c;
+    }
+    gap: 20px;
+  }
+}
+
+.refreshMetricsBtn {
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid transparent;
+  // box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+  background: var(--white);
+  width: 14px;
+  height: 14px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  &:hover {
+    background: var(--gray-3);
+  }
+}
+.iconRefreshImg {
+  font-size: 14px;
+}

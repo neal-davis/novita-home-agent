@@ -1,0 +1,12 @@
+{
+  "adoptMixedStrategies": "Adote estratégias mistas",
+  "bestPractices": "Melhores práticas",
+  "breakJobsIntoSmallerUnitsWith": "Divida os trabalhos em unidades menores com retomada/nova tentativa",
+  "designRetryableWorkloads": "Projete cargas de trabalho repetíveis",
+  "enableCheckpointing": "Habilite checkpointing",
+  "noticeSpotIsBestForFlexible": "Aviso: Spot é ideal para cargas de trabalho flexíveis. Use sob demanda ou reservado para aplicações críticas.",
+  "respondQuickly": "Responda rapidamente",
+  "runCriticalWorkloadsOnOnDemand": "Execute cargas de trabalho críticas sob demanda e transfira as flexíveis para Spot",
+  "saveTrainingStateRegularlyToPersistent": "Salve o estado do treinamento regularmente em armazenamento persistente",
+  "useTerminationNotificationsToTriggerBackup": "Use notificações de encerramento para acionar lógica de backup ou desligamento"
+}

@@ -1,0 +1,9 @@
+{
+  "cancel": "キャンセル",
+  "start": "開始",
+  "startInstance": "インスタンスを開始",
+  "startYourInstance": "インスタンスを起動してください。",
+  "startYourInstanceIfYouHave": "インスタンスを開始します。ボリュームが設定されている場合は、取得されてマウントされます。",
+  "success": "成功",
+  "theCurrentMachinePriceFor": "現在のマシン価格："
+}

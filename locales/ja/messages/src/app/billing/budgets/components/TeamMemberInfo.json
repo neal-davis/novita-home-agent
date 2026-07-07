@@ -1,0 +1,13 @@
+{
+  "alias": "エイリアス",
+  "goToTeamSetting": "チーム設定へ移動",
+  "loading": "読み込み中...",
+  "membersWithBudget": "予算が設定されているメンバー",
+  "role": "役割",
+  "team": "チーム",
+  "teamId": "チーム ID",
+  "teamInformation": "チーム情報",
+  "teamMemberBudgets": "チームメンバーの予算",
+  "totalMembers": "総メンバー数",
+  "youCanSetIndividualBudgetLimits": "各チームメンバーに個別の予算上限を設定して、プラットフォーム上での総支出を管理できます。"
+}

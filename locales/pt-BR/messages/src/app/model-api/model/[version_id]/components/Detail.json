@@ -1,0 +1,11 @@
+{
+  "cfgScale": "Escala CFG",
+  "modelName": "Nome do modelo",
+  "negativePrompt": "Prompt negativo",
+  "prompt": "Prompt",
+  "size": "Tamanho",
+  "stableDiffusion": "Stable Diffusion",
+  "steps": "Etapas",
+  "type": "Tipo",
+  "w": "L:"
+}

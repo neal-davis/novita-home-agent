@@ -1,0 +1,16 @@
+{
+  "cancel": "Cancel",
+  "contactEmail": "Contact Email",
+  "currentLimit": "Current Limit",
+  "increaseLimit": "Increase Limit",
+  "limitMetric": "Limit Metric",
+  "pleaseEnterAPositiveIntegerValue": "Please enter a positive integer value",
+  "pleaseEnterAValidEmailAddress": "Please enter a valid email address",
+  "pleaseEnterTheReasonForYour": "Please enter the reason for your quota application to expedite our review process",
+  "quotaIncreaseRequestSubmitted": "Quota increase request submitted",
+  "reasonForRequest": "Reason for Request",
+  "requestRateLimitIncrease": "Request Rate Limit Increase",
+  "requestedRateLimit": "Requested Rate Limit",
+  "resourceService": "Resource/Service",
+  "submit": "Submit"
+}

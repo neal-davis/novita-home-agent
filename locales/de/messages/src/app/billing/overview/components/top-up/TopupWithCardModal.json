@@ -1,0 +1,18 @@
+{
+  "a9GstAppliesToPayments": "Auf Zahlungen aus Singapur fällt eine GST von 9 % an.",
+  "accountInformation": "Kontoinformationen",
+  "amount": "Betrag",
+  "cancel": "Abbrechen",
+  "confirmPayment": "Zahlung bestätigen",
+  "description": "Beschreibung",
+  "novitaAiCredit": "Novita AI-Guthaben",
+  "paymentAmount": "Zahlungsbetrag",
+  "paymentMethod": "Zahlungsmethode",
+  "recharging": "Wird aufgeladen...",
+  "redirecting": "Weiterleitung...",
+  "stripeCheckout": "Stripe Checkout",
+  "teamId": "Team-ID:",
+  "theCreditTopUpOf": "Die Guthabenaufladung über $",
+  "topUpCredit": "Guthaben aufladen",
+  "wasSuccessful": "war erfolgreich."
+}

@@ -1,0 +1,22 @@
+{
+  "afterMigrationInstanceDetailsEG": "Después de la migración, los detalles de la instancia (p. ej., ID, IP de salida) permanecerán sin cambios. La imagen se almacenará de forma segura en",
+  "afterMigrationYourInstanceInformationWill": "Después de la migración, la información de su instancia permanecerá sin cambios (como el ID de instancia y la IP de salida).",
+  "backUpYourData": "haga una copia de seguridad de sus datos",
+  "cancel": "Cancelar",
+  "howeverLocalDataOnTheNode": "Sin embargo, los datos locales del nodo no se conservarán.",
+  "iUnderstandThatCurrentDataWill": "Entiendo que los datos actuales no se conservarán después de la migración y que he completado una copia de seguridad.",
+  "ifSelectedTheContainerDiskWill": "Si se selecciona, se creará una imagen del disco del contenedor y se migrará con la instancia. La nueva imagen incluye los datos del disco del contenedor y está lista para usarse.",
+  "inAdvanceToPreventLossInstance": "con antelación para evitar pérdidas. El trabajo de migración de la instancia no se puede finalizar.",
+  "migrateData": "Migrar datos",
+  "migrateNow": "Migrar ahora",
+  "noResourcesAvailablePleaseTryAgain": "No hay recursos disponibles; inténtelo de nuevo más tarde o póngase en contacto con el servicio de atención al cliente.",
+  "please": "Por favor",
+  "pleaseConfirmThatYouHaveBacked": "Confirme que ha realizado una copia de seguridad de sus datos.",
+  "success": "éxito",
+  "theMigrationTaskCannotBeCanceled": "La tarea de migración no se puede cancelar una vez iniciada.",
+  "theNovitaOfficialRepo": "el repositorio oficial de Novita.",
+  "thisNodeCurrentlyHasNoAvailable": "Este nodo no tiene recursos disponibles actualmente. ¿Le gustaría migrar a un recurso con la misma especificación?",
+  "toEnsureDataSafety": "Para garantizar la seguridad de los datos,",
+  "unableToStart": "No se puede iniciar",
+  "weRecommendBackingUpYourData": "recomendamos hacer una copia de seguridad de sus datos con antelación."
+}

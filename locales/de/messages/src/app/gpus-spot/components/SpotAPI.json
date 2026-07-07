@@ -1,0 +1,13 @@
+{
+  "apisAutomation": "APIs & Automatisierung",
+  "checkAvailability": "Verfügbarkeit prüfen",
+  "exploreApiDocs": "API-Dokumentation erkunden",
+  "getPricing": "Preise anzeigen",
+  "gpuCapacityByModel": "GPU-Kapazität nach Modell",
+  "handleInterruptions": "Unterbrechungen handhaben",
+  "launchInstances": "Instanzen starten",
+  "manageSpotInstancesProgrammaticallyWithFull": "Verwalten Sie Spot-Instanzen programmgesteuert mit vollständiger API-Unterstützung",
+  "provisionSpotWithBillingTypeSpot": "Spot mit billing_type=spot bereitstellen",
+  "realTimeSpotRates": "Spot-Tarife in Echtzeit",
+  "subscribeToTerminationEventsViaApi": "Kündigungsereignisse via API oder E-Mail abonnieren"
+}

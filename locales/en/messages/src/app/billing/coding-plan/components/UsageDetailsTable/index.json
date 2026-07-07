@@ -1,0 +1,10 @@
+{
+  "billedTokens": "Billed tokens",
+  "billingMultiplier": "Billing multiplier",
+  "modelId": "Model ID",
+  "next": "Next",
+  "noUsageData": "No usage data",
+  "previous": "Previous",
+  "rawUsageTokens": "Raw usage (tokens)",
+  "startTimeEndTime": "Start time - end time"
+}

@@ -1,0 +1,11 @@
+{
+  "deviceInformation": "デバイス情報",
+  "gb": "GB",
+  "gpuName": "GPU 名",
+  "gpusNode": "GPUs/ノード",
+  "interfaceType": "インターフェースタイプ",
+  "ramNode": "RAM/ノード",
+  "region": "リージョン",
+  "storageNode": "ストレージ/ノード",
+  "vcpuNode": "vCPU/ノード"
+}

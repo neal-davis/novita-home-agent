@@ -1,0 +1,6 @@
+{
+  "exploreGpus": "Explorar GPUs",
+  "globallyDistributedGpusWithLocalSpeed": "GPUs distribuídas globalmente com velocidade local",
+  "gpuCloud": "NUVEM DE GPU",
+  "launchHighPerformanceGpuInstancesIn": "Inicie instâncias de GPU de alto desempenho em segundos em regiões do mundo todo. Ideal para treinamento, ajuste fino e inferência de alta taxa de transferência. Use sob demanda ou spot com 50% de desconto."
+}

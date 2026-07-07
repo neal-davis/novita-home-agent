@@ -1,0 +1,4 @@
+{
+  "expectedFunctionNameToBeA": "Erwartet, dass 'function.name' eine Zeichenfolge ist.",
+  "expectedIdToBeAString": "Erwartet, dass 'id' eine Zeichenfolge ist."
+}

@@ -1,0 +1,67 @@
+.template_container {
+  height: 100%;
+}
+
+.content {
+  .card_title {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+    color: var(--dark-1);
+    letter-spacing: -0.36px;
+  }
+
+  .table_container {
+    padding: 24px;
+    background-color: var(--white);
+    border: 1px solid var(--gray-2);
+    border-radius: 6px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+
+    th {
+      white-space: nowrap;
+    }
+
+    td {
+      padding: 16px;
+    }
+
+    tbody tr {
+      border-bottom: 1px solid var(--gray-2);
+
+      &:hover {
+        background-color: var(--gray-3);
+      }
+    }
+
+    .table_cell[rowspan] {
+      position: relative;
+      z-index: 1;
+    }
+
+    .merged_row_group {
+      &:hover tr {
+        background-color: var(--gray-3);
+      }
+    }
+
+    .hover_highlight {
+      background-color: var(--gray-3);
+    }
+
+    .table_spinner:hover {
+      background-color: var(--white) !important;
+    }
+  }
+
+  .table_loading {
+    tbody tr {
+      border-bottom: none !important;
+    }
+  }
+
+  .disabled {
+    @include font-subtle;
+    color: var(--dark-3);
+  }
+}

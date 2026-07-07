@@ -1,0 +1,7 @@
+{
+  "anInvitationHasAlreadyBeenSent": "招待はすでに送信されており、まだ有効です。別の招待を送信すると、既存の招待が置き換えられます。",
+  "cancel": "キャンセル",
+  "failedToResendInvitation": "招待の再送信に失敗しました",
+  "invitationEmailSentSuccessfully": "招待メールが正常に送信されました！",
+  "resendInvitation": "招待を再送信"
+}

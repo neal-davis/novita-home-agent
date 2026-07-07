@@ -1,0 +1,6 @@
+{
+  "agentSandbox": "AGENT-SANDBOX",
+  "exploreNow": "Jetzt entdecken",
+  "runAutonomousAgentsInIsolatedContainers": "Führen Sie autonome Agenten in isolierten Containern mit Startzeiten von ~200 ms, sicherer Tool-Nutzung (Browser/API/Code) und massiver Parallelität aus. Sekundengenaue Abrechnung für CPU/RAM.",
+  "safeInstantRuntimesForAiAgents": "Sichere, sofort verfügbare Laufzeitumgebungen für KI-Agenten"
+}

@@ -1,0 +1,13 @@
+{
+  "accountSettings": "Configurações da conta",
+  "apiKeys": "Chaves de API",
+  "balance": "Saldo",
+  "billing": "Faturamento",
+  "dedicatedEndpoints": "Endpoints dedicados",
+  "emailCopied": "E-mail copiado",
+  "home": "Início",
+  "logOut": "Sair",
+  "quotasLimits": "Cotas e limites",
+  "userId": "ID do usuário",
+  "userIdCopied": "ID do usuário copiado"
+}

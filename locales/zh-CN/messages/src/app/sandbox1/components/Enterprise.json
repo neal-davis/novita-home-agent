@@ -1,0 +1,10 @@
+{
+  "bookACall": "预约通话",
+  "concurrentInstances": "并发实例",
+  "contactSales": "联系销售",
+  "deploymentRegion": "部署区域",
+  "enterprise": "企业版",
+  "forAdvancedWorkloadsRequiringLargeMemory": "适用于需要大内存、更高 vCPU 或自定义部署位置的高级工作负载。",
+  "maxVcpusPerSandbox": "每个沙盒的最大 vCPU 数",
+  "uptimeSla": "正常运行时间 SLA"
+}

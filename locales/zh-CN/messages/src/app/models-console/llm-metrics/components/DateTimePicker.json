@@ -1,0 +1,17 @@
+{
+  "datePicker": "日期选择器：",
+  "endTime": "结束时间：",
+  "message10m": "10分钟",
+  "message12h": "12小时",
+  "message1d": "1天",
+  "message1h": "1小时",
+  "message30m": "30分钟",
+  "message3d": "3天",
+  "message3h": "3小时",
+  "message5m": "5分钟",
+  "message7d": "7天",
+  "pickADate": "选择日期",
+  "quickSelect": "快速选择：",
+  "startTime": "开始时间：",
+  "utc0": "UTC+0"
+}

@@ -1,0 +1,10 @@
+{
+  "areYouSureYouWantTo": "您确定要停止您的实例吗？",
+  "cancel": "取消",
+  "forSuspendedInstancesDataWillBe": "对于已暂停的实例，数据将保留",
+  "stop": "停止",
+  "stopInstance": "停止实例",
+  "stopYourInstanceYouCanStart": "停止您的实例。您可以稍后启动该实例。",
+  "success": "成功",
+  "whenTheInstanceIsStoppedIf": "实例停止后，如果其他用户抢占了此节点，您的实例将无法正常重启，但支持迁移到其他节点。"
+}

@@ -1,0 +1,21 @@
+{
+  "autoRenewal": "auto-renewal",
+  "autoRenewalYourCodingPlanPackage": "auto-renewal, your Coding plan package will expire on",
+  "cancel": "Cancel",
+  "cancelSubscription": "Cancel Subscription",
+  "changePlan": "Change Plan",
+  "confirm": "Confirm",
+  "cycleUsage": "Cycle usage",
+  "day": "Day",
+  "ifYouConfirmCancelYour": "If you confirm cancel your",
+  "no": "No",
+  "notice": "Notice",
+  "of": "of",
+  "processing": "Processing...",
+  "refreshCycleUsage": "Refresh cycle usage",
+  "restartAutoRenewal": "Restart auto-renewal",
+  "tokens": "tokens",
+  "until": "Until",
+  "used": "% Used",
+  "warning": "Warning"
+}

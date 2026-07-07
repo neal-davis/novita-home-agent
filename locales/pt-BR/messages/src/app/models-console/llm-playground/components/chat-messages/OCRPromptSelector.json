@@ -1,0 +1,21 @@
+{
+  "convertDocumentToMarkdownFormat": "Converter documento para formato markdown",
+  "detailedImageDescription": "Descrição detalhada da imagem",
+  "document": "Documento",
+  "enterTextToLocate": "Digite o texto a localizar",
+  "enterTheTextToLocateIn": "Digite o texto a localizar na imagem...",
+  "figuresInDocument": "Figuras no documento",
+  "freeOcrWithoutLayoutDetection": "OCR gratuito sem detecção de layout",
+  "general": "Geral",
+  "inTheImage": "na imagem.",
+  "locateSpecificTextInImageRequires": "Localizar texto específico na imagem (requer entrada personalizada)",
+  "ocrRecognitionForGeneralImages": "Reconhecimento OCR para imagens gerais",
+  "otherImage": "Outra imagem",
+  "parseFiguresFromDocuments": "Extrair figuras de documentos",
+  "promptLocate": "Prompt: Localizar",
+  "recognition": "Reconhecimento",
+  "ref-8f2130": "<|/ref|>",
+  "ref-cb1038": "<|ref|>",
+  "selectOcrMode": "Selecione o modo OCR...",
+  "withoutLayouts": "Sem layouts"
+}

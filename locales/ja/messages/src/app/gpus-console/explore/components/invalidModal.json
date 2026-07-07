@@ -1,0 +1,6 @@
+{
+  "cancel": "キャンセル",
+  "updateTemplateNow": "今すぐテンプレートを更新",
+  "volumeDiskMounting": "Volume Disk のマウント",
+  "yourTemplateCurrentlyIncludesVolumeDisk": "現在のテンプレートには Volume Disk のマウントが含まれていますが、これはサポートされなくなりました（Container Disk が拡張されました）。テンプレートを更新して Volume Disk のマウント設定を削除し、データを Container Disk に保存してください。"
+}

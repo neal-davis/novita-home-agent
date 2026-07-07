@@ -1,0 +1,11 @@
+{
+  "canGenerateSpeechIn300ms": "<300msで音声を生成できます。",
+  "discordCommunity": "Discordコミュニティ",
+  "easeOfUse": "使いやすさ",
+  "exploreDocumentation": "ドキュメントを見る",
+  "fromCharacterVoicingAndAudiobookNarration": "キャラクターボイスやオーディオブックのナレーションから、教育ツールやインタラクティブな体験まで、Novita AI Voice Libraryはお客様の特定のニーズに合わせた幅広い音声を提供します。",
+  "getAllTheHelpYouNeed": "専門家コミュニティを通じて、必要なサポートをすべて受けられます。",
+  "howToUseTextToSpeech": "text to speech APIの使い方",
+  "lowLatency": "低レイテンシ",
+  "novitaAiBringsTheMostCompelling": "Novita AIは、わずか数行のコードで、最も魅力的で豊か、かつ超リアルな音声を開発者に提供します。"
+}

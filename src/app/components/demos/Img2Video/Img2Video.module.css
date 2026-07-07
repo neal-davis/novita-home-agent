@@ -1,0 +1,48 @@
+.demo_wrapper.demo_in_product {
+  overflow: visible;
+}
+
+.preview_wrapper {
+  flex: 1;
+  width: 100%;
+}
+
+.preview_img {
+  width: auto;
+  height: 100%;
+  object-fit: contain;
+}
+
+.video_wrapper {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: stretch;
+  overflow: hidden;
+  min-height: 250px;
+  min-width: 580px;
+}
+.video {
+  max-height: 400px;
+}
+.preview_loading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+}
+/* 
+@media screen and (max-width: 800px) {
+  .demo_in_product .video_wrapper {
+    min-height: 40vh;
+  }
+} */

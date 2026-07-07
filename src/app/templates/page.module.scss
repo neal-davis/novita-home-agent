@@ -1,0 +1,11 @@
+.container {
+  margin-top: var(--header-height);
+  padding-top: 90px;
+  padding-bottom: 90px;
+
+  .title {
+    margin-bottom: 56px;
+    @include font-h1;
+    color: var(--dark-1);
+  }
+}

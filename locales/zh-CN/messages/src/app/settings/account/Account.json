@@ -1,0 +1,15 @@
+{
+  "change": "更改",
+  "companyName": "公司名称",
+  "completeAQuickSurveyToClaim": "完成一个快速调研，即可领取 $1 免费额度！",
+  "country": "国家/地区",
+  "email": "电子邮箱",
+  "firstName": "名字",
+  "goToSettings": "前往设置",
+  "lastName": "姓氏",
+  "password": "密码",
+  "save": "保存",
+  "saveAccountInfoFailed": "保存账户信息失败",
+  "saveAccountInfoSuccess": "保存账户信息成功",
+  "userId": "用户 ID"
+}

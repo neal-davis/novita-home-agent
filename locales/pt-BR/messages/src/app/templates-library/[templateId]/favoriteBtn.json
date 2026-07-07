@@ -1,0 +1,10 @@
+{
+  "bookmarkThisTemplate": "Adicionar este modelo aos favoritos",
+  "favorite": "Favoritar",
+  "favoriteSuccessfully": "Adicionado aos favoritos com sucesso",
+  "loginFailurePleaseLogInAgain": "Falha no login, faça login novamente",
+  "pleaseLogInFirst": "Faça login primeiro",
+  "unbookmarkThisTemplate": "Remover este modelo dos favoritos",
+  "unfavorite": "Desfavoritar",
+  "unfavoriteSuccessfully": "Removido dos favoritos com sucesso"
+}

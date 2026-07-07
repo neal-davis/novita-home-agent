@@ -1,0 +1,14 @@
+{
+  "autoRenew": "Renovação automática",
+  "bulkAutoRenew": "Renovação automática em massa",
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
+  "confirmCurrentOperation": "Confirmar a operação atual?",
+  "instancesDifferentExpirationDatesAreSupported": "instâncias. Diferentes datas de expiração são compatíveis. O sistema renovará automaticamente cada instância com base em sua respectiva data de expiração.",
+  "month": "mês",
+  "months": "meses",
+  "processing": "Processando",
+  "renewalDuration": "Duração da renovação",
+  "scopeThisOperationWillApplyTo": "Escopo: esta operação será aplicada a",
+  "warningFailedPaymentsDueToLow": "Aviso: pagamentos com falha devido a saldo baixo são tentados novamente diariamente. Se não forem resolvidos até a data de vencimento, a cobrança mudará para pagamento conforme o uso"
+}

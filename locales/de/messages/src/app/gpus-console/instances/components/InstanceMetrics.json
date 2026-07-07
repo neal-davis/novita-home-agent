@@ -1,0 +1,7 @@
+{
+  "gpuId": "GPU-ID",
+  "gpuMemoryUsed": "Verwendeter GPU-Speicher",
+  "gpuUtilization": "GPU-Auslastung",
+  "metrics": "Metriken",
+  "secondsAgo": "Vor Sekunden"
+}

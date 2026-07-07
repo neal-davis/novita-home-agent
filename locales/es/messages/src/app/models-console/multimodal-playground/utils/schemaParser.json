@@ -1,0 +1,4 @@
+{
+  "errorLoadingModel": "Error al cargar el modelo",
+  "failedToLoadModelConfiguration": "No se pudo cargar la configuración del modelo"
+}

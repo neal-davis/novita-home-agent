@@ -1,0 +1,280 @@
+{
+  "products": [
+    {
+      "productName": "RTX 4090 24GB",
+      "productId": "4090.16c125g.nas",
+      "gpuMemory": 24,
+      "cpuNum": 16,
+      "memory": 125,
+      "maxGpuNumber": 8,
+      "availableGpuNumber": 2,
+      "freeStorage": 60,
+      "freeRootFS": 60,
+      "freeLocalStorage": 0,
+      "maxLocalStorage": 1400,
+      "instancePrice": {
+        "price": "67000",
+        "discount": "67000",
+        "dayPrice": "0",
+        "weekPrice": "0",
+        "monthPrice": "0"
+      },
+      "storagePrice": {
+        "price": "500",
+        "discount": "500",
+        "dayPrice": "0",
+        "weekPrice": "0",
+        "monthPrice": "0"
+      },
+      "cudaVersion": "13.0",
+      "clusterId": "",
+      "sortedWeight": 1018,
+      "usableNode": true,
+      "gpuDesc": "",
+      "maxRootFS": 1285,
+      "nodeID": "",
+      "savingPlan": [],
+      "minLocalStorage": 1,
+      "minRootFS": 10,
+      "maxCpuNum": 0,
+      "maxMemory": 0,
+      "monthlyPrice": [
+        {
+          "price": "43416000",
+          "basePrice": "43416000",
+          "month": 1,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-4090-10"
+        },
+        {
+          "price": "43416000",
+          "basePrice": "43416000",
+          "month": 2,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-4090-10"
+        },
+        {
+          "price": "43416000",
+          "basePrice": "43416000",
+          "month": 3,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-4090-10"
+        },
+        {
+          "price": "43416000",
+          "basePrice": "43416000",
+          "month": 4,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-4090-10"
+        },
+        {
+          "price": "43416000",
+          "basePrice": "43416000",
+          "month": 5,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-4090-10"
+        }
+      ],
+      "mountLocalVolume": false,
+      "gpuSpecId": "4090",
+      "gpuNum": 1,
+      "instanceSpotPrice": {
+        "price": "33500",
+        "discount": "33500",
+        "dayPrice": "0",
+        "weekPrice": "0",
+        "monthPrice": "0"
+      },
+      "billingMethods": ["onDemand", "spot"],
+      "cloudServiceType": "Center",
+      "inventoryState": "normal",
+      "maxAvailableGpuNumber": 7,
+      "stock": "0",
+      "activityProduct": false,
+      "canBuy": true,
+      "activityActive": false
+    },
+    {
+      "productName": "NVIDIA GeForce RTX 5090 32GB",
+      "productId": "5090.16c58g",
+      "gpuMemory": 32,
+      "cpuNum": 16,
+      "memory": 58,
+      "maxGpuNumber": 8,
+      "availableGpuNumber": 1,
+      "freeStorage": 60,
+      "freeRootFS": 60,
+      "freeLocalStorage": 0,
+      "maxLocalStorage": 1430,
+      "instancePrice": {
+        "price": "60000",
+        "discount": "60000",
+        "dayPrice": "0",
+        "weekPrice": "0",
+        "monthPrice": "0"
+      },
+      "storagePrice": {
+        "price": "500",
+        "discount": "500",
+        "dayPrice": "0",
+        "weekPrice": "0",
+        "monthPrice": "0"
+      },
+      "cudaVersion": "13.0",
+      "clusterId": "",
+      "sortedWeight": 1000,
+      "usableNode": true,
+      "gpuDesc": "",
+      "maxRootFS": 4039,
+      "nodeID": "",
+      "savingPlan": [],
+      "minLocalStorage": 1,
+      "minRootFS": 10,
+      "maxCpuNum": 0,
+      "maxMemory": 0,
+      "monthlyPrice": [
+        {
+          "price": "41040000",
+          "basePrice": "41040000",
+          "month": 1,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-5090-16"
+        },
+        {
+          "price": "41040000",
+          "basePrice": "41040000",
+          "month": 2,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-5090-16"
+        },
+        {
+          "price": "41040000",
+          "basePrice": "41040000",
+          "month": 3,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-5090-16"
+        },
+        {
+          "price": "41040000",
+          "basePrice": "41040000",
+          "month": 4,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-5090-16"
+        },
+        {
+          "price": "41040000",
+          "basePrice": "41040000",
+          "month": 5,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-5090-16"
+        }
+      ],
+      "mountLocalVolume": false,
+      "gpuSpecId": "5090",
+      "gpuNum": 1,
+      "instanceSpotPrice": null,
+      "billingMethods": ["onDemand"],
+      "cloudServiceType": "Center",
+      "inventoryState": "low",
+      "maxAvailableGpuNumber": 2,
+      "stock": "0",
+      "activityProduct": false,
+      "canBuy": true,
+      "activityActive": false
+    },
+    {
+      "productName": "H100 SXM 80GB",
+      "productId": "H100-80GB.16c128g",
+      "gpuMemory": 80,
+      "cpuNum": 16,
+      "memory": 128,
+      "maxGpuNumber": 8,
+      "availableGpuNumber": 1,
+      "freeStorage": 60,
+      "freeRootFS": 60,
+      "freeLocalStorage": 0,
+      "maxLocalStorage": 4081,
+      "instancePrice": {
+        "price": "259000",
+        "discount": "259000",
+        "dayPrice": "0",
+        "weekPrice": "0",
+        "monthPrice": "0"
+      },
+      "storagePrice": {
+        "price": "500",
+        "discount": "500",
+        "dayPrice": "0",
+        "weekPrice": "0",
+        "monthPrice": "0"
+      },
+      "cudaVersion": "13.0",
+      "clusterId": "",
+      "sortedWeight": 1000,
+      "usableNode": true,
+      "gpuDesc": "",
+      "maxRootFS": 2112,
+      "nodeID": "",
+      "savingPlan": [],
+      "minLocalStorage": 1,
+      "minRootFS": 10,
+      "maxCpuNum": 0,
+      "maxMemory": 0,
+      "monthlyPrice": [
+        {
+          "price": "177156000",
+          "basePrice": "177156000",
+          "month": 1,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-H100-80GB-4"
+        },
+        {
+          "price": "177156000",
+          "basePrice": "177156000",
+          "month": 2,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-H100-80GB-4"
+        },
+        {
+          "price": "177156000",
+          "basePrice": "177156000",
+          "month": 3,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-H100-80GB-4"
+        },
+        {
+          "price": "177156000",
+          "basePrice": "177156000",
+          "month": 4,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-H100-80GB-4"
+        },
+        {
+          "price": "177156000",
+          "basePrice": "177156000",
+          "month": 5,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-H100-80GB-4"
+        }
+      ],
+      "mountLocalVolume": false,
+      "gpuSpecId": "H100-80GB",
+      "gpuNum": 1,
+      "instanceSpotPrice": {
+        "price": "129500",
+        "discount": "129500",
+        "dayPrice": "0",
+        "weekPrice": "0",
+        "monthPrice": "0"
+      },
+      "billingMethods": ["onDemand", "spot"],
+      "cloudServiceType": "Global",
+      "inventoryState": "low",
+      "maxAvailableGpuNumber": 1,
+      "stock": "0",
+      "activityProduct": false,
+      "canBuy": true,
+      "activityActive": false
+    }
+  ]
+}

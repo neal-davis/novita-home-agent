@@ -1,0 +1,14 @@
+{
+  "autoscalingChangesTakeEffectWithin5": "Änderungen der Autoskalierung werden innerhalb von 5 Minuten wirksam",
+  "autoscalingConfiguration": "Autoskalierungs-Konfiguration",
+  "cancel": "Abbrechen",
+  "disabled": "Deaktiviert",
+  "edit-530164": "Bearbeiten",
+  "edit-a15b1c": "Bearbeiten (",
+  "enabled": "Aktiviert",
+  "maxReplicas": "Max. Replikate",
+  "minReplicas": "Min. Replikate",
+  "save": "Speichern",
+  "scaleDownDelay": "Verzögerung beim Herunterskalieren",
+  "scaleToZero": "Skalierung auf null"
+}

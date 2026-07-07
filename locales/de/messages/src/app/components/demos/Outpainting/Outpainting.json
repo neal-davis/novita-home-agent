@@ -1,0 +1,8 @@
+{
+  "back": "Zurück",
+  "cancel": "Abbrechen",
+  "download": "Herunterladen",
+  "generate": "Generieren",
+  "theCenterOfTheCropShould": "Die Mitte des Zuschnitts darf nicht außerhalb des Bildes liegen",
+  "theWidthAndHeightOfThe": "Breite und Höhe des Zuschnitts müssen zwischen 256 und 1024 liegen."
+}

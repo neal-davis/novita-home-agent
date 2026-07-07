@@ -1,0 +1,13 @@
+.page_container {
+  padding-top: 100px;
+  background-color: var(--model-list-bg-color);
+}
+
+.wrap {
+  padding: 20px;
+  margin: 0 auto 40px auto;
+}
+
+.c_title {
+  display: none;
+}

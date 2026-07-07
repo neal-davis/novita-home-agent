@@ -1,0 +1,39 @@
+.info_sheet {
+  :global {
+    .ant-drawer-content-wrapper {
+      width: auto !important;
+    }
+    .ant-drawer-content {
+      width: 100% !important;
+    }
+    @include screen-md {
+      .ant-drawer-content {
+        width: 768px !important;
+      }
+    }
+    .ant-drawer-body {
+      padding: 0 !important;
+    }
+    .ant-drawer-header-title {
+      justify-content: flex-end;
+    }
+  }
+}
+
+.scrollBar_container::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+.scrollBar_container::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scrollBar_container::-webkit-scrollbar-thumb {
+  background: var(--gray-1);
+  border-radius: 3px;
+}
+
+.scrollBar_container::-webkit-scrollbar-corner {
+  background: var(--gray-1);
+}

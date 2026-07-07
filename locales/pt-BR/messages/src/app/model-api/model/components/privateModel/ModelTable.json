@@ -1,0 +1,16 @@
+{
+  "baseModel": "Modelo base",
+  "baseModelType": "Tipo de modelo base",
+  "confirm": "Confirmar",
+  "delete": "Excluir",
+  "deleteSuccess": "Exclusão realizada com sucesso!",
+  "modelNameInApi": "NOME DO MODELO na API",
+  "name": "Nome",
+  "operate": "OPERAR",
+  "pleaseSelectAModelFirst": "Selecione um modelo primeiro!",
+  "running": "em execução",
+  "status": "STATUS",
+  "type": "Tipo",
+  "unavailable": "indisponível",
+  "warningThisActionCannotBeUndone": "Aviso: esta ação não pode ser desfeita."
+}

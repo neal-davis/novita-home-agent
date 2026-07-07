@@ -1,0 +1,9 @@
+{
+  "copiedToClipboard": "¡Copiado al portapapeles!",
+  "endpoint": "Punto de conexión",
+  "endpointHealth": "Estado del punto de conexión",
+  "endpointId": "ID del punto de conexión",
+  "modelId": "ID del modelo",
+  "openaiCompatibleBaseUrl": "URL base compatible con OpenAI",
+  "replicas": "Réplicas"
+}

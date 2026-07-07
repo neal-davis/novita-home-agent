@@ -1,0 +1,15 @@
+{
+  "allowAgentsToAccessExternalApis": "允许代理根据需要访问外部 APIs 和在线数据。",
+  "automateWebNavigationFormFillingAnd": "自动执行网页导航、表单填写和内容抓取。",
+  "browserUse": "浏览器使用",
+  "codeExecution": "代码执行",
+  "computerUse": "计算机使用",
+  "controlFullGuiEnvironmentsInputText": "控制完整的 GUI 环境：输入文本、滚动页面、截取屏幕截图等。",
+  "enableAgentsToInteractWithGui": "使代理能够与 GUI 交互，并通过 VNC 流式传输任务执行过程。",
+  "networkAccess": "网络访问",
+  "pauseAndResumeLongRunningAgent": "暂停和恢复长时间运行的代理任务，而不会丢失进度。",
+  "runPythonJavascriptCAndOther": "在安全沙盒中运行 Python、JavaScript、C++ 和其他语言。",
+  "sandboxCapabilities": "沙盒功能",
+  "sessionPersistence": "会话持久性",
+  "visualOutput": "视觉输出"
+}

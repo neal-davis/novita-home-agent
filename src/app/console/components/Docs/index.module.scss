@@ -1,0 +1,23 @@
+.title {
+  margin-bottom: 15px;
+  @include font-h6;
+  color: var(--black);
+}
+
+.link {
+  margin-top: 24px;
+  cursor: pointer;
+
+  &:hover {
+    color: var(--brand-0);
+  }
+
+  span:first-child {
+    @include font-link-small;
+  }
+
+  span:last-child {
+    @include font-subtle;
+    text-decoration: none;
+  }
+}

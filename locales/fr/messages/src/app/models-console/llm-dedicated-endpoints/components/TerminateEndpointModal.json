@@ -1,0 +1,6 @@
+{
+  "cancel": "Annuler",
+  "terminate": "Arrêter",
+  "terminateEndpoint": "Arrêter le point de terminaison",
+  "thisEndpointWillBeTerminatedImmediately": "Ce point de terminaison sera arrêté immédiatement, les prochaines requêtes échoueront donc. Vous pouvez redémarrer ce point de terminaison à tout moment."
+}

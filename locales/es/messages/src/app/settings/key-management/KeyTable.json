@@ -1,0 +1,11 @@
+{
+  "apiKey": "Clave de API",
+  "createdBy": "Creado por",
+  "creationTime": "Fecha de creación",
+  "deleteSuccessfully": "Eliminado correctamente",
+  "expirationTime": "Fecha de vencimiento",
+  "keyName": "Nombre de la clave",
+  "lastUsed": "Último uso",
+  "operation": "Operación",
+  "permanentValidity": "Validez permanente"
+}

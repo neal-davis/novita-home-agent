@@ -1,0 +1,11 @@
+{
+  "basedOnSdxl10Visit": "based on SDXL 1.0. Visit the",
+  "cancel": "Cancel",
+  "download": "Download",
+  "forAccessToMoreModelsAnd": "for access to more models and features.",
+  "generate": "Generate",
+  "generateAiImagesWith": "Generate AI images with",
+  "playground": "Playground",
+  "stableDiffusionApi": "Stable Diffusion API",
+  "tryImageToImageApi": "Try image to image API"
+}

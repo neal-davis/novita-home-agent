@@ -1,0 +1,14 @@
+{
+  "all": "Tous",
+  "allModels": "Tous les modèles",
+  "audio": "Audio",
+  "embedding": "Embedding",
+  "featured": "En vedette",
+  "image": "Image",
+  "modelSeries": "Série de modèles",
+  "providers": "Fournisseurs :",
+  "reranker": "Reranker",
+  "serverless": "Sans serveur",
+  "video": "Vidéo",
+  "vision": "Vision"
+}

@@ -1,0 +1,5 @@
+{
+  "apiCallsMadeUsingVoucherCredits": "バウチャークレジットを使用した API 呼び出しは、需要に応じて、より低いレート制限の下で動作する場合があります。より高い制限をご希望の場合は、こちらまでお問い合わせください：",
+  "areThereAnyUsageLimitsWith": "バウチャーに利用制限はありますか？",
+  "noteVouchersAreNonTransferableCannot": "注：バウチャーは譲渡不可であり、Novita でユーザーの残高をチャージするために使用することはできず、現金に交換することもできません。追加の条件が適用される場合があり、Novita AI は本オファーをいつでも変更または中止する権利を留保します。"
+}

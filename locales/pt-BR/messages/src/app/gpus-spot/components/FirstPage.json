@@ -1,0 +1,10 @@
+{
+  "a100": "A100",
+  "default1HourProtection1Hour": "Proteção padrão de 1 hora, aviso prévio de encerramento com 1 hora de antecedência, totalmente compatível com fluxos de trabalho Spot tradicionais. Mais adequado para cargas de trabalho tolerantes a interrupções",
+  "deploySpotInstance": "Implantar instância Spot",
+  "gpuTypesAvailable": "Tipos de GPU disponíveis:",
+  "h100": "H100",
+  "spotGpuInstances": "Instâncias Spot GPU",
+  "upTo50OffRtx4090": "Até 50% de desconto – RTX 4090 a partir de apenas US$ 0,18/hora",
+  "viewPricing": "Ver preços"
+}

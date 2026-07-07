@@ -1,0 +1,17 @@
+{
+  "createTime": "创建时间",
+  "creator": "创建者",
+  "delete": "删除",
+  "deploy": "部署",
+  "edit": "编辑",
+  "gbI": "GB I",
+  "itIsHighlyAdvisableToContinually": "强烈建议您持续将任何想要保存的内容备份到本地站外位置或云服务提供商。",
+  "networkVolumeIsProvidedInThe": "网络卷旨在用于使用其 GPUs 运行任务，并且",
+  "newNetworkVolume": "+ 新建网络卷",
+  "notMeantToBeALong": "不适合作为长期备份解决方案。",
+  "pleaseNoteThatIfYourAccount": "请注意，如果您的账户存在欠款且没有正在运行的实例，您的网络卷将会在",
+  "released3DaysLater": "3 天后被释放。",
+  "search": "搜索",
+  "storageNameIdFilter": "存储名称/ID筛选",
+  "success": "成功"
+}

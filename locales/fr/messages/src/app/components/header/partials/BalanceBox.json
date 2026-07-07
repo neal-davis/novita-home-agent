@@ -1,0 +1,11 @@
+{
+  "accountBalance": "Solde du compte",
+  "addAPaymentMethodToAccess": "Ajoutez un moyen de paiement pour accéder aux services.",
+  "addPaymentMethod": "Ajouter un moyen de paiement",
+  "availableCredit": "Crédit disponible",
+  "creditsRemaining": "Crédits restants :",
+  "goToBilling": "Accéder à la facturation",
+  "paymentMethods": "Moyens de paiement",
+  "topUp": "Recharger",
+  "vouchers": "Bons"
+}

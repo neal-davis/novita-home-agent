@@ -1,0 +1,10 @@
+{
+  "commitment": "Compromiso",
+  "message50OffInterruptible": "50% de descuento, interrumpible",
+  "onDemand": "Bajo demanda",
+  "payAOneTimeFixedFee": "Paga una tarifa fija única por un compromiso a largo plazo para reservar recursos estables y dedicados.",
+  "payAsYouGoWithCosts": "Paga por uso, con costes basados en el tiempo de uso real.",
+  "spot": "Spot",
+  "spotInstancesOfferLowPricesBut": "Las instancias Spot ofrecen precios bajos, pero pueden interrumpirse en cualquier momento.",
+  "subscription": "Suscripción"
+}

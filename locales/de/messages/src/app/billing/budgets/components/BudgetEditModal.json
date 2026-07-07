@@ -1,0 +1,15 @@
+{
+  "applyTheFollowingBudgetSettings": "Die folgenden Budgeteinstellungen anwenden?",
+  "budgetLimit": "Budgetlimit",
+  "budgetSettings": "Budgeteinstellungen",
+  "budgetSettingsSavedSuccessfully": "Budgeteinstellungen erfolgreich gespeichert",
+  "budgetType": "Budgettyp",
+  "cancel": "Abbrechen",
+  "confirm": "Bestätigen",
+  "confirmBudgetSettings": "Budgeteinstellungen bestätigen",
+  "enterAmount": "Betrag eingeben",
+  "member": "Mitglied",
+  "save": "Speichern",
+  "saving": "Wird gespeichert...",
+  "unlimited": "Unbegrenzt"
+}

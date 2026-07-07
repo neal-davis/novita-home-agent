@@ -1,0 +1,243 @@
+.form_item {
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.form_item.inline {
+  max-width: 250px;
+}
+
+.form_item.group {
+  padding: 10px;
+  border: 1px solid var(--border);
+  margin-top: 10px;
+  border-radius: 5px;
+  padding-top: 0;
+}
+
+.form_item label {
+  display: block;
+}
+
+.form_item.group > .title {
+  display: inline-block;
+  position: relative;
+  top: -12px;
+  background-color: var(--white);
+  padding: 0 10px;
+  margin-bottom: 0;
+}
+
+.form_item .title {
+  font-size: 14px;
+  color: var(--dark1);
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.form_item .input {
+  width: 100%;
+  font-size: 12px;
+}
+.form_item .upload {
+  font-size: 12px;
+}
+
+.form_item .select {
+  width: 100%;
+}
+
+.form_item .slider_wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: -12px;
+  overflow: visible;
+}
+.form_item .slider_wrap .slider {
+  flex: 1;
+  min-width: 50px;
+}
+.form_item .slider_wrap .slider_input {
+  flex: 0 0 60px;
+  margin-left: 10px;
+}
+
+.multi_model_form,
+.lora_form,
+.refiner_form,
+.controlnet_form {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  overflow: visible;
+}
+
+.multi_model_form_item_wrapper,
+.lora_form_item_wrapper,
+.refiner_form_item_wrapper,
+.controlnet_form_item_wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  border: 1px solid var(--border);
+  border-radius: var(--small-radius);
+  padding: 16px;
+  width: 100%;
+  overflow: visible;
+  background-color: var(--white);
+}
+.form_item_close {
+  position: absolute;
+  cursor: pointer;
+  width: 22px;
+  height: 22px;
+  line-height: 22px;
+  text-align: center;
+  border-radius: 11px;
+  top: 5px;
+  right: 5px;
+  background-color: var(--bg-1);
+  color: var(--dark5);
+  transition: color 0.2s;
+}
+.form_item_close:hover {
+  color: var(--black);
+}
+
+.form_item_add {
+  display: flex;
+  column-gap: 10px;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--small-radius);
+  cursor: pointer;
+  height: 38px;
+  line-height: 38px;
+  color: var(--dark-3);
+  transition:
+    color 0.2s,
+    border-color 0.2s;
+  user-select: none;
+  font-size: 14px;
+  border: 1px solid var(--border);
+}
+.form_item_add:hover {
+  color: var(--black);
+  border-color: var(--black);
+}
+.form_item_add.disabled {
+  cursor: not-allowed;
+  color: var(--muted-foreground);
+}
+.form_item_add.disabled:hover {
+  color: var(--muted-foreground);
+}
+
+.multi_model_form_item,
+.lora_form_item,
+.refiner_form_item,
+.controlnet_form_item {
+  position: relative;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  padding-right: 5px;
+
+  label {
+    font-size: 14px;
+    color: var(--dark1);
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: 12px;
+  }
+}
+
+.multi_model_form_model_wrapper,
+.lora_form_model_wrapper,
+.controlnet_form_model_wrapper {
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--border);
+}
+.refiner_model_wrapper {
+  margin-bottom: 8px;
+}
+.lora_strength,
+.refiner_switchat {
+  width: 100%;
+}
+.lora_model_input,
+.refiner_model_input {
+  height: 36px;
+  line-height: 32px;
+  border-radius: 8px;
+  padding: 0 12px;
+  border: 1px solid #ffffff2f;
+  cursor: pointer;
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: break-all;
+  font-size: 12px;
+}
+.refiner_model_input {
+  cursor: default;
+}
+.lora_model_cover {
+  height: 60px;
+  cursor: pointer;
+  object-fit: cover;
+}
+
+.controlnet_guidance_wrap {
+  display: flex;
+  flex-direction: row;
+  column-gap: 24px;
+  justify-content: space-between;
+}
+.controlnet_guidance_wrap .slider_inline {
+  flex: 1;
+}
+.controlnet_guidance_wrap .slider_title {
+  display: flex;
+  justify-content: space-between;
+  color: var(--dark1);
+}
+.controlnet_guidance_wrap .slider_title label {
+  margin-bottom: 0;
+}
+
+.form_loading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.05);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+  cursor: not-allowed;
+}
+
+.ipadapter_wrapper {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  width: 100%;
+  padding: 16px;
+  border-radius: var(--small-radius);
+  border: 1px solid var(--border);
+  background-color: var(--white);
+}

@@ -1,0 +1,73 @@
+.gridBackground {
+  // grid background style
+  background-image: linear-gradient(rgba(245, 245, 245, 1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(245, 245, 245, 1) 1px, transparent 1px);
+  background-size: 40px 40px;
+  background-position: 0 0;
+
+  // gird container
+  margin-left: calc(-1 * var(--spacing-layout-inner-x));
+  margin-right: calc(-1 * var(--spacing-layout-inner-x));
+  padding-left: var(--spacing-layout-inner-x);
+  padding-right: var(--spacing-layout-inner-x);
+}
+
+.firstPage {
+  position: relative;
+  padding-top: 84px;
+  padding-bottom: 78px;
+
+  .bg {
+    position: absolute;
+    background-image: url("/gpus/gpus-bg-01.png");
+    background-size: 120%;
+    background-position: -38px -40px;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+
+  .mainInfo {
+    h1 {
+      @include font-h1;
+      color: var(--black);
+    }
+
+    p {
+      @include font-p;
+      color: var(--dark-2);
+    }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .mainInfo {
+    h3 {
+      font-size: 32px;
+      line-height: 40px;
+      font-weight: 600;
+      letter-spacing: 0;
+    }
+    .gpuTypeText {
+      font-size: 14px;
+    }
+  }
+}
+
+@include screen-md {
+  .firstPage {
+    padding-top: 84px;
+    padding-bottom: 78px;
+    background-size: cover;
+    background-position: center;
+  }
+}
+.gpuType {
+  border-radius: 4px;
+  background: var(--brand-2);
+  padding: 2px 8px;
+  @include font-subtle;
+  color: var(--dark-2);
+}

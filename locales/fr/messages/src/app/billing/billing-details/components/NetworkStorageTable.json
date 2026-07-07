@@ -1,0 +1,12 @@
+{
+  "all": "Tous",
+  "day": "Jour",
+  "export": "Exporter",
+  "groupBy": "Regrouper par",
+  "month": "Mois",
+  "noData": "Aucune donnée !",
+  "productName": "Nom du produit",
+  "productType": "Type de produit",
+  "timeRange": "Plage temporelle",
+  "week": "Semaine"
+}

@@ -1,0 +1,21 @@
+{
+  "agentSandbox": "Bac à sable d’agent",
+  "anyBillingDataViewedBeforeThis": "Toute donnée de facturation consultée avant cette heure est fournie à titre indicatif uniquement et ne doit pas être utilisée pour le rapprochement.",
+  "billingRecordsAreGeneratedAtAn": "Les enregistrements de facturation sont générés à intervalles horaires. À titre exceptionnel, les services de stockage sont facturés quotidiennement, avec des enregistrements générés à 00:00 UTC.",
+  "billingSummariesAggregatedByApiKey-51443b": "Les récapitulatifs de facturation agrégés par clé API ne prennent actuellement en charge que les données de facturation à partir de 2026.",
+  "billingSummariesAggregatedByApiKey-e50926": "Les récapitulatifs de facturation agrégés par clé API ne prennent actuellement en charge que les produits LLM et image/vidéo.",
+  "byApiKey": "Par clé API",
+  "byCreator": "Par créateur",
+  "chargesAreGenerallyCalculatedAndDeducted": "Les frais sont généralement calculés et déduits toutes les heures. Des frais minimums de 0,0001 $ s’appliquent si les frais d’utilisation horaires sont inférieurs à ce montant.",
+  "forProductsBilledOnAFixed": "Pour les produits facturés selon une facturation à durée fixe, les relevés de facturation sont générés selon un cycle mensuel. Le relevé de facturation final du mois en cours sera disponible après 06:00 UTC le 1er du mois suivant.",
+  "gpuInstance": "Instance GPU",
+  "gpuInstances": "Instances GPU",
+  "gpuServerless": "GPU Serverless",
+  "imageDedicatedEndpoint": "Point de terminaison dédié aux images",
+  "imageVideo": "Image/Vidéo",
+  "llmDedicatedEndpoints": "Points de terminaison dédiés aux LLM",
+  "llmServerlessEndpoints": "LLM Serverless Endpoints",
+  "multiDimensionalSummaryBillsDisplayOther": "Les factures récapitulatives multidimensionnelles affichent les autres dimensions de récapitulatif, à l’exception de la dimension du mode de facturation.",
+  "storage": "Stockage",
+  "summary": "Résumé"
+}

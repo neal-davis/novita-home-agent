@@ -1,0 +1,8 @@
+{
+  "deploymentPipeline": "Pipeline de implantação",
+  "engineStartup": "Inicialização do mecanismo",
+  "modelImagePull": "Download do modelo e da imagem",
+  "resourceScheduling": "Agendamento de recursos",
+  "running": "Em execução",
+  "waiting": "Aguardando..."
+}

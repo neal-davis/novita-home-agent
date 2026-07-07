@@ -1,0 +1,11 @@
+{
+  "connectGithub": "Conectar GitHub",
+  "createAnAccount": "Crear una cuenta",
+  "enterInviteCode": "Introduce el código de invitación",
+  "howToEarn": "Cómo ganar",
+  "invalidInvitationCode": "Código de invitación no válido",
+  "registerViaEmail": "Registrarse por correo electrónico",
+  "toStartReceivingVouchersConnectAnd": "Para empezar a recibir cupones, conecta y verifica tu cuenta de GitHub",
+  "verifyYourGithubAccount": "Verifica tu cuenta de GitHub",
+  "youreCurrentlyUsingATeamAccount": "Actualmente estás usando una cuenta de equipo. Solo los propietarios del equipo pueden verificar la cuenta."
+}

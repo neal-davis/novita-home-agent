@@ -1,0 +1,6 @@
+{
+  "authorizing": "認証中...",
+  "loginWithGithub": "GitHubでログイン",
+  "loginWithGoogle": "Googleでログイン",
+  "loginWithHuggingFace": "Hugging Faceでログイン"
+}

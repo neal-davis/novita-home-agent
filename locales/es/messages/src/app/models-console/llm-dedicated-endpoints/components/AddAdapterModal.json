@@ -1,0 +1,18 @@
+{
+  "adapterAlreadyExists": "El adaptador ya existe",
+  "adapterName": "Nombre del adaptador",
+  "adapterReadyToAdd": "Adaptador listo para añadir.",
+  "addAdapter": "Añadir adaptador",
+  "cancel": "Cancelar",
+  "clickTheButtonAboveToAdd-5002cb": "Haz clic en el botón de arriba para añadir adaptadores.",
+  "clickTheButtonAboveToAdd-fcb6d5": "Haz clic en el botón de arriba para añadir adaptadores de Hugging Face.",
+  "enterAdaptersRepositoryName": "Introduce el nombre del repositorio del adaptador",
+  "enterHuggingFaceAdaptersRepositoryName": "Introduce el nombre del repositorio del adaptador de Hugging Face",
+  "gatheringAdapterInformation": "Recopilando información del adaptador...",
+  "loraAdapterSuccessfullyMatchedWithThe": "El adaptador LoRA se ha emparejado correctamente con el modelo base.",
+  "noAdapterAdded": "No se ha añadido ningún adaptador",
+  "optionalRouteForThisAdapterLeave": "Ruta opcional para este adaptador. Déjala vacía para usar el nombre del adaptador como valor predeterminado. La ruta debe ser única dentro del endpoint.",
+  "remove": "Eliminar",
+  "route": "Ruta",
+  "save": "Guardar"
+}

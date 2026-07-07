@@ -1,0 +1,91 @@
+{
+  "total": 3,
+  "configs": [
+    {
+      "fusionConfig": {
+        "name": "e2e-image-remove-background",
+        "displayName": "E2E Remove Background",
+        "series": "image",
+        "modelFamily": "e2e-image",
+        "description": "E2E fixture image background removal model.",
+        "labels": [],
+        "examples": "[{\"request\": {\"image\": \"https://example.com/fixture/input-a.jpg\"}, \"response\": {\"task\": {\"eta\": 0, \"reason\": \"\", \"status\": \"TASK_STATUS_SUCCEED\", \"task_id\": \"e2e-task-0001\", \"task_type\": \"IMAGE_REMOVE_BACKGROUND\", \"progress_percent\": 0}, \"extra\": {\"has_nsfw_contents\": [], \"enable_nsfw_detection\": false}, \"audios\": [], \"images\": [{\"image_url\": \"https://example.com/fixture/output-a.png\", \"image_type\": \"png\", \"image_url_ttl\": \"172800\", \"nsfw_detection_result\": null}], \"videos\": []}}, {\"request\": {\"image\": \"https://example.com/fixture/input-b.jpg\"}, \"response\": {\"task\": {\"eta\": 0, \"reason\": \"\", \"status\": \"TASK_STATUS_SUCCEED\", \"task_id\": \"e2e-task-0002\", \"task_type\": \"IMAGE_REMOVE_BACKGROUND\", \"progress_percent\": 0}, \"extra\": {\"has_nsfw_contents\": [], \"enable_nsfw_detection\": false}, \"audios\": [], \"images\": [{\"image_url\": \"https://example.com/fixture/output-b.png\", \"image_type\": \"png\", \"image_url_ttl\": \"172800\", \"nsfw_detection_result\": null}], \"videos\": []}}]",
+        "markdown": "",
+        "rank": 1,
+        "modelReleasedAt": "0",
+        "platformReleaseAt": "0"
+      },
+      "modelConfig": {
+        "config": {
+          "name": "e2e-image-remove-background",
+          "openapiSchema": "{\"info\":{\"title\":\"E2E Remove Background\",\"version\":\"1.0.0\",\"description\":\"E2E fixture remove background.\"},\"paths\":{\"/v3/async/image-remove-background\":{\"post\":{\"summary\":\"Image Background Removal\",\"security\":[{\"BearerAuth\":[]}],\"responses\":{\"200\":{\"content\":{\"application/json\":{\"schema\":{\"$ref\":\"#/components/schemas/TaskResponse\"}}},\"description\":\"Task created successfully\"}},\"description\":\"Asynchronous API returning a task_id.\",\"operationId\":\"createImageRemoveBackgroundTask\",\"requestBody\":{\"content\":{\"application/json\":{\"schema\":{\"$ref\":\"#/components/schemas/ImageRemoveBackgroundRequest\"}}},\"required\":true}}}},\"openapi\":\"3.0.3\",\"components\":{\"schemas\":{\"TaskResponse\":{\"type\":\"object\",\"required\":[\"task_id\"],\"properties\":{\"task_id\":{\"type\":\"string\",\"example\":\"task_abc123\",\"description\":\"Async task_id.\"}}},\"ImageRemoveBackgroundRequest\":{\"type\":\"object\",\"required\":[\"image\"],\"properties\":{\"image\":{\"type\":\"string\",\"example\":\"https://example.com/input.jpg\",\"description\":\"URL of the image whose background will be removed.\"}}}},\"securitySchemes\":{\"BearerAuth\":{\"type\":\"http\",\"scheme\":\"bearer\",\"description\":\"Bearer authentication.\"}}}}",
+          "category": "image_gen",
+          "billingExpr": "",
+          "async": true,
+          "priceConfig": "{}",
+          "providerBillingExpr": "",
+          "billingFactorMappers": null
+        },
+        "skuMappings": [
+          { "skuCode": "E2E_IMAGE_REMOVE_BACKGROUND", "celExpr": "true" }
+        ]
+      }
+    },
+    {
+      "fusionConfig": {
+        "name": "e2e-audio-tts",
+        "displayName": "E2E Text to Speech",
+        "series": "audio",
+        "modelFamily": "e2e-audio",
+        "description": "E2E fixture text-to-speech model.",
+        "labels": [],
+        "examples": "[]",
+        "markdown": "",
+        "rank": 2,
+        "modelReleasedAt": "0",
+        "platformReleaseAt": "0"
+      },
+      "modelConfig": {
+        "config": {
+          "name": "e2e-audio-tts",
+          "openapiSchema": "{\"info\":{\"title\":\"E2E Text to Speech\",\"version\":\"1.0.0\",\"description\":\"E2E fixture tts.\"},\"paths\":{\"/v3/async/text-to-speech\":{\"post\":{\"summary\":\"Text to Speech\",\"security\":[{\"BearerAuth\":[]}],\"responses\":{\"200\":{\"content\":{\"application/json\":{\"schema\":{\"$ref\":\"#/components/schemas/TaskResponse\"}}},\"description\":\"OK\"}},\"description\":\"Async TTS API.\",\"operationId\":\"createTtsTask\",\"requestBody\":{\"content\":{\"application/json\":{\"schema\":{\"$ref\":\"#/components/schemas/TtsRequest\"}}},\"required\":true}}}},\"openapi\":\"3.0.3\",\"components\":{\"schemas\":{\"TaskResponse\":{\"type\":\"object\",\"required\":[\"task_id\"],\"properties\":{\"task_id\":{\"type\":\"string\",\"example\":\"task_abc123\"}}},\"TtsRequest\":{\"type\":\"object\",\"required\":[\"text\"],\"properties\":{\"text\":{\"type\":\"string\",\"example\":\"Hello world\",\"description\":\"Text to synthesize.\"}}}},\"securitySchemes\":{\"BearerAuth\":{\"type\":\"http\",\"scheme\":\"bearer\"}}}}",
+          "category": "audio_gen",
+          "billingExpr": "",
+          "async": true,
+          "priceConfig": "{}",
+          "providerBillingExpr": "",
+          "billingFactorMappers": null
+        },
+        "skuMappings": [{ "skuCode": "E2E_AUDIO_TTS", "celExpr": "true" }]
+      }
+    },
+    {
+      "fusionConfig": {
+        "name": "e2e-video-t2v",
+        "displayName": "E2E Text to Video",
+        "series": "video",
+        "modelFamily": "e2e-video",
+        "description": "E2E fixture text-to-video model.",
+        "labels": [],
+        "examples": "[]",
+        "markdown": "",
+        "rank": 3,
+        "modelReleasedAt": "0",
+        "platformReleaseAt": "0"
+      },
+      "modelConfig": {
+        "config": {
+          "name": "e2e-video-t2v",
+          "openapiSchema": "{\"info\":{\"title\":\"E2E Text to Video\",\"version\":\"1.0.0\",\"description\":\"E2E fixture t2v.\"},\"paths\":{\"/v3/async/text-to-video\":{\"post\":{\"summary\":\"Text to Video\",\"security\":[{\"BearerAuth\":[]}],\"responses\":{\"200\":{\"content\":{\"application/json\":{\"schema\":{\"$ref\":\"#/components/schemas/TaskResponse\"}}},\"description\":\"OK\"}},\"description\":\"Async t2v API.\",\"operationId\":\"createT2vTask\",\"requestBody\":{\"content\":{\"application/json\":{\"schema\":{\"$ref\":\"#/components/schemas/T2vRequest\"}}},\"required\":true}}}},\"openapi\":\"3.0.3\",\"components\":{\"schemas\":{\"TaskResponse\":{\"type\":\"object\",\"required\":[\"task_id\"],\"properties\":{\"task_id\":{\"type\":\"string\",\"example\":\"task_abc123\"}}},\"T2vRequest\":{\"type\":\"object\",\"required\":[\"prompt\"],\"properties\":{\"prompt\":{\"type\":\"string\",\"example\":\"A cat\",\"description\":\"Prompt.\"}}}},\"securitySchemes\":{\"BearerAuth\":{\"type\":\"http\",\"scheme\":\"bearer\"}}}}",
+          "category": "video_gen",
+          "billingExpr": "",
+          "async": true,
+          "priceConfig": "{}",
+          "providerBillingExpr": "",
+          "billingFactorMappers": null
+        },
+        "skuMappings": [{ "skuCode": "E2E_VIDEO_T2V", "celExpr": "true" }]
+      }
+    }
+  ]
+}

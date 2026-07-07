@@ -1,0 +1,15 @@
+{
+  "autoscaling": "Dimensionamento automático",
+  "autoscalingHandlesHighlyVariableTrafficWhile": "O dimensionamento automático lida com tráfego altamente variável enquanto minimiza os gastos com recursos computacionais ociosos.",
+  "max": "~ Máx:",
+  "min": "Mín:",
+  "min300s": "Mín: 300s",
+  "numberOfReplicas": "Número de réplicas:",
+  "off": "Desativado",
+  "on": "Ativado",
+  "replicaRange": "Intervalo de réplicas:",
+  "scaleDownDelay": "Atraso para redução de escala:",
+  "scaleToZeroIsEnabled": "Redução para zero está ativada",
+  "sec": "s",
+  "yourEndpointHasADefaultMinimum": "Seu endpoint tem um mínimo padrão de 1 réplica e entrará automaticamente em modo de espera quando estiver ocioso. O tempo de inicialização a frio depende do tamanho do seu modelo e normalmente leva alguns minutos."
+}

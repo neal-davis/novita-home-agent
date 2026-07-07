@@ -1,0 +1,17 @@
+{
+  "agentNativeCliForEveryModel": "CLI native pour agents pour chaque modèle",
+  "builtWithNovitaAi": "Conçu avec Novita AI",
+  "compareMultipleModelsSideBySide": "Comparez plusieurs modèles côte à côte",
+  "deployHermesAgent": "Déployer Hermes Agent",
+  "deployPaddleocrVl15": "Déployer PaddleOCR-VL-1.5",
+  "hostClawdbotOpenclaw": "Héberger Clawdbot (OpenClaw)",
+  "inMinutesWithNovitaSandboxTemplate": "en quelques minutes avec Novita Sandbox Template",
+  "next": "Suivant",
+  "novitaAiXCliAnything": "Novita AI x CLI-Anything",
+  "novitaclaw": "NovitaClaw",
+  "onNovitaGpuCompleteGuide": "sur Novita GPU : guide complet",
+  "onePrompt": "Un seul prompt",
+  "previous": "Précédent",
+  "runOpenclawInTheCloudWith": "Exécutez OpenClaw dans le cloud avec une seule commande",
+  "withNovitaSandboxTemplateCompleteGuide": "avec Novita Sandbox Template : guide complet"
+}

@@ -1,0 +1,8 @@
+{
+  "_comment": "Synthetic /v1/user/affiliate (getAffiliateInfo) for hermetic /affiliate-new. Shape per AffiliateInfoResponse (src/api/user.ts). referralLink carries a deterministic invitedCode the spec asserts as a data-driven anchor href; password is a mock placeholder (real value is a PII secret and must never ship). No real PII.",
+  "referralLink": "https://novita.ai/referral?invitedCode=E2EAFF01",
+  "invites": 7,
+  "balance": 1234500,
+  "clicks": 42,
+  "password": "mock-initial-password"
+}

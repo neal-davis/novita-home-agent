@@ -1,0 +1,12 @@
+.clearSelect,
+.arrowIcon {
+  border-radius: 50%;
+  position: absolute;
+  right: 7px;
+  cursor: pointer;
+  background: var(--white);
+  height: 20px;
+  width: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+}

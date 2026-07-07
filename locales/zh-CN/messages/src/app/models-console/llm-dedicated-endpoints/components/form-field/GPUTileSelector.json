@@ -1,0 +1,6 @@
+{
+  "gpuCount": "GPU 数量：",
+  "insufficientGpuResourcesPleaseRetryAfter": "GPU 资源不足。请稍后重试。",
+  "selectGpuType": "选择 GPU 类型",
+  "thereIsCurrentlyNoRecommendedGpu": "当前没有推荐的 GPU 配置。"
+}

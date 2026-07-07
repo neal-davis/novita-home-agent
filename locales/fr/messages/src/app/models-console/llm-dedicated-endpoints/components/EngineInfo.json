@@ -1,0 +1,12 @@
+{
+  "cancel": "Annuler",
+  "confirmRestart": "Confirmer et redémarrer",
+  "edit": "Modifier",
+  "engineConfiguration": "Configuration du moteur",
+  "off": "Désactivé",
+  "on": "Activé",
+  "restartEngine": "Redémarrer le moteur ?",
+  "saveRestartEngine": "Enregistrer et redémarrer le moteur",
+  "savingChangesWillTriggerARolling": "L’enregistrement des modifications déclenchera un redémarrage progressif du moteur",
+  "thisWillTriggerARollingRestart": "Cela déclenchera un redémarrage progressif de toutes les répliques. Le processus peut prendre quelques minutes. Pendant le redémarrage, votre point de terminaison restera disponible."
+}

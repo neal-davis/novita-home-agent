@@ -1,0 +1,177 @@
+html {
+  // ==================== Primitives - Neutral ====================
+  --neutral-0: #292827;
+  --neutral-1: #4f4e4a;
+  --neutral-2: #6f6e6b;
+  --neutral-3: #9e9c98;
+  --neutral-4: #bbb9b6;
+  --neutral-5: #ffffff;
+
+  // ==================== Primitives - Gray ====================
+  --primitive-gray-0: #858585;
+  --primitive-gray-1: #cbc9c4;
+  --primitive-gray-2: #e7e6e2;
+  --primitive-gray-3: #f5f5f5;
+  --primitive-gray-4: #fafafa;
+
+  // ==================== Primitives - Blue ====================
+  --blue-0: #007ea4;
+  --blue-1: #0096c7;
+  --blue-2: #01a9db;
+  --blue-3: #18bfff;
+  --blue-4: #89dfff;
+  --blue-5: #d0f0fd;
+
+  // ==================== Primitives - Green ====================
+  --primitive-green-0: #1a8245;
+  --primitive-green-1: #1a8245;
+  --primitive-green-2: #22ad5c;
+  --primitive-green-3: #2cd673;
+  --primitive-green-4: #72efa6;
+  --primitive-green-5: #b7ffd5;
+  --primitive-green-6: #e2ffed;
+  --primitive-green-7: #f4fff8;
+
+  // ==================== Primitives - Orange ====================
+  --primitive-orange-0: #e1580e;
+  --primitive-orange-1: #e1580e;
+  --primitive-orange-2: #f27430;
+  --primitive-orange-3: #f59460;
+  --primitive-orange-4: #f8b490;
+  --primitive-orange-5: #fbd5c0;
+  --primitive-orange-6: #fde5d8;
+  --primitive-orange-7: #fff0e9;
+
+  // ==================== Primitives - Red ====================
+  --primitive-red-0: #e10e0e;
+  --primitive-red-1: #e10e0e;
+  --primitive-red-2: #f23030;
+  --primitive-red-3: #f56060;
+  --primitive-red-4: #f89090;
+  --primitive-red-5: #fbc0c0;
+  --primitive-red-6: #feebeb;
+  --primitive-red-7: #fef3f3;
+
+  // ==================== Primitives - Purple ====================
+  --primitive-purple-0: #5b21b6;
+  --primitive-purple-1: #5b21b6;
+  --primitive-purple-2: #6d28d9;
+  --primitive-purple-3: #8c54f4;
+  --primitive-purple-4: #a78bfa;
+  --primitive-purple-5: #c4b5fd;
+  --primitive-purple-6: #ede9fe;
+  --primitive-purple-7: #f4f1ff;
+
+  // ==================== Primitives - Yellow ====================
+  --primitive-yellow-1: #d97706;
+  --primitive-yellow-2: #f59e0b;
+  --primitive-yellow-3: #fbbf24;
+  --primitive-yellow-4: #fcd34d;
+  --primitive-yellow-5: #fde68a;
+  --primitive-yellow-6: #fef3c7;
+  --primitive-yellow-7: #fffbeb;
+
+  // ==================== Primitives - Brand ====================
+  --primitive-brand-0: #23d57c;
+  --primitive-brand-1: #16b063;
+  --primitive-brand-2: #caf6e0;
+  --primitive-brand-3: #effcf5;
+
+  // ==================== Primitives - Transparent ====================
+  --transparent-blue: #89dfff33;
+  --transparent-red: #f8909033;
+  --transparent-orange: #ffac8033;
+  --transparent-green: #72efa633;
+  --transparent-gray: #cbc9c433;
+  --transparent-purple: #a78bfa33;
+  --transparent-neutral: #ffffff33;
+
+  // ==================== Primitives - Mask ====================
+  --mask-0: #18181833;
+  --mask-1: #18181866;
+
+  // ==================== Semantic - Base ====================
+  --white: var(--neutral-5);
+  --black: #000000;
+
+  // ==================== Semantic - Brand ====================
+  --brand-0: var(--primitive-brand-0);
+  --brand-1: var(--primitive-brand-1);
+  --brand-2: var(--primitive-brand-2);
+  --brand-3: var(--primitive-brand-3);
+
+  // ==================== Semantic - Dark ====================
+  --dark-1: var(--neutral-0);
+  --dark-2: var(--neutral-1);
+  --dark-3-1: var(--neutral-2);
+  --dark-3: var(--neutral-3);
+  --dark-4: var(--neutral-4);
+
+  // ==================== Semantic - Gray ====================
+  --gray-1: var(--primitive-gray-1);
+  --gray-2: var(--primitive-gray-2);
+  --gray-3: var(--primitive-gray-3);
+  --gray-4: var(--primitive-gray-4);
+
+  // ==================== Semantic - Yellow ====================
+  --yellow-1: var(--primitive-yellow-1);
+  --yellow-2: var(--primitive-yellow-2);
+  --yellow-3: var(--primitive-yellow-3);
+  --yellow-4: var(--primitive-yellow-4);
+  --yellow-5: var(--primitive-yellow-5);
+  --yellow-6: var(--primitive-yellow-6);
+  --yellow-7: var(--primitive-yellow-7);
+
+  // ==================== Semantic - Orange ====================
+  --orange-1: var(--primitive-orange-0);
+  --orange-2: var(--primitive-orange-2);
+  --orange-3: var(--primitive-orange-3);
+  --orange-4: var(--primitive-orange-4);
+  --orange-5: var(--primitive-orange-5);
+  --orange-6: var(--primitive-orange-6);
+  --orange-7: var(--primitive-orange-7);
+
+  // ==================== Semantic - Red ====================
+  --red-1: var(--primitive-red-0);
+  --red-2: var(--primitive-red-2);
+  --red-3: var(--primitive-red-3);
+  --red-4: var(--primitive-red-4);
+  --red-5: var(--primitive-red-5);
+  --red-6: var(--primitive-red-6);
+  --red-7: var(--primitive-red-7);
+
+  // ==================== Semantic - Purple ====================
+  --purple-0: #171952;
+  --purple-1: var(--primitive-purple-0);
+  --purple-2: var(--primitive-purple-2);
+  --purple-4: var(--primitive-purple-4);
+  --purple-5: var(--primitive-purple-5);
+  --purple-6: var(--primitive-purple-6);
+
+  // ==================== Semantic - Green ====================
+  --green-0: #283338;
+  --green-1: var(--primitive-green-0);
+  --green-2: var(--primitive-green-2);
+  --green-3: var(--primitive-green-3);
+  --green-4: var(--primitive-green-4);
+  --green-5: var(--primitive-green-5);
+  --green-6: var(--primitive-green-6);
+  --green-7: var(--primitive-green-7);
+
+  // ==================== Semantic - Cyan ====================
+  --cyan-2: var(--blue-2);
+  --cyan-3: var(--blue-3);
+  --cyan-4: var(--blue-4);
+  --cyan-5: var(--blue-5);
+
+  // ==================== Semantic - Font Colors ====================
+  --font-color-text-1: var(--neutral-0);
+  --font-color-text-2: var(--neutral-1);
+  --font-color-text-3: var(--neutral-2);
+  --font-color-text-4: var(--neutral-3);
+  --font-color-blue: var(--blue-0);
+  --font-color-red: var(--primitive-red-0);
+  --font-color-orange: var(--primitive-orange-0);
+  --font-color-green: var(--primitive-green-0);
+  --font-color-purple: var(--primitive-purple-0);
+}

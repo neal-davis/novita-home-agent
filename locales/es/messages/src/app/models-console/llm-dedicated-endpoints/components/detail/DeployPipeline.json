@@ -1,0 +1,8 @@
+{
+  "deploymentPipeline": "Canalización de implementación",
+  "engineStartup": "Inicio del motor",
+  "modelImagePull": "Descarga de modelo e imagen",
+  "resourceScheduling": "Programación de recursos",
+  "running": "En ejecución",
+  "waiting": "Esperando..."
+}

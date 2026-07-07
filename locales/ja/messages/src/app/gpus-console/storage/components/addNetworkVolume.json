@@ -1,0 +1,23 @@
+{
+  "available": "利用可能",
+  "balanceIsNotEnough": "残高が不足しています。",
+  "cancel": "キャンセル",
+  "close": "閉じる",
+  "contactSupport": "サポートにお問い合わせください",
+  "createNetworkVolume": "ネットワークボリュームを作成",
+  "dataCenterGpuAvailability": "データセンターのGPU利用可能状況",
+  "deleteNetworkVolume": "ネットワークボリュームを削除",
+  "editNetworkVolume": "ネットワークボリュームを編集",
+  "forLargerVolumes": "より大きなボリュームの場合。",
+  "gbMinimum10gb": "GB（最小10GB）",
+  "itIsHighlyAdvisableToContinually": "保存したいものは、ローカルのオフサイトまたはクラウドプロバイダーに継続的にバックアップすることを強くお勧めします。",
+  "loading": "読み込み中...",
+  "networkVolumeIsProvidedInThe": "Network Volume は、その GPUs を使用してタスクを実行することを目的として提供されており、",
+  "none": "なし",
+  "notMeantToBeALong": "長期的なバックアップソリューションを意図したものではありません。",
+  "pleaseNoteThatIfYourAccount": "アカウントに未払いがあり、実行中のインスタンスがない場合、Network Volume は",
+  "released3DaysLater": "3日後に解放されます。",
+  "save": "保存",
+  "selectDataCenter": "データセンターを選択",
+  "volumeName": "ボリューム名"
+}

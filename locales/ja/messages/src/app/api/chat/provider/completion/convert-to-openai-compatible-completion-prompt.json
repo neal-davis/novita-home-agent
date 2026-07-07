@@ -1,0 +1,3 @@
+{
+  "unexpectedSystemMessageInPromptContent": "プロンプト内に予期しないシステムメッセージがあります: ${content}"
+}

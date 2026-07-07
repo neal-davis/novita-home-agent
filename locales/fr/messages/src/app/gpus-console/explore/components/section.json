@@ -1,0 +1,19 @@
+{
+  "balanceIsNotEnough": "Le solde est insuffisant.",
+  "cudaVersionIsIncompatible": "La version de CUDA est incompatible",
+  "deploy": "Déployer",
+  "entrypointLengthCannotExceed2047Characters": "La longueur du point d’entrée ne peut pas dépasser 2047 caractères",
+  "environmentVariablesKeyCanNotBe": "La clé des variables d’environnement ne peut pas être vide.",
+  "httpportFieldMustHaveLessThan": "Le champ HttpPort doit contenir 10 éléments ou moins.",
+  "insufficientResources": "Ressources insuffisantes",
+  "loginFailurePleaseLogInAgain": "Échec de la connexion, veuillez vous reconnecter",
+  "noAvailableSpotInstancesInThis": "Aucune instance Spot disponible dans cette région. Essayez plutôt l’option à la demande.",
+  "pleaseEnterValidImage": "Veuillez saisir une image valide",
+  "pleaseEnterValidNetworkMountPath": "Veuillez saisir un chemin de montage réseau valide.",
+  "pleaseEnterValidVolumeMountPath": "Veuillez saisir un chemin de montage de volume valide.",
+  "pleaseInputValidVolumeDiskSize": "Veuillez saisir une taille de disque de volume valide",
+  "pleaseLogInFirst": "Veuillez d’abord vous connecter",
+  "pleaseSelectAProductWithStock": "Veuillez sélectionner un produit en stock.",
+  "success": "succès",
+  "theVolumeMountPathAndNetwork": "Le chemin de montage du volume et le chemin de montage réseau ne peuvent pas être identiques."
+}

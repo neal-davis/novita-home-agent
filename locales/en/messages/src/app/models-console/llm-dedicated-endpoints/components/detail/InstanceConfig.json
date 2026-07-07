@@ -1,0 +1,8 @@
+{
+  "editLora": "Edit LoRA",
+  "engine": "ENGINE",
+  "instanceConfiguration": "Instance Configuration",
+  "lora": "LoRA",
+  "loraAdapters": "LoRA Adapters",
+  "model": "MODEL"
+}

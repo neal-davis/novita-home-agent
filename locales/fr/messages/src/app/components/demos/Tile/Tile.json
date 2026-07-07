@@ -1,0 +1,12 @@
+{
+  "cancel": "Annuler",
+  "descriptionOfTheTileThatYou": "Description de la tuile que vous souhaitez éviter de générer",
+  "descriptionOfTheTileYouWant": "Description de la tuile que vous souhaitez générer",
+  "download": "Télécharger",
+  "generate": "Générer",
+  "heigh": "Hauteur",
+  "negativePrompt": "Prompt négatif",
+  "prompt": "Prompt",
+  "promptIsEmpty": "Le prompt est vide",
+  "width": "Largeur"
+}

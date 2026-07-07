@@ -1,0 +1,166 @@
+.container {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  padding-top: 64px;
+  padding-bottom: 64px;
+  @include screen-lg {
+    height: 641px;
+  }
+  .left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 32px;
+    max-width: 100%;
+    width: 100%;
+    @include screen-lg {
+      max-width: 371px;
+      width: 50%;
+    }
+    .top {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: center;
+      gap: 8px;
+      .bottom {
+        color: var(--dark-1);
+        @include font-h3;
+      }
+    }
+    .middle {
+      color: var(--dark-2);
+      @include font-body;
+    }
+  }
+  .rightInner {
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0;
+    margin-top: -140px;
+    .firstArea {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-end;
+      justify-content: center;
+      gap: 11px;
+    }
+    .secondArea {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-end;
+      justify-content: center;
+      gap: 11px;
+    }
+    .thirdArea {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-end;
+      justify-content: center;
+      gap: 11px;
+      margin-top: 40px;
+    }
+    .firstAreaTop, .secondAreaTop, .thirdAreaTop {
+      color: var(--brand-0);
+      @include font-h4-large;
+    }
+    .firstAreaBottom, .secondAreaBottom, .thirdAreaBottom {
+      color: var(--dark-1);
+      @include font-h4-large;
+    }
+  }
+}
+.globalRight {
+  position: absolute;
+  right: 0px;
+  width: 200px;
+  bottom: 170px;
+}
+.webContainer {
+  display: none !important;
+  @include screen-lg {
+    display: flex !important;
+  }
+}
+.mobileContainer {
+  display: flex !important;
+  @include screen-lg {
+    display: none !important;
+  }
+}
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  @include screen-lg {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.rightBottom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  .mobileTop {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 89px;
+  }
+  .mobileBottom {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    .firstArea {
+      display: inline-flex;
+      flex-direction: row;
+      align-items: flex-end;
+      justify-content: center;
+      gap: 11px;
+    }
+    .secondArea {
+      display: inline-flex;
+      flex-direction: row;
+      align-items: flex-end;
+      justify-content: center;
+      gap: 11px;
+      margin-top: 60px;
+    }
+    .thirdArea {
+      display: inline-flex;
+      flex-direction: row;
+      align-items: flex-end;
+      justify-content: center;
+      gap: 11px;
+    }
+    .firstAreaTop, .secondAreaTop, .thirdAreaTop {
+      color: var(--brand-0);
+      @include font-h4-large;
+      font-size: 24px;
+      @include screen-md {
+        font-size: 32px;
+      }
+    }
+    .firstAreaBottom, .secondAreaBottom, .thirdAreaBottom {
+      color: var(--dark-1);
+      @include font-h4-large;
+      font-size: 24px;
+      @include screen-md {
+        font-size: 32px;
+      }
+    }
+  }
+}

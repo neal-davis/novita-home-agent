@@ -1,0 +1,28 @@
+@import "@/styles/mixins.scss";
+
+.playground_page {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: var(--gray-3);
+  overflow: hidden;
+}
+
+// Loading and Error States
+.loading_state,
+.error_state {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  padding: 48px 24px;
+
+  p {
+    @include font-body-medium;
+    color: var(--dark-2);
+  }
+}
+
+.error_state p {
+  color: var(--red-4);
+}

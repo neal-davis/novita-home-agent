@@ -1,0 +1,15 @@
+{
+  "baseModel": "ベースモデル",
+  "baseModelType": "ベースモデルタイプ",
+  "category": "カテゴリー",
+  "enterName": "名前を入力",
+  "fileUploadFailedPleaseReUpload": "ファイルのアップロードに失敗しました。再アップロードしてください！",
+  "name": "名前",
+  "nsfwNotSafeForWork": "NSFW（職場閲覧注意）",
+  "pleaseAddYourKeyFirst": "先にキーを追加してください",
+  "pleaseSelect": "選択してください",
+  "pleaseUploadYourModelFirst": "先にモデルをアップロードしてください",
+  "submit": "送信",
+  "submitSuccess": "送信に成功しました",
+  "type": "タイプ"
+}

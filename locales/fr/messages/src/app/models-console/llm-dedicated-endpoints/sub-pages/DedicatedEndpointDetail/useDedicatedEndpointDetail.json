@@ -1,0 +1,6 @@
+{
+  "endpointIsWakingUp": "Le point de terminaison est en cours de réveil",
+  "failedToWakeUpEndpoint": "Échec du réveil du point de terminaison",
+  "redeploy": "Redéployer",
+  "wakeUp": "Réveiller"
+}

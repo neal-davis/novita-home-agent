@@ -1,0 +1,19 @@
+{
+  "action": "操作",
+  "addCredential-e41f30": "+ 添加凭证",
+  "addCredential-efd6c2": "添加凭证",
+  "addingPublicKeysToYourAccount": "将公钥添加到您的账户后，即可通过关联的私钥使用基本终端访问选项访问实例。您可以通过换行分隔来添加多个公钥。",
+  "captionTable": "字幕表",
+  "changePassword": "更改密码",
+  "containerRegistryAuth": "容器镜像仓库认证",
+  "deleteRegistryAuth": "删除镜像仓库认证",
+  "name": "名称",
+  "preferSingleNuma": "优先使用单 NUMA",
+  "singleNuma": "单 NUMA",
+  "sshPublicKey": "SSH 公钥",
+  "sshPublicKeys": "SSH 公钥",
+  "success": "成功",
+  "thisPolicyWouldAllowResourceAllocation": "仅当没有任何其他方式能够满足该分配请求时，此策略才允许从不同的 NUMA 节点分配资源。",
+  "updatePublicKey": "更新公钥",
+  "youCanRegisterYourContainerRegistry": "您可以在此注册容器镜像仓库凭证，以便从各种容器镜像仓库拉取私有镜像。请注意，我们目前仅支持 docker login 类型的凭证。您可以先在此注册凭证，然后在编辑或创建模板时从下拉列表中选择该凭证，将其添加到模板中。"
+}

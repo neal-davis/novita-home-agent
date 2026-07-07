@@ -1,0 +1,20 @@
+{
+  "autoRenewal": "自動更新",
+  "autoRenewalYourCodingPlanPackage": "自動更新の場合、Codingプランパッケージの有効期限は",
+  "cancel": "キャンセル",
+  "cancelSubscription": "サブスクリプションをキャンセル",
+  "changePlan": "プランを変更",
+  "confirm": "確認",
+  "cycleUsage": "サイクル使用量",
+  "day": "日",
+  "ifYouConfirmCancelYour": "キャンセルを確定すると、あなたの",
+  "no": "いいえ",
+  "notice": "お知らせ",
+  "of": "のうち",
+  "processing": "処理中...",
+  "restartAutoRenewal": "自動更新を再開",
+  "tokens": "トークン",
+  "until": "まで",
+  "used": "使用済み %",
+  "warning": "警告"
+}

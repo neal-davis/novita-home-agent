@@ -1,0 +1,13 @@
+{
+  "agentSandbox": "智能体沙盒",
+  "eachTaskRunsInAnIsolated": "每个任务都在具有系统级隔离的独立沙盒中运行，以降低数据泄露和未经授权访问的风险。",
+  "fastStartupStrongIsolationMassiveConcurrency": "快速启动。强隔离。大规模并发。",
+  "highConcurrencyAtScale": "规模化高并发",
+  "launchSandboxInstancesInMillisecondsIsolate": "在毫秒级启动沙盒实例，隔离每个任务，并扩展到数千个并发执行，以应对真实的智能体工作负载。",
+  "launchSandboxInstancesInUnder200ms": "平均在 200ms 内启动沙盒实例，针对突发性和高频工作负载进行了优化。",
+  "operating1159Instances": "正在运行 1,159 个实例",
+  "runThousandsOfSandboxInstancesIn": "并行运行数千个沙盒实例，并为高吞吐量智能体工作负载保持稳定的低延迟。",
+  "secureIsolation": "安全隔离",
+  "subSecondStartup": "亚秒级启动",
+  "tryNow": "立即试用"
+}

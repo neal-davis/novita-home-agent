@@ -1,0 +1,6 @@
+{
+  "agentSandbox": "智能体沙盒",
+  "exploreNow": "立即探索",
+  "runAutonomousAgentsInIsolatedContainers": "在隔离容器中运行自主智能体，启动时间约 200 毫秒，支持安全使用工具（浏览器/API/代码）以及大规模并发。CPU/RAM 按秒计费。",
+  "safeInstantRuntimesForAiAgents": "面向 AI 智能体的安全即时运行时"
+}

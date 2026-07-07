@@ -1,0 +1,12 @@
+{
+  "addCard": "Karte hinzufügen",
+  "cancel": "Abbrechen",
+  "confirmationOfCardDeletion": "Bestätigung der Kartenlöschung",
+  "exp": "Gültig bis",
+  "noPaymentMethod": "Keine Zahlungsmethode",
+  "remove": "Entfernen",
+  "removeCard": "Karte entfernen",
+  "removingThisCardWillDisableAuto": "Wenn Sie diese Karte entfernen, wird die automatische Aufladung deaktiviert.",
+  "removingThisCardWillDisableRecharges": "Das Entfernen dieser Karte deaktiviert Aufladungen und automatische Zahlungen",
+  "youCanUpdateYourCreditCard": "Sie können Ihre Kreditkarte nur einmal pro Monat aktualisieren."
+}

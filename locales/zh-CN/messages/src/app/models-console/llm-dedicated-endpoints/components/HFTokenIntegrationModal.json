@@ -1,0 +1,9 @@
+{
+  "cancel": "取消",
+  "huggingFaceAccessToken": "Hugging Face 访问令牌",
+  "save": "保存",
+  "submitRequirements": "提交需求",
+  "thisLink": "此链接",
+  "toConnectYourHuggingFaceAccount": "要连接您的 Hugging Face 账户，您需要注册您的 Hugging Face 访问令牌。您可以通过以下方式在 Hugging Face 上生成访问令牌：",
+  "yourHuggingFaceAccessToken": "您的 Hugging Face 访问令牌"
+}

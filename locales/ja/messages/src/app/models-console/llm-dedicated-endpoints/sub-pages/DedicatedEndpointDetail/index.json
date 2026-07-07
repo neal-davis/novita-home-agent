@@ -1,0 +1,8 @@
+{
+  "editLoraAdapters": "LoRA アダプターを編集",
+  "failedToUpdateLoraAdapters": "LoRA アダプターの更新に失敗しました",
+  "loraAdaptersUpdated": "LoRA アダプターを更新しました",
+  "metrics": "メトリクス",
+  "overview": "概要",
+  "settings": "設定"
+}

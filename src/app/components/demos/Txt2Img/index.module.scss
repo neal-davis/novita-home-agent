@@ -1,0 +1,113 @@
+.panel_body {
+  height: 100%;
+  overflow-y: hidden;
+  min-width: 0;
+}
+
+.form_wrapper {
+  box-sizing: border-box;
+  padding: 18px 16px 0 16px;
+  height: 100%;
+  width: 100%;
+  min-width: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  .panel_box {
+    position: relative;
+    width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 20px;
+    row-gap: 10px;
+    overflow-x: visible;
+    margin-bottom: 18px;
+
+    .form_title {
+      display: flex;
+      column-gap: 10px;
+      align-items: center;
+      font-size: 14px;
+      color: var(--dark1);
+      letter-spacing: 0;
+      line-height: 14px;
+      margin-bottom: 12px;
+      min-width: 0;
+      flex-wrap: wrap;
+
+      .sd3_label {
+        font-weight: bold;
+        background: linear-gradient(
+          to right,
+          rgb(53, 93, 255) 0%,
+          rgb(221, 54, 255) 50%,
+          rgb(255, 86, 247) 100%
+        );
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+      }
+    }
+
+    .try_example {
+      position: absolute;
+      padding: 0 10px;
+      top: -5px;
+      right: 0;
+      height: 24px;
+      font-size: 12px;
+      color: var(--dark-1);
+      opacity: 0.85;
+      max-width: 45%;
+      white-space: nowrap;
+    }
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .form_wrapper {
+    padding-left: 12px;
+    padding-right: 12px;
+
+    .panel_box {
+      flex-direction: column;
+      align-items: stretch;
+    }
+
+    .panel_box .try_example {
+      position: static;
+      align-self: flex-start;
+      max-width: 100%;
+      margin-top: -6px;
+      margin-bottom: 10px;
+    }
+  }
+}
+
+.result {
+  flex: 1;
+  position: relative;
+  height: 100%;
+  min-height: 0;
+  box-sizing: border-box;
+  padding: 50px 20px;
+  overflow: auto;
+
+  .preview_img_list {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 80%;
+    max-width: 1000px;
+    row-gap: 10px;
+    column-gap: 10px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: visible;
+  }
+}

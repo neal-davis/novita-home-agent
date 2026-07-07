@@ -1,0 +1,28 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  .side {
+    width: 218px;
+    min-width: 218px;
+    position: relative;
+    z-index: 999;
+    background-color: var(--white);
+    border-right: 1px solid var(--gray-1);
+  }
+
+  .main {
+    flex: 1;
+    min-width: 0;
+    max-width: calc(100vw - 218px);
+    overflow-x: auto;
+    background-color: #fff;
+  }
+
+  .content_wrapper {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--gray-3);
+  }
+}

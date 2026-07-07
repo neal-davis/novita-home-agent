@@ -1,0 +1,20 @@
+{
+  "autoRenew": "Automatisch verlängern",
+  "cancel": "Abbrechen",
+  "confirm": "Bestätigen",
+  "confirmCurrentOperation": "Aktuellen Vorgang bestätigen?",
+  "currentExpirationTime": "Aktuelle Ablaufzeit",
+  "details": "Details",
+  "expirationTimeAfterRenewal": "Ablaufzeit nach Verlängerung",
+  "gpuFee": "GPU-Gebühr",
+  "instanceId": "Instanz-ID",
+  "off": "% RABATT",
+  "processing": "Wird verarbeitet",
+  "renewSubscriptionInstance": "Abonnement-Instanz verlängern",
+  "renewalDuration": "Verlängerungsdauer",
+  "settlementAmount": "Abrechnungsbetrag",
+  "storageFee": "Speichergebühr",
+  "switchToSubscription": "Zu Abonnement wechseln",
+  "unitPrice": "Stückpreis",
+  "weWillAttemptCharge3Days": "Wir werden 3 Tage vor Ablauf versuchen, den Betrag abzubuchen"
+}

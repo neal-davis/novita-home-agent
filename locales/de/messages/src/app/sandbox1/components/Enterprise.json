@@ -1,0 +1,10 @@
+{
+  "bookACall": "Gespräch buchen",
+  "concurrentInstances": "Gleichzeitige Instanzen",
+  "contactSales": "Vertrieb kontaktieren",
+  "deploymentRegion": "Bereitstellungsregion",
+  "enterprise": "Enterprise",
+  "forAdvancedWorkloadsRequiringLargeMemory": "Für anspruchsvolle Workloads, die großen Arbeitsspeicher, mehr vCPU oder benutzerdefinierte Bereitstellungsstandorte erfordern.",
+  "maxVcpusPerSandbox": "Max. vCPUs pro Sandbox",
+  "uptimeSla": "Verfügbarkeits-SLA"
+}

@@ -1,0 +1,16 @@
+.console_button {
+  background-color: var(--dark-1);
+  color: #fff;
+  border-radius: 4px;
+
+  &:hover {
+    opacity: 0.8;
+    background-color: var(--dark-1);
+  }
+
+  &:disabled {
+    opacity: 1;
+    background-color: var(--gray-3);
+    color: var(--dark-3);
+  }
+}

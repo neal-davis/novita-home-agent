@@ -1,0 +1,9 @@
+{
+  "cancel": "Cancelar",
+  "start": "Iniciar",
+  "startInstance": "Iniciar instancia",
+  "startYourInstance": "Inicia tu instancia.",
+  "startYourInstanceIfYouHave": "Inicia tu instancia. Si tienes un volumen configurado, se recuperará y se montará.",
+  "success": "éxito",
+  "theCurrentMachinePriceFor": "El precio actual de la máquina para"
+}

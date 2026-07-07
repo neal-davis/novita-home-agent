@@ -1,0 +1,23 @@
+{
+  "companyNameOptional": "Company Name (Optional)",
+  "developing": "Developing",
+  "discordSlack": "Discord/Slack",
+  "expectedNumberAndTypeOfGpus": "Expected number and type of GPUs needed?",
+  "howDidYouHearAboutUs": "How did you hear about us?",
+  "inProduction": "In production",
+  "inputExpectedNumberAndGpusType": "Input expected number and GPUs type",
+  "inputYourCompanyName": "Input your company name",
+  "other": "Other",
+  "playingAround": "Playing around",
+  "researchPurposes": "Research purposes",
+  "selectAllThatApply": "Select all that apply",
+  "submit": "Submit",
+  "success": "success",
+  "tellUsABitMoreAbout": "Tell us a bit more about yourself",
+  "useModelsForCompanyUseCase": "Use models for company use-case",
+  "useModelsInSideProject": "Use models in side project",
+  "welcomeToNovitaAi": "Welcome to Novita AI",
+  "whatIsYourGoal": "What is your goal?",
+  "whatStageAreYouAt": "What stage are you at",
+  "wordOfMouth": "Word of Mouth"
+}

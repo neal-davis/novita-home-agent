@@ -1,0 +1,22 @@
+{
+  "aSingleInstanceCanMountUp": "单个实例最多可挂载 30 个云存储卷。",
+  "addMount": "添加挂载",
+  "applyingTheseChangesWillRestartThe": "应用这些更改将立即重启当前实例。",
+  "beforeDetachingAVolumeEnsureIt": "分离卷之前，请确保已在实例内卸载该卷，以免丢失未保存的数据。",
+  "cancel": "取消",
+  "cloudStorageMountsWillBeChanged": "云存储挂载将更改为",
+  "confirm": "确认",
+  "maximum30MountsAllowedPleaseUnmount": "最多允许 30 个挂载。请先卸载一些存储",
+  "mountCloudStorage": "挂载云存储",
+  "mountPath": "挂载路径",
+  "mountingNotes": "挂载说明",
+  "pleaseEnterADifferentCloudStorage": "请输入不同的云存储挂载路径",
+  "pleaseEnterAValidCloudStorage": "请输入有效的云存储挂载路径",
+  "pleaseMakeSureYouveUnmountedThe": "请确保已卸载额外卷——提交此更改将重启实例。",
+  "pleaseSelectADifferentCloudStorage": "请选择不同的云存储",
+  "pleaseSelectTheCloudStorageTo": "请选择要挂载的云存储",
+  "storageInstance": "存储实例",
+  "success": "成功",
+  "thereIsNoChangeInThe": "现有云存储数据没有变化，请确认",
+  "tips": "提示"
+}

@@ -1,0 +1,14 @@
+{
+  "configureCustomElasticScalingStrategiesThrough": "Configurez des stratégies de mise à l’échelle élastique personnalisées via une interface simple. Ajustez en temps réel, avec prise en charge de la création basée sur des modèles, sans opérations complexes nécessaires.",
+  "instantColdStart": "Démarrage à froid instantané",
+  "privateImageQuickDeployment": "Image privée, déploiement rapide",
+  "readyToUseEasyConfiguration": "Prêt à l’emploi, configuration facile",
+  "realTimeLogsMonitoring": "Journaux en temps réel, surveillance",
+  "retainAndReviewLogsInReal": "Conservez et examinez les journaux en temps réel. Surveillez les métriques clés et l’exécution des tâches, vous offrant une visibilité complète sur vos instances en cours d’exécution et garantissant des opérations fluides.",
+  "serverlessColdStart": "démarrage à froid sans serveur",
+  "serverlessConfig": "configuration sans serveur",
+  "serverlessConsoleDemo": "démonstration de la console sans serveur",
+  "serverlessLog": "journal sans serveur",
+  "supportPrivateImagePullsFromDockerhub": "Prend en charge les extractions d’images privées depuis DockerHub ou les téléversements d’images personnalisées. Déployez rapidement des instances et mettez-les à l’échelle à la demande sans affecter les services en cours d’exécution.",
+  "throughOptimizedPreloadingOurPlatformMinimizes": "Grâce à un préchargement optimisé, notre plateforme minimise les délais de démarrage à froid, garantissant que vos opérations commerciales restent toujours réactives."
+}

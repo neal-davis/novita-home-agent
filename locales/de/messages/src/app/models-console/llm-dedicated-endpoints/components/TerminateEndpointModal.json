@@ -1,0 +1,6 @@
+{
+  "cancel": "Abbrechen",
+  "terminate": "Beenden",
+  "terminateEndpoint": "Endpunkt beenden",
+  "thisEndpointWillBeTerminatedImmediately": "Dieser Endpunkt wird sofort beendet, sodass zukünftige Anfragen fehlschlagen werden. Sie können diesen Endpunkt jederzeit neu starten."
+}

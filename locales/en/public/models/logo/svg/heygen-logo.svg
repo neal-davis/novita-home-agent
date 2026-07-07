@@ -1,0 +1,17 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>HeyGen</title>
+  <path d="M28 0L56 14V42L28 56L0 42V14L28 0Z" fill="url(#heygen-gradient)"/>
+  <path d="M28 0V28L0 14L28 0Z" fill="#59E3B1"/>
+  <path d="M28 28V56L0 42L28 28Z" fill="#B37CFF"/>
+  <path d="M28 28V0L56 14L28 28Z" fill="#7DD3FC"/>
+  <path d="M28 56V28L56 42L28 56Z" fill="#9B8CFF"/>
+  <path d="M0 14L28 28L0 42V14Z" fill="#D7B4FF"/>
+  <path d="M56 14V42L28 28L56 14Z" fill="#C9E8FF"/>
+  <defs>
+    <linearGradient id="heygen-gradient" x1="0" y1="0" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#49E6A2"/>
+      <stop offset="0.5" stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#B37CFF"/>
+    </linearGradient>
+  </defs>
+</svg>

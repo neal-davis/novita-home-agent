@@ -1,0 +1,13 @@
+{
+  "all": "全部",
+  "back": "返回",
+  "close": "关闭",
+  "loading": "加载中...",
+  "loadingMessages": "正在加载消息...",
+  "markAllAsRead": "全部标记为已读",
+  "messages": "消息",
+  "noMessagesYet": "暂无消息",
+  "noMoreMessages": "没有更多消息",
+  "read": "已读",
+  "unread": "未读"
+}

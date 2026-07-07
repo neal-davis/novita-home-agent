@@ -1,0 +1,17 @@
+{
+  "billing": "Billing",
+  "containerDisk": "Container Disk",
+  "createTime": "Create Time",
+  "creator": "Creator",
+  "dataCenter": "Data Center",
+  "disk": "Disk",
+  "editInstanceName": "Edit instance name",
+  "expirationTime": "Expiration time:",
+  "gb": "GB",
+  "gpu": "GPU:",
+  "gpuId": "GPU ID:",
+  "id": "ID:",
+  "localVolumePath": "Local Volume Path",
+  "networkVolume": "Network Volume",
+  "template": "Template"
+}

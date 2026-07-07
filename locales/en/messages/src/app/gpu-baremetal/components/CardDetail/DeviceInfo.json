@@ -1,0 +1,11 @@
+{
+  "deviceInformation": "Device information",
+  "gb": "GB",
+  "gpuName": "GPU Name",
+  "gpusNode": "GPUs/ Node",
+  "interfaceType": "Interface Type",
+  "ramNode": "RAM/ Node",
+  "region": "Region",
+  "storageNode": "Storage/ Node",
+  "vcpuNode": "vCPU/ Node"
+}

@@ -1,0 +1,14 @@
+{
+  "autoRenewEnabledPeriod": "自動更新が有効（期間:",
+  "billingMethod": "請求方法",
+  "chargeOrderCouponsBalanceAutoTop": ") | 請求順序: クーポン→残高→自動チャージ。",
+  "details": "詳細",
+  "gb": "GB",
+  "gpuCost": "GPU コスト",
+  "instanceSummary": "インスタンス概要",
+  "onDemand": "オンデマンド",
+  "perDay": "1日あたり",
+  "pricingSummary": "料金概要",
+  "spot": "スポット",
+  "totalDisk": "合計ディスク"
+}

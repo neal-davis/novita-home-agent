@@ -1,0 +1,15 @@
+{
+  "bringYourOwnModel": "独自モデルを持ち込み",
+  "costEfficient": "コスト効率に優れる",
+  "deployCloseToUsersOnResilient": "レジリエントなインフラ上で、ユーザーの近くにデプロイ。",
+  "developerFirstDx": "開発者ファーストの DX",
+  "globalReliable": "グローバルで信頼性が高い",
+  "highThroughputLlmServingAndLow": "エージェント向けに、高スループットの LLM サービングと低レイテンシーの起動を実現。",
+  "performance": "パフォーマンス",
+  "privateEndpointsCustomSlasWhenYou": "必要に応じて、プライベートエンドポイントとカスタム SLA を提供。",
+  "sandboxIsolationForAgentWorkloads": "エージェントワークロード向けのサンドボックス分離。",
+  "saveUpTo50WithSmart": "スマートな料金設定と適切な場面でのスポット利用により、最大 50% 節約。",
+  "secureByDesign": "設計段階からセキュア",
+  "simpleApisSdksClearDocsInstant": "シンプルな API/SDK、明確なドキュメント、即時スケール。",
+  "whyNovitaAi": "Novita AI が選ばれる理由"
+}

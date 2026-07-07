@@ -1,0 +1,12 @@
+{
+  "all": "Tous",
+  "application": "Application",
+  "copyLink": "Copier le lien",
+  "deploy": "Déployer",
+  "favoriteSuccessfully": "Ajouté aux favoris avec succès",
+  "instance": "Instance",
+  "official": "Officiel",
+  "pleaseLogInFirst": "Veuillez d’abord vous connecter",
+  "serverless": "Sans serveur",
+  "unfavoriteSuccessfully": "Retiré des favoris avec succès"
+}

@@ -1,0 +1,18 @@
+{
+  "allTemplates": "Alle Vorlagen",
+  "createTemplate": "Vorlage erstellen",
+  "deployPreConfiguredEnvironmentsOrCreate": "Stellen Sie vorkonfigurierte Umgebungen bereit oder erstellen Sie Ihre eigene.",
+  "favoriteSuccessfully": "Erfolgreich zu Favoriten hinzugefügt",
+  "loginFailurePleaseLogInAgain": "Anmeldung fehlgeschlagen, bitte melden Sie sich erneut an",
+  "myCreations": "Meine Kreationen",
+  "myFavorites": "Meine Favoriten",
+  "noResultsFound": "Keine Ergebnisse gefunden",
+  "official": "Offiziell",
+  "pleaseLogInFirst": "Bitte melden Sie sich zuerst an",
+  "recommendedForYou": "🔥 Für Sie empfohlen",
+  "searchTemplates": "Vorlagen suchen...",
+  "success": "Erfolg",
+  "templatesLibrary": "Vorlagenbibliothek",
+  "trySearchingForSomethingElseOr": "Versuchen Sie, nach etwas anderem zu suchen, oder erstellen Sie Ihre eigene Vorlage.",
+  "unfavoriteSuccessfully": "Erfolgreich aus Favoriten entfernt"
+}

@@ -1,0 +1,22 @@
+{
+  "all": "全部",
+  "amountShouldPay": "应付金额",
+  "billingPeriod": "计费周期",
+  "captionTable": "字幕表",
+  "cashPaid": "现金支付",
+  "instance": "实例",
+  "localStorage": "本地存储",
+  "networkStorage": "网络存储",
+  "onDemand": "按需",
+  "prepaid": "预付费",
+  "prepaidByDay": "按日预付费",
+  "prepaidByMonth": "按月预付费",
+  "prepaidByWeek": "按周预付费",
+  "prepaidByYear": "按年预付费",
+  "pricingModel": "定价模式",
+  "product": "产品",
+  "productName": "产品名称",
+  "productType": "产品类型",
+  "search": "搜索",
+  "voucherDeduction": "代金券抵扣"
+}

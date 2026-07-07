@@ -1,0 +1,12 @@
+{
+  "autoscalingConfiguration": "自动扩缩容配置",
+  "availableGpuTypesAndQuantitiesDepend": "可用的 GPU 类型和数量取决于所选模型。",
+  "endpointName": "端点名称",
+  "engineConfiguration": "引擎配置",
+  "gpuConfiguration": "GPU 配置",
+  "loadingModelConfiguration": "正在加载模型配置...",
+  "lowercaseLettersNumbersAndHyphensMust": "小写字母、数字和连字符。必须以字母开头（3-63 个字符）。",
+  "model": "模型",
+  "pleaseEnterTheEndpointName": "请输入端点名称...",
+  "pleaseSelectAModelFirstTo": "请先选择模型以查看可用的 GPU 选项。"
+}

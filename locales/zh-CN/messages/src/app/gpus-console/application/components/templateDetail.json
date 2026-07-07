@@ -1,0 +1,12 @@
+{
+  "all": "全部",
+  "application": "应用",
+  "copyLink": "复制链接",
+  "deploy": "部署",
+  "favoriteSuccessfully": "收藏成功",
+  "instance": "实例",
+  "official": "官方",
+  "pleaseLogInFirst": "请先登录",
+  "serverless": "Serverless",
+  "unfavoriteSuccessfully": "取消收藏成功"
+}

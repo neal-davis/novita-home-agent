@@ -1,0 +1,15 @@
+{
+  "addVideoUrl": "Adicionar URL do vídeo",
+  "duration": "Duração",
+  "enterVideoUrl": "Insira a URL do vídeo",
+  "leaveBlankForRandom": "Deixe em branco para aleatório",
+  "message1080p": "1080P",
+  "message10s": "10s",
+  "message5s": "5s",
+  "message720p": "720P",
+  "prompt": "Prompt",
+  "referenceVideoUrls": "URLs dos vídeos de referência",
+  "resolution": "Resolução",
+  "seed": "Semente",
+  "showcase": "Vitrine"
+}

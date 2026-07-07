@@ -1,0 +1,18 @@
+{
+  "batchProcessing": "批处理",
+  "bestPracticesForMaximizingSpot": "最大化 Spot 的最佳实践",
+  "classroomLabsTechnicalWorkshopsAndProof": "课堂实验、技术研讨会和概念验证",
+  "costEffectiveForOvernightWeekendOr": "适用于夜间、周末或大规模数据作业的高性价比选择",
+  "dataProcessing": "数据处理",
+  "deepLearning": "深度学习",
+  "educationDemos": "教育与演示",
+  "idealUseCases": "理想用例",
+  "labs": "实验室",
+  "largeScaleCompute": "大规模计算",
+  "proofOfConcepts": "概念验证",
+  "shortTermTrainingPrototypingOrSmall": "短期训练、原型设计或小规模推理",
+  "smallScaleInference": "小规模推理",
+  "training": "训练",
+  "validation": "验证",
+  "workshops": "研讨会"
+}

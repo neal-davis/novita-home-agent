@@ -1,0 +1,25 @@
+.campaign_wrap {
+  .campaign_title {
+    margin-top: 17px;
+    margin-bottom: 24px;
+    @include font-h5;
+    color: var(--dark-1);
+
+    span {
+      background: linear-gradient(90deg, #23c1ff 0%, #9e18dc 100%);
+      background-clip: text;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      filter: blur(0.0382658950984478px);
+    }
+  }
+
+  .campaign_description {
+    @include font-body;
+    color: var(--dark-1);
+
+    a {
+      margin-right: 2px;
+    }
+  }
+}

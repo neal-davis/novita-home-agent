@@ -1,0 +1,7 @@
+{
+  "autoRenewIsEnabledButNo": "Die automatische Verlängerung ist aktiviert, aber es wurde keine gültige Zahlungsmethode erkannt. Die Verlängerung wird fehlschlagen und auf nutzungsbasierte Abrechnung umgestellt. Bitte fügen Sie eine Zahlungsmethode hinzu.",
+  "autoRenewOff": "Automatische Verlängerung: Aus",
+  "budgetIsInsufficient": "Das Budget ist nicht ausreichend.",
+  "lessThan3DaysLeftPlease": "Weniger als 3 Tage verbleiben. Bitte verlängern Sie bald.",
+  "moreThan3DaysLeftPlease": "Mehr als 3 Tage verbleiben. Bitte überprüfen Sie die Verlängerung."
+}

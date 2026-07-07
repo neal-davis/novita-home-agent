@@ -1,0 +1,27 @@
+.private_container {
+  position: relative;
+  min-height: 500px;
+}
+.wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 100px 0;
+}
+.text {
+  margin-left: 1em;
+  color: var(--black);
+  font-size: 24px;
+  font-weight: 600;
+  text-align: center;
+}
+.desc {
+  font-size: 18px;
+  margin-top: 20px;
+}
+.model_wrap {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}

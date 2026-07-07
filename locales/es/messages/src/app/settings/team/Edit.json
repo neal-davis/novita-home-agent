@@ -1,0 +1,8 @@
+{
+  "assignAccessPermissionsToMembersBy": "Asigna permisos de acceso a los miembros seleccionando roles. El presupuesto para cada nuevo miembro es ilimitado de forma predeterminada. Si necesitas ajustarlo, ve a la página \"Presupuestos\".",
+  "cancel": "Cancelar",
+  "edit": "Editar",
+  "failedToUpdateRole": "No se pudo actualizar el rol",
+  "save": "Guardar",
+  "viewPermissionDetails": "Ver detalles de permisos"
+}

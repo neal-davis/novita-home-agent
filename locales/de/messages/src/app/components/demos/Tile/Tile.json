@@ -1,0 +1,12 @@
+{
+  "cancel": "Abbrechen",
+  "descriptionOfTheTileThatYou": "Beschreibung der Kachel, deren Generierung du vermeiden möchtest",
+  "descriptionOfTheTileYouWant": "Beschreibung der Kachel, die du generieren möchtest",
+  "download": "Herunterladen",
+  "generate": "Generieren",
+  "heigh": "Höhe",
+  "negativePrompt": "Negativer Prompt",
+  "prompt": "Prompt",
+  "promptIsEmpty": "Prompt ist leer",
+  "width": "Breite"
+}

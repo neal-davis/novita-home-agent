@@ -1,0 +1,16 @@
+{
+  "afterProtectionEndsInstanceMayBe": "保护期结束后，实例可能会被回收",
+  "forcedTermination": "强制终止",
+  "instanceEntersRunningState": "实例进入运行状态",
+  "instanceIsStoppedAndReleasedAutomatically": "实例会自动停止并释放",
+  "interruptionWindow": "中断窗口",
+  "launch": "启动",
+  "message1HourGuaranteedRuntimeThenInterruptible": "保证运行 1 小时，之后可中断，并在自动回收前提前 1 小时通知。Spot 使用闲置容量——成本低，但可能随时被回收。",
+  "message1HourProtection": "1 小时保护",
+  "noInterruptionsDuringThisPeriod": "此期间不会中断",
+  "note": "注意：",
+  "sent1HourInAdvance": "提前 1 小时发送",
+  "spotInstanceLifecycle": "Spot 实例生命周期",
+  "terminationNotice": "终止通知",
+  "workloadsShouldBeInterruptionTolerantUse": "工作负载应具备中断容忍能力。使用检查点或备份来防止数据丢失。"
+}

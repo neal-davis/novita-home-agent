@@ -1,0 +1,202 @@
+.container {
+  padding: 134px 0 100px 0;
+}
+.subContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0;
+  /* background: #ffffff; */
+  box-shadow: 0px 4px 20px 0px rgba(21, 34, 50, 0.1);
+  border-radius: var(--radius-dialog);
+}
+.section {
+  color: var(--black);
+  background: var(--white);
+  width: 100%;
+  border-radius: var(--radius-dialog);
+  padding: var(--spacing-console-24);
+  border: 1px solid var(--gray-2);
+}
+.title {
+  color: var(--black);
+  margin-bottom: var(--spacing-console-24);
+  @include font-h6;
+}
+.desc {
+  @include font-body;
+}
+.mainSection {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 504px;
+  height: 608px;
+  padding: 24px 32px;
+}
+.subtitle {
+  font-size: 12px;
+  color: #514f6e;
+  line-height: 12px;
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+.line {
+  position: absolute;
+  top: 71px;
+  border-bottom: 1px solid var(--gray-2);
+  width: 100%;
+  height: 1px;
+}
+.funcDesc {
+  margin-top: calc(2 * var(--spacing-console-24));
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: left;
+  font-style: normal;
+}
+.volDiskTxt {
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  margin-bottom: 12px;
+  font-style: normal;
+}
+.bolDiskInput {
+  color: var(--black);
+  width: 100%;
+  height: 52px;
+  // border: 1px solid var(--gray-2);
+  border-radius: 8px;
+  // padding: 19px 20px;
+}
+.disabledInput {
+  border: 1px solid var(--gray-1) !important;
+  // border: 1px solid transparent !important;
+  background-color: var(--gray-3) !important;
+  color: var(--dark-3) !important;
+  cursor: not-allowed;
+  :global(.MuiInputBase-root) {
+    border: 1px solid transparent !important;
+  }
+  :global(.MuiOutlinedInput-notchedOutline) {
+    border: none !important;
+  }
+  :global(.MuiInputBase-input) {
+    cursor: not-allowed !important;
+  }
+}
+.disabledInput:hover {
+  // border: none !important;
+  // border: 1px solid transparent !important;
+  :global(.MuiInputBase-root) {
+    border: 1px solid transparent !important;
+  }
+  :global(.MuiOutlinedInput-notchedOutline) {
+    border: none !important;
+  }
+}
+.httpPorts {
+  width: calc(50% - 12px);
+  display: inline-block;
+  margin-right: 24px;
+}
+.textLink {
+  // color: var(--dark-1);
+  text-decoration: underline;
+  @include font-subtle;
+}
+.textLink:hover {
+  text-decoration: underline;
+  color: var(--brand-0) !important;
+}
+.httpPortsTxt {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  margin-bottom: 12px;
+  font-style: normal;
+}
+.httpPortsInput {
+  color: var(--black);
+  width: 100%;
+  height: 48px;
+  border: 1px solid var(--gray-2);
+  border-radius: 8px;
+  padding: 19px 20px;
+}
+.tcpPortsTxt {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  margin-bottom: 12px;
+  font-style: normal;
+}
+.tcpPortsInput {
+  color: var(--black);
+  width: 100%;
+  height: 48px;
+  border: 1px solid var(--gray-2);
+  border-radius: 8px;
+  padding: 19px 20px;
+}
+.inUsePortTxt {
+  margin-top: 12px;
+  font-size: 12px;
+  color: grey;
+}
+.btnContainer {
+  margin-top: var(--spacing-console-24);
+}
+.saveBtn {
+  background: var(--dark-1) !important;
+  height: 32px;
+  min-width: 124px !important;
+  float: right;
+  text-transform: none !important;
+  box-shadow: none !important;
+  .saveBtnTxt {
+    color: var(--white) !important;
+    @include font-subtle;
+  }
+}
+.saveBtn:hover {
+  background: var(--dark-2) !important;
+}
+.cancelBtn {
+  background: var(--white) !important;
+  margin-right: var(--spacing-button) !important;
+  width: 124px;
+  height: 32px;
+  float: right;
+  border: 1px solid var(--dark-1) !important;
+  box-shadow: none !important;
+  text-transform: none !important;
+}
+.cancelBtn:hover {
+  background-color: var(--gray-3) !important;
+}
+.cancelBtnTxt {
+  color: var(--dark-1);
+  @include font-subtle;
+}
+
+@media screen and (max-width: 1000px) {
+  .container {
+    padding: 86px 0 100px 0;
+  }
+  .title {
+    font-size: 24px;
+  }
+  .desc {
+    font-size: 14px;
+  }
+  .wrap {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

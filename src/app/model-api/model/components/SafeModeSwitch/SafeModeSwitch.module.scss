@@ -1,0 +1,73 @@
+.safeModeIcon {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid var(--gray-2);
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.safeModeIcon > span {
+  display: inline-block;
+  font-size: 16px;
+  color: var(--dark-2);
+}
+
+.safeModeSwitch .popOver {
+  position: relative;
+}
+
+.safeModeSwitch .popOver .popOverMask {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+}
+
+.safeModeSwitch .popOver .content {
+  position: absolute;
+  width: 280px;
+  padding: 16px;
+  top: 10px;
+  left: 0px;
+  background-color: var(--white);
+  border-radius: 16px;
+  z-index: 10000;
+  border: 1px solid var(--border);
+}
+
+.safeModeSwitch .popOver .content h2 {
+  margin-bottom: 13px;
+  font-size: 18px;
+}
+
+.safeModeSwitch .popOver .content > div:not(:last-child) {
+  border-bottom: 1px solid var(--gray-2);
+}
+
+.safeModeSwitch .popOver .content .switchRow {
+  padding: 7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  color: var(--dark-2);
+}
+
+.safeModeSwitch .popOver .content .switchRow {
+  :global {
+    .ant-switch {
+      min-width: 38px;
+      background-color: #1e1c28 !important;
+    }
+
+    .ant-switch-checked {
+      background-color: #6d32ff !important;
+    }
+  }
+}

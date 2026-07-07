@@ -1,0 +1,6 @@
+{
+  "_comment": "Empty GET /api/v1/image/prewarm response for hermetic /gpus-console/image empty-state branch. Section renders <NoData> (img[alt='no data']) when total === 0, and no [class*='itemContainer'] rows.",
+  "code": 0,
+  "total": 0,
+  "data": []
+}

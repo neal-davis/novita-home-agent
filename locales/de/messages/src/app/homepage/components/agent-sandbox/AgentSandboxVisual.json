@@ -1,0 +1,6 @@
+{
+  "agent": "Agent",
+  "done": "erledigt",
+  "queued": "in der Warteschlange",
+  "running": "läuft"
+}

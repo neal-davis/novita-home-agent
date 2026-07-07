@@ -1,0 +1,16 @@
+{
+  "cancel": "Abbrechen",
+  "contactEmail": "Kontakt-E-Mail",
+  "currentLimit": "Aktuelles Limit",
+  "increaseLimit": "Limit erhöhen",
+  "limitMetric": "Limit-Metrik",
+  "pleaseEnterAPositiveIntegerValue": "Bitte geben Sie eine positive Ganzzahl ein",
+  "pleaseEnterAValidEmailAddress": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+  "pleaseEnterTheReasonForYour": "Bitte geben Sie den Grund für Ihren Kontingentantrag an, um unseren Prüfprozess zu beschleunigen",
+  "quotaIncreaseRequestSubmitted": "Antrag auf Kontingenterhöhung eingereicht",
+  "reasonForRequest": "Grund der Anfrage",
+  "requestRateLimitIncrease": "Erhöhung des Ratenlimits anfordern",
+  "requestedRateLimit": "Angefordertes Ratenlimit",
+  "resourceService": "Ressource/Dienst",
+  "submit": "Absenden"
+}

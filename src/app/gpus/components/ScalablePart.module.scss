@@ -1,0 +1,105 @@
+.outContainer {
+  background-color: var(--gray-3);
+}
+.container {
+  position: relative;
+  // height: 641px;
+  // background-color: var(--gray-3);
+  display: flex;
+  align-items: center;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  @include screen-md {
+    padding-top: 173px;
+    padding-bottom: 173px;
+  }
+  .mobilePC {
+    display: none;
+    @include screen-md {
+      display: block;
+    }
+  }
+  .mobileImage {
+    scale: 1.1;
+    width: 100%;
+    display: block;
+    @include screen-md {
+      display: none;
+    }
+  }
+  .left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 32px;
+    max-width: 100%;
+    width: 100%;
+    @include screen-md {
+      max-width: 371px;
+      width: 50%;
+    }
+    .top {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: center;
+      gap: 8px;
+      .top {
+        color: var(--dark-2);
+        @include font-small-console;
+      }
+      .bottom {
+        color: var(--dark-1);
+        @include font-h3;
+      }
+    }
+    .middle {
+      color: var(--dark-2);
+      @include font-body;
+    }
+  }
+  .right {
+    float: right;
+    width: 100%;
+    min-height: 224px;
+    @include screen-md {
+      float: right;
+      width: 50%;
+    }
+  }
+}
+.subContainer {
+  position: relative;
+  justify-content: flex-start;
+  flex-direction: column;
+  gap: 50px;
+  z-index: 1;
+  @include screen-md {
+    gap: 0;
+    justify-content: space-between;
+    flex-direction: row;
+  }
+}
+
+@media (max-width: 1280px) {
+  .container {
+    .right {
+      background-image: url(/gpu-instance/homepage/scaleRight.png);
+      background-size: 80%;
+      background-position: 50px center;
+      background-repeat: no-repeat;
+    }
+  }
+}
+
+@media (max-width: #{$screen-sm}) {
+  .outContainer {
+    min-height: 703px;
+  }
+  .container {
+    .right {
+      background-image: none;
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "and": "から $",
+  "autoRecharge": "自動チャージ",
+  "autoRechargeIsNotGuaranteedIf": "自動チャージは保証されません。支払いの試行が失敗し、残高が0になると、サービスが中断される場合があります。お支払い方法が有効であることを確認し、残高を定期的に確認するか、",
+  "autoTopUpIsNotGuaranteed": "自動チャージは保証されません。支払いの試行に失敗し、残高が0になると、サービスが中断される場合があります。お支払い方法が有効であることを確認し、定期的に残高を確認するか、",
+  "automaticPayments": "自動支払い",
+  "bringCreditBackUpTo": "クレジットを次の金額まで戻す",
+  "cancel": "キャンセル",
+  "enterAnIntegerAmountBetween": "整数金額を $",
+  "lowBalanceAlert": "低残高アラート",
+  "saveSetting": "設定を保存",
+  "toGetNotifiedInAdvance": "を有効にして事前に通知を受け取ってください。",
+  "whenCreditGoesBelow": "クレジットが次を下回った場合"
+}

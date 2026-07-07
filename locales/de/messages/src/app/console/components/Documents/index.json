@@ -1,0 +1,9 @@
+{
+  "agentSandbox": "Agent-Sandbox",
+  "documents": "Dokumente",
+  "findGuidesAndReferencesToStart": "Finden Sie Anleitungen und Referenzen, um mit Novita AI zu beginnen.",
+  "gpus": "GPUs",
+  "modelApi": "Modell-API",
+  "quickStart": "Schnellstart",
+  "serverless": "Serverless"
+}

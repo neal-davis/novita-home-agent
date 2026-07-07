@@ -1,0 +1,13 @@
+{
+  "actions": "アクション",
+  "apiKeyName": "APIキー名",
+  "budget": "予算",
+  "budgetType": "予算タイプ",
+  "edit": "編集",
+  "loading": "読み込み中...",
+  "member": "メンバー",
+  "noApiKeyBudgets": "APIキーの予算はありません",
+  "resetAt": "リセット日時",
+  "status": "ステータス",
+  "usage": "使用量"
+}

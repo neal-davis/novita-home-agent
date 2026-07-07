@@ -1,0 +1,5 @@
+{
+  "apiCallsMadeUsingVoucherCredits": "Les appels API effectués à l’aide de crédits de bons peuvent être soumis à des limites de débit plus faibles, selon la demande. Pour des limites plus élevées, veuillez nous contacter à l’adresse",
+  "areThereAnyUsageLimitsWith": "Existe-t-il des limites d’utilisation avec les bons ?",
+  "noteVouchersAreNonTransferableCannot": "Remarque : les bons ne sont pas transférables, ne peuvent pas être utilisés pour recharger le solde d’un utilisateur sur Novita et ne peuvent pas être échangés contre de l’argent. Des conditions supplémentaires peuvent s’appliquer, et Novita AI se réserve le droit de modifier ou d’interrompre cette offre à tout moment."
+}

@@ -1,0 +1,16 @@
+{
+  "areThereAnyUsageLimitsDuring": "Y a-t-il des limites d’utilisation pendant la promotion ?",
+  "canICombineThisDiscountWith": "Puis-je cumuler cette réduction avec d’autres promotions ?",
+  "doYouOfferRefundsIfIm": "Proposez-vous des remboursements si je ne suis pas satisfait ?",
+  "everythingYouNeedToKnowAbout": "Tout ce que vous devez savoir sur notre Build Month",
+  "forProductSpecificDetails": "pour les détails propres à chaque produit.",
+  "frequentlyAskedQuestions": "Questions fréquentes",
+  "howLongDoesTheDiscountLast": "Combien de temps dure la réduction ?",
+  "isTheDiscountApplicableToSubscriptions": "La réduction s’applique-t-elle aux abonnements ou aux instances Spot ?",
+  "isThereAMinimumPurchaseRequired": "Un achat minimum est-il requis ?",
+  "mostModelApisGpuInstancesAnd": "La plupart des API de modèles, des instances GPU et des environnements d’exécution Agent Sandbox sont éligibles à la réduction de 20 %. Certains modèles récemment publiés ou GPUs à disponibilité limitée peuvent avoir des tarifs différents ou ne pas participer. Consultez la",
+  "pricingPage": "Page des tarifs",
+  "whatPaymentMethodsAreAccepted": "Quels moyens de paiement sont acceptés ?",
+  "whenDoesTheBuildMonthSale": "Quand la promotion Build Month prend-elle fin ?",
+  "whichProductsParticipateInTheSale": "Quels produits participent à la promotion ?"
+}

@@ -1,0 +1,123 @@
+.container {
+  display: grid;
+  grid-template-columns: minmax(200px, 40%) minmax(300px, 40%) minmax(
+      100px,
+      20%
+    );
+  margin-bottom: 12px;
+  padding: 12px 16px;
+  align-items: center;
+  border: 1px solid var(--gray-2);
+  border-radius: 6px;
+  cursor: pointer;
+
+  &:hover {
+    border-color: var(--brand-0);
+  }
+
+  &.deprecated {
+    opacity: 0.6;
+  }
+
+  &.unclickable {
+    cursor: default;
+    &:hover {
+      box-shadow: none;
+      border-color: var(--gray-1);
+    }
+  }
+
+  .base_info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+
+    .logoBox {
+      width: 28px;
+      height: 28px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .content {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 12px;
+
+      .modelName {
+        @include font-body-medium;
+        color: var(--dark-1);
+      }
+
+      .tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4px;
+
+        .model_label {
+          padding: 1px 5px;
+          @include font-small-console;
+          border-radius: 4px;
+
+          &.normal_label {
+            border-radius: 4px;
+            color: var(--white);
+            background-color: var(--brand-1);
+          }
+
+          &.deprecated_label {
+            color: var(--dark-2);
+            background: var(--gray-1);
+          }
+
+          &.discount_label {
+            background-color: rgba(22, 94, 176, 0.05);
+            & > span {
+              background: linear-gradient(90deg, #23c1ff 0%, #9e18dc 100%);
+              -webkit-background-clip: text;
+              background-clip: text;
+              -webkit-text-fill-color: transparent;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .secondary_info {
+    @include font-small-console;
+    color: var(--dark-1);
+
+    .info {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      flex-wrap: wrap;
+
+      .separator {
+        color: var(--dark-3);
+      }
+    }
+  }
+
+  .model_labels {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+    justify-self: end;
+    margin-left: auto;
+
+    .label {
+      padding: 0 6px;
+      @include font-small-console;
+      background-color: var(--gray-3);
+      border-radius: 4px;
+      color: var(--dark-1);
+    }
+  }
+}

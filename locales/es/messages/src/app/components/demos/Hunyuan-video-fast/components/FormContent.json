@@ -1,0 +1,8 @@
+{
+  "model": "Modelo",
+  "prompt": "Instrucción",
+  "seed": "Semilla",
+  "showcase": "Galería",
+  "steps": "Pasos",
+  "widthHeight": "Ancho * Alto"
+}

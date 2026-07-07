@@ -1,0 +1,21 @@
+.pc_wrapper {
+  width: 1280px;
+  height: 1674px;
+  display: none;
+}
+
+.mobile_wrapper {
+  width: 100%;
+}
+
+@include screen-sm {
+  .mobile_wrapper {
+    display: none;
+  }
+}
+
+@include screen-xl {
+  .pc_wrapper {
+    display: block;
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "cancel": "Annuler",
+  "close": "Fermer",
+  "delete": "Supprimer",
+  "deleteEndpoint": "Supprimer le point de terminaison",
+  "enterEndpointName": "Saisissez le nom du point de terminaison",
+  "pleaseTerminateTheEndpointBeforeDeleting": "Veuillez mettre fin au point de terminaison avant de le supprimer",
+  "pleaseType": "Veuillez saisir",
+  "thisActionCannotBeUndoneThis": "Cette action est irréversible. Elle supprimera définitivement ce point de terminaison.",
+  "toConfirm": "pour confirmer"
+}

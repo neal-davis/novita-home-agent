@@ -1,0 +1,6 @@
+{
+  "exploreGpus": "探索 GPUs",
+  "globallyDistributedGpusWithLocalSpeed": "全球分布式 GPUs，具备本地般速度",
+  "gpuCloud": "GPU 云",
+  "launchHighPerformanceGpuInstancesIn": "在全球区域数秒内启动高性能 GPU 实例。非常适合训练、微调和高吞吐量推理。可使用按需实例或享受 5 折优惠的竞价实例。"
+}

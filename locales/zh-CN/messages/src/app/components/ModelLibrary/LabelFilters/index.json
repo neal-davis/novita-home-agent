@@ -1,0 +1,14 @@
+{
+  "all": "全部",
+  "allModels": "所有模型",
+  "audio": "音频",
+  "embedding": "嵌入",
+  "featured": "精选",
+  "image": "图像",
+  "modelSeries": "模型系列",
+  "providers": "提供商：",
+  "reranker": "重排序器",
+  "serverless": "无服务器",
+  "video": "视频",
+  "vision": "视觉"
+}

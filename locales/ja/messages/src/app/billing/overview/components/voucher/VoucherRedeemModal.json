@@ -1,0 +1,11 @@
+{
+  "amount": "金額",
+  "applicable": "適用可能",
+  "cancel": "キャンセル",
+  "gotIt": "了解",
+  "redeem": "引き換える",
+  "validUntil": "有効期限",
+  "voucherCode": "バウチャーコード",
+  "voucherCodeRedeem": "バウチャーコードの引き換え",
+  "voucherRedeemedSuccessfully": "バウチャーの引き換えが完了しました！"
+}

@@ -1,0 +1,10 @@
+{
+  "continents": "大陸",
+  "deployGpuInstancesCloserToYour": "世界規模のネットワークを通じて、ユーザーの近くにGPUインスタンスをデプロイできます。ユーザーやチームがどこにいても、最小限のレイテンシーと高速アクセスを実現します。",
+  "globalDeployment": "グローバルデプロイメント",
+  "gpuPricingBackground": "GPU料金の背景",
+  "locations": "ロケーション",
+  "message20ms": "<20ms",
+  "network": "ネットワーク",
+  "startNow": "今すぐ始める"
+}

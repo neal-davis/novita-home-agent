@@ -1,0 +1,20 @@
+{
+  "budgetList": [
+    {
+      "member_id": "member-e2e-001",
+      "member_name": "Member One",
+      "budget_type": "Recurring",
+      "budget_limit": "5000000",
+      "used": "1250000",
+      "cycle": "Monthly"
+    },
+    {
+      "member_id": "member-e2e-002",
+      "member_name": "Member Two",
+      "budget_type": "One Time",
+      "budget_limit": "2000000",
+      "used": "400000",
+      "cycle": ""
+    }
+  ]
+}

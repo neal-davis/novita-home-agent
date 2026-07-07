@@ -1,0 +1,19 @@
+{
+  "averageTokenCountPerRequest": "Contagem média de tokens por solicitação",
+  "endToEndE2eLatency": "Latência de ponta a ponta (E2E)",
+  "isSet": "está definido.",
+  "loading": "Carregando...",
+  "message10S": "10 s",
+  "message1Min": "1 min",
+  "message30S": "30 s",
+  "message5S": "5 s",
+  "noLlmApiCalls": "Nenhuma chamada de API LLM",
+  "off": "desativado",
+  "requestPerMinuteRpm": "Solicitações por minuto (RPM)",
+  "requestSuccessRate": "Taxa de sucesso das solicitações",
+  "streamTrue": "stream=true",
+  "theAverageTimeTakenToGenerate": "O tempo médio necessário para gerar um token de saída, monitorado apenas quando o parâmetro da solicitação",
+  "theTimeRequiredToProcessThe": "O tempo necessário para processar o prompt e gerar o primeiro token de saída, monitorado apenas quando o parâmetro da solicitação",
+  "timePerOutputTokenTpot": "Tempo por token de saída (TPOT)",
+  "timeToFirstTokenTtft": "Tempo até o primeiro token (TTFT)"
+}

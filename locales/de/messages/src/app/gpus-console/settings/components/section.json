@@ -1,0 +1,19 @@
+{
+  "action": "Aktion",
+  "addCredential-e41f30": "+ Anmeldedaten hinzufügen",
+  "addCredential-efd6c2": "Anmeldedaten hinzufügen",
+  "addingPublicKeysToYourAccount": "Durch das Hinzufügen öffentlicher Schlüssel zu Ihrem Konto wird der Zugriff auf Instanzen über die grundlegende Terminalzugriffsoption mit dem zugehörigen privaten Schlüssel ermöglicht. Sie können mehrere öffentliche Schlüssel hinzufügen, indem Sie sie durch einen Zeilenumbruch trennen.",
+  "captionTable": "Beschriftungstabelle",
+  "changePassword": "Passwort ändern",
+  "containerRegistryAuth": "Container-Registry-Authentifizierung",
+  "deleteRegistryAuth": "Registry-Authentifizierung löschen",
+  "name": "Name",
+  "preferSingleNuma": "Single-NUMA bevorzugen",
+  "singleNuma": "Single-NUMA",
+  "sshPublicKey": "Öffentlicher SSH-Schlüssel",
+  "sshPublicKeys": "Öffentliche SSH-Schlüssel",
+  "success": "Erfolg",
+  "thisPolicyWouldAllowResourceAllocation": "Diese Richtlinie würde die Ressourcenzuweisung von verschiedenen NUMA-Knoten nur dann zulassen, wenn es niemals eine andere Möglichkeit gäbe, diese Zuweisungsanforderung zu erfüllen.",
+  "updatePublicKey": "Öffentlichen Schlüssel aktualisieren",
+  "youCanRegisterYourContainerRegistry": "Sie können hier die Anmeldedaten Ihrer Container-Registry registrieren, um private Images aus verschiedenen Container-Registries abzurufen. Bitte beachten Sie, dass wir derzeit nur Anmeldedaten vom Typ docker login unterstützen. Sie können Ihre Anmeldedaten zu einer Vorlage hinzufügen, indem Sie die Anmeldedaten hier registrieren und sie anschließend beim Bearbeiten oder Erstellen Ihrer Vorlage aus dem Dropdown-Menü auswählen."
+}

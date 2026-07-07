@@ -1,0 +1,14 @@
+{
+  "_comment": "De-PII'd /v3/stripe/paymentMethods for the Topup/AutomaticPayments blocks (consumed, not asserted). One synthetic test card.",
+  "paymentMethods": [
+    {
+      "id": "pm_e2e_mock_card",
+      "country": "US",
+      "expMonth": "1",
+      "expYear": "2099",
+      "last4": "4242",
+      "brand": "visa",
+      "funding": "credit"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+.outContainer {
+  position: relative;
+  // background-color: var(--black);
+}
+.container {
+  position: relative;
+  // height: 759px;
+  display: flex;
+  align-items: center;
+  // justify-content: center;
+  background-color: var(--white);
+  padding-top: 70px;
+  padding-bottom: 41px;
+  .top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    max-width: 800px;
+    .topInner {
+      text-align: center;
+      color: var(--dark-1);
+      @include font-h3;
+    }
+    .bottomInner {
+      text-align: center;
+      color: var(--dark-2);
+      @include font-body;
+    }
+    margin-bottom: 56px;
+  }
+  .bottom {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+}
+.leftTopVector {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rightBottomVector {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}

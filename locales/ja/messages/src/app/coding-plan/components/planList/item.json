@@ -1,0 +1,10 @@
+{
+  "decrementCodingPlanDoesNotSupport": "デクリメントコーディングプランはサブスクリプションのアップグレードをサポートしていません",
+  "loginExpiredPleaseLoginAgain": "ログインの有効期限が切れました。再度ログインしてください",
+  "modelAccess": "モデルアクセス",
+  "monthly": "月額",
+  "pleaseLoginFirst": "先にログインしてください",
+  "subscribe": "登録する",
+  "subscriptionFailedThePurchasedCodingPlan": "サブスクリプションに失敗しました。購入済みのコーディングプランがこのレベル以上です",
+  "yourPlan": "あなたのプラン"
+}

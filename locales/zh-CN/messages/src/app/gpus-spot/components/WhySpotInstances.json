@@ -1,0 +1,12 @@
+{
+  "advanceNotice": "提前通知",
+  "builtInProtection": "内置保护",
+  "combineWithOnDemandOrReserved": "与按需或预留实例结合使用，实现成本与稳定性的恰当平衡",
+  "flexibleDeployment": "灵活部署",
+  "guaranteed1HourInitialRuntime": "保证 1 小时初始运行时长",
+  "message1HourTerminationAlertsViaApi": "通过 API、电子邮件或控制台发送 1 小时终止提醒",
+  "payHalfTheOnDemandRate": "按需价格半价支付",
+  "runWorkloadsAtAFractionOf": "以极低成本运行工作负载——且不牺牲可靠性",
+  "saveUpTo50": "最高节省 50%",
+  "whySpotInstances": "为什么选择竞价实例"
+}

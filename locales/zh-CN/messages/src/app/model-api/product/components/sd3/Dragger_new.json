@@ -1,0 +1,8 @@
+{
+  "imageInvalid": "图片无效！",
+  "theSizeOfTheImageFile": "图片文件大小应小于",
+  "theSizeOfTheVideoFile": "视频文件大小应小于",
+  "uploadImage": "上传图片",
+  "videoInvalid": "视频无效！",
+  "youCanOnlyUploadJpgPng": "您只能上传 JPG/PNG 图片。"
+}

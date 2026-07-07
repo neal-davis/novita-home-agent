@@ -1,0 +1,12 @@
+{
+  "cancel": "Abbrechen",
+  "confirmRestart": "Bestätigen & neu starten",
+  "edit": "Bearbeiten",
+  "engineConfiguration": "Engine-Konfiguration",
+  "off": "Aus",
+  "on": "Ein",
+  "restartEngine": "Engine neu starten?",
+  "saveRestartEngine": "Speichern & Engine neu starten",
+  "savingChangesWillTriggerARolling": "Das Speichern von Änderungen löst einen Rolling Restart der Engine aus",
+  "thisWillTriggerARollingRestart": "Dies löst einen Rolling Restart aller Replikate aus. Der Vorgang kann einige Minuten dauern. Während des Neustarts bleibt Ihr Endpoint verfügbar."
+}

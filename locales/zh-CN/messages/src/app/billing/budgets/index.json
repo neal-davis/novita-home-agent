@@ -1,0 +1,11 @@
+{
+  "members": "成员",
+  "myBudget": "我的预算",
+  "refresh": "刷新",
+  "searchMember": "搜索成员",
+  "teamAccountRequired": "需要团队账户",
+  "teamInfo": "团队信息",
+  "teamMemberBudgets": "团队成员预算",
+  "thisFeatureIsOnlyAvailableFor": "此功能仅适用于团队账户。请加入或创建团队后使用。",
+  "upgradeToTeamAccount": "升级为团队账户"
+}

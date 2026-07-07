@@ -1,0 +1,4 @@
+{
+  "fontParagraph13TextVarText": "font-paragraph-13 text-[var(--text-3)]",
+  "fontParagraph14MediumTextVar": "font-paragraph-14-medium text-[var(--text-1)]"
+}

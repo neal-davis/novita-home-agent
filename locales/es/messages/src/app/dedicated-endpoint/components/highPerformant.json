@@ -1,0 +1,6 @@
+{
+  "createANewEndpoint": "Crear un nuevo endpoint",
+  "deployAvailableModelsAndLoraAdapters": "· Implementa modelos disponibles y adaptadores LoRA en endpoints GPU personalizables con facturación por hora.",
+  "highCostPerformance": "Alta relación coste-rendimiento",
+  "lowerPricesNoHardRateLimits": "· Precios más bajos, sin límites de tasa estrictos, más económico con alta utilización, modelos base personalizados y múltiples LoRAs, rendimiento predecible sin verse afectado."
+}

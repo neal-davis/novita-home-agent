@@ -1,0 +1,159 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 30px;
+  background-image: url(/user-modal/header-bg.png);
+  background-size: cover;
+  border-bottom: 1px solid var(--modal-border-color);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.header .close_btn {
+  width: 24px;
+  height: 24px;
+  background-image: url(/login-modal/close.svg);
+  background-size: cover;
+  cursor: pointer;
+  flex-shrink: 0;
+  opacity: 0.5;
+}
+
+.header .img {
+  display: block;
+  width: auto;
+  height: 24px;
+  opacity: 0.5;
+}
+
+.form_wrap {
+  width: 400px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+
+.form_wrap .title {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.form_wrap .description {
+  font-size: 14px;
+  color: var(--modal-color-2);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form_wrap .divider_text {
+  font-weight: 700;
+  color: #fff;
+}
+
+.form_wrap .github_btn {
+  width: 190px;
+  height: 40px;
+  color: #000 !important;
+  border-radius: 4px;
+  background-color: #fff !important;
+}
+
+.form_wrap .form_box {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.forget_pwd {
+  margin-top: 12px;
+  text-align: right;
+  font-size: 14px;
+  color: var(--modal-color-2);
+}
+
+.forget_pwd span {
+  cursor: pointer;
+}
+
+.policy {
+  font-size: 12px;
+  color: var(--modal-color-3);
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.opt_footer {
+  margin-top: 24px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.link {
+  color: #1677ff;
+}
+.link:hover {
+  color: #1063d7;
+}
+
+.agress_box {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.agress_box > div {
+  font-size: 12px;
+}
+
+.logoutTips {
+  height: 48px;
+  line-height: 48px;
+  font-size: 13px;
+  text-align: center;
+  opacity: 0.8;
+}
+
+.modal_wrap .form_footer {
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 10px;
+  margin-top: 12px;
+  color: var(--modal-color-2);
+}
+
+.modal_wrap .send_email {
+  color: var(--modal-color-2);
+  text-align: center;
+}
+
+.modal_wrap .send_email span {
+  color: var(--modal-color-1);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.form_footer span {
+  color: var(--modal-color-1);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.email_notice {
+  background: var(--modal-notice-bg);
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap: 6px;
+  border-radius: 10px;
+  margin-top: 30px;
+  color: var(--modal-color-1);
+  font-size: 14px;
+  font-weight: 500;
+  border: 1px solid var(--modal-notice-border);
+}

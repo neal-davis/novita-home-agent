@@ -1,0 +1,18 @@
+{
+  "asOfTheDeprecationDateThese": "廃止日をもって、これらの APIs はアクセスできなくなります。潜在的な中断を防ぐため、アプリケーションとワークフローを更新することを強くお勧めします。",
+  "buildGenAiProductsSeamlessly": "生成 AI 製品をシームレスに構築",
+  "buildWithModelApis": "Model APIs で構築",
+  "cutCostsByUpTo50": "コストを最大 50% 削減",
+  "december312024": "2024年12月31日",
+  "deployWithGpuInstance": "GPU Instance でデプロイ",
+  "deprecatedApis": "廃止予定の APIs:",
+  "ifYouAreCurrentlyUsingThese": "現在これらの APIs をご利用中で、代替ソリューションへの移行についてサポートが必要な場合は、当社のサポートチームがプロセスをご案内します。",
+  "ifYoureBrowsingAroundJustLook": "いろいろご覧になっているなら、こちらでおすすめを選んでおきましたのでぜひご覧ください！",
+  "impact": "影響:",
+  "launchAgentSandbox": "Agent Sandbox を起動",
+  "lowUsageApiProductDeprecationPlan": "低利用 API 製品の廃止計画",
+  "nextSteps": "次のステップ:",
+  "scaleWithServerless": "Serverless でスケール",
+  "scaleWithoutManagingGpuInfrastructure": "GPU インフラストラクチャを管理せずにスケール",
+  "theRuntimeInfrastructureForSecureScalable": "安全でスケーラブルな AI Agents のためのランタイムインフラストラクチャ"
+}

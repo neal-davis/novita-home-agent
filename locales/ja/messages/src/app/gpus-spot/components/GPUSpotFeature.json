@@ -1,0 +1,18 @@
+{
+  "batchProcessing": "バッチ処理",
+  "bestPracticesForMaximizingSpot": "Spotを最大限に活用するためのベストプラクティス",
+  "classroomLabsTechnicalWorkshopsAndProof": "クラスルームラボ、技術ワークショップ、概念実証",
+  "costEffectiveForOvernightWeekendOr": "夜間、週末、または大規模なデータジョブに費用対効果が高い",
+  "dataProcessing": "データ処理",
+  "deepLearning": "ディープラーニング",
+  "educationDemos": "教育・デモ",
+  "idealUseCases": "最適なユースケース",
+  "labs": "ラボ",
+  "largeScaleCompute": "大規模コンピューティング",
+  "proofOfConcepts": "概念実証",
+  "shortTermTrainingPrototypingOrSmall": "短期トレーニング、プロトタイピング、または小規模推論",
+  "smallScaleInference": "小規模推論",
+  "training": "トレーニング",
+  "validation": "検証",
+  "workshops": "ワークショップ"
+}

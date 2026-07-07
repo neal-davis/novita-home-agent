@@ -1,0 +1,322 @@
+html {
+  // ==================== Font Family ====================
+  --font-family:
+    var(--font-miletus), -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  --font-tt-interphases-pro: "TT Interphases Pro", var(--font-family);
+  --font-baloo-chettan-2: "Baloo Chettan 2", var(--font-family);
+
+  --mono-font-family: var(--font-tt-mono);
+
+  // ===== DEPRECATED TYPOGRAPHY (kept for backwards compatibility) =====
+
+  --h1-font-size: 80px;
+  --h1-line-height: 74px;
+  --h1-font-weight: 600;
+  --h1-letter-spacing: -1.6px;
+  // ==================== Font Size ====================
+  --font-size-0: 12px;
+  --font-size-1: 13px;
+  --font-size-2: 14px;
+  --font-size-3: 16px;
+  --font-size-4: 18px;
+  --font-size-5: 20px;
+  --font-size-6: 24px;
+  --font-size-7: 32px;
+  --font-size-8: 48px;
+  --font-size-9: 56px;
+  --font-size-10: 80px;
+
+  // ==================== Font Weight ====================
+  --font-weight-thin: 100;
+  --font-weight-extralight: 200;
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+  --font-weight-black: 900;
+
+  // ==================== Line Height ====================
+  --line-height-0: 74px;
+  --line-height-1: 56px;
+  --line-height-2: 48px;
+  --line-height-3: 36px;
+  --line-height-4: 28px;
+  --line-height-5: 24px;
+  --line-height-6: 22px;
+  --line-height-7: auto;
+  --line-height-11: 18px;
+  --line-height-13: 20px;
+  --line-height-18: 16px;
+  --line-height-20: 14px;
+
+  // ==================== Letter Spacing ====================
+  --letter-spacing-0: 0;
+  --letter-spacing-tight: -0.5px;
+  --letter-spacing-normal: 0;
+  --letter-spacing-loose: 1px;
+
+  // ==================== Typography - Heading ====================
+  --h1-font-size: var(--font-size-10);
+  --h1-line-height: var(--line-height-0);
+  --h1-font-weight: var(--font-weight-semibold);
+  --h1-letter-spacing: var(--letter-spacing-0);
+
+  --h2-font-size: var(--font-size-9);
+  --h2-line-height: var(--line-height-1);
+  --h2-font-weight: var(--font-weight-semibold);
+  --h2-letter-spacing: var(--letter-spacing-0);
+
+  --h7-font-size: 16px;
+  --h7-line-height: 16px;
+  --h7-font-weight: 600;
+  --h7-letter-spacing: 0;
+
+  --body-font-size: 16px;
+  --body-line-height: 24px;
+  --body-font-weight: 400;
+  --body-letter-spacing: 0;
+
+  --h4-large-font-size: var(--font-size-7);
+  --h4-large-line-height: var(--line-height-3);
+  --h4-large-font-weight: var(--font-weight-semibold);
+  --h4-large-letter-spacing: var(--letter-spacing-0);
+
+  --h4-font-size: var(--font-size-6);
+  --h4-line-height: var(--line-height-4);
+  --h4-font-weight: var(--font-weight-semibold);
+  --h4-letter-spacing: var(--letter-spacing-0);
+
+  --h5-font-size: var(--font-size-5);
+  --h5-line-height: var(--line-height-5);
+  --h5-font-weight: var(--font-weight-semibold);
+  --h5-letter-spacing: var(--letter-spacing-0);
+
+  --h6-font-size: var(--font-size-4);
+  --h6-line-height: var(--line-height-6);
+  --h6-font-weight: var(--font-weight-semibold);
+  --h6-letter-spacing: var(--letter-spacing-0);
+
+  --h7-font-size: var(--font-size-3);
+  --h7-line-height: var(--line-height-7);
+  --h7-font-weight: var(--font-weight-semibold);
+  --h7-letter-spacing: var(--letter-spacing-0);
+
+  // ==================== Typography - Body ====================
+  --body-font-size: var(--font-size-3);
+  --body-line-height: var(--line-height-6);
+  --body-font-weight: var(--font-weight-regular);
+  --body-letter-spacing: var(--letter-spacing-0);
+
+  --body-medium-font-size: var(--font-size-3);
+  --body-medium-line-height: var(--line-height-6);
+  --body-medium-font-weight: var(--font-weight-medium);
+  --body-medium-letter-spacing: var(--letter-spacing-0);
+
+  --p-font-size: var(--font-size-5);
+  --p-line-height: var(--line-height-5);
+  --p-font-weight: var(--font-weight-regular);
+  --p-letter-spacing: var(--letter-spacing-0);
+
+  // ==================== Typography - Menu ====================
+  --menu-font-size: var(--font-size-2);
+  --menu-line-height: var(--line-height-11);
+  --menu-font-weight: var(--font-weight-regular);
+  --menu-letter-spacing: var(--letter-spacing-0);
+
+  --menu-medium-font-size: var(--font-size-2);
+  --menu-medium-line-height: var(--line-height-11);
+  --menu-medium-font-weight: var(--font-weight-medium);
+  --menu-medium-letter-spacing: var(--letter-spacing-0);
+
+  // ==================== Typography - Table ====================
+  --table-head-font-size: var(--font-size-1);
+  --table-head-line-height: var(--line-height-18);
+  --table-head-font-weight: var(--font-weight-semibold);
+  --table-head-letter-spacing: var(--letter-spacing-0);
+
+  --table-item-font-size: var(--font-size-1);
+  --table-item-line-height: var(--line-height-18);
+  --table-item-font-weight: var(--font-weight-regular);
+  --table-item-letter-spacing: var(--letter-spacing-0);
+
+  // ==================== Typography - Subtle ====================
+  --subtle-font-size: var(--font-size-1);
+  --subtle-line-height: var(--line-height-13);
+  --subtle-font-weight: var(--font-weight-regular);
+  --subtle-letter-spacing: var(--letter-spacing-0);
+
+  --subtle-medium-font-size: var(--font-size-1);
+  --subtle-medium-line-height: var(--line-height-13);
+  --subtle-medium-font-weight: var(--font-weight-medium);
+  --subtle-medium-letter-spacing: var(--letter-spacing-0);
+
+  --subtle-demibold-font-size: var(--font-size-1);
+  --subtle-demibold-line-height: var(--line-height-13);
+  --subtle-demibold-font-weight: var(--font-weight-semibold);
+  --subtle-demibold-letter-spacing: var(--letter-spacing-0);
+
+  // ==================== Typography - Small ====================
+  --small-font-size: var(--font-size-0);
+  --small-line-height: var(--line-height-13);
+  --small-font-weight: var(--font-weight-regular);
+  --small-letter-spacing: var(--letter-spacing-0);
+
+  --small-console-medium-font-size: var(--font-size-0);
+  --small-console-medium-line-height: var(--line-height-13);
+  --small-console-medium-font-weight: var(--font-weight-medium);
+  --small-console-medium-letter-spacing: var(--letter-spacing-0);
+
+  // ==================== Typography - Link ====================
+  --link-small-font-family: var(--font-baloo-chettan-2);
+  --link-small-font-size: var(--font-size-0);
+  --link-small-line-height: var(--line-height-20);
+  --link-small-font-weight: var(--font-weight-regular);
+  --link-small-letter-spacing: var(--letter-spacing-0);
+
+  --link-font-family: var(--font-baloo-chettan-2);
+  --link-font-size: var(--font-size-2);
+  --link-line-height: var(--line-height-18);
+  --link-font-weight: var(--font-weight-regular);
+  --link-letter-spacing: var(--letter-spacing-0);
+
+  --btn-font-family: var(--font-miletus);
+
+  // ==================== Semantic Colors - Status ====================
+  --error-color: #ff5959;
+  --error-color-bg: #ff59591a;
+  --error-color-sub: #ff59594d;
+
+  --inactive-color: #a1a7b2;
+  --inactive-color-bg: #a1a7b21a;
+  --inactive-color-sub: #a1a7b24d;
+
+  --init-color: #7e5ff8; /* for GPU/Serverless instance */
+  --init-color-bg: #7e5ff81a;
+  --init-color-sub: #7e5ff84d;
+
+  --warn-color: #ffc359;
+  --warn-color-bg: #ffc3591a;
+  --warn-color-sub: #ffc3594d;
+
+  /* ---------- Shadow 阴影 (kept for backwards compatibility)  ---------- */
+  --shadow-1: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-2:
+    0 2px 4px -2px rgba(0, 0, 0, 0.1), 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --shadow-3:
+    0 4px 6px -4px rgba(0, 0, 0, 0.1), 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  --shadow-4:
+    0 8px 10px -6px rgba(0, 0, 0, 0.1), 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+  --shadow-5: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  // ==================== Spacing ====================
+  --space-0: 0;
+  --space-2: 2px;
+  --space-4: 4px;
+  --space-8: 8px;
+  --space-12: 12px;
+  --space-16: 16px;
+  --space-24: 24px;
+  --space-48: 48px;
+  --space-80: 80px;
+  --space-120: 120px;
+
+  // ==================== Radius ====================
+  --radius-0-none: 0;
+  --radius-2-minismall: 2px;
+  --radius-4-small: 4px;
+  --radius-6-regular: 6px;
+  --radius-8-medium: 8px;
+  --radius-12-large: 12px;
+  --radius-999-round: 999px;
+
+  // ==================== Component Height ====================
+  --height-20-supersmall: 20px;
+  --height-24-minismall: 24px;
+  --height-28-small: 28px;
+  --height-32-medium: 32px;
+  --height-36-large: 36px;
+  --height-40-xlarge: 40px;
+  --height-44-superlarge: 44px;
+
+  // ==================== Stroke ====================
+  --stroke-icon-12: 1px;
+  --stroke-icon-14: 1px;
+  --stroke-icon-16: 1.2px;
+  --stroke-icon-24: 1.6px;
+  --stroke-border-1: 1px;
+  --stroke-border-none: 0;
+
+  // ==================== Component Padding ====================
+  --component-small-top-bottom: var(--space-2);
+  --component-small-left-right: var(--space-8);
+  --component-medium-top-bottom: var(--space-4);
+  --component-medium-left-right: var(--space-12);
+  --component-large-top-bottom: var(--space-8);
+  --component-large-left-right: var(--space-16);
+
+  // ==================== Frame Padding ====================
+  --frame-mini: var(--space-4);
+  --frame-small: var(--space-8);
+  --frame-medium: var(--space-16);
+  --frame-large: var(--space-24);
+  --frame-xlarge: var(--space-80);
+  --frame-superlarge: var(--space-120);
+
+  @media screen and (max-width: 600px) {
+    --h1-font-size: 40px;
+    --h1-line-height: 48px;
+    --h1-font-weight: 700;
+    --h1-letter-spacing: 0;
+    --h2-font-size: 40px;
+    --h2-line-height: 48px;
+    --h2-font-weight: 700;
+    --h2-letter-spacing: 0;
+  }
+
+  --small-padding: 20px;
+  --large-padding: 20px;
+
+  --scrollbar-background: transparent;
+  --scrollbar-thumb: var(--gray-1);
+}
+
+html.console_app {
+  --h4-large-line-height: 36px;
+  --h4-line-height: 28px;
+  --h5-font-weight: 600;
+
+  // h6 styles are exclusive to the console theme
+  --h6-font-size: 18px;
+  --h6-line-height: 22px;
+  --h6-font-weight: 600;
+  --h6-letter-spacing: 0;
+
+  --h7-font-size: 16px;
+  --h7-line-height: 16px;
+  --h7-font-weight: 600;
+  --h7-letter-spacing: 0;
+
+  --body-line-height: 22px;
+  --table-head-font-size: 13px;
+  --table-head-line-height: 16px;
+  --table-head-font-weight: 500;
+  --table-item-font-size: 13px;
+  --table-item-line-height: 16px;
+  --subtle-font-size: 13px;
+  --subtle-line-height: 16px;
+  --subtle-medium-font-size: 13px;
+  --subtle-medium-line-height: 16px;
+  --subtle-demibold-font-size: 13px;
+  --subtle-demibold-line-height: 16px;
+  --small-line-height: 14px;
+  --small-console-medium-line-height: 14px;
+  --link-small-font-family: var(--font-miletus);
+  --link-small-font-size: 12px;
+  --link-small-line-height: 14px;
+  --link-font-family: var(--font-miletus);
+  --link-font-size: 14px;
+  --link-line-height: 16px;
+  --btn-font-family: var(--font-miletus);
+}

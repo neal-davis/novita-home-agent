@@ -1,0 +1,10 @@
+{
+  "areYouSureYouWantTo": "Tem certeza de que deseja interromper sua instância?",
+  "cancel": "Cancelar",
+  "forSuspendedInstancesDataWillBe": "Para instâncias suspensas, os dados serão retidos por",
+  "stop": "Parar",
+  "stopInstance": "Parar instância",
+  "stopYourInstanceYouCanStart": "Interrompa sua instância. Você pode iniciar a instância mais tarde.",
+  "success": "sucesso",
+  "whenTheInstanceIsStoppedIf": "Quando a instância for interrompida, se outro usuário preemptar este nó, sua instância não poderá ser reiniciada normalmente, mas a migração para outros nós é suportada."
+}

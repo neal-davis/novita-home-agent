@@ -1,0 +1,8 @@
+{
+  "default": "Standard",
+  "jsonObject": "json_object",
+  "modelConfiguration": "Modellkonfiguration",
+  "responseFormat": "Antwortformat",
+  "systemPrompt": "System-Prompt",
+  "text": "text"
+}

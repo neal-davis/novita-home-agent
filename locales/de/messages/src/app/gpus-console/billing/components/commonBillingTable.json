@@ -1,0 +1,22 @@
+{
+  "all": "Alle",
+  "amountShouldPay": "Zu zahlender Betrag",
+  "billingPeriod": "Abrechnungszeitraum",
+  "captionTable": "Beschriftungstabelle",
+  "cashPaid": "Bar bezahlt",
+  "instance": "Instanz",
+  "localStorage": "Lokaler Speicher",
+  "networkStorage": "Netzwerkspeicher",
+  "onDemand": "On-Demand",
+  "prepaid": "Vorausbezahlt",
+  "prepaidByDay": "Vorausbezahlt pro Tag",
+  "prepaidByMonth": "Vorausbezahlt pro Monat",
+  "prepaidByWeek": "Vorausbezahlt pro Woche",
+  "prepaidByYear": "Vorausbezahlt pro Jahr",
+  "pricingModel": "Preismodell",
+  "product": "Produkt",
+  "productName": "Produktname",
+  "productType": "Produkttyp",
+  "search": "Suchen",
+  "voucherDeduction": "Gutscheinabzug"
+}

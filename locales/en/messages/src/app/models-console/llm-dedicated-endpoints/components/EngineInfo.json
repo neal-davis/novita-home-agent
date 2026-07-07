@@ -1,0 +1,12 @@
+{
+  "cancel": "Cancel",
+  "confirmRestart": "Confirm & Restart",
+  "edit": "Edit",
+  "engineConfiguration": "Engine Configuration",
+  "off": "Off",
+  "on": "On",
+  "restartEngine": "Restart Engine?",
+  "saveRestartEngine": "Save & Restart Engine",
+  "savingChangesWillTriggerARolling": "Saving changes will trigger a rolling restart of the engine",
+  "thisWillTriggerARollingRestart": "This will trigger a rolling restart of all replicas. The process may take a few minutes. During the restart, your endpoint will remain available."
+}

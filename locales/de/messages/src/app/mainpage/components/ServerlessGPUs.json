@@ -1,0 +1,6 @@
+{
+  "exploreGpus": "GPUs entdecken",
+  "globallyDistributedGpusWithLocalSpeed": "Global verteilte GPUs mit lokaler Geschwindigkeit",
+  "gpuCloud": "GPU-CLOUD",
+  "launchHighPerformanceGpuInstancesIn": "Starten Sie leistungsstarke GPU-Instanzen in Sekundenschnelle in globalen Regionen. Ideal für Training, Finetuning und Inferenz mit hohem Durchsatz. Nutzen Sie On-Demand oder Spot mit 50 % Rabatt."
+}

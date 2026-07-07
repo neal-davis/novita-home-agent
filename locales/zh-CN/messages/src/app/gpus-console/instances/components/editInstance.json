@@ -1,0 +1,18 @@
+{
+  "cancel": "取消",
+  "containerDiskExpansionCurrent": "容器磁盘扩容（当前",
+  "editInstance": "编辑实例",
+  "enterYourContainerDiskExpandSize": "请输入您的容器磁盘扩容大小",
+  "expand": "扩容：",
+  "exposeHttpPortsMax10": "暴露 HTTP 端口（最多 10 个）",
+  "exposeTcpPorts": "暴露 TCP 端口",
+  "gb-4d1316": "GB）",
+  "gb-505a44": "GB",
+  "pleaseEnterAValidSizeAnd": "请输入有效大小，且不能小于 0 GB",
+  "pleaseEnterAValidSizeCurrent": "请输入有效大小，扩容后的当前大小不能大于",
+  "save": "保存",
+  "subscriptionInstanceExpansionRequiresPrepaymentOf": "订阅实例扩容需要预付订阅实例剩余期限的扩容存储费用。",
+  "success": "成功",
+  "theCurrentInstanceHasBeenShut": "当前实例已关机。实例运行时，您可以调整系统盘容量。",
+  "youCanEditWhileTheInstance": "实例运行时可以编辑，不会丢失数据。"
+}

@@ -1,0 +1,10 @@
+{
+  "autoscaling": "オートスケーリング",
+  "endpointId": "エンドポイントID",
+  "engine": "エンジン",
+  "engineConfiguration": "エンジン設定",
+  "lora": "LoRA",
+  "loraAdapters": "LoRAアダプター",
+  "modelId": "モデルID",
+  "readOnly": "読み取り専用"
+}

@@ -1,0 +1,8 @@
+{
+  "back": "Retour",
+  "cancel": "Annuler",
+  "download": "Télécharger",
+  "generate": "Générer",
+  "theCenterOfTheCropShould": "Le centre du recadrage ne doit pas se situer en dehors de l’image",
+  "theWidthAndHeightOfThe": "La largeur et la hauteur du recadrage doivent être comprises entre 256 et 1024."
+}

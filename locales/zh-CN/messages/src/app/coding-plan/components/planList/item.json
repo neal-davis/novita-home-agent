@@ -1,0 +1,10 @@
+{
+  "decrementCodingPlanDoesNotSupport": "降级编码套餐不支持升级订阅",
+  "loginExpiredPleaseLoginAgain": "登录已过期，请重新登录",
+  "modelAccess": "模型访问",
+  "monthly": "每月",
+  "pleaseLoginFirst": "请先登录",
+  "subscribe": "订阅",
+  "subscriptionFailedThePurchasedCodingPlan": "订阅失败，已购买的编码套餐大于或等于此级别",
+  "yourPlan": "您的套餐"
+}

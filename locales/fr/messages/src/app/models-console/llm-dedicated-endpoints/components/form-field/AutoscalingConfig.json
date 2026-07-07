@@ -1,0 +1,15 @@
+{
+  "autoscaling": "Mise à l’échelle automatique",
+  "autoscalingHandlesHighlyVariableTrafficWhile": "La mise à l’échelle automatique gère un trafic très variable tout en minimisant les dépenses liées aux ressources de calcul inactives.",
+  "max": "~ Max :",
+  "min": "Min :",
+  "min300s": "Min : 300 s",
+  "numberOfReplicas": "Nombre de réplicas :",
+  "off": "Désactivé",
+  "on": "Activé",
+  "replicaRange": "Plage de réplicas :",
+  "scaleDownDelay": "Délai de réduction d’échelle :",
+  "scaleToZeroIsEnabled": "La mise à l’échelle à zéro est activée",
+  "sec": "s",
+  "yourEndpointHasADefaultMinimum": "Votre endpoint dispose par défaut d’un minimum de 1 réplica et se mettra automatiquement en veille lorsqu’il est inactif. Le temps de démarrage à froid dépend de la taille de votre modèle et prend généralement quelques minutes."
+}

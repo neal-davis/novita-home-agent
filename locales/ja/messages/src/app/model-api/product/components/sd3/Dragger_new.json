@@ -1,0 +1,8 @@
+{
+  "imageInvalid": "画像が無効です！",
+  "theSizeOfTheImageFile": "画像ファイルのサイズは次の値未満である必要があります",
+  "theSizeOfTheVideoFile": "動画ファイルのサイズは次の値未満である必要があります",
+  "uploadImage": "画像をアップロード",
+  "videoInvalid": "動画が無効です！",
+  "youCanOnlyUploadJpgPng": "JPG/PNG画像のみアップロードできます。"
+}

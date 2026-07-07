@@ -1,0 +1,18 @@
+{
+  "billedPerSecondForRunningReplicas": "仅对运行中的副本按秒计费",
+  "costEstimation": "成本估算",
+  "createEndpoint": "创建端点",
+  "creating": "正在创建...",
+  "estMonthlyIf1Replica": "预计每月（如果 1 个副本）",
+  "estMonthlyIf1ReplicaAlways": "预计每月（如果 1 个副本始终开启）",
+  "gpuType": "GPU 类型",
+  "gpuUnitPrice": "GPU 单价",
+  "hourlyMaxReplicas": "每小时（最大副本数）",
+  "hourlyMinReplicas": "每小时（最小副本数）",
+  "max": "最大：",
+  "min": "最小：",
+  "replica": "副本",
+  "replicasMin": "副本（最小）",
+  "selectAGpuToSeeCost": "选择 GPU 以查看成本",
+  "selectGpu": "选择 GPU"
+}

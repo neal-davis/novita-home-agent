@@ -1,0 +1,23 @@
+{
+  "actions": "Ações",
+  "cacheRead-08ba9a": "· Leitura de cache",
+  "cacheRead-e47778": "· Leitura de cache",
+  "cacheWrite1h": "· Gravação de cache (1h)",
+  "cacheWrite5m": "· Gravação de cache (5m)",
+  "cachedReads": "Leituras em cache",
+  "cachedWrites1h": "Gravações em cache (1h)",
+  "cachedWrites5m": "Gravações em cache (5m)",
+  "context": "Contexto",
+  "free": "Gratuito",
+  "input": "Entrada",
+  "inputLength": "Comprimento da entrada",
+  "inputPriceMtokens": "Preço de entrada (Mtokens)",
+  "modelName": "Nome do modelo",
+  "more": "Mais",
+  "omnimodal": "Omnimodal",
+  "output": "Saída",
+  "outputLength": "Comprimento da saída",
+  "outputPriceMtokens": "Preço de saída (Mtokens)",
+  "showOmnimodalPricing": "Mostrar preços omnimodais",
+  "showTieredPricing": "Mostrar preços por níveis"
+}

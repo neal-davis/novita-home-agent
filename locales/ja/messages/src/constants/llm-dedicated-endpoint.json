@@ -1,0 +1,6 @@
+{
+  "enablingThisFeatureAcceleratesModelOutput": "この機能を有効にすると、コーディングシナリオにおけるモデルの出力速度が30%以上向上します（ベースライン性能の130%）",
+  "maximumNumberOfConcurrentRequestsThat": "単一のレプリカで処理できる同時リクエストの最大数。バックエンドは、モデルとGPU構成に基づいて最適な値を推奨します。",
+  "modelContextLengthIfUnspecifiedWill": "モデルのコンテキスト長。未指定の場合は、モデル設定から自動的に導出されます。",
+  "theModelsMaximumContextLengthDefaults": "モデルの最大コンテキスト長。デフォルトはNoneです（代わりにモデルのconfig.jsonの値が使用されます）。"
+}

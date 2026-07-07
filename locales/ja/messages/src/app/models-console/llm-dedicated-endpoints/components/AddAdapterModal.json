@@ -1,0 +1,18 @@
+{
+  "adapterAlreadyExists": "アダプターはすでに存在します",
+  "adapterName": "アダプター名",
+  "adapterReadyToAdd": "アダプターを追加する準備ができました。",
+  "addAdapter": "アダプターを追加",
+  "cancel": "キャンセル",
+  "clickTheButtonAboveToAdd-5002cb": "上のボタンをクリックしてアダプターを追加してください。",
+  "clickTheButtonAboveToAdd-fcb6d5": "上のボタンをクリックして Hugging Face アダプターを追加してください。",
+  "enterAdaptersRepositoryName": "アダプターのリポジトリ名を入力",
+  "enterHuggingFaceAdaptersRepositoryName": "Hugging Face アダプターのリポジトリ名を入力",
+  "gatheringAdapterInformation": "アダプター情報を取得中...",
+  "loraAdapterSuccessfullyMatchedWithThe": "LoRA アダプターがベースモデルと正常に一致しました。",
+  "noAdapterAdded": "アダプターが追加されていません",
+  "optionalRouteForThisAdapterLeave": "このアダプターの任意のルート。空のままにすると、アダプター名にフォールバックします。ルートはエンドポイント内で一意である必要があります。",
+  "remove": "削除",
+  "route": "ルート",
+  "save": "保存"
+}

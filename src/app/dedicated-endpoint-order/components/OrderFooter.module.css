@@ -1,0 +1,42 @@
+.footer {
+  border-top: 1px solid var(--gray-3);
+  position: fixed;
+  height: 100px;
+  background-color: var(--white);
+  bottom: 0;
+  width: 100%;
+  left: 0;
+}
+
+.footer .container {
+  max-width: 800px;
+  margin: auto;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 36px;
+}
+
+.container .opt {
+  flex-shrink: 0;
+}
+.container .content {
+  flex: 1;
+  text-align: right;
+}
+
+.price {
+  color: var(--dark-1);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  text-align: right;
+}
+
+.off {
+  text-align: right;
+  font-size: 18px;
+  color: #b6b1c8;
+}

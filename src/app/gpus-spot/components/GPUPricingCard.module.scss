@@ -1,0 +1,77 @@
+.box {
+  padding: 24px;
+  background-color: var(--dark-1);
+  min-height: 172px;
+  max-width: 259px;
+  min-width: 242px;
+  width: 100%;
+  border-radius: 6px;
+
+  .name {
+    @include font-h4;
+    height: 76px;
+    width: 210px;
+    margin-bottom: 20px;
+    .name1 {
+      color: var(--gray-3);
+    }
+    .name2 {
+      color: var(--brand-0);
+    }
+  }
+  .memory {
+    color: var(--gray-3);
+    @include font-body;
+    margin-bottom: 20px;
+  }
+  .line {
+    height: 1px;
+    width: 100%;
+    background-color: var(--dark-2);
+    margin-bottom: 37px;
+  }
+  .eight {
+    color: var(--gray-3);
+    @include font-body;
+  }
+  .spot {
+    color: var(--gray-3);
+    @include font-body;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    .spotLabel {
+      background-color: var(--brand-0);
+      color: var(--white);
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+  }
+}
+
+.first {
+  border-top-left-radius: 16px !important;
+  border-bottom-left-radius: 16px !important;
+}
+
+.last {
+  border-top-right-radius: 16px !important;
+  border-bottom-right-radius: 16px !important;
+}
+.save {
+  display: inline-flex;
+  height: 24px;
+  padding: 2px 8px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  flex-shrink: 0;
+  border-radius: 4px;
+  background: var(--dark-2);
+  @include font-small-console;
+  color: var(--brand-0);
+}

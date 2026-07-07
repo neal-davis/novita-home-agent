@@ -1,0 +1,12 @@
+{
+  "billingMethod": "請求方法",
+  "getStarted": "始める",
+  "message1x": "1x",
+  "message1xGpu": "1x GPU",
+  "message8xGpu": "8x GPU",
+  "onDemand": "オンデマンド",
+  "pricing": "料金",
+  "specification": "仕様",
+  "spot": "スポット",
+  "spotInstanceInfo": "スポットインスタンス情報"
+}

@@ -1,0 +1,8 @@
+{
+  "capacity": "容量: $",
+  "gbFreeQuotaChargesForThe": "GBの無料枠。超過分は容量と利用時間に基づいて課金されます。",
+  "storageResources": "ストレージリソース",
+  "supports": "対応",
+  "unitPrice": "単価: $",
+  "unitPriceForTheExcess": "超過分の単価"
+}

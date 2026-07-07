@@ -1,0 +1,6 @@
+{
+  "deploy": "Deploy",
+  "gpuHot": "gpu hot",
+  "onDemand": "On Demand",
+  "oneClickDeployment": "One click deployment"
+}

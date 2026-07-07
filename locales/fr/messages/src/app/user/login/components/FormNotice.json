@@ -1,0 +1,10 @@
+{
+  "didntGetAnEmail": "Vous n'avez pas reçu d'e-mail ?",
+  "emailSentSuccessfully": "E-mail envoyé avec succès.",
+  "emailVerificationFailed": "La vérification de l'e-mail a échoué",
+  "emailVerifiedSuccessfully": "E-mail vérifié avec succès",
+  "invalidEmailAddress": "Adresse e-mail invalide.",
+  "resendItHere": "Renvoyez-le ici",
+  "youWillReceiveAnEmailWith-1a60b7": "Vous recevrez dans quelques minutes un e-mail contenant des instructions pour activer votre compte.",
+  "youWillReceiveAnEmailWith-858018": "Vous recevrez dans quelques minutes un e-mail contenant des instructions pour réinitialiser votre mot de passe."
+}

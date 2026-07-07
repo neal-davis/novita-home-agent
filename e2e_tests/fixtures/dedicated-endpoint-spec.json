@@ -1,0 +1,44 @@
+{
+  "specs": [
+    {
+      "id": "MA-llm_dedicated_endpoint-4",
+      "displayName": "RTX-5090",
+      "gpuName": "NVIDIA-GeForce-RTX-5090",
+      "infraGpuName": "NVIDIA-GeForce-RTX-5090",
+      "description": "",
+      "price": "203",
+      "discount": "203",
+      "pricePrecision": "100"
+    },
+    {
+      "id": "MA-llm_dedicated_endpoint-3",
+      "displayName": "NVIDIA H100",
+      "gpuName": "NVIDIA H100 80GB HBM3",
+      "infraGpuName": "NVIDIA-H100-80GB-HBM3",
+      "description": "",
+      "price": "552",
+      "discount": "552",
+      "pricePrecision": "100"
+    },
+    {
+      "id": "MA-llm_dedicated_endpoint-2",
+      "displayName": "RTX 4090",
+      "gpuName": "NVIDIA GeForce RTX 4090",
+      "infraGpuName": "NVIDIA-GeForce-RTX-4090",
+      "description": "",
+      "price": "170",
+      "discount": "170",
+      "pricePrecision": "100"
+    },
+    {
+      "id": "MA-llm_dedicated_endpoint-1",
+      "displayName": "NVIDIA H200",
+      "gpuName": "NVIDIA H200",
+      "infraGpuName": "NVIDIA-H200",
+      "description": "",
+      "price": "830",
+      "discount": "830",
+      "pricePrecision": "100"
+    }
+  ]
+}

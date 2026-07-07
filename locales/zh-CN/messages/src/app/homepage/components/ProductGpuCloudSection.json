@@ -1,0 +1,10 @@
+{
+  "dedicatedPhysicalGpuClustersForLarge": "专用物理 GPU 集群，适用于大规模推理、训练运行以及不能在吞吐量上妥协的企业级部署。当你需要独占硬件时，这就是你的选择。",
+  "deployModelsRunInferenceTrainFrom": "在你完全掌控的专用 GPU 实例上部署模型、运行推理、从零开始训练。性能可预测。无共享资源。无意外状况。",
+  "fullControlGpuMachinesYoursIn": "完全掌控的 GPU 机器。数秒即可拥有。",
+  "getStarted": "开始使用",
+  "gpuCloud": "GPU 云",
+  "maximumPerformanceZeroAbstractionOverhead": "极致性能。零抽象开销。",
+  "noInstancesToProvisionNoIdle": "无需预置实例。无需为闲置算力付费。Novita 会自动分配 GPU 资源，在负载增加时扩容，在任务完成后缩容至零。你只需为执行付费，别无其他。",
+  "submitAJobWeHandleThe": "提交作业。其余交给我们。"
+}

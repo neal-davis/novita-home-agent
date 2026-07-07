@@ -1,0 +1,89 @@
+.preview_wrapper {
+  flex: 1;
+  width: 100%;
+  overflow: hidden;
+}
+
+.drawer_wrapper {
+  height: 100%;
+  overflow: hidden;
+}
+
+.form_wrapper {
+  position: relative;
+  padding: 18px 16px 0 16px;
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: visible;
+  box-sizing: border-box;
+}
+
+.panel_box {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  column-gap: 20px;
+  row-gap: 10px;
+  overflow-x: visible;
+  margin-bottom: 18px;
+}
+
+.model_panel_box {
+  margin-top: 18px;
+}
+
+.slider {
+  flex: 1;
+}
+.slider_wrapper_lg {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.slider_wrapper_lg label {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.radio_wrapper_lg {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.radio_wrapper_lg .radio_group {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.selector {
+  flex: 1;
+  overflow: hidden;
+}
+.model_selector_trigger {
+  height: 36px;
+  line-height: 32px;
+  border-radius: 8px;
+  padding: 0 12px;
+  background-image: linear-gradient(246deg, #2622ff 0%, #6c17ff 100%);
+  border: 2px solid #ffffff2f;
+  cursor: pointer;
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.modellist_wrapper {
+  height: 100%;
+  overflow: auto;
+  max-height: 80vh;
+}
+
+.back_btn {
+  top: 0;
+  left: 0;
+  border: 1px solid #fff !important;
+}

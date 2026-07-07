@@ -1,0 +1,14 @@
+{
+  "cancel": "Cancel",
+  "crop": "Crop",
+  "estimatedCost": "Estimated cost:",
+  "generate": "Generate",
+  "model": "Model",
+  "originalResolution": "Original resolution",
+  "resizeMode": "Resize mode",
+  "seed": "Seed",
+  "steps": "Steps",
+  "svd": "SVD",
+  "svdXt": "SVD-XT",
+  "theImageResolutionShouldBeLess": "The image resolution should be less than 576 * 1024 if you choose \"Original resolution\" as resize mode."
+}

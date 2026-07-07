@@ -1,0 +1,23 @@
+{
+  "actions": "Aktionen",
+  "cacheRead-08ba9a": "· Cache-Lesezugriff",
+  "cacheRead-e47778": "· Cache-Lesen",
+  "cacheWrite1h": "· Cache-Schreiben (1 h)",
+  "cacheWrite5m": "· Cache-Schreiben (5 min)",
+  "cachedReads": "Cache-Lesevorgänge",
+  "cachedWrites1h": "Cache-Schreibvorgänge (1 h)",
+  "cachedWrites5m": "Cache-Schreibvorgänge (5 min)",
+  "context": "Kontext",
+  "free": "Kostenlos",
+  "input": "Eingabe",
+  "inputLength": "Eingabelänge",
+  "inputPriceMtokens": "Eingabepreis (Mtokens)",
+  "modelName": "Modellname",
+  "more": "Mehr",
+  "omnimodal": "Omnimodal",
+  "output": "Ausgabe",
+  "outputLength": "Ausgabelänge",
+  "outputPriceMtokens": "Ausgabepreis (Mtokens)",
+  "showOmnimodalPricing": "Omnimodale Preise anzeigen",
+  "showTieredPricing": "Gestaffelte Preise anzeigen"
+}

@@ -1,0 +1,18 @@
+{
+  "all": "全部",
+  "applicableProducts": "适用产品",
+  "balanceTotal": "余额 / 总额",
+  "collapse": "收起",
+  "effectDate": "生效日期",
+  "expirationDate": "到期日期",
+  "expired": "已过期",
+  "status-11dc9e": "状态：",
+  "status-bae7d5": "状态",
+  "textVarBrand1": "text-[var(--brand-1)]",
+  "textVarDark3": "text-[var(--dark-3)]",
+  "textVarRed2": "text-[var(--red-2)]",
+  "used": "已使用",
+  "valid": "有效",
+  "voucher": "优惠券",
+  "voucherDetails": "优惠券详情"
+}

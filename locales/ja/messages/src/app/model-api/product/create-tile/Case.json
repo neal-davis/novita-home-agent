@@ -1,0 +1,10 @@
+{
+  "generatesImagesWith": "画像を生成できます：",
+  "playground": "プレイグラウンド",
+  "stableDiffusionApi": "Stable Diffusion API",
+  "thatCanBeUsedAsRepeating": "繰り返しタイルとして使用でき、布地、壁紙、テクスチャ用のシームレスなパターンを作成できます。次のようなパターン作成ツールを使用してください：",
+  "this": "こちら",
+  "toAccessMoreFeatures": "より多くの機能にアクセスするには。",
+  "toSeeTheRepeatedTilesVisit": "繰り返しタイルを確認するには、次にアクセスしてください：",
+  "tryCreateTileApiDemo": "タイル作成 API デモを試す"
+}

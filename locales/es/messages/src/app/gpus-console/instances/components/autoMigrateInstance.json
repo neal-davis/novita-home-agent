@@ -1,0 +1,15 @@
+{
+  "automaticInstanceMigration": "Migración automática de instancia",
+  "automaticMigration": "Migración automática",
+  "automaticallyMigratesTheInstanceToA": "Migra automáticamente la instancia a un nodo en buen estado en caso de fallo de hardware. El ID de la instancia, la dirección de asignación de puertos y los datos permanecen sin cambios, con solo un breve tiempo de inactividad.",
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
+  "ifNoActionIsTakenThe": "Si no se realiza ninguna acción, el sistema migrará automáticamente para mantener la continuidad del servicio.",
+  "ifTheSystemDiskIsIncluded": "Si se incluye el disco del sistema, el tiempo de inactividad depende de su tamaño (normalmente de minutos a ~10+ minutos).",
+  "migrateSystemDisk": "Migrar disco del sistema",
+  "success": "éxito",
+  "supportIsAvailableDuringMigrationIf": "El soporte está disponible durante la migración si es necesario.",
+  "theFollowingRegionsDontSupportThis": "Las siguientes regiones no admiten esta función:",
+  "usCa03UsCaNas": "US-CA-03/US-CA-NAS-01/US-02/US-CA-02",
+  "youllBeNotifiedOfFaultsAnd": "Se te notificarán los fallos y deberás migrar manualmente en un plazo de 7 días."
+}

@@ -1,0 +1,4 @@
+{
+  "expectedFunctionNameToBeA": "预期 'function.name' 为字符串。",
+  "expectedIdToBeAString": "预期 'id' 为字符串。"
+}

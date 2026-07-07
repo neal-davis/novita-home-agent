@@ -1,0 +1,17 @@
+{
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "day": "day",
+  "days": "days",
+  "expansionCapacity": "Expansion capacity",
+  "expansionFee": "Expansion fee",
+  "expirationTime": "Expiration time",
+  "freeCapacity": "Free capacity",
+  "gb": "GB",
+  "instanceId": "Instance ID",
+  "remainingRentalPeriod": "Remaining rental period",
+  "settlementAmount": "Settlement Amount",
+  "storagePrice": "Storage price",
+  "subscriptionInstanceExpansionBilling": "Subscription Instance expansion billing",
+  "usedCapacity": "Used capacity"
+}

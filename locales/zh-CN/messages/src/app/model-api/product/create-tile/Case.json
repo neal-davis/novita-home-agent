@@ -1,0 +1,10 @@
+{
+  "generatesImagesWith": "使用以下方式生成图像",
+  "playground": "体验场",
+  "stableDiffusionApi": "Stable Diffusion API",
+  "thatCanBeUsedAsRepeating": "可作为重复图块，用于为织物、壁纸和纹理创建无缝图案。使用类似",
+  "this": "这个",
+  "toAccessMoreFeatures": "以访问更多功能。",
+  "toSeeTheRepeatedTilesVisit": "查看重复图块。访问",
+  "tryCreateTileApiDemo": "尝试创建图块 API 演示"
+}

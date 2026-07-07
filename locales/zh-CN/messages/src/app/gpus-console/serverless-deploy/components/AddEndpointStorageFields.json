@@ -1,0 +1,19 @@
+{
+  "addEnvironmentVariable": "+ 添加环境变量",
+  "containerDisk": "容器磁盘",
+  "createNetworkVolume": "创建网络卷",
+  "enterHealthCheckPath": "输入健康检查路径",
+  "enterNetworkVolumeMountPath": "输入网络卷挂载路径",
+  "enterVolumeMountPath": "输入卷挂载路径",
+  "environmentVariables": "环境变量",
+  "healthCheckPath": "健康检查路径",
+  "networkVolume": "网络卷",
+  "networkVolumeMountPath": "网络卷挂载路径",
+  "otherConfiguration": "其他配置",
+  "region": "区域",
+  "selectNetworkVolume": "选择网络卷",
+  "selectRegion": "选择区域",
+  "storageConfiguration": "存储配置",
+  "volumeDisk": "卷磁盘",
+  "volumeMountPath": "卷挂载路径"
+}

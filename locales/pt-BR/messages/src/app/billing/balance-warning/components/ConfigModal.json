@@ -1,0 +1,21 @@
+{
+  "addAlert": "Adicionar alerta",
+  "balanceAlertsAreTriggeredBasedOn": "Os alertas de saldo são acionados com base no seu Crédito Disponível, que inclui o saldo da sua conta e o limite de crédito restante.",
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
+  "editAlert": "Editar alerta",
+  "email": "E-mail",
+  "enableStatus": "Status de ativação",
+  "enterAmount": "Inserir valor",
+  "inbox": "Caixa de entrada",
+  "notificationMembers": "Membros da notificação",
+  "notificationMethod": "Método de notificação",
+  "pleaseEnterTheWarningAmount": "Insira o valor de aviso",
+  "pleaseSelectAtLeastOneNotification": "Selecione pelo menos um método de notificação",
+  "selectMethods": "Selecionar métodos",
+  "theMaximumPostpaidAmountApprovedBased": "O valor pós-pago máximo aprovado com base no perfil de crédito da sua conta, permitindo que você consuma primeiro e pague depois.",
+  "theWarningAmountMustBeBetween": "O valor de aviso deve estar entre $1 e $10,000,000, e o intervalo entre valores com status de aviso ativo deve ser de pelo menos $5.",
+  "thresholdMustBeAnInteger": "O limite deve ser um número inteiro",
+  "thresholdMustBeBetween1And": "O limite deve estar entre 1 e 10000000",
+  "warningAmount": "Valor de aviso"
+}

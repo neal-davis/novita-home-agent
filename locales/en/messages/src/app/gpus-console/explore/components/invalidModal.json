@@ -1,0 +1,6 @@
+{
+  "cancel": "Cancel",
+  "updateTemplateNow": "Update Template Now",
+  "volumeDiskMounting": "Volume Disk mounting",
+  "yourTemplateCurrentlyIncludesVolumeDisk": "Your template currently includes Volume Disk mounting, which is no longer supported (Container Disk has been expanded). Please update your template to remove Volume Disk mounting configurations and store data on the Container Disk."
+}

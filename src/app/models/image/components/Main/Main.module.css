@@ -1,0 +1,83 @@
+.playground {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  flex: 1;
+  overflow: hidden;
+  height: 100%;
+  padding-left: 100px;
+}
+
+.topBar {
+  width: 100%;
+  flex-shrink: 1;
+  display: flex;
+  align-items: center;
+  height: 60px;
+  border-bottom: 1px solid #272b30;
+  justify-content: space-between;
+}
+
+.topBar div {
+  display: flex;
+  padding: 0 20px;
+  align-items: center;
+}
+
+.block {
+  display: inline-block;
+  width: 16px;
+  height: 32px;
+  background-color: #2a85ff;
+  border-radius: 4px;
+}
+
+.topBar .input {
+  padding-left: 16px;
+}
+
+.title {
+  display: inline-block;
+  font-size: 20px;
+  color: #fcfcfc;
+  letter-spacing: 0;
+  line-height: 20px;
+  font-weight: 600;
+}
+
+.close_btn {
+  color: #fff;
+  width: 36px;
+  height: 36px;
+  font-size: 16px;
+  line-height: 36px;
+  text-align: center;
+  cursor: pointer;
+  background: #272b30;
+  border-radius: 8px;
+}
+
+.desc {
+  font-size: 15px;
+  color: #6f767e;
+  line-height: 24px;
+  font-weight: 500;
+  margin: 24px 0;
+}
+
+.body {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.body_content {
+  flex: 1;
+  display: flex;
+  height: 100%;
+  flex-direction: row;
+  overflow: hidden;
+}

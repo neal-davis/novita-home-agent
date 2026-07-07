@@ -1,0 +1,12 @@
+{
+  "accountBalance": "Saldo da conta",
+  "availableCredit": "Crédito disponível",
+  "creditLimit": "Limite de crédito",
+  "outstandingInvoices": "Faturas em aberto",
+  "pendingCharges": "Cobranças pendentes",
+  "prepaidFundsInYourAccountThat": "Fundos pré-pagos em sua conta que diminuem conforme você faz compras baseadas no uso.",
+  "theMaximumPostpaidAmountApprovedBased": "O valor máximo pós-pago aprovado com base no perfil de crédito da sua conta, permitindo que você consuma primeiro e pague depois.",
+  "totalAmountOwedUnderYourCredit": "Valor total devido dentro do seu limite de crédito, que deve ser pago dentro do período de pagamento.",
+  "usageChargesThatHaveBeenIncurred": "Cobranças de uso que foram incorridas, mas ainda não estão vencidas para dedução. Esses valores serão cobrados automaticamente do seu saldo ou limite de crédito assim que o ciclo de faturamento atingir o momento do pagamento.",
+  "yourAvailableCreditIsTheRemaining": "Seu crédito disponível é o valor restante que você pode usar após as cobranças pendentes, antes de atingir seu limite de crédito."
+}

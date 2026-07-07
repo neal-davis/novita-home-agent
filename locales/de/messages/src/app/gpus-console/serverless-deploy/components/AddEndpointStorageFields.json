@@ -1,0 +1,19 @@
+{
+  "addEnvironmentVariable": "+ Umgebungsvariable hinzufügen",
+  "containerDisk": "Container-Datenträger",
+  "createNetworkVolume": "Netzwerk-Volume erstellen",
+  "enterHealthCheckPath": "Health-Check-Pfad eingeben",
+  "enterNetworkVolumeMountPath": "Mount-Pfad des Netzwerk-Volumes eingeben",
+  "enterVolumeMountPath": "Volume-Mount-Pfad eingeben",
+  "environmentVariables": "Umgebungsvariablen",
+  "healthCheckPath": "Health-Check-Pfad",
+  "networkVolume": "Netzwerk-Volume",
+  "networkVolumeMountPath": "Mount-Pfad des Netzwerk-Volumes",
+  "otherConfiguration": "Weitere Konfiguration",
+  "region": "Region",
+  "selectNetworkVolume": "Netzwerk-Volume auswählen",
+  "selectRegion": "Region auswählen",
+  "storageConfiguration": "Speicherkonfiguration",
+  "volumeDisk": "Volume-Datenträger",
+  "volumeMountPath": "Volume-Mount-Pfad"
+}

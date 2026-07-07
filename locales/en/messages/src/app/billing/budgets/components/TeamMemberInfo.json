@@ -1,0 +1,13 @@
+{
+  "alias": "Alias",
+  "goToTeamSetting": "Go to Team Setting",
+  "loading": "Loading...",
+  "membersWithBudget": "Members with Budget",
+  "role": "Role",
+  "team": "Team",
+  "teamId": "Team ID",
+  "teamInformation": "Team Information",
+  "teamMemberBudgets": "Team Member Budgets",
+  "totalMembers": "Total Members",
+  "youCanSetIndividualBudgetLimits": "You can set individual budget limits for each team member to control their total spending on the platform."
+}

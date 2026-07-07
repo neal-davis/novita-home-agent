@@ -1,0 +1,15 @@
+{
+  "accountSummary": "Kontoübersicht",
+  "addPaymentMethod": "Zahlungsmethode hinzufügen",
+  "allKeys": "Alle Schlüssel",
+  "apiKeys": "API-Schlüssel",
+  "availableCredit": "Verfügbares Guthaben",
+  "availableVouchers": "Verfügbare Gutscheine",
+  "credit": "Guthaben",
+  "expiration": "Ablaufdatum:",
+  "goToBilling": "Zur Abrechnung",
+  "monthlySpend": "Monatliche Ausgaben",
+  "noPermission": "Keine Berechtigung",
+  "trackYourBalanceSpendingAndApi": "Behalten Sie Ihr Guthaben, Ihre Ausgaben und API-Schlüssel auf einen Blick im Blick.",
+  "view": "Ansehen"
+}

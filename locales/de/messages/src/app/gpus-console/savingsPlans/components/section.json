@@ -1,0 +1,16 @@
+{
+  "captionTable": "Beschriftungstabelle",
+  "expireTime": "ABLAUFZEIT",
+  "filterByGpuType": "Nach GPU-Typ filtern",
+  "gpuTypes": "GPU-TYPEN",
+  "instanceId": "INSTANZ-ID",
+  "instanceName": "INSTANZNAME",
+  "region": "REGION",
+  "savingsPlanId": "SPARPLAN-ID",
+  "savingsPlans": "Sparpläne",
+  "search": "Suchen",
+  "toExplore": "Entdecken",
+  "totalCommitment": "GESAMTVERPFLICHTUNG",
+  "utilization": "AUSLASTUNG",
+  "whatAreSavingsPlans": "Was sind Sparpläne?"
+}

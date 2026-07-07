@@ -1,0 +1,7 @@
+{
+  "_comment": "Synthetic GET /api/v1/image/prewarm/quota (reqGpuImagePrewarmQuota) response for hermetic /gpus-console/image. Shaped to what section.tsx reads: { total, limit, perImageSize }. Drives the quota line + ProgressCircle in the toolbar (total/limit, perImageSize GB). Synthetic counts only.",
+  "code": 0,
+  "total": 3,
+  "limit": 10,
+  "perImageSize": 50
+}

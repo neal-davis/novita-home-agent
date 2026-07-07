@@ -1,0 +1,10 @@
+{
+  "dedicatedPhysicalGpuClustersForLarge": "Clusters GPU physiques dédiés pour l’inférence à grande échelle, les entraînements et les déploiements d’entreprise qui ne peuvent faire aucun compromis sur le débit. Quand vous avez besoin du matériel pour vous seul, c’est la solution.",
+  "deployModelsRunInferenceTrainFrom": "Déployez des modèles, exécutez l’inférence, entraînez à partir de zéro, sur des instances GPU dédiées que vous contrôlez entièrement. Des performances prévisibles. Aucune ressource partagée. Aucune surprise.",
+  "fullControlGpuMachinesYoursIn": "Machines GPU sous contrôle total. À vous en quelques secondes.",
+  "getStarted": "Commencer",
+  "gpuCloud": "CLOUD GPU",
+  "maximumPerformanceZeroAbstractionOverhead": "Performances maximales. Zéro surcoût d’abstraction.",
+  "noInstancesToProvisionNoIdle": "Aucune instance à provisionner. Aucun calcul inactif à payer. Novita alloue automatiquement les ressources GPU, monte en charge sous forte demande et réduit à zéro lorsque vous avez terminé. Vous payez pour l’exécution, rien d’autre.",
+  "submitAJobWeHandleThe": "Soumettez une tâche. Nous nous occupons du reste."
+}

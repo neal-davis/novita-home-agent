@@ -1,0 +1,20 @@
+{
+  "builtWithNovitaAi": "Novita AI で構築",
+  "concurrentInstances": "同時実行インスタンス",
+  "contactSales": "営業に問い合わせる",
+  "contactSupport": "サポートに問い合わせる",
+  "createYourFirstAgentSandboxNow": "今すぐ最初のエージェントサンドボックスを作成しましょう。",
+  "defineOnceReuseEverywhere": "一度定義すれば、どこでも再利用できます。",
+  "deploymentRegion": "デプロイメントリージョン",
+  "eachSandboxHasACompletelyIsolated": "各サンドボックスには、完全に分離されたファイルシステムがあります。",
+  "enterprise": "エンタープライズ",
+  "exploreAgentSandboxAndStartBuilding": "エージェントサンドボックスを詳しく確認し、ステップバイステップのガイドに沿って構築を始めましょう。",
+  "fileSystem": "ファイルシステム",
+  "forAdvancedWorkloadsRequiringLargeMemory": "大容量メモリ、より高い vCPU、またはカスタムデプロイメントロケーションを必要とする高度なワークロード向け。",
+  "learnMore": "詳細を見る",
+  "maxVcpusPerSandbox": "サンドボックスあたりの最大 vCPU 数",
+  "quickStart": "クイックスタート",
+  "readyToExploreAgentSandbox": "エージェントサンドボックスを試す準備はできましたか？",
+  "template": "テンプレート",
+  "uptimeSla": "稼働時間 SLA"
+}

@@ -1,0 +1,17 @@
+{
+  "cancel": "取消",
+  "chooseMotionVideo": "选择动作视频：",
+  "forOptimalResultsEnsureTheImage": "为获得最佳效果，请确保图像包含：",
+  "generate": "生成",
+  "heigh": "高度",
+  "message1ACleanBackground": "1. 干净的背景",
+  "message2TheUpperHalfOfA": "2. 人物上半身",
+  "orChooseFromPresetImages": "或从预设图像中选择：",
+  "queueing": "排队中...",
+  "seed": "种子",
+  "steps": "步数",
+  "thisTaskMayTakeSomeTime": "此任务可能需要一些时间（几分钟），请耐心等待。",
+  "uploadBaseImage": "上传基础图像",
+  "uploadMotionVideo": "上传动作视频",
+  "width": "宽度"
+}

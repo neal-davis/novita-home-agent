@@ -1,0 +1,33 @@
+@property --border-angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+
+@keyframes border-flow {
+  0% {
+    --border-angle: 0deg;
+  }
+  10% {
+    --border-angle: 20deg;
+  }
+  25% {
+    --border-angle: 80deg;
+  }
+  50% {
+    --border-angle: 180deg;
+  }
+  75% {
+    --border-angle: 280deg;
+  }
+  90% {
+    --border-angle: 340deg;
+  }
+  100% {
+    --border-angle: 360deg;
+  }
+}
+
+.borderBeam {
+  animation: border-flow 5s ease-in-out infinite;
+}

@@ -1,0 +1,19 @@
+{
+  "balanceIsNotEnough": "余额不足。",
+  "cudaVersionIsIncompatible": "CUDA 版本不兼容",
+  "deploy": "部署",
+  "entrypointLengthCannotExceed2047Characters": "入口点长度不能超过 2047 个字符",
+  "environmentVariablesKeyCanNotBe": "环境变量键不能为空。",
+  "httpportFieldMustHaveLessThan": "HttpPort 字段的项数必须小于或等于 10。",
+  "insufficientResources": "资源不足",
+  "loginFailurePleaseLogInAgain": "登录失败，请重新登录",
+  "noAvailableSpotInstancesInThis": "此区域没有可用的 Spot 实例。请尝试使用按需实例。",
+  "pleaseEnterValidImage": "请输入有效的镜像",
+  "pleaseEnterValidNetworkMountPath": "请输入有效的网络挂载路径。",
+  "pleaseEnterValidVolumeMountPath": "请输入有效的卷挂载路径。",
+  "pleaseInputValidVolumeDiskSize": "请输入有效的卷磁盘大小",
+  "pleaseLogInFirst": "请先登录",
+  "pleaseSelectAProductWithStock": "请选择有库存的产品。",
+  "success": "成功",
+  "theVolumeMountPathAndNetwork": "卷挂载路径和网络挂载路径不能相同。"
+}

@@ -1,0 +1,74 @@
+.customScrollbar {
+  overflow-x: hidden;
+  overflow-y: auto;
+
+  &::-webkit-scrollbar {
+    width: 0px;
+  }
+}
+
+.sheetContentHidden {
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+.messageDetailContainer {
+  @include font-subtle;
+  overflow-x: hidden;
+
+  :global {
+    .table-wrapper {
+      overflow-x: auto;
+      margin: 1rem 0;
+    }
+    h1 {
+      @include font-h4;
+      margin-bottom: 1rem;
+    }
+    h2 {
+      @include font-h5;
+      margin-bottom: 1rem;
+    }
+    h3 {
+      @include font-h6;
+      margin-bottom: 1rem;
+    }
+    h4 {
+      @include font-body-medium;
+      margin-bottom: 1rem;
+    }
+    h5 {
+      @include font-body;
+      margin-bottom: 1rem;
+    }
+    p {
+      margin-bottom: 1rem;
+    }
+    hr {
+      margin: 1rem 0;
+    }
+    a {
+      color: var(--brand-1);
+      cursor: pointer;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th,
+    td {
+      border: 1px solid var(--dark-2);
+      padding: 8px 12px;
+      text-align: left;
+      word-break: break-word;
+    }
+
+    th {
+      background-color: var(--dark-3);
+      font-weight: 500;
+    }
+  }
+}

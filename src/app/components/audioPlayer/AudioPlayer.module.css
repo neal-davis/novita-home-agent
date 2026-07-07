@@ -1,0 +1,18 @@
+.audioBox {
+  padding: 12px;
+  height: 235px;
+  border: 1px solid #48415e;
+  border-radius: 8px;
+}
+
+.audioBox ::part(scroll) {
+  padding: 10px 0 14px;
+}
+
+.audioBox .wave {
+  height: 124px;
+}
+
+.audioBox .audio {
+  width: 100%;
+}

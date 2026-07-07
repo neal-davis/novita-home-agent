@@ -1,0 +1,28 @@
+{
+  "template": {
+    "Id": "tmpl-aaaa1111",
+    "name": "E2E Stable Diffusion",
+    "image": "docker.io/e2e/sd:latest",
+    "logo": "",
+    "type": "image",
+    "channel": "official",
+    "enableApplicationInstance": true,
+    "enableApplicationServerless": false,
+    "isCollected": false,
+    "updatedAt": "1700000000",
+    "readme": "# E2E Stable Diffusion\n\nThis is a sanitized e2e readme block.\n\n```bash\necho hello\n```\n",
+    "startCommand": "python app.py",
+    "entrypoint": "/bin/sh",
+    "rootfsSize": 60,
+    "minCudaVersion": "12.1",
+    "envs": [
+      { "key": "MODEL_NAME", "value": "sd-xl" },
+      { "key": "PORT", "value": "8080" }
+    ],
+    "ports": [
+      { "type": "http", "ports": [8080] },
+      { "type": "tcp", "ports": [22] }
+    ],
+    "volumes": [{ "type": "local", "size": 20, "mountPath": "/workspace" }]
+  }
+}

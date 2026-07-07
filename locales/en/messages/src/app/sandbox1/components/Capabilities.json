@@ -1,0 +1,17 @@
+{
+  "allowAgentsToAccessExternalApis": "Allow agents to access external APIs and online data as needed.",
+  "automateWebNavigationFormFillingAnd": "Automate web navigation, form filling, and data extraction inside the sandbox.",
+  "browserUse": "Browser Use",
+  "codeExecution": "Code Execution",
+  "computerUse": "Computer Use",
+  "controlFullDesktopEnvironmentsForTyping": "Control full desktop environments for typing, clicking, scrolling, screenshots, and other GUI actions.",
+  "coreRuntimeCapabilities": "Core runtime capabilities",
+  "everythingAgentsNeedToExecuteCode": "Everything agents need to execute code, interact with systems, and stay in control across real-world workflows.",
+  "externalApis": "External APIs",
+  "liveSessionView": "Live Session View",
+  "pauseAndResumeLongRunningAgent": "Pause and resume long-running agent tasks without losing state.",
+  "persistentSessions": "Persistent Sessions",
+  "runPythonJavascriptCAndOther": "Run Python, JavaScript, C++, and other languages in a secure sandbox.",
+  "sandboxCapabilities": "Sandbox Capabilities",
+  "viewAndStreamSandboxSessionsWith": "View and stream sandbox sessions with VNC for interactive monitoring and debugging."
+}

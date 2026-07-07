@@ -1,0 +1,20 @@
+{
+  "autoRenew": "自动续费",
+  "cancel": "取消",
+  "confirm": "确认",
+  "confirmCurrentOperation": "确认当前操作？",
+  "currentExpirationTime": "当前到期时间",
+  "details": "详情",
+  "expirationTimeAfterRenewal": "续费后到期时间",
+  "gpuFee": "GPU 费用",
+  "instanceId": "实例 ID",
+  "off": "% 优惠",
+  "processing": "处理中",
+  "renewSubscriptionInstance": "续费订阅实例",
+  "renewalDuration": "续费时长",
+  "settlementAmount": "结算金额",
+  "storageFee": "存储费用",
+  "switchToSubscription": "切换为订阅",
+  "unitPrice": "单价",
+  "weWillAttemptCharge3Days": "我们将在到期前 3 天尝试扣费"
+}

@@ -1,0 +1,44 @@
+.content {
+  padding: 16px 24px 30px;
+  border-top: 1px solid var(--gray-2);
+
+  .quota_info {
+    padding-top: 12px;
+    padding-bottom: 24px;
+    padding-right: 24px;
+    border-bottom: 1px solid var(--dark-1);
+
+    .title {
+      @include font-subtle;
+      color: var(--dark-2);
+    }
+
+    .value {
+      margin-top: 4px;
+      @include font-subtle-medium;
+      color: var(--black);
+    }
+
+    .divider {
+      width: 1px;
+      height: 20px;
+      background-color: var(--gray-1);
+    }
+  }
+
+  .form_title {
+    margin-bottom: 8px;
+    @include font-small-console;
+    color: var(--dark-1);
+
+    .required {
+      margin-right: 1px;
+      color: var(--red-1);
+    }
+  }
+
+  .form_message {
+    @include font-small-console;
+    color: var(--red-2);
+  }
+}

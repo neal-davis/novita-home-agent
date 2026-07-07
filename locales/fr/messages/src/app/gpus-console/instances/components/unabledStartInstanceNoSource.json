@@ -1,0 +1,22 @@
+{
+  "afterMigrationInstanceDetailsEG": "Après la migration, les détails de l’instance (p. ex., ID, IP sortante) restent inchangés. L’image sera stockée en toute sécurité dans",
+  "afterMigrationYourInstanceInformationWill": "Après la migration, les informations de votre instance resteront inchangées (comme l’ID de l’instance et l’IP de sortie).",
+  "backUpYourData": "sauvegarder vos données",
+  "cancel": "Annuler",
+  "howeverLocalDataOnTheNode": "Cependant, les données locales sur le nœud ne seront pas conservées.",
+  "iUnderstandThatCurrentDataWill": "Je comprends que les données actuelles ne seront pas conservées après la migration, et j’ai effectué une sauvegarde.",
+  "ifSelectedTheContainerDiskWill": "Si cette option est sélectionnée, le disque du conteneur sera converti en image et migré avec l’instance. La nouvelle image inclut les données du disque du conteneur et est prête à l’emploi.",
+  "inAdvanceToPreventLossInstance": "à l’avance afin d’éviter toute perte. La tâche de migration de l’instance ne peut pas être interrompue.",
+  "migrateData": "Migrer les données",
+  "migrateNow": "Migrer maintenant",
+  "noResourcesAvailablePleaseTryAgain": "Aucune ressource disponible, veuillez réessayer plus tard ou contacter le service client !",
+  "please": "Veuillez",
+  "pleaseConfirmThatYouHaveBacked": "Veuillez confirmer que vous avez sauvegardé vos données.",
+  "success": "succès",
+  "theMigrationTaskCannotBeCanceled": "La tâche de migration ne peut pas être annulée une fois démarrée.",
+  "theNovitaOfficialRepo": "le dépôt officiel Novita.",
+  "thisNodeCurrentlyHasNoAvailable": "Ce nœud ne dispose actuellement d’aucune ressource disponible. Souhaitez-vous migrer vers une ressource aux mêmes spécifications ?",
+  "toEnsureDataSafety": "Pour garantir la sécurité des données,",
+  "unableToStart": "Impossible de démarrer",
+  "weRecommendBackingUpYourData": "nous vous recommandons de sauvegarder vos données à l’avance."
+}

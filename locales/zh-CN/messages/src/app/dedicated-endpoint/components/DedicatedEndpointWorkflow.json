@@ -1,0 +1,17 @@
+{
+  "apiExampleComV1ChatCompletions": "api.example.com/v1/chat/completions",
+  "chooseYourGpu": "选择你的 GPU",
+  "deploy": "部署",
+  "deployIn3Steps": "3 步完成部署",
+  "endpoint": "端点",
+  "everythingYouNeedToDeployScale": "在生产环境中部署、扩展和管理 AI 推理所需的一切。",
+  "live": "已上线",
+  "pickYourModel": "选择你的模型",
+  "post": "POST",
+  "replicas": "副本数",
+  "search50kModelsFromHuggingFace": "从 Hugging Face 搜索 50K+ 模型，或粘贴你的私有仓库 URL。",
+  "searchModelsEGQwen25": "搜索模型... 例如 Qwen2.5-7B",
+  "seeTheRecommendedGpuForYour": "查看适合你模型的推荐 GPU。选择符合你预算的 GPU。",
+  "workflow": "工作流",
+  "yourEndpointIsLiveInMinutes": "你的端点将在几分钟内上线。OpenAI 兼容 URL 可立即使用。"
+}

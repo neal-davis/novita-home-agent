@@ -1,0 +1,16 @@
+{
+  "agents": "エージェント",
+  "andFollowTheInstructions": "そして指示に従ってください。",
+  "clickToCopyInstructionsForYou": "クリックしてエージェント向けの指示をコピー:",
+  "copiedAgentInstructions": "エージェントの指示をコピーしました",
+  "copyAgentInstructions": "エージェントの指示をコピー",
+  "forAgent": "エージェント向け",
+  "forAgents": "エージェント向け：",
+  "forBuildersAnd": "ビルダーと",
+  "letYourAgentDiscoverAuthenticateAnd": "エージェントが Novita AI 製品を自ら発見、認証、利用できるようにします。",
+  "read": "読む",
+  "runModelsScaleGpusAndBuild": "モデルを実行し、GPU をスケールし、AI エージェントを構築できます。すべてを 1 つのプラットフォームで。",
+  "startBuilding": "構築を始める",
+  "talkToUs": "お問い合わせ",
+  "theAiNativeCloud": "AI ネイティブクラウド"
+}

@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  padding: 12px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  align-self: stretch;
+  border-radius: 32px;
+  background: var(--brand-3);
+}
+.item_container {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  // @media screen and (max-width: 1160px) and (min-width: 700px) {
+  //   grid-template-columns: repeat(2, 1fr);
+  // }
+  // @media screen and (max-width: 750px) {
+  //   grid-template-columns: 1fr;
+  // }
+  @media screen and (max-width: 1160px) {
+    grid-template-columns: 1fr;
+  }
+}

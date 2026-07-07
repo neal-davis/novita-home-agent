@@ -1,0 +1,20 @@
+{
+  "autoRenewal": "自动续订",
+  "autoRenewalYourCodingPlanPackage": "自动续订，您的 Coding 计划套餐将于",
+  "cancel": "取消",
+  "cancelSubscription": "取消订阅",
+  "changePlan": "更改计划",
+  "confirm": "确认",
+  "cycleUsage": "周期用量",
+  "day": "天",
+  "ifYouConfirmCancelYour": "如果您确认取消您的",
+  "no": "否",
+  "notice": "通知",
+  "of": "共",
+  "processing": "处理中...",
+  "restartAutoRenewal": "重新开启自动续订",
+  "tokens": "tokens",
+  "until": "直到",
+  "used": "% 已用",
+  "warning": "警告"
+}

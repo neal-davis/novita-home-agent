@@ -1,0 +1,11 @@
+.homepage {
+  margin-top: var(--header-height);
+
+  .left_view {
+    width: 641px;
+  }
+
+  .right_view {
+    width: calc(100% - 641px);
+  }
+}

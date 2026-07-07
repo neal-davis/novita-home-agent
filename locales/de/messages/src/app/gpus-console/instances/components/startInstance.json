@@ -1,0 +1,9 @@
+{
+  "cancel": "Abbrechen",
+  "start": "Starten",
+  "startInstance": "Instanz starten",
+  "startYourInstance": "Starten Sie Ihre Instanz.",
+  "startYourInstanceIfYouHave": "Starten Sie Ihre Instanz. Wenn Sie ein Volume konfiguriert haben, wird es abgerufen und eingebunden.",
+  "success": "Erfolg",
+  "theCurrentMachinePriceFor": "Der aktuelle Maschinenpreis für"
+}

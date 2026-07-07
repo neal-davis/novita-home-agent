@@ -1,0 +1,10 @@
+{
+  "didntGetAnEmail": "メールが届きませんでしたか？",
+  "emailSentSuccessfully": "メールを正常に送信しました。",
+  "emailVerificationFailed": "メール認証に失敗しました",
+  "emailVerifiedSuccessfully": "メール認証が正常に完了しました",
+  "invalidEmailAddress": "無効なメールアドレスです。",
+  "resendItHere": "こちらから再送信",
+  "youWillReceiveAnEmailWith-1a60b7": "数分以内に、アカウントを有効化する方法の手順が記載されたメールが届きます。",
+  "youWillReceiveAnEmailWith-858018": "数分以内に、パスワードをリセットする方法の手順が記載されたメールが届きます。"
+}

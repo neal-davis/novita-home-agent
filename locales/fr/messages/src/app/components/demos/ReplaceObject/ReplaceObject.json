@@ -1,0 +1,15 @@
+{
+  "cancel": "Annuler",
+  "descriptionOfTheNewObjectYou": "Description du nouvel objet que vous souhaitez placer dans l’image",
+  "descriptionOfTheObjectInThe": "Description de l’objet dans l’image que vous souhaitez remplacer",
+  "download": "Télécharger",
+  "generate": "Générer",
+  "hideChanges": "Masquer les modifications",
+  "negativePrompt": "Prompt négatif",
+  "objectPrompt": "Prompt de l’objet",
+  "pleaseEnterTheDescriptionOfThe-3a6d5f": "Veuillez saisir la description du nouvel objet que vous souhaitez générer",
+  "pleaseEnterTheDescriptionOfThe-550816": "Veuillez saisir la description de l’objet que vous souhaitez remplacer",
+  "replacePrompt": "Prompt de remplacement",
+  "showChanges": "Afficher les modifications",
+  "whatYouWantToAvoidGenerating": "Ce que vous souhaitez éviter de générer..."
+}

@@ -1,0 +1,10 @@
+{
+  "dateAlignmentTest": "日付配置テスト",
+  "legacyLlmListActionTestModel": "レガシー LLM リストアクションテストモデル",
+  "legacyLlmListModel": "レガシー LLM リストモデル",
+  "longSummaryLayoutTest": "長い概要のレイアウトテスト",
+  "multimodalActionTestModel": "マルチモーダルアクションテストモデル",
+  "multimodalLabelTestModel": "マルチモーダルラベルテストモデル",
+  "multimodalListTestModel": "マルチモーダルリストテストモデル",
+  "tieredListModel": "階層型リストモデル"
+}

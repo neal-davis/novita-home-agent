@@ -1,0 +1,85 @@
+.contentContainer .input {
+  padding: 28px;
+}
+
+.contentContainer .guideSection {
+  margin-top: 16px;
+}
+
+.contentContainer .guideSection h2 {
+  font-size: 18px;
+  line-height: 32px;
+  font-weight: bold;
+}
+
+.contentContainer .guideSection p {
+  padding: 5px 15px;
+}
+
+.contentContainer .output {
+  padding: 28px;
+  border-top: 1px solid var(--border);
+}
+
+.contentContainer .contentTitle {
+  margin-bottom: 12px;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: bold;
+  color: var(--black);
+}
+
+.contentContainer .output .content {
+  font-size: 16px;
+  color: var(--dark-3);
+}
+
+.contentContainer .output .textArea {
+  margin: 12px 0 24px 0;
+  padding: 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.contentContainer .output .languageInfo {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.contentContainer .output .languageInfo > div {
+  margin-bottom: 12px;
+}
+
+.contentContainer .output .languageInfo > div:nth-child(1) {
+  margin-right: 48px;
+  min-width: 272px;
+  flex: 3;
+}
+
+.contentContainer .output .languageInfo > div:nth-child(2) {
+  flex: 4;
+  min-width: 200px;
+}
+
+.contentContainer .output .languageInfo span {
+  display: inline-block;
+  width: 100px;
+  margin-left: 24px;
+  padding: 5px;
+  border: 1px solid var(--border);
+  border-radius: 2px;
+}
+
+.contentContainer .output .preview {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.contentContainer .output .preview > div {
+  margin: 0 12px 5px 0;
+  flex: 1;
+}

@@ -1,0 +1,19 @@
+.billing_history {
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  border: 1px solid var(--gray-2);
+  border-radius: 6px;
+  background-color: var(--white);
+  height: 100%;
+  box-sizing: border-box;
+  gap: 20px;
+  overflow: auto;
+
+  .title {
+    @include font-h5;
+    color: var(--black);
+    flex-shrink: 0;
+    flex-direction: 0;
+  }
+}

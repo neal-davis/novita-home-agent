@@ -1,0 +1,10 @@
+{
+  "dateAlignmentTest": "日期对齐测试",
+  "legacyLlmListActionTestModel": "旧版 LLM 列表操作测试模型",
+  "legacyLlmListModel": "旧版 LLM 列表模型",
+  "longSummaryLayoutTest": "长摘要布局测试",
+  "multimodalActionTestModel": "多模态操作测试模型",
+  "multimodalLabelTestModel": "多模态标签测试模型",
+  "multimodalListTestModel": "多模态列表测试模型",
+  "tieredListModel": "分层列表模型"
+}

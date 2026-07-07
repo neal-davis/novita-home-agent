@@ -1,0 +1,26 @@
+.card_container {
+  width: 512px;
+  height: 259px;
+  padding: 18px 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: var(--black);
+  border-radius: 8px;
+  .top {
+    .top_title {
+      max-width: 300px;
+      margin-bottom: 24px;
+      @include font-h2;
+      color: var(--gray-3);
+    }
+    .middle {
+      color: var(--white);
+      @include font-body-medium;
+    }
+  }
+  .bottom {
+    color: var(--gray-3);
+    @include font-small-console;
+  }
+}

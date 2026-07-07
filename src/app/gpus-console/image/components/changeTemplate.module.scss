@@ -1,0 +1,26 @@
+
+.cardFlexContainer {
+  background-color: var(--white);
+  margin: calc(var(--spacing-console-16) / 2);
+  border: 1px solid var(--gray-2);
+  border-radius: var(--radius-form);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-width: 274px;
+}
+.cardFlexContainer:hover {
+  border: 1px solid var(--dark-1);
+}
+.cardFlexTag {
+  background-color: var(--gray-3);
+  border-radius: 6px 0 6px 0;
+  padding: 0px 8px;
+  font-size: 14px;
+  color: var(--black);
+  @include font-small-console;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20px;
+}

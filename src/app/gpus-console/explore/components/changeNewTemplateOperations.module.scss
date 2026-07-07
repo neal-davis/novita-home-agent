@@ -1,0 +1,16 @@
+.oper_btn {
+  cursor: pointer;
+  color: var(--dark-3);
+
+  &:hover {
+    color: var(--dark-2);
+  }
+}
+
+.success {
+  color: var(--green-2) !important;
+
+  &:hover {
+    color: var(--green-2) !important;
+  }
+}

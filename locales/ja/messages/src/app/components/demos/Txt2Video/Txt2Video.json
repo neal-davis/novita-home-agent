@@ -1,0 +1,17 @@
+{
+  "cancel": "キャンセル",
+  "estimatedCost": "推定コスト:",
+  "generate": "生成",
+  "guidanceScale": "ガイダンススケール",
+  "heigh": "高さ",
+  "model": "モデル",
+  "negativePrompt": "ネガティブプロンプト",
+  "prompt": "プロンプト",
+  "queueing": "キューに追加中...",
+  "seed": "シード",
+  "showcase": "ショーケース",
+  "steps": "ステップ数",
+  "thisTaskMayTakeSomeTime": "このタスクには時間がかかる場合があります（数分程度）。しばらくお待ちください。",
+  "whatYouWantToAvoidGenerating": "生成を避けたい内容...",
+  "width": "幅"
+}

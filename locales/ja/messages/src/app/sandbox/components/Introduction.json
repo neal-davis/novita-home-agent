@@ -1,0 +1,14 @@
+{
+  "agentsandbox": "AGENTSANDBOX",
+  "concurrency": "同時実行",
+  "eachTaskRunsInAFully": "各タスクは、データ漏洩や不正アクセスを防ぐため、システムレベルで分離された完全に隔離された環境で実行されます。",
+  "highConcurrency": "高い同時実行性",
+  "inParallelAllInRealTime": "並列に — すべてリアルタイムで。",
+  "launchFastStayIsolatedHandleThousands": "高速に起動。分離を維持。数千のタスクを処理",
+  "millisecondLevelStartup": "ミリ秒レベルの起動",
+  "runThousandsOfSandboxInstancesIn": "数千のサンドボックスインスタンスを一貫して低いレイテンシで並列実行できます — リアルタイムかつ高スループットのワークロードに最適です。",
+  "sandboxInstancesLaunchInUnder200": "サンドボックスインスタンスは平均 200 ms 未満で起動します — 高頻度かつ同時実行のワークロード向けに最適化されています。",
+  "secureIsolation": "セキュアな分離",
+  "speedSecurityAnd": "スピード、セキュリティ、そして",
+  "tryNow": "今すぐ試す"
+}

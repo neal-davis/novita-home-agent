@@ -1,0 +1,17 @@
+{
+  "all": "All",
+  "automaticallyAdjustedToTheNearestValid-261322": "Automatically adjusted to the nearest valid value (CPU must be an integer, minimum is 1)",
+  "automaticallyAdjustedToTheNearestValid-df2cec": "Automatically adjusted to the nearest valid value (only multiples of 512 MiB are supported, minimum is 512 MiB)",
+  "clickToCopy": "Click to copy",
+  "core": "Core",
+  "cores": "Cores",
+  "cpuCores": "CPU Cores",
+  "findATemplate": "Find a Template",
+  "memory": "Memory",
+  "mib": "MiB",
+  "private": "Private",
+  "public": "Public",
+  "template": "Template",
+  "thisTemplateIsProvidedByNovita": "This template is provided by Novita AI and is available to all users by default.",
+  "visibility": "Visibility"
+}

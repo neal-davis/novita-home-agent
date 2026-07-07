@@ -1,0 +1,14 @@
+{
+  "application": "Application",
+  "deployServerless": "Déployer sans serveur",
+  "explore": "Explorer",
+  "gpus": "GPUS",
+  "image": "Image",
+  "instances": "Instances",
+  "jobs": "Tâches",
+  "serverless": "Sans serveur",
+  "settings": "Paramètres",
+  "storage": "Stockage",
+  "templates": "Modèles",
+  "templateslibrary": "Bibliothèque de modèles"
+}

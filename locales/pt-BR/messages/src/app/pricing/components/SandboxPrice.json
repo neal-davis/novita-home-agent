@@ -1,0 +1,12 @@
+{
+  "cpu": "CPU",
+  "free": "Grátis",
+  "integrationGuide": "Guia de integração",
+  "memory": "Memória",
+  "message512Mib": "512 MiB",
+  "storage": "Armazenamento",
+  "unitPrice": "Preço unitário",
+  "validValuesMultiplesOf512Mib": "Valores válidos: múltiplos de 512 MiB, de 512 MiB a 8192 MiB",
+  "vcpus": "vCPUs",
+  "xCpu": "X CPU"
+}

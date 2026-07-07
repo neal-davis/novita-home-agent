@@ -1,0 +1,11 @@
+{
+  "members": "Membres",
+  "myBudget": "Mon budget",
+  "refresh": "Actualiser",
+  "searchMember": "Rechercher un membre",
+  "teamAccountRequired": "Compte d’équipe requis",
+  "teamInfo": "Informations sur l’équipe",
+  "teamMemberBudgets": "Budgets des membres de l’équipe",
+  "thisFeatureIsOnlyAvailableFor": "Cette fonctionnalité est uniquement disponible pour les comptes d’équipe. Veuillez rejoindre ou créer une équipe pour l’utiliser.",
+  "upgradeToTeamAccount": "Passer à un compte d’équipe"
+}

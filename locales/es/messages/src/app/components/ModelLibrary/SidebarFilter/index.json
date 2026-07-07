@@ -1,0 +1,13 @@
+{
+  "allModels": "Todos los modelos",
+  "audio": "Audio",
+  "embedding": "Incrustación",
+  "featured": "Destacados",
+  "image": "Imagen",
+  "provider": "PROVEEDOR",
+  "reranker": "Reclasificador",
+  "serverless": "Sin servidor",
+  "task": "TAREA",
+  "video": "Video",
+  "vision": "Visión"
+}

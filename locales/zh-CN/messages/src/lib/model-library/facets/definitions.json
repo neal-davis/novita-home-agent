@@ -1,0 +1,15 @@
+{
+  "audio": "音频",
+  "embedding": "嵌入",
+  "features": "功能",
+  "image": "图像",
+  "jsonSchema": "JSON schema",
+  "longContext": "长上下文",
+  "modality": "模态",
+  "provider": "提供商",
+  "reasoning": "推理",
+  "reranker": "重排序器",
+  "toolCalling": "工具调用",
+  "video": "视频",
+  "vision": "视觉"
+}

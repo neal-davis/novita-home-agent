@@ -1,0 +1,8 @@
+{
+  "delete": "Delete",
+  "huggingface": "HuggingFace",
+  "novita": "Novita",
+  "redeploy": "Redeploy",
+  "terminate": "Terminate",
+  "wakeUp": "Wake Up"
+}

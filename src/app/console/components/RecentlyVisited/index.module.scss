@@ -1,0 +1,12 @@
+.card {
+  .title {
+    margin-bottom: 16px;
+    @include font-h6;
+    color: var(--black);
+  }
+
+  & > a:last-child {
+    // padding-bottom: 0;
+    border-bottom: none;
+  }
+}

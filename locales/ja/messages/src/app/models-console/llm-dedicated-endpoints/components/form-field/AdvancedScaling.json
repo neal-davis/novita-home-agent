@@ -1,0 +1,9 @@
+{
+  "advancedScalingOptions": "高度なスケーリングオプション",
+  "optional": "（任意）",
+  "scaleDownWindow": "スケールダウン期間",
+  "seconds": "秒",
+  "stableWindow": "安定期間",
+  "timeInSecondsBeforeScalingDown": "レプリカをスケールダウンするまでの時間（秒）。",
+  "timeInSecondsBeforeScalingUp": "レプリカをスケールアップするまでの時間（秒）。"
+}

@@ -1,0 +1,5 @@
+{
+  "_comment": "Empty GPU instance list for hermetic /gpus-console/instances. res.instances=[] => Container renders DefaultGuide (the onboarding/empty state) instead of Section. No PII.",
+  "instances": [],
+  "total": 0
+}

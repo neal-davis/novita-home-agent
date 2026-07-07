@@ -1,0 +1,8 @@
+{
+  "deploy": "Desplegar >",
+  "deploySuccessfully": "Desplegado correctamente",
+  "pleaseLogInFirst": "Por favor, inicia sesión primero",
+  "serverlessPrice": "Precio sin servidor:",
+  "storagePrice": "Precio de almacenamiento:",
+  "thePriceOfEachWorkerNot": "El precio es por cada Worker, no por GPU. Cobramos por los Workers en estado de ejecución o inicio, y la facturación es precisa al segundo."
+}

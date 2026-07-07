@@ -1,0 +1,21 @@
+{
+  "addAlert": "添加提醒",
+  "balanceAlertsAreTriggeredBasedOn": "余额提醒会根据您的可用额度触发，可用额度包括您的账户余额和剩余信用额度。",
+  "cancel": "取消",
+  "confirm": "确认",
+  "editAlert": "编辑提醒",
+  "email": "电子邮件",
+  "enableStatus": "启用状态",
+  "enterAmount": "输入金额",
+  "inbox": "收件箱",
+  "notificationMembers": "通知成员",
+  "notificationMethod": "通知方式",
+  "pleaseEnterTheWarningAmount": "请输入预警金额",
+  "pleaseSelectAtLeastOneNotification": "请至少选择一种通知方式",
+  "selectMethods": "选择方式",
+  "theMaximumPostpaidAmountApprovedBased": "根据您账户的信用资料批准的最高后付费额度，允许您先消费后付款。",
+  "theWarningAmountMustBeBetween": "预警金额必须介于 $1 和 $10,000,000 之间，且已启用预警状态的金额之间的间隔必须至少为 $5。",
+  "thresholdMustBeAnInteger": "阈值必须为整数",
+  "thresholdMustBeBetween1And": "阈值必须介于 1 和 10000000 之间",
+  "warningAmount": "预警金额"
+}

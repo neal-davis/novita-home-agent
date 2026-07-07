@@ -1,0 +1,14 @@
+{
+  "application": "アプリケーション",
+  "deployServerless": "サーバーレスをデプロイ",
+  "explore": "探索",
+  "gpus": "GPUS",
+  "image": "イメージ",
+  "instances": "インスタンス",
+  "jobs": "ジョブ",
+  "serverless": "サーバーレス",
+  "settings": "設定",
+  "storage": "ストレージ",
+  "templates": "テンプレート",
+  "templateslibrary": "テンプレートライブラリ"
+}

@@ -1,0 +1,12 @@
+{
+  "baaiBgeRerankerBase": "BAAI/bge-reranker-base",
+  "baaiBgeRerankerV2": "BAAI/bge-reranker-v2",
+  "cacheRead": "キャッシュ読み取り",
+  "cacheWrite": "キャッシュ書き込み",
+  "input": "入力",
+  "output": "出力",
+  "reranker": "リランカー",
+  "textCacheRead": "テキスト · キャッシュ読み取り",
+  "textInput": "テキスト · 入力",
+  "textOutput": "テキスト · 出力"
+}

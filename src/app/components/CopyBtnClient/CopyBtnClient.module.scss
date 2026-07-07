@@ -1,0 +1,12 @@
+.copyBtn {
+  display: flex;
+  width: 54px;
+  height: 20px;
+  padding: 2px 10px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 9999px;
+  border: 1px solid var(--gray-2);
+  cursor: pointer;
+  user-select: none;
+}

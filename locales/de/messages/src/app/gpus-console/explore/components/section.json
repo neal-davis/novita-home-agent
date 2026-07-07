@@ -1,0 +1,19 @@
+{
+  "balanceIsNotEnough": "Das Guthaben reicht nicht aus.",
+  "cudaVersionIsIncompatible": "CUDA-Version ist inkompatibel",
+  "deploy": "Bereitstellen",
+  "entrypointLengthCannotExceed2047Characters": "Die Länge des Entrypoints darf 2047 Zeichen nicht überschreiten",
+  "environmentVariablesKeyCanNotBe": "Der Schlüssel der Umgebungsvariablen darf nicht leer sein.",
+  "httpportFieldMustHaveLessThan": "Das HttpPort-Feld darf höchstens 10 Elemente enthalten.",
+  "insufficientResources": "Unzureichende Ressourcen",
+  "loginFailurePleaseLogInAgain": "Anmeldung fehlgeschlagen, bitte melden Sie sich erneut an",
+  "noAvailableSpotInstancesInThis": "In dieser Region sind keine Spot-Instanzen verfügbar. Versuchen Sie stattdessen On-Demand.",
+  "pleaseEnterValidImage": "Bitte geben Sie ein gültiges Bild ein",
+  "pleaseEnterValidNetworkMountPath": "Bitte geben Sie einen gültigen Netzwerk-Mount-Pfad ein.",
+  "pleaseEnterValidVolumeMountPath": "Bitte geben Sie einen gültigen Volume-Mount-Pfad ein.",
+  "pleaseInputValidVolumeDiskSize": "Bitte geben Sie eine gültige Volume-Datenträgergröße ein",
+  "pleaseLogInFirst": "Bitte melden Sie sich zuerst an",
+  "pleaseSelectAProductWithStock": "Bitte wählen Sie ein Produkt mit Lagerbestand aus.",
+  "success": "Erfolg",
+  "theVolumeMountPathAndNetwork": "Der Volume-Mount-Pfad und der Netzwerk-Mount-Pfad dürfen nicht identisch sein."
+}

@@ -1,0 +1,15 @@
+{
+  "baseModel": "Base Model",
+  "baseModelType": "Base Model Type",
+  "category": "Category",
+  "enterName": "Enter Name",
+  "fileUploadFailedPleaseReUpload": "File upload failed, please re-upload!",
+  "name": "Name",
+  "nsfwNotSafeForWork": "NSFW(Not Safe For Work)",
+  "pleaseAddYourKeyFirst": "Please add your key first",
+  "pleaseSelect": "Please select",
+  "pleaseUploadYourModelFirst": "Please upload your model first",
+  "submit": "Submit",
+  "submitSuccess": "Submit success",
+  "type": "Type"
+}

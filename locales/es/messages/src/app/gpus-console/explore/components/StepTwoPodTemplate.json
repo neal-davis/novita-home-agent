@@ -1,0 +1,13 @@
+{
+  "capacityHasExceededTheLimitPlease": "La capacidad ha superado el límite; ponte en contacto con",
+  "containerDisk": "Disco del contenedor",
+  "createVolume": "+ Crear volumen",
+  "free": "gratis",
+  "gb": "GB",
+  "networkMountPath": "Ruta de montaje de red",
+  "networkVolume": "Volumen de red",
+  "podTemplate": "Plantilla de pod",
+  "support": "soporte",
+  "updateTemplateNow": "Actualizar plantilla ahora",
+  "yourTemplateCurrentlyIncludesVolumeDisk": "Tu plantilla incluye actualmente el montaje de Disco de volumen, que ya no es compatible (se ha ampliado el Disco de contenedor). Actualiza tu plantilla para eliminar las configuraciones de montaje de Disco de volumen y almacenar los datos en el Disco de contenedor."
+}

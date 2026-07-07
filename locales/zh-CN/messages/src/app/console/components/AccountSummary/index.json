@@ -1,0 +1,15 @@
+{
+  "accountSummary": "账户概览",
+  "addPaymentMethod": "添加付款方式",
+  "allKeys": "所有密钥",
+  "apiKeys": "API 密钥",
+  "availableCredit": "可用额度",
+  "availableVouchers": "可用代金券",
+  "credit": "额度",
+  "expiration": "到期时间：",
+  "goToBilling": "前往账单",
+  "monthlySpend": "月度支出",
+  "noPermission": "无权限",
+  "trackYourBalanceSpendingAndApi": "一目了然地查看您的余额、支出和 API 密钥。",
+  "view": "查看"
+}

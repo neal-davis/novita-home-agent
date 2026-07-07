@@ -1,0 +1,35 @@
+{
+  "_comment": "Synthetic /v3/model response (getModel -> ModelTable reads res.models). The prod read-only capture had no upload-model permission so it never returned /v3/model; this is hand-built to the consumed shape (id, name, sd_name_in_api, type.display_name, base_model, base_model_type, status). 3 representative private LoRA models: two status:1 (renders 'running') + one status:0 (renders 'unavailable'). No PII — all synthetic test data.",
+  "models": [
+    {
+      "id": 9001,
+      "name": "e2e_lora_alpha",
+      "sd_name_in_api": "e2e_lora_alpha_api",
+      "type": { "name": "lora", "display_name": "LoRA" },
+      "base_model": "sd_xl_base_1.0",
+      "base_model_type": "SDXL",
+      "status": 1,
+      "visibility": "private"
+    },
+    {
+      "id": 9002,
+      "name": "e2e_lora_beta",
+      "sd_name_in_api": "e2e_lora_beta_api",
+      "type": { "name": "lora", "display_name": "LoRA" },
+      "base_model": "sd_1.5",
+      "base_model_type": "SD1.5",
+      "status": 0,
+      "visibility": "private"
+    },
+    {
+      "id": 9003,
+      "name": "e2e_lora_gamma",
+      "sd_name_in_api": "e2e_lora_gamma_api",
+      "type": { "name": "lora", "display_name": "LoRA" },
+      "base_model": "sd_xl_base_1.0",
+      "base_model_type": "SDXL",
+      "status": 1,
+      "visibility": "private"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "available": "Disponível",
+  "balanceIsNotEnough": "Saldo insuficiente.",
+  "cancel": "Cancelar",
+  "close": "fechar",
+  "contactSupport": "contatar suporte",
+  "createNetworkVolume": "Criar Volume de Rede",
+  "dataCenterGpuAvailability": "Disponibilidade de GPU no Data Center",
+  "deleteNetworkVolume": "Excluir Volume de Rede",
+  "editNetworkVolume": "Editar Volume de Rede",
+  "forLargerVolumes": "para volumes maiores.",
+  "gbMinimum10gb": "GB (mínimo 10GB)",
+  "itIsHighlyAdvisableToContinually": "É altamente recomendável fazer backups contínuos de tudo o que você deseja salvar externamente, localmente ou em um provedor de nuvem.",
+  "loading": "Carregando...",
+  "networkVolumeIsProvidedInThe": "O Volume de Rede é fornecido com o objetivo de executar tarefas usando suas GPUs e",
+  "none": "Nenhum",
+  "notMeantToBeALong": "não se destina a ser uma solução de backup de longo prazo.",
+  "pleaseNoteThatIfYourAccount": "Observe que, se sua conta estiver em atraso e nenhuma instância estiver em execução, seu Volume de Rede será",
+  "released3DaysLater": "liberado 3 dias depois.",
+  "save": "Salvar",
+  "selectDataCenter": "Selecionar Data Center",
+  "volumeName": "Nome do Volume"
+}

@@ -1,0 +1,46 @@
+{
+  "specs": [
+    {
+      "id": "SL-serverless-2",
+      "name": "H100",
+      "gpu_name": "H100 SXM 80GB",
+      "models": "",
+      "price": "1003",
+      "discount": "1003",
+      "price_unit": "1",
+      "gpu_size": "80",
+      "clusterIDs": ["us-ca-7"],
+      "cpuNum": "16",
+      "memory": "128"
+    },
+    {
+      "id": "SL-serverless-3",
+      "name": "RTX 5090 32GB",
+      "gpu_name": "RTX 5090",
+      "models": "",
+      "price": "171",
+      "discount": "171",
+      "price_unit": "1",
+      "gpu_size": "32",
+      "clusterIDs": ["us-dallas-nas-2"],
+      "cpuNum": "16",
+      "memory": "58"
+    },
+    {
+      "id": "SL-serverless-4",
+      "name": "L40S",
+      "gpu_name": "L40S",
+      "models": "",
+      "price": "188",
+      "discount": "188",
+      "price_unit": "1",
+      "gpu_size": "48",
+      "clusterIDs": ["eu-is-1"],
+      "cpuNum": "28",
+      "memory": "125"
+    }
+  ],
+  "pagination": {
+    "total": 3
+  }
+}

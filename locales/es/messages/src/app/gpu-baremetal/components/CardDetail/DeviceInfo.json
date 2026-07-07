@@ -1,0 +1,11 @@
+{
+  "deviceInformation": "Información del dispositivo",
+  "gb": "GB",
+  "gpuName": "Nombre de GPU",
+  "gpusNode": "GPUs/ nodo",
+  "interfaceType": "Tipo de interfaz",
+  "ramNode": "RAM/ nodo",
+  "region": "Región",
+  "storageNode": "Almacenamiento/ nodo",
+  "vcpuNode": "vCPU/ nodo"
+}

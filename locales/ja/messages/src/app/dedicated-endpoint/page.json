@@ -1,0 +1,4 @@
+{
+  "dedicatedAiInferenceEndpointsWithPredictable": "予測可能なレイテンシ、カスタムモデル、Novita AI 上でのマネージドデプロイを備えた専用 AI 推論エンドポイント。",
+  "dedicatedEndpointsNovitaAi": "専用エンドポイント | Novita AI"
+}

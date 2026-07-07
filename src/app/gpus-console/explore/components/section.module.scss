@@ -1,0 +1,131 @@
+.container {
+  padding: 134px 0 100px 0;
+}
+.subContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.section {
+  padding-bottom: 16px;
+}
+.steps {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background: rgba(12,175,96, 0.1); */
+  border-radius: 8px;
+  /* height: 88px; */
+  padding: var(--spacing-console-item) 0;
+  margin-bottom: 16px;
+}
+.step_icon_label {
+  @include font-body;
+  color: var(--black);
+}
+.title {
+  font-size: 28px;
+  color: #11142d;
+  line-height: 28px;
+  font-weight: 900;
+  margin-bottom: 12px;
+}
+.desc {
+  font-size: 16px;
+  color: #514f6e;
+  line-height: 16px;
+  font-weight: 400;
+  margin-bottom: 32px;
+}
+.wrap {
+  display: flex;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  justify-content: space-between;
+  gap: 20px;
+}
+.box {
+  width: 100%;
+}
+.overItem {
+  @include font-body;
+  color: var(--black);
+}
+.furtureItem {
+  @include font-body-medium;
+  color: var(--dark-2);
+}
+.btnContainer {
+  margin: 16px 0 0 0;
+  display: flex;
+  justify-content: space-between;
+}
+.backBtn {
+  background: var(--white);
+  border: 1px solid var(--dark-1) !important;
+  width: calc(50% - var(--spacing-console-row) / 2);
+  height: 44px;
+  text-transform: none !important;
+}
+.backBtnTxt {
+  color: var(--black);
+  @include font-body;
+}
+.backBtn:hover {
+  background-color: var(--gray-3) !important;
+}
+.nextBtnDisabled {
+  background: rgba(217, 219, 233, 0.2) !important;
+  width: calc(50% - var(--spacing-console-row) / 2);
+  height: 44px;
+  text-transform: none !important;
+  border: none !important;
+}
+.nextBtnDisabledTxt {
+  color: rgba(0, 0, 0, 0.5) !important;
+}
+.nextBtn {
+  background: var(--dark-1) !important;
+  width: calc(50% - var(--spacing-console-row) / 2);
+  height: 44px;
+  text-transform: none !important;
+  border: none !important;
+}
+.nextBtn:hover {
+  background: var(--dark-2) !important;
+}
+.nextBtnTxt {
+  color: var(--white);
+  @include font-body;
+}
+.customerModal {
+  padding: 0;
+  max-width: 552px;
+  width: auto !important;
+}
+.complishModal {
+  padding: 0;
+  gap: 0;
+  max-width: 640px;
+  overflow: hidden;
+  border: 0;
+  background: var(--white);
+  width: auto !important;
+}
+
+@media screen and (max-width: 1000px) {
+  .container {
+    padding: 86px 0 100px 0;
+  }
+  .title {
+    font-size: 24px;
+  }
+  .desc {
+    font-size: 14px;
+  }
+  .wrap {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

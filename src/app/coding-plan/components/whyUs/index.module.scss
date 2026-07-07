@@ -1,0 +1,75 @@
+.title2 {
+  @include font-h3;
+  background: linear-gradient(135deg, #05DF72 0%, #00B8DB 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@keyframes descriptionScaleOut {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(0.8);
+  }
+}
+
+@keyframes descriptionScaleIn {
+  from {
+    transform: scale(0.8);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+.descriptionContainer {
+  display: flex;
+  padding: 32px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 16px;
+  flex: 1 0 0;
+  align-self: stretch;
+  border-radius: 16px;
+  background: linear-gradient(90deg, rgba(232, 255, 238, 0.00) 0%, #E8FFEE 100%), #FFF;
+  box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.10);
+
+  &.scaleOut {
+    animation: descriptionScaleOut 0.2s ease-in-out forwards;
+  }
+
+  &.scaleIn {
+    animation: descriptionScaleIn 0.2s ease-in-out forwards;
+  }
+}
+.descriptionMobileContainer {
+  display: flex;
+  padding: 16px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 16px;
+  flex: 1 0 0;
+  align-self: stretch;
+  background: linear-gradient(90deg, rgba(232, 255, 238, 0.00) 0%, #E8FFEE 100%), #FFF;
+  box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.10);
+}
+@media screen and (max-width: 1200px) {
+  .faqWebContainer {
+    display: none;
+  }
+  .faqMobileContainer {
+    display: flex;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .faqWebContainer {
+    display: flex;
+  }
+  .faqMobileContainer {
+    display: none;
+  }
+}

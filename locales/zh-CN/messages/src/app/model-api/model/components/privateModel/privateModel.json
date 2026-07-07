@@ -1,0 +1,18 @@
+{
+  "accessOurListOfPublicModels": "访问我们的公共模型列表",
+  "creditBalance": "积分余额",
+  "featuredApis": "精选 API",
+  "ifYouHaveAnyQuestionsPlease": "如果您有任何问题，请通过 Discord 频道联系我们的客服或技术团队：",
+  "informationalNotes": "信息说明",
+  "joinOurDiscordToGetIt": "加入我们的 Discord 即可获取！",
+  "logInAndRequestPrivateModel": "登录并请求私有模型权限，或者如果您想要",
+  "manageYourPrivateModels": "管理您的私有模型",
+  "modelLibrary": "模型库",
+  "modelList": "模型列表",
+  "playground": "体验场",
+  "pleaseBePatientWhileWeCheck": "请耐心等待，我们正在检查您的权限...",
+  "uploadModel": "上传模型",
+  "youDontHavePermissionToUpload": "您没有上传模型的权限，",
+  "youMustHaveAtLeastOne": "您必须至少拥有一个密钥才能上传模型！",
+  "youNeedToLoginToAccess": "您需要登录才能访问此页面！"
+}

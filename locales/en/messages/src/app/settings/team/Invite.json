@@ -1,0 +1,22 @@
+{
+  "account": "Account",
+  "assignAccessPermissionsToMembersBy": "Assign access permissions to members by selecting roles. The budget for each new member is unlimited by default. If you need to adjust it, please go to the \"Budgets\" page.",
+  "budget": "Budget",
+  "cancel": "Cancel",
+  "changeTheBudgetOnTheBudgets": "Change the budget on the \"Budgets\" page after invitees join your team.",
+  "close": "Close",
+  "invitationEmailsHaveBeenSentYou": "Invitation emails have been sent! You can also share these invite links below with your team members directly. And the links will remain accessible in the members list for future reference.",
+  "invitationEmailsSentSuccessfully": "Invitation emails sent successfully!",
+  "invitationFailed": "Invitation failed",
+  "inviteLink": "Invite Link",
+  "inviteLinkCopied": "Invite link copied",
+  "inviteMembers-2aadfa": "+ Invite Members",
+  "inviteMembers-4ee562": "Invite Members",
+  "inviteMembersToYourTeam": "Invite members to your team",
+  "role": "Role",
+  "selectARole": "Select a Role",
+  "separateMultipleEmailsWithCommas": "Separate multiple emails with commas",
+  "status": "Status",
+  "unlimited": "Unlimited",
+  "viewPermissionDetails": "View permission details"
+}

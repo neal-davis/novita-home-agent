@@ -1,0 +1,49 @@
+.modal_content {
+  padding: 0;
+
+  & > button {
+    top: 14px;
+  }
+
+  .title {
+    padding-top: 12px;
+    padding-left: 24px;
+    @include font-h6;
+    color: var(--black);
+  }
+
+  .content {
+    padding: 12px 24px;
+    border-top: 1px solid var(--gray-2);
+
+    .description {
+      @include font-subtle;
+      color: var(--dark-1);
+    }
+  }
+
+  .alert_box {
+    padding: 8px 14px;
+    color: var(--red-1);
+    border-radius: 6px;
+    background-color: var(--red-7);
+    border-left: 3px solid var(--red-1);
+
+    .alert_description {
+      @include font-small-console;
+      color: var(--red-1);
+    }
+  }
+
+  .input_description {
+    margin-top: 16px;
+    @include font-small-console;
+    color: var(--black);
+
+    .highlight {
+      margin: 0 4px;
+      @include font-subtle-medium;
+      color: var(--black);
+    }
+  }
+}

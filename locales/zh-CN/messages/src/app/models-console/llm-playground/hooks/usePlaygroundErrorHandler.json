@@ -1,0 +1,7 @@
+{
+  "anUnexpectedErrorOccurredPleaseCheck": "发生意外错误。请检查您的 API key 并重试。",
+  "failedToAuthenticatePleaseCheckYour": "认证失败。请检查您的 API key 并重试。",
+  "modelNotAvailableNowPleaseTry": "模型当前不可用，请稍后重试。",
+  "notEnoughBalancePleaseTopUp": "余额不足，请充值后继续使用。",
+  "topUp": "充值"
+}

@@ -1,0 +1,11 @@
+{
+  "cancel": "キャンセル",
+  "close": "閉じる",
+  "delete": "削除",
+  "deleteEndpoint": "エンドポイントを削除",
+  "enterEndpointName": "エンドポイント名を入力",
+  "pleaseTerminateTheEndpointBeforeDeleting": "削除する前にエンドポイントを終了してください",
+  "pleaseType": "入力してください",
+  "thisActionCannotBeUndoneThis": "この操作は元に戻せません。このエンドポイントは完全に削除されます。",
+  "toConfirm": "確認するには"
+}

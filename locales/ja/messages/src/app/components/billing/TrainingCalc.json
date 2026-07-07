@@ -1,0 +1,10 @@
+{
+  "apiCreateTraining": "APIでトレーニングを作成",
+  "baseModelIsSdxl": "ベースモデルはSDXLです",
+  "creditCost": "クレジット費用",
+  "height": "高さ -",
+  "maxTrainSteps": "最大トレーニングステップ数 -",
+  "message50Off": "⏰ 50%オフ",
+  "trainingApi": "トレーニング API",
+  "width": "幅 -"
+}

@@ -1,0 +1,11 @@
+{
+  "addApiKey": "API-Schlüssel hinzufügen",
+  "apiKey": "API-Schlüssel",
+  "cancel": "Abbrechen",
+  "confirm": "Bestätigen",
+  "inputYourApiKey": "Geben Sie Ihren API-Schlüssel ein",
+  "inputYourKeyName": "Geben Sie Ihren Schlüsselnamen ein",
+  "keyName": "Schlüsselname",
+  "modifyApiKey": "API-Schlüssel ändern",
+  "upTo10KeysCanBe": "Pro Konto können bis zu 10 Schlüssel generiert werden."
+}

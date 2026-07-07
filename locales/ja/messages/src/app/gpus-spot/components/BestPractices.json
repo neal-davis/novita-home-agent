@@ -1,0 +1,12 @@
+{
+  "adoptMixedStrategies": "混合戦略を採用する",
+  "bestPractices": "ベストプラクティス",
+  "breakJobsIntoSmallerUnitsWith": "再開/再試行を使用してジョブをより小さな単位に分割する",
+  "designRetryableWorkloads": "再試行可能なワークロードを設計する",
+  "enableCheckpointing": "チェックポイントを有効にする",
+  "noticeSpotIsBestForFlexible": "注意: スポットは柔軟なワークロードに最適です。ミッションクリティカルなアプリケーションにはオンデマンドまたは予約済みを使用してください。",
+  "respondQuickly": "迅速に対応する",
+  "runCriticalWorkloadsOnOnDemand": "重要なワークロードはオンデマンドで実行し、柔軟なものはSpotにオフロードする",
+  "saveTrainingStateRegularlyToPersistent": "トレーニング状態を永続ストレージに定期的に保存する",
+  "useTerminationNotificationsToTriggerBackup": "終了通知を使用してバックアップまたはシャットダウンロジックをトリガーする"
+}

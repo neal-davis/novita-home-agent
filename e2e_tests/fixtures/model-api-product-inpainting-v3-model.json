@@ -1,0 +1,81 @@
+{
+  "models": [
+    {
+      "id": 130090,
+      "name": "E2E Inpainting Fixture Model",
+      "hash_sha256": "E2E0000001",
+      "sd_name": "e2e-inpainting-fixture-A.safetensors",
+      "type": {
+        "name": "checkpoint",
+        "display_name": "Checkpoint"
+      },
+      "categories": [],
+      "status": 1,
+      "download_url": "https://example.com/api/download/models/130090",
+      "tags": ["photorealistic", "base model", "inpainting"],
+      "cover_url": "/not_found.png",
+      "source": "civitai",
+      "base_model": "SD 1.5",
+      "base_model_type": "Inpainting",
+      "download_url_ttl": 2592000,
+      "sd_name_in_api": "e2e-inpainting-fixture-A.safetensors",
+      "is_nsfw": false,
+      "is_sdxl": false,
+      "is_sd3": false,
+      "model_details": [
+        {
+          "prompt": "a photo of a cat",
+          "negative_prompt": "blurry, low quality",
+          "sampler_name": "DPM++ SDE Karras",
+          "height": 960,
+          "width": 640,
+          "cfg_scale": 7,
+          "seed": "1764711748",
+          "steps": 25
+        }
+      ],
+      "model_name": "e2e-inpainting-fixture-A.safetensors",
+      "in_whitelist": false
+    },
+    {
+      "id": 130091,
+      "name": "E2E Inpainting Fixture Model B",
+      "hash_sha256": "E2E0000002",
+      "sd_name": "e2e-inpainting-fixture-B.safetensors",
+      "type": {
+        "name": "checkpoint",
+        "display_name": "Checkpoint"
+      },
+      "categories": [],
+      "status": 1,
+      "download_url": "https://example.com/api/download/models/130091",
+      "tags": ["semi-realistic", "inpainting"],
+      "cover_url": "/not_found.png",
+      "source": "civitai",
+      "base_model": "SD 1.5",
+      "base_model_type": "Inpainting",
+      "download_url_ttl": 2592000,
+      "sd_name_in_api": "e2e-inpainting-fixture-B.safetensors",
+      "is_nsfw": false,
+      "is_sdxl": false,
+      "is_sd3": false,
+      "model_details": [
+        {
+          "prompt": "a landscape",
+          "negative_prompt": "blurry",
+          "sampler_name": "Euler a",
+          "height": 768,
+          "width": 768,
+          "cfg_scale": 8,
+          "seed": "100",
+          "steps": 20
+        }
+      ],
+      "model_name": "e2e-inpainting-fixture-B.safetensors",
+      "in_whitelist": false
+    }
+  ],
+  "pagination": {
+    "next_cursor": "c_100"
+  }
+}

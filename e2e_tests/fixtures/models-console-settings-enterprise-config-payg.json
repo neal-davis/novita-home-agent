@@ -1,0 +1,7 @@
+{
+  "_comment": "Shape of /v1/enterprise-plan/config (queryEnterpriseConfig) for the Pay-As-You-Go branch. configSlice.fetchEnterprise maps these into state.config.enterprise. isEnterprisePlan:false => clicking the Playground switch opens the upsell confirm Dialog instead of mutating. playgroundAPIConfig 'NOT_USE_ENTERPRISE' (!= USE_ENTERPRISE) => switch renders OFF (aria-checked=false). No PII (config flags only).",
+  "isWhiteListUser": false,
+  "isEnterprisePlan": false,
+  "playgroundAPIConfig": "NOT_USE_ENTERPRISE",
+  "billingMethod": 1
+}

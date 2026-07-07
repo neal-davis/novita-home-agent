@@ -1,0 +1,7 @@
+{
+  "cancel": "Cancel",
+  "cancelingStillIncursFullCharges": "Canceling still incurs full charges",
+  "cancelingTheTaskWillStopFurther": "Canceling the task will stop further processing, but you will still be fully charged once the generation has started. Please make sure you want to cancel before proceeding.",
+  "confirm": "Confirm",
+  "processing": "Processing..."
+}

@@ -1,0 +1,359 @@
+.container {
+  padding: 134px 0 100px 0;
+}
+.subContainer {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0;
+  /* background: #ffffff; */
+  box-shadow: 0px 4px 20px 0px rgba(21, 34, 50, 0.1);
+  border-radius: 12px;
+  width: min(640px, calc(100vw - 32px));
+}
+.section {
+  color: var(--black);
+  background: var(--white);
+  width: 100%;
+  min-width: 0;
+  border-radius: var(--radius-dialog);
+  padding: var(--spacing-console-24);
+  border: 1px solid var(--gray-2);
+}
+.title {
+  color: var(--black);
+  margin-bottom: var(--spacing-console-24);
+  @include font-h6;
+}
+.desc {
+  font-size: 16px;
+  /* color: #514f6e; */
+  line-height: 16px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.mainSection {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 504px;
+  height: 608px;
+  padding: 24px 32px;
+}
+.subtitle {
+  font-size: 12px;
+  /* color: #514f6e; */
+  line-height: 12px;
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+.line {
+  position: absolute;
+  top: 71px;
+  border-bottom: 1px solid var(--gray-2);
+  width: 100%;
+  height: 1px;
+}
+.funcDesc {
+  margin-top: calc(2 * var(--spacing-console-24));
+  display: flex;
+  padding: 9px 15px;
+  align-items: center;
+  gap: 8px;
+  align-self: stretch;
+  border-radius: 4px;
+  background: var(--gray-3);
+}
+.alertIcon {
+  color: var(--dark-2);
+  font-size: 16px;
+}
+.formBlock {
+  margin-top: var(--spacing-console-16);
+}
+.subtitle {
+  @include font-h6;
+  text-align: left;
+}
+.imageUrl {
+  width: 100%;
+  display: inline-block;
+  margin-right: 24px;
+}
+.dockerImageNameTxt {
+  color: var(--dark-2);
+  @include font-small-console;
+  margin-bottom: var(--spacing-console-6);
+}
+.dockerImageNameInput {
+  color: var(--black);
+  width: 100%;
+  height: 48px;
+  border: 1px solid var(--gray-1);
+}
+.localMountRefCred {
+  width: 100%;
+  display: inline-block;
+  margin-bottom: var(--spacing-console-16);
+}
+.localMountTxt {
+  @include font-small-console;
+  margin-top: var(--spacing-console-16);
+  margin-bottom: var(--spacing-console-16);
+}
+
+.localMountRefCred {
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+.localMountTxt {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  font-style: normal;
+}
+
+.containerRefCred {
+  width: 100%;
+  display: inline-block;
+  margin-top: var(--spacing-console-16);
+}
+.containerRefCredTxt {
+  color: var(--dark-2);
+  @include font-small-console;
+  margin-bottom: var(--spacing-console-6);
+}
+.containerRefCredSelect {
+  color: var(--black);
+  width: 100% !important;
+  // height: 48px;
+}
+.startCommand {
+  color: var(--dark-2);
+  @include font-subtle;
+  margin-top: var(--spacing-console-16);
+  margin-bottom: var(--spacing-console-6);
+}
+.startCommandInput {
+  color: var(--black);
+  width: 100%;
+}
+.redInput {
+  :global(.MuiInputBase-root) {
+    border-color: var(--red-1) !important;
+  }
+  :global(.MuiInputBase-root:hover) {
+    border-color: var(--red-1) !important;
+  }
+  :global(.MuiInputBase-root:focus-within) {
+    border-color: var(--red-1) !important;
+  }
+}
+.envPanel {
+  margin-top: var(--spacing-console-16);
+}
+.deleteIcon {
+  color: var(--dark-1);
+  font-size: 18px;
+}
+.envVarTxt {
+  padding: 0;
+  position: relative;
+  float: left;
+  color: var(--black);
+  @include font-subtle;
+}
+.envRow {
+  display: flex;
+  gap: var(--spacing-console-16);
+  width: 100%;
+  margin-bottom: var(--spacing-console-8);
+  color: var(--black);
+}
+.envItem {
+  flex: 1 1 0;
+  min-width: 0;
+}
+.envValueItem {
+  flex: 1 1 0;
+  min-width: 0;
+}
+.envKeyTxt {
+  margin-top: 15px;
+  margin-bottom: 12px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  font-style: normal;
+}
+.envKeyInput {
+  color: var(--black);
+  width: 100%;
+  height: 32px;
+  border: 1px solid var(--gray-2);
+  border-radius: 8px;
+  padding: 19px 20px;
+}
+.envValueTxt {
+  margin-top: 15px;
+  margin-bottom: 12px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  font-style: normal;
+}
+.envValueInput {
+  color: var(--black) !important;
+  flex: 1 1 0;
+  min-width: 0;
+  height: 32px !important;
+  border: 1px solid var(--gray-2) !important;
+  margin-right: 12px;
+  padding: 19px 20px;
+}
+.removeEnvBtn {
+  width: 32px;
+  height: 32px;
+  border-radius: 6px !important;
+  padding: 0 !important;
+  border: none !important;
+  background-color: var(--white) !important;
+  min-width: 10px !important;
+  box-shadow: none !important;
+}
+.removeEnvBtn:hover {
+  background-color: var(--gray-3) !important;
+}
+.addEnvBtn {
+  border: 1px solid var(--dark-1) !important;
+  height: 32px !important;
+  text-transform: none !important;
+}
+.addEnvBtnTxt {
+  color: var(--dark-1);
+  @include font-subtle;
+}
+.addEnvBtn:hover {
+  background-color: var(--gray-3) !important;
+}
+.isSaveDataTxt {
+  margin-left: 8px;
+  color: var(--black);
+  @include font-subtle-medium;
+}
+.isSaveDataTxtDisabled {
+  color: var(--dark-3);
+  cursor: not-allowed;
+}
+.isSaveDataTxtEnabled {
+  color: var(--black);
+  cursor: pointer;
+}
+.saveDataDescPrefixTxt {
+  color: var(--black);
+  @include font-subtle;
+  margin-left: var(--spacing-console-24);
+  // font-weight: 400 !important;
+  // font-size: 14px !important;
+}
+.saveDataWarning {
+  color: var(--red-1);
+}
+.actionRow {
+  margin-top: var(--spacing-console-24);
+}
+.expansionModal {
+  width: fit-content !important;
+  padding: 0 !important;
+}
+.upgradeBtn {
+  background: var(--dark-1) !important;
+  height: 32px;
+  min-width: 124px !important;
+  float: right;
+  text-transform: none !important;
+  box-shadow: none !important;
+}
+.upgradeBtn:hover {
+  background: var(--dark-2) !important;
+}
+.upgradeBtnTxt {
+  color: var(--white) !important;
+  @include font-subtle;
+}
+.cancelBtn {
+  background: var(--white) !important;
+  margin-right: var(--spacing-button) !important;
+  width: 124px;
+  height: 32px;
+  float: right;
+  border: 1px solid var(--dark-1) !important;
+  box-shadow: none !important;
+  text-transform: none !important;
+}
+.cancelBtn:hover {
+  background-color: var(--gray-3) !important;
+}
+.cancelBtnTxt {
+  color: var(--dark-1);
+  @include font-subtle;
+}
+
+.inputContainer {
+  width: 100%;
+  display: inline-block;
+  margin-right: 24px;
+}
+.imgTips {
+  color: var(--dark-3);
+  @include font-subtle;
+  margin-bottom: var(--spacing-console-16);
+}
+.imgPathTxt {
+  color: var(--dark-2);
+  @include font-small-console;
+  margin-bottom: var(--spacing-console-6);
+}
+.imgPathInput {
+  color: var(--black);
+  width: 100%;
+  height: 48px;
+  border: 1px solid var(--gray-2);
+  border-radius: 8px;
+  padding: 19px 20px;
+  font-size: 14px;
+}
+
+@media screen and (max-width: 1000px) {
+  .container {
+    padding: 86px 0 100px 0;
+  }
+  .title {
+    font-size: 24px;
+  }
+  .desc {
+    font-size: 14px;
+  }
+  .wrap {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+.saveDataContainer {
+  margin-top: 15px;
+  display: flex;
+  padding: 12px;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 8px;
+  align-self: stretch;
+  border-radius: 4px;
+  border: 1px solid var(--gray-1);
+  background: var(--white);
+}

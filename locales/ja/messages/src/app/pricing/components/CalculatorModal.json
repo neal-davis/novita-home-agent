@@ -1,0 +1,23 @@
+{
+  "apiName": "API名",
+  "duration": "時間",
+  "frames": "フレーム数",
+  "height": "高さ",
+  "message1080p": "1080P",
+  "message10s": "10s",
+  "message5s": "5s",
+  "message6s": "6s",
+  "message720p": "720P",
+  "message768p": "768P",
+  "mode": "モード",
+  "model": "モデル",
+  "pricingCalculator": "料金計算ツール",
+  "professional": "プロフェッショナル",
+  "resolution": "解像度",
+  "scale": "スケール",
+  "standard": "標準",
+  "steps": "ステップ数",
+  "svd": "SVD",
+  "svdXt": "SVD-XT",
+  "width": "幅"
+}

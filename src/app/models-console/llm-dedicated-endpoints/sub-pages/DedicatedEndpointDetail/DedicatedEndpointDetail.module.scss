@@ -1,0 +1,310 @@
+// Detail page layout - two separate containers
+.detail_page {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-height: calc(100vh - 54px);
+  padding: 16px;
+  background-color: var(--gray-3); // Light gray background
+}
+
+// Top section: white container with info + actions
+.top_section {
+  flex-shrink: 0;
+  background-color: var(--white);
+  border-radius: 8px;
+  border: 1px solid var(--gray-2);
+  padding: 16px 16px; // Increased padding
+}
+
+// Bottom section: white container with tab content - no fixed height, content flows
+.bottom_section {
+  background-color: var(--white);
+  border-radius: 8px;
+  border: 1px solid var(--gray-2);
+}
+
+.sticky_header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: var(--white);
+  padding: 16px;
+  padding-bottom: 0;
+  flex-shrink: 0;
+}
+
+.header_content {
+  display: flex;
+  align-items: flex-end; // Align items to bottom
+  justify-content: space-between;
+  gap: 24px; // Increased gap between left and right
+}
+
+.header_left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px; // Gap between back button, name, and meta
+  min-width: 0;
+}
+
+.name_row {
+  display: flex;
+  align-items: center;
+  gap: 12px; // Increased gap between name and status tag
+  margin-top: 4px;
+}
+
+.endpoint_name {
+  @include font-h5;
+  color: var(--dark-1);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 500px;
+}
+
+.header_actions {
+  display: flex;
+  align-items: center;
+  gap: 10px; // Increased gap between buttons
+  flex-shrink: 0;
+}
+
+// Meta row - left aligned
+.meta_row {
+  display: flex;
+  align-items: center;
+  gap: 10px; // Increased gap
+  margin-top: 2px;
+  @include font-small-console;
+  color: var(--dark-2);
+}
+
+.meta_separator {
+  color: var(--gray-1);
+}
+
+// Tabs bar - inside bottom container
+.tabs_bar {
+  padding: 0 16px;
+  padding-top: 8px;
+  border-bottom: 1px solid var(--gray-2);
+}
+
+.tabs_list {
+  display: flex;
+  align-items: stretch;
+  gap: 4px;
+  position: relative;
+}
+
+.tab_trigger {
+  @include font-subtle;
+  padding: 8px 12px 10px 12px;
+  background: transparent;
+  border: none;
+  color: var(--dark-2);
+  cursor: pointer;
+  transition: color 0.2s ease;
+  white-space: nowrap;
+
+  &:hover {
+    color: var(--dark-1);
+  }
+
+  &.active {
+    color: var(--dark-1);
+  }
+}
+
+.tab_indicator {
+  position: absolute;
+  bottom: 0;
+  height: 2px;
+  background-color: var(--brand-0);
+  transition:
+    left 0.3s ease,
+    width 0.3s ease;
+}
+
+.tab_content_wrapper {
+  padding: 16px;
+}
+
+// Legacy breadcrumb (kept for compatibility)
+.breadcrumb_wrapper {
+  margin-top: -16px;
+  margin-left: -16px;
+  margin-bottom: 16px;
+  padding-left: 8px;
+  height: 30px;
+  width: calc(100% + 32px);
+  background-color: var(--white);
+  @include font-small-console;
+  color: var(--dark-1);
+
+  button {
+    display: flex;
+    height: 30px;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+  }
+}
+
+.detail_wrapper {
+  padding: 16px;
+  border-radius: 6px;
+  background-color: var(--white);
+
+  .status_tag {
+    padding: 0 4px;
+    @include font-small-console;
+    color: var(--black);
+    border-radius: 4px;
+    background-color: var(--gray-3);
+  }
+
+  .spin_wrapper {
+    @include font-small-console;
+    color: var(--dark-2);
+
+    .spin {
+      animation: spin-animation 2s linear infinite;
+    }
+  }
+
+  .tab_view {
+    margin-top: 24px;
+    border-bottom: 1px solid var(--gray-2);
+
+    .tab_title {
+      padding-bottom: 4px;
+      width: 150px;
+      @include font-subtle-medium;
+      color: var(--dark-1);
+      text-align: center;
+      border-bottom: 2px solid var(--dark-1);
+    }
+
+    .tab_link {
+      margin-right: 8px;
+      @include font-small-console;
+      color: var(--black);
+    }
+  }
+
+  .card_wrapper {
+    margin-top: 16px;
+    border-radius: 6px;
+    border: 1px solid var(--gray-2);
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+
+    .separator_title {
+      padding: 8px 16px;
+      @include font-subtle-medium;
+      color: var(--black);
+      border-bottom: 1px solid var(--gray-2);
+    }
+
+    .title {
+      @include font-subtle-medium;
+      color: var(--black);
+    }
+
+    .edit_button {
+      display: flex;
+      padding: 4px 6px;
+      flex-direction: row;
+      align-items: center;
+      gap: 6px;
+      border-radius: 4px;
+
+      &:hover {
+        background-color: var(--gray-3);
+      }
+
+      .edit_text {
+        @include font-subtle;
+        color: var(--dark-1);
+      }
+    }
+
+    .grid_info {
+      display: grid;
+      padding: 16px;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+
+      & > div {
+        min-width: 0;
+      }
+
+      .info_title {
+        margin-bottom: 1px;
+        @include font-subtle;
+        color: var(--dark-2);
+      }
+
+      .info_value {
+        @include font-subtle;
+        color: var(--black);
+      }
+
+      .copy_text {
+        margin-top: 2px;
+        padding: 0 6px;
+        border-radius: 4px;
+        background-color: var(--gray-3);
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        flex: 1;
+        min-width: 0;
+      }
+    }
+  }
+}
+
+.docs_page_title {
+  margin-bottom: 16px;
+  @include font-h5;
+  color: var(--black);
+}
+
+.docs_desc {
+  margin-top: 10px;
+  @include font-body;
+}
+
+.docs_label {
+  margin-bottom: 2px;
+  @include font-body-medium;
+  color: var(--black);
+}
+
+.highlight {
+  color: var(--brand-0) !important;
+}
+
+.healthy_tag {
+  padding: 1px 8px;
+  background-color: var(--gray-2);
+  border-radius: 4px;
+}
+
+.healthy_tag_healthy {
+  background-color: var(--brand-1);
+  color: var(--white);
+}
+
+@keyframes spin-animation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "amountShouldPay": "应付金额",
+  "billingPeriod": "计费周期",
+  "captionTable": "字幕表",
+  "cashPaid": "现金支付",
+  "duration": "时长",
+  "endpointId-a11c3a": "端点 ID",
+  "endpointId-b72156": "端点 ID",
+  "export": "导出",
+  "gpuType": "GPU 类型",
+  "gpusWorker": "每个 Worker 的 GPUs",
+  "priceUnitS": "价格（单位：/s）",
+  "search": "搜索",
+  "voucherDeduction": "优惠券抵扣",
+  "workId": "工作 ID"
+}

@@ -1,0 +1,8 @@
+{
+  "_comment": "Synthetic /v1/metrics/models response. Drives the model <Select> dropdown (page.tsx fetchUsageModels reads res.models). On non-empty, page.tsx auto-selects models[0] and emits Fetch_With_Abort, which makes every chart fire getLLMMetrics(/v1/metrics/llm). Model ids are public Novita catalog identifiers (no PII).",
+  "models": [
+    "meta-llama/llama-3.1-8b-instruct",
+    "qwen/qwen-2.5-72b-instruct",
+    "deepseek/deepseek-v3"
+  ]
+}

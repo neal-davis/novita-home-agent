@@ -1,0 +1,19 @@
+{
+  "addEnvironmentVariable": "+ 環境変数を追加",
+  "containerDisk": "コンテナディスク",
+  "createNetworkVolume": "ネットワークボリュームを作成",
+  "enterHealthCheckPath": "ヘルスチェックパスを入力",
+  "enterNetworkVolumeMountPath": "ネットワークボリュームのマウントパスを入力",
+  "enterVolumeMountPath": "ボリュームのマウントパスを入力",
+  "environmentVariables": "環境変数",
+  "healthCheckPath": "ヘルスチェックパス",
+  "networkVolume": "ネットワークボリューム",
+  "networkVolumeMountPath": "ネットワークボリュームのマウントパス",
+  "otherConfiguration": "その他の設定",
+  "region": "リージョン",
+  "selectNetworkVolume": "ネットワークボリュームを選択",
+  "selectRegion": "リージョンを選択",
+  "storageConfiguration": "ストレージ設定",
+  "volumeDisk": "ボリュームディスク",
+  "volumeMountPath": "ボリュームのマウントパス"
+}

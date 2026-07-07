@@ -1,0 +1,10 @@
+@import "@/styles/mixins";
+
+.error_message {
+  margin-top: 8px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  @include font-small-console;
+  color: var(--red-1);
+}

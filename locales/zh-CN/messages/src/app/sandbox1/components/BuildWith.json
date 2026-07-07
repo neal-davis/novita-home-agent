@@ -1,0 +1,20 @@
+{
+  "builtWithNovitaAi": "基于 Novita AI 构建",
+  "concurrentInstances": "并发实例",
+  "contactSales": "联系销售",
+  "contactSupport": "联系支持",
+  "defineReusableSandboxEnvironmentsOnceAnd": "一次定义可复用的沙盒环境，并在各类工作负载中使用。",
+  "deploymentRegion": "部署区域",
+  "eachSandboxIncludesAnIsolatedFilesystem": "每个沙盒都包含一个隔离的文件系统，用于代码、数据和会话状态。",
+  "enterprise": "企业版",
+  "fileSystem": "文件系统",
+  "forAdvancedWorkloadsThatNeedHigher": "适用于需要更高资源限制、自定义部署区域或专用基础设施的高级工作负载。",
+  "getStartedWithQuickstartsReusableTemplates": "通过快速入门、可复用模板和隔离的沙盒存储开始使用。",
+  "launchYourFirstSandboxInMinutes": "几分钟内启动您的第一个沙盒。",
+  "learnMore": "了解更多",
+  "maxVcpusPerSandbox": "每个沙盒的最大 vCPU 数",
+  "quickStart": "快速入门",
+  "startBuildingWithAgentSandbox": "开始使用 Agent Sandbox 构建",
+  "templates": "模板",
+  "uptimeSla": "正常运行时间 SLA"
+}

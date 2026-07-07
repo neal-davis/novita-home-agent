@@ -1,0 +1,8 @@
+{
+  "confirm": "确认",
+  "invalidEmailAddress": "电子邮件地址无效。",
+  "password": "密码",
+  "passwordConfirmation": "确认密码",
+  "passwordResetSuccessfully": "密码重置成功。",
+  "resetPassword": "重置密码"
+}

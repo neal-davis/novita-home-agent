@@ -1,0 +1,14 @@
+{
+  "agentsandbox": "AGENTSANDBOX",
+  "concurrency": "并发",
+  "eachTaskRunsInAFully": "每个任务都在完全隔离的环境中运行，并通过系统级隔离防止数据泄露和未经授权的访问。",
+  "highConcurrency": "高并发",
+  "inParallelAllInRealTime": "并行处理——全部实时完成。",
+  "launchFastStayIsolatedHandleThousands": "快速启动。保持隔离。处理数千项任务",
+  "millisecondLevelStartup": "毫秒级启动",
+  "runThousandsOfSandboxInstancesIn": "并行运行数千个沙盒实例，并始终保持低延迟——非常适合实时、高吞吐量工作负载。",
+  "sandboxInstancesLaunchInUnder200": "沙盒实例平均启动时间不到 200 ms——针对高频和并发工作负载进行了优化。",
+  "secureIsolation": "安全隔离",
+  "speedSecurityAnd": "速度、安全与",
+  "tryNow": "立即试用"
+}

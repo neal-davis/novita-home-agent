@@ -1,0 +1,17 @@
+{
+  "balanceIsNotEnough": "Balance is not enough.",
+  "cudaVersionIsIncompatible": "CUDA version is incompatible",
+  "entrypointLengthCannotExceed2047Characters": "Entrypoint length cannot exceed 2047 characters",
+  "environmentVariablesKeyCanNotBe": "Environment variables key can not be empty.",
+  "httpportFieldMustHaveLessThan": "HttpPort field must have less than or equal to 10 items.",
+  "insufficientResources": "Insufficient resources",
+  "loginFailurePleaseLogInAgain": "Login failure, please log in again",
+  "noAvailableSpotInstancesInThis": "No available Spot instances in this region. Try On-Demand instead.",
+  "pleaseEnterValidImage": "Please enter valid image",
+  "pleaseEnterValidNetworkMountPath": "Please enter valid network mount path.",
+  "pleaseEnterValidVolumeMountPath": "Please enter valid volume mount path.",
+  "pleaseInputValidVolumeDiskSize": "Please input valid volume disk size",
+  "pleaseLogInFirst": "Please log in first",
+  "success": "success",
+  "theVolumeMountPathAndNetwork": "The volume mount path and network mount path can not be the same."
+}

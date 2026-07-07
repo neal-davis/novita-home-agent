@@ -1,0 +1,50 @@
+.form_body {
+  border-radius: 4px;
+  background: var(--gray-3);
+  padding: 24px;
+  margin-top: 24px;
+
+  .item {
+    margin-bottom: 22px;
+
+    .inputnumber {
+      box-shadow: none;
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.form_footer {
+  text-align: right;
+  margin-top: 24px;
+}
+
+.operate {
+  display: flex;
+  flex-direction: row-reverse;
+  color: var(--inactive-color);
+  gap: 16px;
+  font-size: 20px;
+
+  span {
+    cursor: pointer;
+  }
+
+  .operate_item {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    height: 32px;
+    padding: 0 8px;
+    font-size: 14px;
+    color: var(--dark-1);
+    border-radius: 4px;
+
+    &:hover {
+      background: var(--gray-3);
+    }
+  }
+}

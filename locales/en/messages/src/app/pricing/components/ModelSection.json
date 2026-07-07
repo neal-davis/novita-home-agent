@@ -1,0 +1,23 @@
+{
+  "actions": "Actions",
+  "cacheRead-08ba9a": "· Cache Read",
+  "cacheRead-e47778": "Cache Read",
+  "cacheWrite1h": "· Cache Write(1h)",
+  "cacheWrite5m": "· Cache Write(5m)",
+  "cachedReads": "Cached reads",
+  "cachedWrites1h": "Cached writes(1h)",
+  "cachedWrites5m": "Cached writes(5m)",
+  "context": "Context",
+  "free": "Free",
+  "input": "Input",
+  "inputLength": "Input length",
+  "inputPriceMtokens": "Input price (Mtokens)",
+  "modelName": "Model Name",
+  "more": "More",
+  "omnimodal": "Omnimodal",
+  "output": "Output",
+  "outputLength": "Output length",
+  "outputPriceMtokens": "Output Price (Mtokens)",
+  "showOmnimodalPricing": "Show omnimodal pricing",
+  "showTieredPricing": "Show tiered pricing"
+}

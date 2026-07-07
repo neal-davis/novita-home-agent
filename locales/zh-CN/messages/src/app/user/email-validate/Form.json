@@ -1,0 +1,9 @@
+{
+  "confirmMyAccount": "确认我的账户",
+  "emailVerification": "邮箱验证",
+  "emailVerified": "邮箱已验证",
+  "invalidParams": "参数无效。",
+  "pleaseFinishTheCaptchaFirst": "请先完成验证码。",
+  "weJustNeedToMakeSure": "在继续之前，我们需要确认你是真人。你可以通过下方按钮确认你的账户邮箱",
+  "youCanNowProceedToThe": "你现在可以进入下一步。"
+}

@@ -1,0 +1,168 @@
+.rule_container {
+  position: relative;
+  background-color: var(--white);
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 100%;
+  overflow-y: auto;
+}
+
+.close_button {
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  padding: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: var(--dark-1);
+  background: transparent;
+  border: none;
+  transition: opacity 0.2s ease;
+
+  &:hover {
+    opacity: 0.7;
+  }
+}
+
+.title {
+  font-family: var(--font-family);
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 600;
+  color: var(--dark-1);
+  margin: 0;
+  text-align: left;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  border-radius: 8px;
+}
+
+.section_title {
+  font-family: var(--font-family);
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 500;
+  color: var(--black);
+  margin: 0;
+}
+
+.ordered_list {
+  margin: 0;
+  padding-left: 16px;
+  @include font-subtle;
+  color: var(--dark-2);
+  list-style-type: decimal;
+
+  li {
+    margin-bottom: 2px;
+
+    ol {
+      margin-top: 0;
+      margin-bottom: 1px;
+      padding-left: 21px;
+      list-style-type: lower-alpha;
+
+      li {
+        margin-bottom: 0;
+      }
+
+      li:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  > li:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.bullet_list {
+  list-style-type: disc;
+  font-family: var(--font-family);
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  color: var(--dark-2);
+  margin: 0;
+  padding-left: 21px;
+
+  li {
+    margin-bottom: 0;
+
+    &::marker {
+      font-size: 10px;
+    }
+
+    ul {
+      margin-top: 0;
+      margin-bottom: 0;
+      padding-left: 21px;
+      list-style-type: disc;
+
+      li {
+        margin-bottom: 0;
+
+        &::marker {
+          font-size: 10px;
+        }
+      }
+
+      li:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  > li:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.content {
+  font-family: var(--font-family);
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  color: var(--dark-2);
+
+  ol {
+    margin: 0;
+    padding-left: 21px;
+
+    li {
+      margin-bottom: 0;
+    }
+  }
+
+  strong {
+    font-weight: 500;
+    color: var(--black);
+  }
+}
+
+.link {
+  color: var(--brand-1);
+  text-decoration: underline;
+  text-decoration-style: solid;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+.paragraph {
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0;
+  margin-left: 3px;
+  color: var(--dark-2);
+}

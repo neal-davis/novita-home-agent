@@ -1,0 +1,6 @@
+{
+  "deploy": "Desplegar",
+  "gpuHot": "GPU popular",
+  "onDemand": "Bajo demanda",
+  "oneClickDeployment": "Despliegue con un clic"
+}

@@ -1,0 +1,19 @@
+{
+  "anthropicApi": "Anthropic API",
+  "apiAccessGuide": "API アクセスガイド",
+  "apiEndpoint": "API エンドポイント",
+  "apiKey": "API キー",
+  "baseUrl": "ベース URL",
+  "contextLength": "コンテキスト長",
+  "info": "情報",
+  "inputCapabilities": "入力機能",
+  "maxOutput": "最大出力",
+  "modelId": "モデル ID",
+  "notSupported": "サポートされていません",
+  "outputCapabilities": "出力機能",
+  "provider": "プロバイダー",
+  "quantization": "量子化",
+  "serverless": "サーバーレス",
+  "supported": "サポートされています",
+  "supportedFunctionality": "サポートされている機能"
+}

@@ -1,0 +1,21 @@
+{
+  "clipSkip": "Clip Skip",
+  "enterYourPromptHere": "在此输入您的提示词",
+  "guidanceScale": "引导系数",
+  "height2562048": "高度 (256~2048)",
+  "imageNum": "图片数量",
+  "initialImage": "初始图片",
+  "lora": "LoRA",
+  "loraModel": "LoRA 模型",
+  "loraWeight": "LoRA 权重",
+  "model": "模型",
+  "negativePrompt-b4dbac": "负向提示词",
+  "negativePrompt-e08352": "负向提示词",
+  "prompt": "提示词",
+  "sampler": "采样器",
+  "seed": "种子",
+  "steps": "步数",
+  "strength": "强度",
+  "uploadImage": "上传图片",
+  "width2562048": "宽度 (256~2048)"
+}

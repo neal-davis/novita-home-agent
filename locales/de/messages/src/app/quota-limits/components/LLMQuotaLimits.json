@@ -1,0 +1,12 @@
+{
+  "currentTier": "Aktuelle Stufe",
+  "endpointType": "Endpunkttyp",
+  "here": "hier",
+  "increaseLimit": "Limit erhöhen",
+  "learnMore": "Mehr erfahren",
+  "limitAdjustable": "Limit anpassbar",
+  "limitQuotaMetric": "Limit-/​Kontingentmetrik",
+  "searchService": "Dienst suchen",
+  "toUnlockQuotaLimitsForHigher": "um Kontingentlimits für höhere Stufen freizuschalten.",
+  "topUp": "Aufladen"
+}

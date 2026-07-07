@@ -1,0 +1,7 @@
+{
+  "cancel": "Cancelar",
+  "restart": "Reiniciar",
+  "restartInstance": "Reiniciar instancia",
+  "success": "éxito",
+  "youWillRestartTheRunningInstance": "Reiniciarás la instancia en ejecución. ¿Confirmas que deseas continuar?"
+}

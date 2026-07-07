@@ -1,0 +1,4 @@
+{
+  "imageDedicatedEndpoints": "Endpoints dedicados para imágenes",
+  "llmDedicatedEndpoints": "Endpoints dedicados para LLM"
+}

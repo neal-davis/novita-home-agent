@@ -1,0 +1,23 @@
+{
+  "addCredential": "添加凭证",
+  "addingPublicKeysToYourAccount": "向你的账户添加公钥后，即可使用关联的私钥通过基本终端访问选项访问实例。你可以通过换行分隔来添加多个公钥。",
+  "automaticFaultMigration": "自动故障迁移",
+  "confirm": "确认",
+  "confirmPassword": "确认密码",
+  "containerRegistryAuth": "容器镜像仓库认证",
+  "enterNameMaxLength255": "输入名称，最大长度 255",
+  "enterPasswordAgainMaxLength8000": "再次输入密码，最大长度 8000",
+  "enterPasswordMaxLength8000": "输入密码，最大长度 8000",
+  "enterUsernameMaxLength511": "输入用户名，最大长度 511",
+  "name": "名称",
+  "password": "密码",
+  "singleNuma": "单 NUMA",
+  "sshPublicKey": "SSH 公钥",
+  "sshPublicKeys": "SSH 公钥",
+  "success": "成功",
+  "thisPolicyWouldAllowResourceAllocation": "仅当没有其他任何方式能够满足该分配请求时，此策略才允许从不同的 NUMA 节点分配资源。",
+  "username": "用户名",
+  "usernameCannotContainCharacter": "用户名不能包含“:”字符",
+  "whenHardwareFailuresSuchAsNode": "当实例所在节点发生节点宕机或 GPU 异常等硬件故障时，平台可以自动将实例迁移到健康节点，确保实例 ID、公网 IP 和数据保持不变，并最大程度降低对业务运营的影响。",
+  "youCanRegisterYourContainerRegistry": "你可以在此注册容器镜像仓库凭证，以便从各种容器镜像仓库拉取私有镜像。请注意，我们目前仅支持 docker login 类型的凭证。你可以先在此注册凭证，然后在编辑或创建模板时从下拉菜单中选择该凭证，将其添加到模板中。"
+}

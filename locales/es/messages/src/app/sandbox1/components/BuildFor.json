@@ -1,0 +1,18 @@
+{
+  "aiPoweredCiCd": "CI/CD impulsado por IA",
+  "browserAutomation": "Automatización del navegador",
+  "builtForAiNativeWorkloads": "Diseñado para cargas de trabajo nativas de IA",
+  "codingAgents": "Agentes de codificación",
+  "computerUse": "Uso de computadora",
+  "enableAgentsToInteractWithFull": "Permite que los agentes interactúen con entornos de escritorio completos para flujos de trabajo basados en GUI y acciones similares a las humanas.",
+  "evaluationsRl": "Evaluaciones y RL",
+  "fromAgentExecutionToEvalsAnd": "Desde la ejecución de agentes hasta evaluaciones y RL",
+  "keepMultiStepAgentTasksRunning": "Mantén las tareas de agentes de varios pasos en ejecución durante sesiones prolongadas sin interrumpir el flujo de ejecución.",
+  "learnMore": "Más información",
+  "longRunningWorkflows": "Flujos de trabajo de larga duración",
+  "powerAgentsThatBrowseTheWeb": "Impulsa agentes que navegan por la web, completan tareas de varios pasos y extraen resultados estructurados.",
+  "runAgentsThatWriteExecuteAnd": "Ejecuta agentes que escriben, ejecutan e iteran código en entornos sandbox aislados.",
+  "runCodeReviewTestGenerationAnd": "Ejecuta flujos de trabajo de revisión de código, generación de pruebas y validación en sandboxes aislados en tus pipelines de CI/CD.",
+  "runRepeatableEvaluationAndReinforcementLearning": "Ejecuta cargas de trabajo repetibles de evaluación y aprendizaje por refuerzo en entornos controlados para pruebas, entrenamiento y optimización iterativa.",
+  "supportTheFullRangeOfAi": "Admite toda la gama de cargas de trabajo nativas de IA&mdash;desde agentes de codificación y automatización del navegador hasta evaluaciones, entornos de aprendizaje por refuerzo y flujos de trabajo de larga duración."
+}

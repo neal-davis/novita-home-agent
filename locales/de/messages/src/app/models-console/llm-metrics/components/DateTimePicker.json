@@ -1,0 +1,17 @@
+{
+  "datePicker": "Datumsauswahl:",
+  "endTime": "Endzeit:",
+  "message10m": "10 Min.",
+  "message12h": "12 Std.",
+  "message1d": "1 T.",
+  "message1h": "1 Std.",
+  "message30m": "30 Min.",
+  "message3d": "3 T.",
+  "message3h": "3 Std.",
+  "message5m": "5 Min.",
+  "message7d": "7 T.",
+  "pickADate": "Datum auswählen",
+  "quickSelect": "Schnellauswahl:",
+  "startTime": "Startzeit:",
+  "utc0": "UTC+0"
+}

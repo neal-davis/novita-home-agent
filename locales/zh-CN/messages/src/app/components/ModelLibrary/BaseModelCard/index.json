@@ -1,0 +1,9 @@
+{
+  "cacheRead": "缓存读取",
+  "cacheWrite1h": "缓存写入(1h)",
+  "cacheWrite5m": "缓存写入(5m)",
+  "context": "上下文",
+  "input": "输入",
+  "maxOutput": "最大输出",
+  "output": "输出"
+}

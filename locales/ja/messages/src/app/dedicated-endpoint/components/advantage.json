@@ -1,0 +1,17 @@
+{
+  "billedPerTokenWithAMinimum": "1日の最低トークンコミットメントを条件に、トークンごとに請求されます。",
+  "contactSales": "営業に問い合わせる",
+  "customPricing": "カスタム料金",
+  "customSlasForUptimeLatencyThroughput": "稼働時間、レイテンシ、スループットに対するカスタムSLA。",
+  "dedicatedComputeClusters": "専用コンピュートクラスター",
+  "dynamicAutoScaling": "動的オートスケーリング",
+  "enterpriseGradeModelMonitoringAndServices": "エンタープライズグレードのモデル監視とサービス。",
+  "enterpriseGradePerformanceInfiniteScaleAnd": "エンタープライズグレードのパフォーマンス、無限のスケール、ゼロオペレーション",
+  "guaranteedUptimeSlas": "稼働時間SLA保証",
+  "handleTrafficSpikesInstantlyNoManual": "手動プロビジョニングなしでトラフィック急増に即座に対応。",
+  "llmsEnterprise": "LLMs エンタープライズ",
+  "message247EnterpriseSupport": "24時間365日のエンタープライズサポート",
+  "payAsYouGo": "従量課金制",
+  "payForYourPerformanceNotIdle": "アイドル状態の GPUs ではなく、パフォーマンスに対してお支払いください。",
+  "zeroSharedResourcesPhysicalIsolationFor": "モデル/データに対して共有リソースなしの物理的分離を実現。"
+}

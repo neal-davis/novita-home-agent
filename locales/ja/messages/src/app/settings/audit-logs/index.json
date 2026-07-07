@@ -1,0 +1,11 @@
+{
+  "action": "アクション",
+  "dateRange": "日付範囲",
+  "failedToGetAuditLogs": "監査ログの取得に失敗しました",
+  "member": "メンバー",
+  "resource": "リソース",
+  "resourceGroup": "リソースグループ",
+  "resourceId": "リソース ID",
+  "search": "検索",
+  "timestamp": "タイムスタンプ"
+}

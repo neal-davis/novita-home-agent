@@ -1,0 +1,66 @@
+.modal_content {
+  background: linear-gradient(
+    to bottom,
+    var(--brand-2) 0%,
+    rgba(255, 255, 255, 1) 30%,
+    rgba(255, 255, 255, 1) 100%
+  );
+
+  .icon_wrapper {
+    position: absolute;
+    top: -14px;
+    left: 16px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: var(--brand-1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+
+    .icon {
+      width: 28px;
+      height: 28px;
+      color: white;
+    }
+  }
+
+  .title {
+    margin-top: 24px;
+    @include font-body-medium;
+    color: var(--black);
+  }
+
+  .description {
+    margin-top: 4px;
+    @include font-subtle;
+    color: var(--dark-1);
+  }
+
+  .subtitle {
+    @include font-subtle;
+    color: var(--black);
+  }
+
+  .required {
+    margin-right: 2px;
+    color: var(--red-1);
+  }
+
+  .form_message {
+    @include font-small-console;
+    color: var(--red-2);
+  }
+
+  .placeholder {
+    color: var(--dark-3);
+  }
+}
+
+@include screen-lg {
+  .modal_content {
+    width: 480px;
+    min-width: 480px;
+  }
+}

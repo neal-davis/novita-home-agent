@@ -1,0 +1,17 @@
+{
+  "billing": "請求",
+  "containerDisk": "コンテナディスク",
+  "createTime": "作成時刻",
+  "creator": "作成者",
+  "dataCenter": "データセンター",
+  "disk": "ディスク",
+  "editInstanceName": "インスタンス名を編集",
+  "expirationTime": "有効期限",
+  "gb": "GB",
+  "gpu": "GPU:",
+  "gpuId": "GPU ID",
+  "id": "ID:",
+  "localVolumePath": "ローカルボリュームパス",
+  "networkVolume": "ネットワークボリューム",
+  "template": "テンプレート"
+}

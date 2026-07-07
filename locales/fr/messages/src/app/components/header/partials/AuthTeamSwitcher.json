@@ -1,0 +1,9 @@
+{
+  "createTeam": "Créer une équipe",
+  "myTeam": "Mon équipe",
+  "personal": "Personnel",
+  "switchTeamFailed": "Échec du changement d’équipe",
+  "team": "Équipe",
+  "teamId": "ID de l’équipe",
+  "teamSettings": "Paramètres de l’équipe"
+}

@@ -1,0 +1,4 @@
+{
+  "imageDedicatedEndpoints": "画像専用エンドポイント",
+  "llmDedicatedEndpoints": "LLM専用エンドポイント"
+}

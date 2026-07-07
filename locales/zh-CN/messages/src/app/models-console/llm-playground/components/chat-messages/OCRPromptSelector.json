@@ -1,0 +1,21 @@
+{
+  "convertDocumentToMarkdownFormat": "将文档转换为 Markdown 格式",
+  "detailedImageDescription": "详细图像描述",
+  "document": "文档",
+  "enterTextToLocate": "输入要定位的文本",
+  "enterTheTextToLocateIn": "输入要在图像中定位的文本...",
+  "figuresInDocument": "文档中的图形",
+  "freeOcrWithoutLayoutDetection": "免费 OCR（无布局检测）",
+  "general": "通用",
+  "inTheImage": "在图像中。",
+  "locateSpecificTextInImageRequires": "在图像中定位特定文本（需要自定义输入）",
+  "ocrRecognitionForGeneralImages": "通用图像 OCR 识别",
+  "otherImage": "其他图像",
+  "parseFiguresFromDocuments": "从文档中解析图表",
+  "promptLocate": "提示词：定位",
+  "recognition": "识别",
+  "ref-8f2130": "<|/ref|>",
+  "ref-cb1038": "<|ref|>",
+  "selectOcrMode": "选择 OCR 模式...",
+  "withoutLayouts": "不含布局"
+}

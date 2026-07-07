@@ -1,0 +1,6 @@
+{
+  "cancel": "Cancelar",
+  "terminate": "Finalizar",
+  "terminateEndpoint": "Finalizar endpoint",
+  "thisEndpointWillBeTerminatedImmediately": "Este endpoint se finalizará inmediatamente, por lo que las solicitudes futuras fallarán. Puedes reiniciar este endpoint en cualquier momento."
+}

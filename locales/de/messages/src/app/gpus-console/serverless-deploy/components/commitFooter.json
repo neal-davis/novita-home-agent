@@ -1,0 +1,8 @@
+{
+  "deploy": "Bereitstellen >",
+  "deploySuccessfully": "Erfolgreich bereitgestellt",
+  "pleaseLogInFirst": "Bitte melden Sie sich zuerst an",
+  "serverlessPrice": "Serverless-Preis:",
+  "storagePrice": "Speicherpreis:",
+  "thePriceOfEachWorkerNot": "Der Preis gilt pro Worker, nicht pro GPU. Wir berechnen Worker im Status running/starting, und die Abrechnung erfolgt sekundengenau."
+}

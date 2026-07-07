@@ -1,0 +1,4 @@
+.guidance_range_slider_tooltip {
+  user-select: none;
+  z-index: 1 !important;
+}

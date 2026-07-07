@@ -1,0 +1,14 @@
+{
+  "autoscalingChangesTakeEffectWithin5": "オートスケーリングの変更は5分以内に有効になります",
+  "autoscalingConfiguration": "オートスケーリング設定",
+  "cancel": "キャンセル",
+  "disabled": "無効",
+  "edit-530164": "編集",
+  "edit-a15b1c": "編集 (",
+  "enabled": "有効",
+  "maxReplicas": "最大レプリカ数",
+  "minReplicas": "最小レプリカ数",
+  "save": "保存",
+  "scaleDownDelay": "スケールダウン遅延",
+  "scaleToZero": "ゼロへのスケーリング"
+}

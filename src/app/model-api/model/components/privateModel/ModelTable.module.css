@@ -1,0 +1,50 @@
+.content {
+  position: relative;
+  margin-top: 24px;
+  overflow: hidden;
+}
+
+.content .search_input {
+  height: 48px;
+  width: 400px;
+}
+
+.table_container {
+  /* min-height: 300px; */
+  background-color: var(--background-second-bg) !important;
+  max-width: 100%;
+  overflow: hidden;
+  color: var(--black) !important;
+}
+
+.note_td {
+  max-width: 300px;
+  text-overflow: break-word;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.link {
+  color: #1677ff;
+}
+.link:hover {
+  color: #1677ffe5;
+}
+
+@media screen and (max-width: 1200px) {
+  .note_td {
+    max-width: 160px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .note_td {
+    max-width: 120px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .note_td {
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "configureCustomElasticScalingStrategiesThrough": "シンプルなインターフェースでカスタムのエラスティックスケーリング戦略を設定できます。テンプレートベースの作成に対応し、複雑な操作なしでリアルタイムに調整できます。",
+  "instantColdStart": "即時コールドスタート",
+  "privateImageQuickDeployment": "プライベートイメージ、クイックデプロイ",
+  "readyToUseEasyConfiguration": "すぐに使える、簡単設定",
+  "realTimeLogsMonitoring": "リアルタイムログ、モニタリング",
+  "retainAndReviewLogsInReal": "ログをリアルタイムで保持・確認できます。主要なメトリクスとタスク実行を監視し、稼働中のインスタンスを完全に可視化して、スムーズな運用を確保します。",
+  "serverlessColdStart": "サーバーレスのコールドスタート",
+  "serverlessConfig": "サーバーレス設定",
+  "serverlessConsoleDemo": "サーバーレスコンソールデモ",
+  "serverlessLog": "サーバーレスログ",
+  "supportPrivateImagePullsFromDockerhub": "DockerHub からのプライベートイメージのプル、またはカスタムイメージのアップロードに対応しています。実行中のサービスに影響を与えることなく、インスタンスを迅速にデプロイし、オンデマンドでスケールできます。",
+  "throughOptimizedPreloadingOurPlatformMinimizes": "最適化されたプリロードにより、当社のプラットフォームはコールドスタートの遅延を最小限に抑え、ビジネス運用が常に迅速に応答できるようにします。"
+}

@@ -1,0 +1,8 @@
+{
+  "engine": "引擎",
+  "instanceConfiguration": "实例配置",
+  "lora": "LoRA",
+  "loraAdapters": "LoRA 适配器",
+  "model": "模型",
+  "readOnly": "只读"
+}

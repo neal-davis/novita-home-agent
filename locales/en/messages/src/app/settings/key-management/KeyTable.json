@@ -1,0 +1,11 @@
+{
+  "apiKey": "API Key",
+  "createdBy": "Created By",
+  "creationTime": "Creation Time",
+  "deleteSuccessfully": "Delete successfully",
+  "expirationTime": "Expiration Time",
+  "keyName": "Key Name",
+  "lastUsed": "Last Used",
+  "operation": "Operation",
+  "permanentValidity": "Permanent validity"
+}

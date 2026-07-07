@@ -1,0 +1,5612 @@
+{
+  "issues": [
+    {
+      "context": "unsupportedAttribute:containerClassName",
+      "file": "src/app/affiliate-new/components/Header.tsx",
+      "hash": "004dc5df",
+      "kind": "stringLiteral",
+      "text": "!w-full sm:!w-full md:!w-full lg:!w-full xl:!w-full 2xl:!w-full [&>div]:!max-w-full [&>div]:md:!max-w-full"
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/affiliate-new/components/Questions.tsx",
+      "hash": "50a1702b",
+      "kind": "stringLiteral",
+      "text": "Once you join the program, you'll get a unique affiliate link. When someone signs up and tops up credits through your link, you'll earn 10% commission on their credit spend for up to 180 days."
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/affiliate-new/components/Questions.tsx",
+      "hash": "ef4079a2",
+      "kind": "stringLiteral",
+      "text": "No, a website or blog isn't required. You can share your affiliate link through social media, newsletters, YouTube, online communities, or anywhere you engage with your audience."
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/affiliate-new/components/Questions.tsx",
+      "hash": "1275fe7b",
+      "kind": "stringLiteral",
+      "text": "Yes. We use a 60-day cookie to track referrals. If a customer makes a purchase within those 60 days after visiting Novita AI, you'll still get a commission for that sale."
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/affiliate-new/components/Questions.tsx",
+      "hash": "a443817a",
+      "kind": "stringLiteral",
+      "text": "Ongoing commissions are calculated based on your referrals' monthly usage during their first 180 days. Please note that commissions will only be paid out once your referred users collectively generate at least $50 in revenue for Novita AI."
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/affiliate-new/components/Questions.tsx",
+      "hash": "fca94d84",
+      "kind": "stringLiteral",
+      "text": "The Novita Affiliate Terms of Service can be found on the sign-up page of the Novita Affiliate Program. After clicking on the 'Join now' button, you can access and review the terms of service before completing the sign-up process."
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/affiliate-new/components/Questions.tsx",
+      "hash": "917c2566",
+      "kind": "stringLiteral",
+      "text": "Commissions are earned only on spending within the first 180 days after a user signs up. Self-referrals and any referral manipulation are strictly prohibited and may lead to account suspension. Commissions are also only valid for non-discounted credit top-ups. Any purchases made using coupons, discounts, or promotional codes are not eligible. Novita AI Baremetal products are excluded from the affiliate program."
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/affiliate-new/components/Questions.tsx",
+      "hash": "03eaa550",
+      "kind": "stringLiteral",
+      "text": "If you have more questions, you can reach out to us at iris.yang@novita.ai"
+    },
+    {
+      "context": "property:message",
+      "file": "src/app/api/chat/provider/response/convert-to-openai-compatible-responses-input.ts",
+      "hash": "c34518b3",
+      "kind": "templateExpression",
+      "text": "Results for OpenAI tool are not sent to the API when store is false"
+    },
+    {
+      "context": "property:message",
+      "file": "src/app/api/chat/provider/response/convert-to-openai-compatible-responses-input.ts",
+      "hash": "2fb414ee",
+      "kind": "templateExpression",
+      "text": "Non-OpenAI reasoning parts are not supported. Skipping reasoning part: ."
+    },
+    {
+      "context": "property:message",
+      "file": "src/app/api/chat/provider/response/convert-to-openai-compatible-responses-input.ts",
+      "hash": "03c93deb",
+      "kind": "templateExpression",
+      "text": "unsupported tool content part type:"
+    },
+    {
+      "context": "unsupportedAttribute:rowKey",
+      "file": "src/app/billing/balance-warning/components/ClientTable.tsx",
+      "hash": "cd930517",
+      "kind": "stringLiteral",
+      "text": "amount"
+    },
+    {
+      "context": "unsupportedAttribute:displayValue",
+      "file": "src/app/billing/billing-details/components/billTokenPriceFieldRenderers.tsx",
+      "hash": "d26f80c3",
+      "kind": "stringLiteral",
+      "text": "Detail"
+    },
+    {
+      "context": "unsupportedAttribute:defaultValue",
+      "file": "src/app/billing/billing-details/components/DateToggleGroup.tsx",
+      "hash": "b79266d5",
+      "kind": "stringLiteral",
+      "text": "hour"
+    },
+    {
+      "context": "unsupportedAttribute:tabsStyle",
+      "file": "src/app/billing/coding-plan/components/DailyUsageSection/index.tsx",
+      "hash": "8af68f6e",
+      "kind": "stringLiteral",
+      "text": "block"
+    },
+    {
+      "context": "unsupportedAttribute:product",
+      "file": "src/app/billing/layout.tsx",
+      "hash": "9eb6f74c",
+      "kind": "stringLiteral",
+      "text": "billing"
+    },
+    {
+      "context": "unsupportedAttribute:defaultValue",
+      "file": "src/app/build-month/components/Products.tsx",
+      "hash": "57d1b9d3",
+      "kind": "stringLiteral",
+      "text": "model-apis"
+    },
+    {
+      "context": "unsupportedAttribute:tabsStyle",
+      "file": "src/app/build-month/components/Products.tsx",
+      "hash": "a378781e",
+      "kind": "stringLiteral",
+      "text": "line"
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/build-month/components/Questions.tsx",
+      "hash": "5c187262",
+      "kind": "stringLiteral",
+      "text": "The sale runs until December 31, 2025, at 11:59 PM PST."
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/build-month/components/Questions.tsx",
+      "hash": "1cb1382a",
+      "kind": "stringLiteral",
+      "text": "No. The discount applies to all eligible pay-as-you-go usage, with no minimum spend."
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/build-month/components/Questions.tsx",
+      "hash": "baf0d31b",
+      "kind": "stringLiteral",
+      "text": "The 20% discount applies to usage during the entire Build Month period."
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/build-month/components/Questions.tsx",
+      "hash": "103cee42",
+      "kind": "stringLiteral",
+      "text": "GPU Instance discounts apply only to the first instance you launch during the campaign period."
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/build-month/components/Questions.tsx",
+      "hash": "b874a127",
+      "kind": "stringLiteral",
+      "text": "That instance will continue receiving the discounted rate as long as it remains running."
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/build-month/components/Questions.tsx",
+      "hash": "710f89cb",
+      "kind": "stringLiteral",
+      "text": "If the instance is stopped or terminated — or if you launch any additional instances — those future runs will be billed at the standard (non-discounted) price."
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/build-month/components/Questions.tsx",
+      "hash": "761d0fec",
+      "kind": "stringLiteral",
+      "text": "No. This offer cannot be combined with other promotions or existing discounts. If multiple discounts are available for the same product, the lower rate will apply. (Good news — this is our best pricing of the year.)"
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/build-month/components/Questions.tsx",
+      "hash": "30b97042",
+      "kind": "stringLiteral",
+      "text": "No. The 20% discount applies only to pay-as-you-go usage and does not apply to subscription-based or spot instance pricing."
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/build-month/components/Questions.tsx",
+      "hash": "81b62ae4",
+      "kind": "stringLiteral",
+      "text": "No additional limits apply during the promotion. Standard usage quotas and rate limits remain the same. Enterprise customers may request higher limits through our sales team."
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/build-month/components/Questions.tsx",
+      "hash": "219e2d86",
+      "kind": "stringLiteral",
+      "text": "We accept all major credit cards (Visa, MasterCard, and American Express). Enterprise clients may also request invoice billing."
+    },
+    {
+      "context": "arrayProperty:answer",
+      "file": "src/app/build-month/components/Questions.tsx",
+      "hash": "c1b2d22e",
+      "kind": "stringLiteral",
+      "text": "No. Pay-as-you-go usage is billed according to actual consumption and is non‑refundable."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/coding-plan/components/faq/faqList.ts",
+      "hash": "e03a001c",
+      "kind": "stringLiteral",
+      "text": "Can the package I purchased this time be refunded?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/coding-plan/components/faq/faqList.ts",
+      "hash": "01217037",
+      "kind": "stringLiteral",
+      "text": "Please be advised that all purchases made for this event are final and non-refundable. Once purchase is completed, no refunds will be issued under any circumstances."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/coding-plan/components/faq/faqList.ts",
+      "hash": "d3eff7ad",
+      "kind": "stringLiteral",
+      "text": "What happens when my plan's quota is exhausted and how can I monitor usage?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/coding-plan/components/faq/faqList.ts",
+      "hash": "2c49e497",
+      "kind": "stringLiteral",
+      "text": "If your plan's quota runs out, the system will automatically switch to pay-as-you-go billing using your account balance, so there is no service interruption. You can track your quota usage and account balance via real-time notifications and alerts on your Novita account dashboard."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/coding-plan/components/faq/faqList.ts",
+      "hash": "c0bece9c",
+      "kind": "stringLiteral",
+      "text": "What payment methods are supported and can I cancel my subscription anytime?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/coding-plan/components/faq/faqList.ts",
+      "hash": "cf38fc7d",
+      "kind": "stringLiteral",
+      "text": "We support multiple payment methods including credit cards (Visa, MasterCard, Amex) and debit cards. You can also cancel your subscription or disable auto-renewal at any time. Your current billing cycle will continue, and the service will stop after the cycle ends."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/coding-plan/components/faq/faqList.ts",
+      "hash": "e68d1b54",
+      "kind": "stringLiteral",
+      "text": "How do I contact support and will my plan be updated over time?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/coding-plan/components/faq/faqList.ts",
+      "hash": "dd201ba8",
+      "kind": "stringLiteral",
+      "text": "If you need technical assistance, you can reach out to us at support@novita.ai. We offer a 24-hour response time for support requests. Additionally, we constantly update our plans with new state-of-the-art (SOTA) models, which are available to existing subscribers at no extra charge."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/coding-plan/components/faq/faqList.ts",
+      "hash": "018c90ac",
+      "kind": "stringLiteral",
+      "text": "Can I purchase or upgrade a plan as an existing user?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/coding-plan/components/faq/faqList.ts",
+      "hash": "98785bba",
+      "kind": "stringLiteral",
+      "text": "Yes, both new and existing users can purchase a Coding Plan, as long as they haven't purchased one previously. Existing plan holders can also upgrade to higher-tier plans at any time, offering more features or a larger token quota."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/coding-plan/components/faq/faqList.ts",
+      "hash": "13ea93d6",
+      "kind": "stringLiteral",
+      "text": "Can multiple people share a plan and how is quota managed?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/coding-plan/components/faq/faqList.ts",
+      "hash": "f1779f3e",
+      "kind": "stringLiteral",
+      "text": "Yes, you can share your API Key with team members, but please note that the quota is shared. To ensure enough resources for your team, we recommend selecting the Max plans, which come with higher quotas suitable for team usage."
+    },
+    {
+      "context": "unsupportedAttribute:slidesPerView",
+      "file": "src/app/coding-plan/components/firstPage/Partners.tsx",
+      "hash": "df9e398b",
+      "kind": "stringLiteral",
+      "text": "auto"
+    },
+    {
+      "context": "unsupportedAttribute:direction",
+      "file": "src/app/coding-plan/components/planList/index.tsx",
+      "hash": "9c84be59",
+      "kind": "stringLiteral",
+      "text": "right"
+    },
+    {
+      "context": "property:ACCOUNT_SUMMARY",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "b023e043",
+      "kind": "stringLiteral",
+      "text": "account-summary"
+    },
+    {
+      "context": "property:NOTICE_DIALOG",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "e819d64f",
+      "kind": "stringLiteral",
+      "text": "notice-dialog"
+    },
+    {
+      "context": "property:TITLE",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "cf3ac9b6",
+      "kind": "stringLiteral",
+      "text": "title"
+    },
+    {
+      "context": "property:USERBOX_COPY_UUID",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "6e5d9e26",
+      "kind": "templateExpression",
+      "text": "__ __ __copy-uuid"
+    },
+    {
+      "context": "property:TITLE_PRICING",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "187f4d7f",
+      "kind": "templateExpression",
+      "text": "__ __ __see-pricing"
+    },
+    {
+      "context": "property:MESSAGE_CENTER",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "c81f4451",
+      "kind": "stringLiteral",
+      "text": "message-center"
+    },
+    {
+      "context": "property:DEMO_SEND_MESSAGE",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "2fc8ebb2",
+      "kind": "templateExpression",
+      "text": "__ __ __send-message"
+    },
+    {
+      "context": "property:DEMO_COPY_GENERATED_TEXT",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "5f2035f7",
+      "kind": "templateExpression",
+      "text": "__ __ __copy-generated-text"
+    },
+    {
+      "context": "property:NOTICE",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "4ff0ab97",
+      "kind": "stringLiteral",
+      "text": "notice"
+    },
+    {
+      "context": "property:USER_COPY_UUID",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "e1a97f9f",
+      "kind": "templateExpression",
+      "text": "__ __ __copy-uuid"
+    },
+    {
+      "context": "property:USER_COPY_EMAIL",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "b047c4eb",
+      "kind": "templateExpression",
+      "text": "__ __ __copy-email"
+    },
+    {
+      "context": "property:ACCOUNT_SUMMARY_VIEW",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "74f93345",
+      "kind": "templateExpression",
+      "text": "__ __ __view"
+    },
+    {
+      "context": "property:ACCOUNT_SUMMARY_VIEW_BALANCE",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "6f216277",
+      "kind": "templateExpression",
+      "text": "__ __ __view-balance"
+    },
+    {
+      "context": "property:ACCOUNT_SUMMARY_VIEW_VOUCHER",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "d6d04083",
+      "kind": "templateExpression",
+      "text": "__ __ __view-voucher"
+    },
+    {
+      "context": "property:ACCOUNT_SUMMARY_VIEW_MONTHLY_SPEND",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "6f93ca8e",
+      "kind": "templateExpression",
+      "text": "__ __ __view-monthly-spend"
+    },
+    {
+      "context": "property:ACCOUNT_SUMMARY_ADD_PAYMENT_METHOD",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "b1e76fa1",
+      "kind": "templateExpression",
+      "text": "__ __ __add-payment-method"
+    },
+    {
+      "context": "property:TEMPLATE_LIBRARY_COPY_LINK",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "e0701fcf",
+      "kind": "templateExpression",
+      "text": "__ __ __copy-link"
+    },
+    {
+      "context": "property:TEMPLATE_DETAIL_COPY_LINK",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "791a1a23",
+      "kind": "templateExpression",
+      "text": "__ __ __copy-link"
+    },
+    {
+      "context": "property:EXPLORE_CHANGE_TEMPLATE_COPY_LINK",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "894a0639",
+      "kind": "templateExpression",
+      "text": "__ __ __change-template-copy-link"
+    },
+    {
+      "context": "property:INSTANCE_CONNECT_COPY_HTTP",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "895ee887",
+      "kind": "templateExpression",
+      "text": "__ __ __connect-copy-http"
+    },
+    {
+      "context": "property:INSTANCE_CONNECT_COPY_JUPYTER",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "c0272932",
+      "kind": "templateExpression",
+      "text": "__ __ __connect-copy-jupyter"
+    },
+    {
+      "context": "property:INSTANCE_COPY_PASSWORD",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "f083ebf8",
+      "kind": "templateExpression",
+      "text": "__ __ __copy-password"
+    },
+    {
+      "context": "property:INSTANCE_COPY_SSH_TERMINAL",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "624f9816",
+      "kind": "templateExpression",
+      "text": "__ __ __copy-ssh-terminal"
+    },
+    {
+      "context": "property:TEMPLATES_COPY_TEMPLATE",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "d6c97ef9",
+      "kind": "templateExpression",
+      "text": "__ __ __copy_template"
+    },
+    {
+      "context": "property:NOTICE_DIALOG_GO_GPU_SETTINGS",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "e8a162c5",
+      "kind": "templateExpression",
+      "text": "__ __ __go-gpu-settings"
+    },
+    {
+      "context": "property:NOTICE_DIALOG_CLOSE",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "5022c963",
+      "kind": "templateExpression",
+      "text": "__ __ __close"
+    },
+    {
+      "context": "property:NOTICE_DIALOG_CONFIRM",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "9277cd07",
+      "kind": "templateExpression",
+      "text": "__ __ __confirm"
+    },
+    {
+      "context": "property:TEAM_INVITE_MEMBERS_COPY_LINK",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "13c2895d",
+      "kind": "templateExpression",
+      "text": "__ __ __invite-members-copy-link"
+    },
+    {
+      "context": "property:TEAM_MEMBER_COPY_INVITE_LINK",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "2fccf47a",
+      "kind": "templateExpression",
+      "text": "__ __ __member-copy-invite-link"
+    },
+    {
+      "context": "property:AUDIT_LOGS_SELECTED_ACTION",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "b69c59b3",
+      "kind": "templateExpression",
+      "text": "__ __ __selected-action"
+    },
+    {
+      "context": "property:BILLING_DETAIL_USAGE_BASED_SUMMARY_SUB_TAB",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "e3b2355b",
+      "kind": "templateExpression",
+      "text": "__ __ __usage-based-summary-sub-tab"
+    },
+    {
+      "context": "property:BILLING_DETAIL_FIXED_TERM_SUMMARY_SUB_TAB",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "9793c96e",
+      "kind": "templateExpression",
+      "text": "__ __ __fixed-term-summary-sub-tab"
+    },
+    {
+      "context": "property:BUTTON_CLICK",
+      "file": "src/app/components/analytics/constants.ts",
+      "hash": "54682d7e",
+      "kind": "stringLiteral",
+      "text": "btn_click"
+    },
+    {
+      "context": "unsupportedAttribute:controlsList",
+      "file": "src/app/components/audioPlayer/AudioPlayer.tsx",
+      "hash": "9c99f9fe",
+      "kind": "stringLiteral",
+      "text": "noplaybackrate nodownload"
+    },
+    {
+      "context": "unsupportedAttribute:link",
+      "file": "src/app/components/billing/Billing.tsx",
+      "hash": "19f88ad2",
+      "kind": "stringLiteral",
+      "text": "mailto:sales@novita.ai"
+    },
+    {
+      "context": "return:Button",
+      "file": "src/app/components/button/Button.tsx",
+      "hash": "86c91825",
+      "kind": "stringLiteral",
+      "text": "link"
+    },
+    {
+      "context": "unsupportedAttribute:aria-live",
+      "file": "src/app/components/campaigns/ConsoleBanner.tsx",
+      "hash": "7ab62843",
+      "kind": "stringLiteral",
+      "text": "polite"
+    },
+    {
+      "context": "unsupportedAttribute:aria-live",
+      "file": "src/app/components/campaigns/HomeCampaignBanner.tsx",
+      "hash": "cde22468",
+      "kind": "stringLiteral",
+      "text": "polite"
+    },
+    {
+      "context": "property:negative_prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "061a5662",
+      "kind": "stringLiteral",
+      "text": "(worst quality:1.5), (low quality:1.5), (normal quality:1.5), anime, cartoon, painting, drawing, illustration, manga, sketch, nudity, young, child, hairband, headband, horns, lowres, bad anatomy, bad hands, multiple eyebrow, (cropped), extra limb, missing limbs, deformed hands, long neck, long body, long torso, (bad hands), signature, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, grain, jpeg artifacts"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "dba1aad1",
+      "kind": "stringLiteral",
+      "text": "realistic, photograph, (masterpiece), 8k quality, (detailed eyes:1.2), (highest quality:1.1), highly detailed, majestic, top quality, best quality, newest, ai-generated, (intricate details:1.1), extremely beautiful, elegant, majestic, immersive background+, (detailed face, perfect face),On the soft sand of a beach at sunset, a young couple walks holding hands, leaving footprints that blend with the waves that kiss the shore. The boy, in a linen shirt that flutters in the sea breeze, looks at the girl with a warm smile. She, wearing a light dress that reflects the pink tones of the sky, looks back with eyes bright with happiness. Around you, the world seems to stop, capturing a perfect moment of connection and serenity, full body,"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "655c63b1",
+      "kind": "stringLiteral",
+      "text": "At the heart of a verdant forest, a playful otter dives into a crystal stream, sending ripples across the surface. Moments later, it pops up with water glistening on its sleek fur, bright eyes twinkling. Shot through a fish-eye lens, the scene's edges warp slightly, capturing both the otter's fluid motion and the forest's vibrant energy in intimate detail."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "7c6fdde6",
+      "kind": "stringLiteral",
+      "text": "A large sumo wrestler wearing a traditional mawashi (loincloth) performs a 360° tuck rotation from a 10-meter diving platform into a crystal-clear swimming pool. Despite his substantial size, the moment of entry creates only minimal splashes, creating a striking visual contrast. The athlete's expression shows intense focus, demonstrating a fusion of power and grace. The scene is set in an Olympic-style aquatics center, with dynamic camera movement and close-up shots."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "6f7db865",
+      "kind": "stringLiteral",
+      "text": "A cute panda is walking in the grassland slowly."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "9395e1d0",
+      "kind": "stringLiteral",
+      "text": "A female detective with short blond hair, wearing a red trench coat, runs through city streets on a rainy night. The camera follows her from the side and behind, synchronizing her footsteps, the movement of her coat, raindrops, and reflections of lights. She finally stops under neon signs and looks up at the camera."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "fa305589",
+      "kind": "stringLiteral",
+      "text": "In the early morning, a drone flies low across the surface of the sea, rapidly ascending after passing a nearby small island. The camera automatically shifts from shallow to deep depth of field, while the lighting gradually changes from orange-red to bluish tones."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "8ebedfa5",
+      "kind": "stringLiteral",
+      "text": "As the boy glides along on his skateboard, a lively and adorable dog runs by his side, sometimes speeding up and sometimes leaping, mirroring the boy's skateboarding moves in perfect sync. Their movements are fluid and rhythmically continuous throughout."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "b2f11434",
+      "kind": "stringLiteral",
+      "text": "A cute dog standing up from a sitting position while wearing sunglasses"
+    },
+    {
+      "context": "property:negative_prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "0044ccff",
+      "kind": "stringLiteral",
+      "text": "low quality"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "47b55858",
+      "kind": "stringLiteral",
+      "text": "Daredevil stood high, behind him, looking down."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "548ff00d",
+      "kind": "stringLiteral",
+      "text": "A cute panda is walking in the grassland slowly"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "c0a294bc",
+      "kind": "stringLiteral",
+      "text": "A gentleman leans on a retro-futuristic car under a streetlight, zooming out revealing classic design elements in a timeless, nostalgic style."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "10b71405",
+      "kind": "stringLiteral",
+      "text": "A girl, baby, portrait, 5 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "4cc1ed4e",
+      "kind": "stringLiteral",
+      "text": "A girl, child, portrait, 10 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "36bc0460",
+      "kind": "stringLiteral",
+      "text": "A girl, teen, portrait, 20 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "e666d149",
+      "kind": "stringLiteral",
+      "text": "A girl, woman, portrait, 30 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "f45c1f29",
+      "kind": "stringLiteral",
+      "text": "A girl, woman, portrait, 50 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "157e7212",
+      "kind": "stringLiteral",
+      "text": "A girl, old woman, portrait, 70 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "d2359f7c",
+      "kind": "stringLiteral",
+      "text": "Spider man, super hero, marvel, fighting"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "3686bedc",
+      "kind": "stringLiteral",
+      "text": "Iron man, superhero, marvel, fighting"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "2827a479",
+      "kind": "stringLiteral",
+      "text": "Captain America, super hero, marvel, fighting"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "cfc28743",
+      "kind": "stringLiteral",
+      "text": "Thor, super hero, marvel, fighting"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "a35fab52",
+      "kind": "stringLiteral",
+      "text": "Hulk, super hero, marvel, fighting"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "0ac726d8",
+      "kind": "stringLiteral",
+      "text": "Black Widow, superhero, marvel, fighting"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "80fc8d67",
+      "kind": "stringLiteral",
+      "text": "Hawkeye, super hero, marvel, fighting"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "99a7193e",
+      "kind": "stringLiteral",
+      "text": "War Machine, super hero, marvel, fighting"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "3ff6b52b",
+      "kind": "stringLiteral",
+      "text": "A portrait of a girl, upper body, 5 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "e90c5400",
+      "kind": "stringLiteral",
+      "text": "A portrait of a teen, school, upper body, 15 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "a92827b3",
+      "kind": "stringLiteral",
+      "text": "A portrait of a woman, business, upper body, 25 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "0e1555a3",
+      "kind": "stringLiteral",
+      "text": "A portrait of a woman, upper body, 45 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "ab866004",
+      "kind": "stringLiteral",
+      "text": "A portrait of a old woman, upper body, 70 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "2257c41d",
+      "kind": "stringLiteral",
+      "text": "a room with a bed and a desk in it,Weathered furniture,Dilapidated wallpaper,Worn-out floorboards,Tattered curtains,Faded upholstery,Cracked window panes,Broken light fixtures,Peeling paint,Rusty metal accents,Dusty surfaces,Cobweb-covered corners,Stained bedding,Scratched desk surface,Chipped wooden frame,Frayed edges on rugs,Aged and distressed textures,Scuffed chair legs,Worn-out bookshelves,Flickering, dim lighting,Crumbling plaster on walls"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "c548c5b5",
+      "kind": "stringLiteral",
+      "text": "A portrait of a girl, child, upper body, 5 years old, masterpiece, best quality"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "6cb77a4b",
+      "kind": "stringLiteral",
+      "text": "A portrait of a girl, teen, school, upper body, 15 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "05469481",
+      "kind": "stringLiteral",
+      "text": "A portrait of a woman, young, business, upper body, 25 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "661be98f",
+      "kind": "stringLiteral",
+      "text": "A portrait of a woman, middle-aged, upper body, 45 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "a43b36dc",
+      "kind": "stringLiteral",
+      "text": "A portrait of a woman, middle-aged and elderly, upper body, 55 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "f172d54b",
+      "kind": "stringLiteral",
+      "text": "A portrait of an old woman, upper body, 70 years old"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "0d2349a5",
+      "kind": "stringLiteral",
+      "text": "A white light came on, a big earthquake broke out and the city began to collapse."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "a072eee8",
+      "kind": "stringLiteral",
+      "text": "The Daredevil appeared and ran to the depths of the ruins alone."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "ad0259b2",
+      "kind": "stringLiteral",
+      "text": "Daredevil and Echo Fight"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "ee22daae",
+      "kind": "stringLiteral",
+      "text": "Luxury suite design, Spacious suite area, Luxuriously plush large bed, Refined office desk, Carefully selected furniture for the luxurious suite, High-end and opulent decor, Private office and lounge area, Comfortably luxurious office chair, Amenities for luxury travelers, Premium bedding and linens, Uniquely designed lighting fixtures, Luxurious suite curtain design, Private work corner, Luxurious amenities, Lavish lounge area, Sophisticated indoor plant, decorations, Exquisite luxury design, Exclusive services for the luxury suite, Luxury color scheme. Exclusive furniture for the luxury suite, a bedroom with a large bed and a desk,"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "ba9dd10a",
+      "kind": "stringLiteral",
+      "text": "Panoramic Earth view, Advanced space hotel design, Tech-centric room layout, Futuristic-tech-style bedding, High-tech control panels, Smart room decor, Private resting area within astronaut-like cabin, Striking space window design, Space observation platform, Advanced virtual reality experiences, High-tech lighting systems, Sci-fi-themed wall decorations, Intelligent living spaces, Cutting-edge space-themed furniture, Space-station-level environmental control, Highly futuristic technological facilities, Sci-fi-inspired spatial layout, Surreal visual effects, State-of-the-art aerospace installations, Advanced technological services in the space hotel, a futuristic space station with a view of the earth, concept art by Otto Pilny, cgsociety, space art, futuristic, sci-fi, unreal engine 5,"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "04ae115b",
+      "kind": "stringLiteral",
+      "text": "realistic, photograph, (masterpiece), 8k quality, (detailed eyes:1.2), (highest quality:1.1), highly detailed, majestic, top quality, best quality, newest, ai-generated, (intricate details:1.1), extremely beautiful, elegant, majestic, immersive background+, (detailed face, perfect face), In the heart of a vibrant garden, a girl with red hair and brown eyes sits in contemplation of the nature around her."
+    },
+    {
+      "context": "property:negative_prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "e91f834a",
+      "kind": "stringLiteral",
+      "text": "glasses hat freckles mask necklace shine earrings weapon"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/defaultCases.ts",
+      "hash": "fb3d7ef2",
+      "kind": "stringLiteral",
+      "text": "Future world, future, science fiction film, science fiction, astronauts walking in a spaceship, astronauts, close-up of upper body, open hands, equipment glowing on the wall, technologically advanced spaceships"
+    },
+    {
+      "context": "property:prompt_empty_tips",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "9ffa21ef",
+      "kind": "stringLiteral",
+      "text": "Prompt is empty"
+    },
+    {
+      "context": "property:prompt_invalid",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "39e2c37c",
+      "kind": "stringLiteral",
+      "text": "Prompts invalid!"
+    },
+    {
+      "context": "property:prompt_empty_object_tips",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "d5cf23ad",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the object you want to replace"
+    },
+    {
+      "context": "property:prompt_empty_new_object_tips",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "598a4190",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the new object you want to generate"
+    },
+    {
+      "context": "property:prompt_limit_tips",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "2e03fcea",
+      "kind": "stringLiteral",
+      "text": "Prompt length should be less than"
+    },
+    {
+      "context": "property:some_prompt_empty_tips",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "fe1460a5",
+      "kind": "stringLiteral",
+      "text": "There are empty prompt values."
+    },
+    {
+      "context": "property:tips_title",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "b34e4176",
+      "kind": "stringLiteral",
+      "text": "Tips: The difference of base image and face image"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "dffe887d",
+      "kind": "stringLiteral",
+      "text": "Description of the tile you want to generate"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "4bfb62e6",
+      "kind": "stringLiteral",
+      "text": "Description of the tile that you want to avoid generating"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "4ce25601",
+      "kind": "stringLiteral",
+      "text": "Prompt"
+    },
+    {
+      "context": "property:prompt_description",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "a898d16b",
+      "kind": "stringLiteral",
+      "text": "Enter your prompt here"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "4d2f7c55",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:negative_prompt",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "8921b6e6",
+      "kind": "stringLiteral",
+      "text": "Negative Prompt"
+    },
+    {
+      "context": "property:negative_prompt_description",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "9cf7bb39",
+      "kind": "stringLiteral",
+      "text": "Negative prompt"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "32cda1f4",
+      "kind": "stringLiteral",
+      "text": "What you want to avoid generating..."
+    },
+    {
+      "context": "property:initial_image_description",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "b4afdc71",
+      "kind": "stringLiteral",
+      "text": "upload image"
+    },
+    {
+      "context": "property:initial_image_placeholder",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "3ac76511",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:sd3_placeholder",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "de5320ad",
+      "kind": "stringLiteral",
+      "text": "Long, detailed prompts up to 10,000 characters. But the longer and more complex the prompt, the more likely something will be missing. Avoid negative prompts."
+    },
+    {
+      "context": "property:replace_bg_placeholder",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "d18aa30b",
+      "kind": "stringLiteral",
+      "text": "Description of the background you want..."
+    },
+    {
+      "context": "property:object_prompt",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "ef7aa0f1",
+      "kind": "stringLiteral",
+      "text": "Object Prompt"
+    },
+    {
+      "context": "property:object_prompt_placeholder",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "6661d96c",
+      "kind": "stringLiteral",
+      "text": "Description of the object in the image you want to replace"
+    },
+    {
+      "context": "property:replace_prompt",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "e5dd94db",
+      "kind": "stringLiteral",
+      "text": "Replace Prompt"
+    },
+    {
+      "context": "property:replace_prompt_placeholder",
+      "file": "src/app/components/demos/Hunyuan-video-fast/index.tsx",
+      "hash": "331e2dd0",
+      "kind": "stringLiteral",
+      "text": "Description of the new object you want to put in the image"
+    },
+    {
+      "context": "property:placeholder",
+      "file": "src/app/components/demos/Img2Img/index.tsx",
+      "hash": "5b771240",
+      "kind": "stringLiteral",
+      "text": "Long, detailed prompts up to 10,000 characters. But the longer and more complex the prompt, the more likely something will be missing. Avoid negative prompts."
+    },
+    {
+      "context": "unsupportedAttribute:defaultActiveKey",
+      "file": "src/app/components/demos/Img2Img/index.tsx",
+      "hash": "0c1f8db2",
+      "kind": "stringLiteral",
+      "text": "essential"
+    },
+    {
+      "context": "unsupportedAttribute:wrapClassName",
+      "file": "src/app/components/demos/Inpainting/Inpainting.tsx",
+      "hash": "7a4bca8a",
+      "kind": "stringLiteral",
+      "text": "modellist_modal_wrapper"
+    },
+    {
+      "context": "unsupportedAttribute:wrapClassName",
+      "file": "src/app/components/demos/Inpainting/Inpainting.tsx",
+      "hash": "2e1e6f98",
+      "kind": "stringLiteral",
+      "text": "vae_modellist_modal_wrapper"
+    },
+    {
+      "context": "unsupportedAttribute:defaultActiveKey",
+      "file": "src/app/components/demos/Inpainting/Inpainting.tsx",
+      "hash": "a0ea90c8",
+      "kind": "stringLiteral",
+      "text": "essential"
+    },
+    {
+      "context": "property:prompt_empty_tips",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "27e23fc0",
+      "kind": "stringLiteral",
+      "text": "Prompt is empty"
+    },
+    {
+      "context": "property:prompt_invalid",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "322fb7e4",
+      "kind": "stringLiteral",
+      "text": "Prompts invalid!"
+    },
+    {
+      "context": "property:prompt_empty_object_tips",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "ccab79fb",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the object you want to replace"
+    },
+    {
+      "context": "property:prompt_empty_new_object_tips",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "eb21b8c3",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the new object you want to generate"
+    },
+    {
+      "context": "property:prompt_limit_tips",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "326e9dc9",
+      "kind": "stringLiteral",
+      "text": "Prompt length should be less than"
+    },
+    {
+      "context": "property:some_prompt_empty_tips",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "c36f2fe2",
+      "kind": "stringLiteral",
+      "text": "There are empty prompt values."
+    },
+    {
+      "context": "property:tips_title",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "4253ae56",
+      "kind": "stringLiteral",
+      "text": "Tips: The difference of base image and face image"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "e8bd21ff",
+      "kind": "stringLiteral",
+      "text": "Description of the tile you want to generate"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "a48d3d22",
+      "kind": "stringLiteral",
+      "text": "Description of the tile that you want to avoid generating"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "6cb7b025",
+      "kind": "stringLiteral",
+      "text": "Prompt"
+    },
+    {
+      "context": "property:prompt_description",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "c8f01ddf",
+      "kind": "stringLiteral",
+      "text": "Enter your prompt here"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "7aba3533",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:negative_prompt",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "4a6522d5",
+      "kind": "stringLiteral",
+      "text": "Negative Prompt"
+    },
+    {
+      "context": "property:negative_prompt_description",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "4e629f5e",
+      "kind": "stringLiteral",
+      "text": "Negative prompt"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "3c108cf6",
+      "kind": "stringLiteral",
+      "text": "What you want to avoid generating..."
+    },
+    {
+      "context": "property:initial_image_description",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "870c6400",
+      "kind": "stringLiteral",
+      "text": "upload image"
+    },
+    {
+      "context": "property:initial_image_placeholder",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "531f71e4",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:sd3_placeholder",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "dac3f5df",
+      "kind": "stringLiteral",
+      "text": "Long, detailed prompts up to 10,000 characters. But the longer and more complex the prompt, the more likely something will be missing. Avoid negative prompts."
+    },
+    {
+      "context": "property:replace_bg_placeholder",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "64edee43",
+      "kind": "stringLiteral",
+      "text": "Description of the background you want..."
+    },
+    {
+      "context": "property:object_prompt",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "0456d301",
+      "kind": "stringLiteral",
+      "text": "Object Prompt"
+    },
+    {
+      "context": "property:object_prompt_placeholder",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "a10e8b4f",
+      "kind": "stringLiteral",
+      "text": "Description of the object in the image you want to replace"
+    },
+    {
+      "context": "property:replace_prompt",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "3205a3eb",
+      "kind": "stringLiteral",
+      "text": "Replace Prompt"
+    },
+    {
+      "context": "property:replace_prompt_placeholder",
+      "file": "src/app/components/demos/KlingV16I2v/index.tsx",
+      "hash": "f321fbb7",
+      "kind": "stringLiteral",
+      "text": "Description of the new object you want to put in the image"
+    },
+    {
+      "context": "property:prompt_empty_tips",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "1df5d603",
+      "kind": "stringLiteral",
+      "text": "Prompt is empty"
+    },
+    {
+      "context": "property:prompt_invalid",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "33d63257",
+      "kind": "stringLiteral",
+      "text": "Prompts invalid!"
+    },
+    {
+      "context": "property:prompt_empty_object_tips",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "8fe40bfc",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the object you want to replace"
+    },
+    {
+      "context": "property:prompt_empty_new_object_tips",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "b5a6e1d3",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the new object you want to generate"
+    },
+    {
+      "context": "property:prompt_limit_tips",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "8bf4ed1c",
+      "kind": "stringLiteral",
+      "text": "Prompt length should be less than"
+    },
+    {
+      "context": "property:some_prompt_empty_tips",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "6e0ab816",
+      "kind": "stringLiteral",
+      "text": "There are empty prompt values."
+    },
+    {
+      "context": "property:tips_title",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "8181b478",
+      "kind": "stringLiteral",
+      "text": "Tips: The difference of base image and face image"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "523e65a6",
+      "kind": "stringLiteral",
+      "text": "Description of the tile you want to generate"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "a8fbec3a",
+      "kind": "stringLiteral",
+      "text": "Description of the tile that you want to avoid generating"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "2e622cdb",
+      "kind": "stringLiteral",
+      "text": "Prompt"
+    },
+    {
+      "context": "property:prompt_description",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "1a63caad",
+      "kind": "stringLiteral",
+      "text": "Enter your prompt here"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "b8628d40",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:negative_prompt",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "83e5c775",
+      "kind": "stringLiteral",
+      "text": "Negative Prompt"
+    },
+    {
+      "context": "property:negative_prompt_description",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "57ec5cb4",
+      "kind": "stringLiteral",
+      "text": "Negative prompt"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "ce9ea346",
+      "kind": "stringLiteral",
+      "text": "What you want to avoid generating..."
+    },
+    {
+      "context": "property:initial_image_description",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "d248b05e",
+      "kind": "stringLiteral",
+      "text": "upload image"
+    },
+    {
+      "context": "property:initial_image_placeholder",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "8288e9f1",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:sd3_placeholder",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "00f7e7a5",
+      "kind": "stringLiteral",
+      "text": "Long, detailed prompts up to 10,000 characters. But the longer and more complex the prompt, the more likely something will be missing. Avoid negative prompts."
+    },
+    {
+      "context": "property:replace_bg_placeholder",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "de131997",
+      "kind": "stringLiteral",
+      "text": "Description of the background you want..."
+    },
+    {
+      "context": "property:object_prompt",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "44305241",
+      "kind": "stringLiteral",
+      "text": "Object Prompt"
+    },
+    {
+      "context": "property:object_prompt_placeholder",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "020c0da6",
+      "kind": "stringLiteral",
+      "text": "Description of the object in the image you want to replace"
+    },
+    {
+      "context": "property:replace_prompt",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "f6b2b946",
+      "kind": "stringLiteral",
+      "text": "Replace Prompt"
+    },
+    {
+      "context": "property:replace_prompt_placeholder",
+      "file": "src/app/components/demos/KlingV16T2v/index.tsx",
+      "hash": "10c2f38f",
+      "kind": "stringLiteral",
+      "text": "Description of the new object you want to put in the image"
+    },
+    {
+      "context": "property:prompt_empty_tips",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "7ebe8f3b",
+      "kind": "stringLiteral",
+      "text": "Prompt is empty"
+    },
+    {
+      "context": "property:prompt_invalid",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "2a0a03aa",
+      "kind": "stringLiteral",
+      "text": "Prompts invalid!"
+    },
+    {
+      "context": "property:prompt_empty_object_tips",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "d63c30b2",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the object you want to replace"
+    },
+    {
+      "context": "property:prompt_empty_new_object_tips",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "003129cc",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the new object you want to generate"
+    },
+    {
+      "context": "property:prompt_limit_tips",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "70f4a857",
+      "kind": "stringLiteral",
+      "text": "Prompt length should be less than"
+    },
+    {
+      "context": "property:some_prompt_empty_tips",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "b1687bd4",
+      "kind": "stringLiteral",
+      "text": "There are empty prompt values."
+    },
+    {
+      "context": "property:tips_title",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "03164cc9",
+      "kind": "stringLiteral",
+      "text": "Tips: The difference of base image and face image"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "6d661a56",
+      "kind": "stringLiteral",
+      "text": "Description of the tile you want to generate"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "6f680819",
+      "kind": "stringLiteral",
+      "text": "Description of the tile that you want to avoid generating"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "b690cf40",
+      "kind": "stringLiteral",
+      "text": "Prompt"
+    },
+    {
+      "context": "property:prompt_description",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "57a84c30",
+      "kind": "stringLiteral",
+      "text": "Enter your prompt here"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "6fa709f7",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:negative_prompt",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "65a1cfba",
+      "kind": "stringLiteral",
+      "text": "Negative Prompt"
+    },
+    {
+      "context": "property:negative_prompt_description",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "432cd9d0",
+      "kind": "stringLiteral",
+      "text": "Negative prompt"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "c9558f0e",
+      "kind": "stringLiteral",
+      "text": "What you want to avoid generating..."
+    },
+    {
+      "context": "property:initial_image_description",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "13a66550",
+      "kind": "stringLiteral",
+      "text": "upload image"
+    },
+    {
+      "context": "property:initial_image_placeholder",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "54a6d9ef",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:sd3_placeholder",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "f1aa2040",
+      "kind": "stringLiteral",
+      "text": "Long, detailed prompts up to 10,000 characters. But the longer and more complex the prompt, the more likely something will be missing. Avoid negative prompts."
+    },
+    {
+      "context": "property:replace_bg_placeholder",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "b260c13e",
+      "kind": "stringLiteral",
+      "text": "Description of the background you want..."
+    },
+    {
+      "context": "property:object_prompt",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "6e07810d",
+      "kind": "stringLiteral",
+      "text": "Object Prompt"
+    },
+    {
+      "context": "property:object_prompt_placeholder",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "660a1d3a",
+      "kind": "stringLiteral",
+      "text": "Description of the object in the image you want to replace"
+    },
+    {
+      "context": "property:replace_prompt",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "f27552e8",
+      "kind": "stringLiteral",
+      "text": "Replace Prompt"
+    },
+    {
+      "context": "property:replace_prompt_placeholder",
+      "file": "src/app/components/demos/MinimaxHailuo02/index.tsx",
+      "hash": "bcaf3775",
+      "kind": "stringLiteral",
+      "text": "Description of the new object you want to put in the image"
+    },
+    {
+      "context": "property:prompt_empty_tips",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "0a289740",
+      "kind": "stringLiteral",
+      "text": "Prompt is empty"
+    },
+    {
+      "context": "property:prompt_invalid",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "cc5374cd",
+      "kind": "stringLiteral",
+      "text": "Prompts invalid!"
+    },
+    {
+      "context": "property:prompt_empty_object_tips",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "06cad8b3",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the object you want to replace"
+    },
+    {
+      "context": "property:prompt_empty_new_object_tips",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "35a0dd99",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the new object you want to generate"
+    },
+    {
+      "context": "property:prompt_limit_tips",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "02037518",
+      "kind": "stringLiteral",
+      "text": "Prompt length should be less than"
+    },
+    {
+      "context": "property:some_prompt_empty_tips",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "a236e92a",
+      "kind": "stringLiteral",
+      "text": "There are empty prompt values."
+    },
+    {
+      "context": "property:tips_title",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "3ff14f7d",
+      "kind": "stringLiteral",
+      "text": "Tips: The difference of base image and face image"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "21cffddc",
+      "kind": "stringLiteral",
+      "text": "Description of the tile you want to generate"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "37213bb1",
+      "kind": "stringLiteral",
+      "text": "Description of the tile that you want to avoid generating"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "d006badc",
+      "kind": "stringLiteral",
+      "text": "Prompt"
+    },
+    {
+      "context": "property:prompt_description",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "1ada1f18",
+      "kind": "stringLiteral",
+      "text": "Enter your prompt here"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "ee275dda",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:negative_prompt",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "2bc6923b",
+      "kind": "stringLiteral",
+      "text": "Negative Prompt"
+    },
+    {
+      "context": "property:negative_prompt_description",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "41a0f693",
+      "kind": "stringLiteral",
+      "text": "Negative prompt"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "d0de795c",
+      "kind": "stringLiteral",
+      "text": "What you want to avoid generating..."
+    },
+    {
+      "context": "property:initial_image_description",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "e1ea05fa",
+      "kind": "stringLiteral",
+      "text": "upload image"
+    },
+    {
+      "context": "property:initial_image_placeholder",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "9711b98c",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:sd3_placeholder",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "d86468e3",
+      "kind": "stringLiteral",
+      "text": "Long, detailed prompts up to 10,000 characters. But the longer and more complex the prompt, the more likely something will be missing. Avoid negative prompts."
+    },
+    {
+      "context": "property:replace_bg_placeholder",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "ba7d1990",
+      "kind": "stringLiteral",
+      "text": "Description of the background you want..."
+    },
+    {
+      "context": "property:object_prompt",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "a2ffc6ae",
+      "kind": "stringLiteral",
+      "text": "Object Prompt"
+    },
+    {
+      "context": "property:object_prompt_placeholder",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "d314621a",
+      "kind": "stringLiteral",
+      "text": "Description of the object in the image you want to replace"
+    },
+    {
+      "context": "property:replace_prompt",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "c0b2a14c",
+      "kind": "stringLiteral",
+      "text": "Replace Prompt"
+    },
+    {
+      "context": "property:replace_prompt_placeholder",
+      "file": "src/app/components/demos/MinimaxVideo01/index.tsx",
+      "hash": "268c7e41",
+      "kind": "stringLiteral",
+      "text": "Description of the new object you want to put in the image"
+    },
+    {
+      "context": "unsupportedAttribute:accept",
+      "file": "src/app/components/demos/MotionSync/MotionSync.tsx",
+      "hash": "26b7dd0a",
+      "kind": "stringLiteral",
+      "text": ".mp4"
+    },
+    {
+      "context": "unsupportedAttribute:defaultActiveKey",
+      "file": "src/app/components/demos/SDXL/index.tsx",
+      "hash": "988cb638",
+      "kind": "stringLiteral",
+      "text": "essential"
+    },
+    {
+      "context": "property:placeholder",
+      "file": "src/app/components/demos/Txt2Img/index.tsx",
+      "hash": "95d54c5c",
+      "kind": "stringLiteral",
+      "text": "Long, detailed prompts up to 10,000 characters. But the longer and more complex the prompt, the more likely something will be missing. Avoid negative prompts."
+    },
+    {
+      "context": "unsupportedAttribute:defaultActiveKey",
+      "file": "src/app/components/demos/Txt2Img/index.tsx",
+      "hash": "c16a4ef3",
+      "kind": "stringLiteral",
+      "text": "essential"
+    },
+    {
+      "context": "unsupportedAttribute:tipsTitle",
+      "file": "src/app/components/demos/Wan-i2v/components/ResultContent.tsx",
+      "hash": "0af280d7",
+      "kind": "stringLiteral",
+      "text": "NSFW Filter Enabled"
+    },
+    {
+      "context": "unsupportedAttribute:tipsMessage",
+      "file": "src/app/components/demos/Wan-i2v/components/ResultContent.tsx",
+      "hash": "8842b4ba",
+      "kind": "stringLiteral",
+      "text": "Videos with unsafe content will be blocked. GPU usage may still incur charges even if output is blacked out."
+    },
+    {
+      "context": "property:prompt_empty_tips",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "0e8072cc",
+      "kind": "stringLiteral",
+      "text": "Prompt is empty"
+    },
+    {
+      "context": "property:prompt_invalid",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "980cfeca",
+      "kind": "stringLiteral",
+      "text": "Prompts invalid!"
+    },
+    {
+      "context": "property:prompt_empty_object_tips",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "d5438cc7",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the object you want to replace"
+    },
+    {
+      "context": "property:prompt_empty_new_object_tips",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "b696bfb0",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the new object you want to generate"
+    },
+    {
+      "context": "property:prompt_limit_tips",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "b7e80b91",
+      "kind": "stringLiteral",
+      "text": "Prompt length should be less than"
+    },
+    {
+      "context": "property:some_prompt_empty_tips",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "c3f1da4a",
+      "kind": "stringLiteral",
+      "text": "There are empty prompt values."
+    },
+    {
+      "context": "property:tips_title",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "d7f9320d",
+      "kind": "stringLiteral",
+      "text": "Tips: The difference of base image and face image"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "49a43bb5",
+      "kind": "stringLiteral",
+      "text": "Description of the tile you want to generate"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "b9b6ad76",
+      "kind": "stringLiteral",
+      "text": "Description of the tile that you want to avoid generating"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "4a0a5f7a",
+      "kind": "stringLiteral",
+      "text": "Prompt"
+    },
+    {
+      "context": "property:prompt_description",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "e973e375",
+      "kind": "stringLiteral",
+      "text": "Enter your prompt here"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "f3f7b845",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:negative_prompt",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "2a147200",
+      "kind": "stringLiteral",
+      "text": "Negative Prompt"
+    },
+    {
+      "context": "property:negative_prompt_description",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "24ee27ef",
+      "kind": "stringLiteral",
+      "text": "Negative prompt"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "273e0044",
+      "kind": "stringLiteral",
+      "text": "What you want to avoid generating..."
+    },
+    {
+      "context": "property:initial_image_description",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "34f0c9e1",
+      "kind": "stringLiteral",
+      "text": "upload image"
+    },
+    {
+      "context": "property:initial_image_placeholder",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "c083a70a",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:sd3_placeholder",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "63e33211",
+      "kind": "stringLiteral",
+      "text": "Long, detailed prompts up to 10,000 characters. But the longer and more complex the prompt, the more likely something will be missing. Avoid negative prompts."
+    },
+    {
+      "context": "property:replace_bg_placeholder",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "924de238",
+      "kind": "stringLiteral",
+      "text": "Description of the background you want..."
+    },
+    {
+      "context": "property:object_prompt",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "c1f356fa",
+      "kind": "stringLiteral",
+      "text": "Object Prompt"
+    },
+    {
+      "context": "property:object_prompt_placeholder",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "4479b923",
+      "kind": "stringLiteral",
+      "text": "Description of the object in the image you want to replace"
+    },
+    {
+      "context": "property:replace_prompt",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "2a4fa44e",
+      "kind": "stringLiteral",
+      "text": "Replace Prompt"
+    },
+    {
+      "context": "property:replace_prompt_placeholder",
+      "file": "src/app/components/demos/Wan-i2v/index.tsx",
+      "hash": "1f04195f",
+      "kind": "stringLiteral",
+      "text": "Description of the new object you want to put in the image"
+    },
+    {
+      "context": "unsupportedAttribute:tipsTitle",
+      "file": "src/app/components/demos/Wan-t2v/components/ResultContent.tsx",
+      "hash": "e3903ef6",
+      "kind": "stringLiteral",
+      "text": "NSFW Filter Enabled"
+    },
+    {
+      "context": "unsupportedAttribute:tipsMessage",
+      "file": "src/app/components/demos/Wan-t2v/components/ResultContent.tsx",
+      "hash": "d19b7c97",
+      "kind": "stringLiteral",
+      "text": "Videos with unsafe content will be blocked. GPU usage may still incur charges even if output is blacked out."
+    },
+    {
+      "context": "property:prompt_empty_tips",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "5e32a920",
+      "kind": "stringLiteral",
+      "text": "Prompt is empty"
+    },
+    {
+      "context": "property:prompt_invalid",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "3899b559",
+      "kind": "stringLiteral",
+      "text": "Prompts invalid!"
+    },
+    {
+      "context": "property:prompt_empty_object_tips",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "dec15008",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the object you want to replace"
+    },
+    {
+      "context": "property:prompt_empty_new_object_tips",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "0dc64d2a",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the new object you want to generate"
+    },
+    {
+      "context": "property:prompt_limit_tips",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "84517492",
+      "kind": "stringLiteral",
+      "text": "Prompt length should be less than"
+    },
+    {
+      "context": "property:some_prompt_empty_tips",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "4502125f",
+      "kind": "stringLiteral",
+      "text": "There are empty prompt values."
+    },
+    {
+      "context": "property:tips_title",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "bff9952c",
+      "kind": "stringLiteral",
+      "text": "Tips: The difference of base image and face image"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "56a716d5",
+      "kind": "stringLiteral",
+      "text": "Description of the tile you want to generate"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "cfadc482",
+      "kind": "stringLiteral",
+      "text": "Description of the tile that you want to avoid generating"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "388c7303",
+      "kind": "stringLiteral",
+      "text": "Prompt"
+    },
+    {
+      "context": "property:prompt_description",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "27f218f4",
+      "kind": "stringLiteral",
+      "text": "Enter your prompt here"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "0927c8f5",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:negative_prompt",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "ba1b9b84",
+      "kind": "stringLiteral",
+      "text": "Negative Prompt"
+    },
+    {
+      "context": "property:negative_prompt_description",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "eb61f22f",
+      "kind": "stringLiteral",
+      "text": "Negative prompt"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "02c4f282",
+      "kind": "stringLiteral",
+      "text": "What you want to avoid generating..."
+    },
+    {
+      "context": "property:initial_image_description",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "0b943dbe",
+      "kind": "stringLiteral",
+      "text": "upload image"
+    },
+    {
+      "context": "property:initial_image_placeholder",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "e1f76eb0",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:sd3_placeholder",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "7c7c49c7",
+      "kind": "stringLiteral",
+      "text": "Long, detailed prompts up to 10,000 characters. But the longer and more complex the prompt, the more likely something will be missing. Avoid negative prompts."
+    },
+    {
+      "context": "property:replace_bg_placeholder",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "3939c988",
+      "kind": "stringLiteral",
+      "text": "Description of the background you want..."
+    },
+    {
+      "context": "property:object_prompt",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "40f6a095",
+      "kind": "stringLiteral",
+      "text": "Object Prompt"
+    },
+    {
+      "context": "property:object_prompt_placeholder",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "ad9a4d4c",
+      "kind": "stringLiteral",
+      "text": "Description of the object in the image you want to replace"
+    },
+    {
+      "context": "property:replace_prompt",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "bef85900",
+      "kind": "stringLiteral",
+      "text": "Replace Prompt"
+    },
+    {
+      "context": "property:replace_prompt_placeholder",
+      "file": "src/app/components/demos/Wan-t2v/index.tsx",
+      "hash": "8bbe4f92",
+      "kind": "stringLiteral",
+      "text": "Description of the new object you want to put in the image"
+    },
+    {
+      "context": "unsupportedAttribute:tipsTitle",
+      "file": "src/app/components/demos/Wan26-i2v/components/ResultContent.tsx",
+      "hash": "d83b403e",
+      "kind": "stringLiteral",
+      "text": "NSFW Filter Enabled"
+    },
+    {
+      "context": "unsupportedAttribute:tipsMessage",
+      "file": "src/app/components/demos/Wan26-i2v/components/ResultContent.tsx",
+      "hash": "e193c032",
+      "kind": "stringLiteral",
+      "text": "Videos with unsafe content will be blocked. GPU usage may still incur charges even if output is blacked out."
+    },
+    {
+      "context": "property:prompt_empty_tips",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "373136d8",
+      "kind": "stringLiteral",
+      "text": "Prompt is empty"
+    },
+    {
+      "context": "property:prompt_invalid",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "d42900d5",
+      "kind": "stringLiteral",
+      "text": "Prompts invalid!"
+    },
+    {
+      "context": "property:prompt_empty_object_tips",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "9064fc4a",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the object you want to replace"
+    },
+    {
+      "context": "property:prompt_empty_new_object_tips",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "7e0d1fbf",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the new object you want to generate"
+    },
+    {
+      "context": "property:prompt_limit_tips",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "112e4ef3",
+      "kind": "stringLiteral",
+      "text": "Prompt length should be less than"
+    },
+    {
+      "context": "property:some_prompt_empty_tips",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "669eee3f",
+      "kind": "stringLiteral",
+      "text": "There are empty prompt values."
+    },
+    {
+      "context": "property:tips_title",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "07c71f84",
+      "kind": "stringLiteral",
+      "text": "Tips: The difference of base image and face image"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "889d579b",
+      "kind": "stringLiteral",
+      "text": "Description of the tile you want to generate"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "85ccca50",
+      "kind": "stringLiteral",
+      "text": "Description of the tile that you want to avoid generating"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "ab69b7bf",
+      "kind": "stringLiteral",
+      "text": "Prompt"
+    },
+    {
+      "context": "property:prompt_description",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "0ad0327d",
+      "kind": "stringLiteral",
+      "text": "Enter your prompt here"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "7a3daeb9",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:negative_prompt",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "a6aec840",
+      "kind": "stringLiteral",
+      "text": "Negative Prompt"
+    },
+    {
+      "context": "property:negative_prompt_description",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "fdf73d91",
+      "kind": "stringLiteral",
+      "text": "Negative prompt"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "72965da6",
+      "kind": "stringLiteral",
+      "text": "What you want to avoid generating..."
+    },
+    {
+      "context": "property:initial_image_description",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "1d7f8c4a",
+      "kind": "stringLiteral",
+      "text": "upload image"
+    },
+    {
+      "context": "property:initial_image_placeholder",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "b68c5039",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:sd3_placeholder",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "f690daf4",
+      "kind": "stringLiteral",
+      "text": "Long, detailed prompts up to 10,000 characters. But the longer and more complex the prompt, the more likely something will be missing. Avoid negative prompts."
+    },
+    {
+      "context": "property:replace_bg_placeholder",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "3381cdc6",
+      "kind": "stringLiteral",
+      "text": "Description of the background you want..."
+    },
+    {
+      "context": "property:object_prompt",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "6ea4754a",
+      "kind": "stringLiteral",
+      "text": "Object Prompt"
+    },
+    {
+      "context": "property:object_prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "ddc9d57a",
+      "kind": "stringLiteral",
+      "text": "Description of the object in the image you want to replace"
+    },
+    {
+      "context": "property:replace_prompt",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "53ed22f2",
+      "kind": "stringLiteral",
+      "text": "Replace Prompt"
+    },
+    {
+      "context": "property:replace_prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-i2v/index.tsx",
+      "hash": "a4070d56",
+      "kind": "stringLiteral",
+      "text": "Description of the new object you want to put in the image"
+    },
+    {
+      "context": "unsupportedAttribute:tipsTitle",
+      "file": "src/app/components/demos/Wan26-t2v/components/ResultContent.tsx",
+      "hash": "d8402e5e",
+      "kind": "stringLiteral",
+      "text": "NSFW Filter Enabled"
+    },
+    {
+      "context": "unsupportedAttribute:tipsMessage",
+      "file": "src/app/components/demos/Wan26-t2v/components/ResultContent.tsx",
+      "hash": "173efea0",
+      "kind": "stringLiteral",
+      "text": "Videos with unsafe content will be blocked. GPU usage may still incur charges even if output is blacked out."
+    },
+    {
+      "context": "property:prompt_empty_tips",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "3fe626f1",
+      "kind": "stringLiteral",
+      "text": "Prompt is empty"
+    },
+    {
+      "context": "property:prompt_invalid",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "f63299b0",
+      "kind": "stringLiteral",
+      "text": "Prompts invalid!"
+    },
+    {
+      "context": "property:prompt_empty_object_tips",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "ef165e26",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the object you want to replace"
+    },
+    {
+      "context": "property:prompt_empty_new_object_tips",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "7d5ffcf7",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the new object you want to generate"
+    },
+    {
+      "context": "property:prompt_limit_tips",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "1bb2d988",
+      "kind": "stringLiteral",
+      "text": "Prompt length should be less than"
+    },
+    {
+      "context": "property:some_prompt_empty_tips",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "37964594",
+      "kind": "stringLiteral",
+      "text": "There are empty prompt values."
+    },
+    {
+      "context": "property:tips_title",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "60750c55",
+      "kind": "stringLiteral",
+      "text": "Tips: The difference of base image and face image"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "64b244f7",
+      "kind": "stringLiteral",
+      "text": "Description of the tile you want to generate"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "972deece",
+      "kind": "stringLiteral",
+      "text": "Description of the tile that you want to avoid generating"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "342361b9",
+      "kind": "stringLiteral",
+      "text": "Prompt"
+    },
+    {
+      "context": "property:prompt_description",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "f8603060",
+      "kind": "stringLiteral",
+      "text": "Enter your prompt here"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "5cabd090",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:negative_prompt",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "85bd7130",
+      "kind": "stringLiteral",
+      "text": "Negative Prompt"
+    },
+    {
+      "context": "property:negative_prompt_description",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "4b67ac30",
+      "kind": "stringLiteral",
+      "text": "Negative prompt"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "ba62bd14",
+      "kind": "stringLiteral",
+      "text": "What you want to avoid generating..."
+    },
+    {
+      "context": "property:initial_image_description",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "13c5e1f5",
+      "kind": "stringLiteral",
+      "text": "upload image"
+    },
+    {
+      "context": "property:initial_image_placeholder",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "25831206",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:sd3_placeholder",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "0a99c85a",
+      "kind": "stringLiteral",
+      "text": "Long, detailed prompts up to 10,000 characters. But the longer and more complex the prompt, the more likely something will be missing. Avoid negative prompts."
+    },
+    {
+      "context": "property:replace_bg_placeholder",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "a008cae7",
+      "kind": "stringLiteral",
+      "text": "Description of the background you want..."
+    },
+    {
+      "context": "property:object_prompt",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "058ba002",
+      "kind": "stringLiteral",
+      "text": "Object Prompt"
+    },
+    {
+      "context": "property:object_prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "f1a7fdb8",
+      "kind": "stringLiteral",
+      "text": "Description of the object in the image you want to replace"
+    },
+    {
+      "context": "property:replace_prompt",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "9f8d76c7",
+      "kind": "stringLiteral",
+      "text": "Replace Prompt"
+    },
+    {
+      "context": "property:replace_prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-t2v/index.tsx",
+      "hash": "ef7fd527",
+      "kind": "stringLiteral",
+      "text": "Description of the new object you want to put in the image"
+    },
+    {
+      "context": "unsupportedAttribute:tipsTitle",
+      "file": "src/app/components/demos/Wan26-v2v/components/ResultContent.tsx",
+      "hash": "2ca13012",
+      "kind": "stringLiteral",
+      "text": "NSFW Filter Enabled"
+    },
+    {
+      "context": "unsupportedAttribute:tipsMessage",
+      "file": "src/app/components/demos/Wan26-v2v/components/ResultContent.tsx",
+      "hash": "8de66ba1",
+      "kind": "stringLiteral",
+      "text": "Videos with unsafe content will be blocked. GPU usage may still incur charges even if output is blacked out."
+    },
+    {
+      "context": "property:prompt_empty_tips",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "32777b44",
+      "kind": "stringLiteral",
+      "text": "Prompt is empty"
+    },
+    {
+      "context": "property:prompt_invalid",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "ee7a02ac",
+      "kind": "stringLiteral",
+      "text": "Prompts invalid!"
+    },
+    {
+      "context": "property:prompt_empty_object_tips",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "1e12bd2a",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the object you want to replace"
+    },
+    {
+      "context": "property:prompt_empty_new_object_tips",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "6cba4f33",
+      "kind": "stringLiteral",
+      "text": "Please enter the description of the new object you want to generate"
+    },
+    {
+      "context": "property:prompt_limit_tips",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "b4eaebc9",
+      "kind": "stringLiteral",
+      "text": "Prompt length should be less than"
+    },
+    {
+      "context": "property:some_prompt_empty_tips",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "ca4e4cc4",
+      "kind": "stringLiteral",
+      "text": "There are empty prompt values."
+    },
+    {
+      "context": "property:tips_title",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "1225db40",
+      "kind": "stringLiteral",
+      "text": "Tips: The difference of base image and face image"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "cd6ecc90",
+      "kind": "stringLiteral",
+      "text": "Description of the tile you want to generate"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "a0c5ae1c",
+      "kind": "stringLiteral",
+      "text": "Description of the tile that you want to avoid generating"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "83a40407",
+      "kind": "stringLiteral",
+      "text": "Prompt"
+    },
+    {
+      "context": "property:prompt_description",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "8ae95b49",
+      "kind": "stringLiteral",
+      "text": "Enter your prompt here"
+    },
+    {
+      "context": "property:prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "6667b72c",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:negative_prompt",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "1dcb8b40",
+      "kind": "stringLiteral",
+      "text": "Negative Prompt"
+    },
+    {
+      "context": "property:negative_prompt_description",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "cb713db8",
+      "kind": "stringLiteral",
+      "text": "Negative prompt"
+    },
+    {
+      "context": "property:negative_prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "66fee9c0",
+      "kind": "stringLiteral",
+      "text": "What you want to avoid generating..."
+    },
+    {
+      "context": "property:initial_image_description",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "17f0e71b",
+      "kind": "stringLiteral",
+      "text": "upload image"
+    },
+    {
+      "context": "property:initial_image_placeholder",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "5cd9b911",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:sd3_placeholder",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "50a9d4d5",
+      "kind": "stringLiteral",
+      "text": "Long, detailed prompts up to 10,000 characters. But the longer and more complex the prompt, the more likely something will be missing. Avoid negative prompts."
+    },
+    {
+      "context": "property:replace_bg_placeholder",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "4346ee60",
+      "kind": "stringLiteral",
+      "text": "Description of the background you want..."
+    },
+    {
+      "context": "property:object_prompt",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "a1eef9cd",
+      "kind": "stringLiteral",
+      "text": "Object Prompt"
+    },
+    {
+      "context": "property:object_prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "6495d6fb",
+      "kind": "stringLiteral",
+      "text": "Description of the object in the image you want to replace"
+    },
+    {
+      "context": "property:replace_prompt",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "15201f86",
+      "kind": "stringLiteral",
+      "text": "Replace Prompt"
+    },
+    {
+      "context": "property:replace_prompt_placeholder",
+      "file": "src/app/components/demos/Wan26-v2v/index.tsx",
+      "hash": "fd6ab52d",
+      "kind": "stringLiteral",
+      "text": "Description of the new object you want to put in the image"
+    },
+    {
+      "context": "unsupportedAttribute:aria-labelledby",
+      "file": "src/app/components/error/EndOfService.tsx",
+      "hash": "73cc9868",
+      "kind": "stringLiteral",
+      "text": "end-of-service-suggestions-heading"
+    },
+    {
+      "context": "unsupportedAttribute:aria-labelledby",
+      "file": "src/app/components/error/ErrPage.tsx",
+      "hash": "96f5b802",
+      "kind": "stringLiteral",
+      "text": "error-suggestions-heading"
+    },
+    {
+      "context": "unsupportedAttribute:theme",
+      "file": "src/app/components/footer-section/Footer.tsx",
+      "hash": "1dbee6e6",
+      "kind": "stringLiteral",
+      "text": "dark"
+    },
+    {
+      "context": "unsupportedAttribute:copyrightText",
+      "file": "src/app/components/footer/Footer.tsx",
+      "hash": "54ec251b",
+      "kind": "stringLiteral",
+      "text": "© 2025 Novita AI"
+    },
+    {
+      "context": "unsupportedAttribute:overlayClassname",
+      "file": "src/app/components/header/partials/MessageCenter.tsx",
+      "hash": "16d1c19b",
+      "kind": "stringLiteral",
+      "text": "bg-black/50"
+    },
+    {
+      "context": "unsupportedAttribute:stroke-linecap",
+      "file": "src/app/components/icons/icons.tsx",
+      "hash": "b256ccb2",
+      "kind": "stringLiteral",
+      "text": "round"
+    },
+    {
+      "context": "unsupportedAttribute:stroke-linejoin",
+      "file": "src/app/components/icons/icons.tsx",
+      "hash": "e01c8e7f",
+      "kind": "stringLiteral",
+      "text": "round"
+    },
+    {
+      "context": "unsupportedAttribute:maskUnits",
+      "file": "src/app/components/icons/icons.tsx",
+      "hash": "d4911013",
+      "kind": "stringLiteral",
+      "text": "userSpaceOnUse"
+    },
+    {
+      "context": "unsupportedAttribute:mask",
+      "file": "src/app/components/icons/icons.tsx",
+      "hash": "63b4ae5a",
+      "kind": "stringLiteral",
+      "text": "url(#mask0_928_1146)"
+    },
+    {
+      "context": "unsupportedAttribute:expandIconPosition",
+      "file": "src/app/components/input/ImgSize/ImgSize.tsx",
+      "hash": "87016815",
+      "kind": "stringLiteral",
+      "text": "end"
+    },
+    {
+      "context": "unsupportedAttribute:wrapClassName",
+      "file": "src/app/components/input/ModelSelector/ModelSelectorV2.tsx",
+      "hash": "44f2c2d7",
+      "kind": "stringLiteral",
+      "text": "modellist_modal_wrapper"
+    },
+    {
+      "context": "unsupportedAttribute:filter",
+      "file": "src/app/components/layout/LayoutBg.tsx",
+      "hash": "9bee4ffb",
+      "kind": "stringLiteral",
+      "text": "url(#bg_gradient_)"
+    },
+    {
+      "context": "unsupportedAttribute:gradientUnits",
+      "file": "src/app/components/layout/LayoutBg.tsx",
+      "hash": "b748731d",
+      "kind": "stringLiteral",
+      "text": "userSpaceOnUse"
+    },
+    {
+      "context": "unsupportedAttribute:gradientTransform",
+      "file": "src/app/components/layout/LayoutBg.tsx",
+      "hash": "7e4b662d",
+      "kind": "stringLiteral",
+      "text": "rotate(95.304 -1120.417 1819.67) scale(6912.6 2018.84)"
+    },
+    {
+      "context": "unsupportedAttribute:filterUnits",
+      "file": "src/app/components/layout/LayoutBg.tsx",
+      "hash": "5b73ba56",
+      "kind": "stringLiteral",
+      "text": "userSpaceOnUse"
+    },
+    {
+      "context": "unsupportedAttribute:colorInterpolationFilters",
+      "file": "src/app/components/layout/LayoutBg.tsx",
+      "hash": "48fb95c7",
+      "kind": "stringLiteral",
+      "text": "sRGB"
+    },
+    {
+      "context": "unsupportedAttribute:in",
+      "file": "src/app/components/layout/LayoutBg.tsx",
+      "hash": "60314dc1",
+      "kind": "stringLiteral",
+      "text": "SourceGraphic"
+    },
+    {
+      "context": "unsupportedAttribute:in2",
+      "file": "src/app/components/layout/LayoutBg.tsx",
+      "hash": "6a7cca65",
+      "kind": "stringLiteral",
+      "text": "BackgroundImageFix"
+    },
+    {
+      "context": "unsupportedAttribute:checkPosition",
+      "file": "src/app/components/ModelLibrary/LabelFilters/index.tsx",
+      "hash": "efbe3e14",
+      "kind": "stringLiteral",
+      "text": "right"
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/components/ModelLibrary/LLMModelCard.tsx",
+      "hash": "e1cca0c3",
+      "kind": "templateExpression",
+      "text": "% OFF"
+    },
+    {
+      "context": "unsupportedAttribute:containerClassName",
+      "file": "src/app/components/ModelLibrary/Search/index.tsx",
+      "hash": "4395609f",
+      "kind": "stringLiteral",
+      "text": "w-full"
+    },
+    {
+      "context": "unsupportedAttribute:iconClassName",
+      "file": "src/app/components/ModelLibrary/Search/index.tsx",
+      "hash": "325ec472",
+      "kind": "stringLiteral",
+      "text": "left-6 text-[20px]"
+    },
+    {
+      "context": "return:Notice",
+      "file": "src/app/components/Notice/Notice.tsx",
+      "hash": "432a9822",
+      "kind": "stringLiteral",
+      "text": "w-full"
+    },
+    {
+      "context": "return:Notice",
+      "file": "src/app/components/Notice/Notice.tsx",
+      "hash": "749c1088",
+      "kind": "stringLiteral",
+      "text": "isolate left-0 top-0 z-[1000] flex h-[var(--notice-height)] w-full items-stretch overflow-hidden"
+    },
+    {
+      "context": "return:Notice",
+      "file": "src/app/components/Notice/Notice.tsx",
+      "hash": "99be16d5",
+      "kind": "stringLiteral",
+      "text": "bg-black"
+    },
+    {
+      "context": "return:Notice",
+      "file": "src/app/components/Notice/Notice.tsx",
+      "hash": "33343f49",
+      "kind": "stringLiteral",
+      "text": "fixed"
+    },
+    {
+      "context": "return:Notice",
+      "file": "src/app/components/Notice/Notice.tsx",
+      "hash": "60fa892e",
+      "kind": "stringLiteral",
+      "text": "relative"
+    },
+    {
+      "context": "return:Notice",
+      "file": "src/app/components/Notice/Notice.tsx",
+      "hash": "efc74e13",
+      "kind": "stringLiteral",
+      "text": "d0"
+    },
+    {
+      "context": "return:Notice",
+      "file": "src/app/components/Notice/Notice.tsx",
+      "hash": "6ff81560",
+      "kind": "stringLiteral",
+      "text": "d1"
+    },
+    {
+      "context": "return:Notice",
+      "file": "src/app/components/Notice/Notice.tsx",
+      "hash": "b5111858",
+      "kind": "stringLiteral",
+      "text": "m0"
+    },
+    {
+      "context": "return:Notice",
+      "file": "src/app/components/Notice/Notice.tsx",
+      "hash": "a2b9bb77",
+      "kind": "stringLiteral",
+      "text": "s0"
+    },
+    {
+      "context": "return:Notice",
+      "file": "src/app/components/Notice/Notice.tsx",
+      "hash": "22ea240c",
+      "kind": "stringLiteral",
+      "text": "n0"
+    },
+    {
+      "context": "return:Notice",
+      "file": "src/app/components/Notice/Notice.tsx",
+      "hash": "d5dcc214",
+      "kind": "stringLiteral",
+      "text": "relative z-[2] -my-px flex h-[calc(var(--notice-height)+2px)] shrink-0 items-center bg-white text-[var(--gray-950)] md:absolute md:-bottom-px md:-top-px md:right-0 md:my-0 md:h-auto"
+    },
+    {
+      "context": "return:Notice",
+      "file": "src/app/components/Notice/Notice.tsx",
+      "hash": "50e318ce",
+      "kind": "stringLiteral",
+      "text": "[--dismiss-clip:18px] pl-5 pr-1 sm:pl-6 sm:pr-1.5 md:gap-4 md:pl-12 md:pr-4 md:[--dismiss-clip:36px]"
+    },
+    {
+      "context": "return:Notice",
+      "file": "src/app/components/Notice/Notice.tsx",
+      "hash": "78cba4a1",
+      "kind": "stringLiteral",
+      "text": "hidden shrink-0 cursor-pointer select-none whitespace-nowrap font-mono-14 font-normal uppercase leading-5 tracking-[0.6px] text-[var(--gray-950)] underline-offset-2 hover:underline md:inline"
+    },
+    {
+      "context": "return:Notice",
+      "file": "src/app/components/Notice/Notice.tsx",
+      "hash": "170e9787",
+      "kind": "stringLiteral",
+      "text": "Enter"
+    },
+    {
+      "context": "unsupportedAttribute:outClassName",
+      "file": "src/app/components/pageComponents/ReadyStart/index.tsx",
+      "hash": "acfbed3d",
+      "kind": "stringLiteral",
+      "text": "!ml-0"
+    },
+    {
+      "context": "unsupportedAttribute:overlayClassName",
+      "file": "src/app/components/Tips/Tips.tsx",
+      "hash": "8a72ac11",
+      "kind": "stringLiteral",
+      "text": "novita_tips_wrapper"
+    },
+    {
+      "context": "return:Tooltip",
+      "file": "src/app/components/Tooltip/Tooltip.tsx",
+      "hash": "2c7e9193",
+      "kind": "stringLiteral",
+      "text": "relative inline-block"
+    },
+    {
+      "context": "return:Tooltip",
+      "file": "src/app/components/Tooltip/Tooltip.tsx",
+      "hash": "b3dd47f0",
+      "kind": "stringLiteral",
+      "text": "absolute whitespace-nowrap border shadow-md"
+    },
+    {
+      "context": "return:Tooltip",
+      "file": "src/app/components/Tooltip/Tooltip.tsx",
+      "hash": "d30d4f00",
+      "kind": "stringLiteral",
+      "text": "pre-wrap"
+    },
+    {
+      "context": "unsupportedAttribute:icon",
+      "file": "src/app/console/components/Service/index.tsx",
+      "hash": "7936a459",
+      "kind": "stringLiteral",
+      "text": "cube"
+    },
+    {
+      "context": "unsupportedAttribute:icon",
+      "file": "src/app/console/components/Service/index.tsx",
+      "hash": "fe7b4559",
+      "kind": "stringLiteral",
+      "text": "dedicated-endpoints"
+    },
+    {
+      "context": "unsupportedAttribute:icon",
+      "file": "src/app/console/components/Service/index.tsx",
+      "hash": "0e0bde7e",
+      "kind": "stringLiteral",
+      "text": "stack"
+    },
+    {
+      "context": "unsupportedAttribute:icon",
+      "file": "src/app/console/components/Service/index.tsx",
+      "hash": "c05858ab",
+      "kind": "stringLiteral",
+      "text": "quota-meter"
+    },
+    {
+      "context": "unsupportedAttribute:product",
+      "file": "src/app/console/page.tsx",
+      "hash": "062bb79a",
+      "kind": "stringLiteral",
+      "text": "main"
+    },
+    {
+      "context": "unsupportedAttribute:product",
+      "file": "src/app/console/pricing-console/page.tsx",
+      "hash": "cc14681b",
+      "kind": "stringLiteral",
+      "text": "main"
+    },
+    {
+      "context": "unsupportedAttribute:containerClassName",
+      "file": "src/app/dedicated-endpoint/components/client.tsx",
+      "hash": "bc87bb5b",
+      "kind": "stringLiteral",
+      "text": "!mx-auto"
+    },
+    {
+      "context": "unsupportedAttribute:wrapperClassName",
+      "file": "src/app/dedicated-endpoint/components/client.tsx",
+      "hash": "cbe9ecd2",
+      "kind": "stringLiteral",
+      "text": "border rounded-lg border-common-gray-1 overflow-hidden"
+    },
+    {
+      "context": "unsupportedAttribute:scope",
+      "file": "src/app/dedicated-endpoint/components/DedicatedEndpointPricing.tsx",
+      "hash": "ef7fa7c8",
+      "kind": "stringLiteral",
+      "text": "col"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/dedicated-endpoint/components/DedicatedEndpointPricingFaq.tsx",
+      "hash": "f81691f8",
+      "kind": "stringLiteral",
+      "text": "Resources auto-scale based on real-time demand. You're billed only for actual API calls, not reserved capacity."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/dedicated-endpoint/components/DedicatedEndpointPricingFaq.tsx",
+      "hash": "3c0fd3c0",
+      "kind": "stringLiteral",
+      "text": "Can we migrate from shared API to Dedicated API without code changes?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/dedicated-endpoint/components/DedicatedEndpointPricingFaq.tsx",
+      "hash": "61dadf7b",
+      "kind": "stringLiteral",
+      "text": "Yes! 100% API compatibility – update your endpoint URL and retain existing integration code."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/dedicated-endpoint/components/DedicatedEndpointPricingFaq.tsx",
+      "hash": "6a526667",
+      "kind": "stringLiteral",
+      "text": "How does scaling work during traffic spikes?"
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/dedicated-endpoint/components/faq.tsx",
+      "hash": "b60aeacc",
+      "kind": "stringLiteral",
+      "text": "How does scaling work during traffic spikes?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/dedicated-endpoint/components/faq.tsx",
+      "hash": "dc64f1c5",
+      "kind": "stringLiteral",
+      "text": "Resources auto-scale based on real-time demand. You're billed only for actual API calls, not reserved capacity."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/dedicated-endpoint/components/faq.tsx",
+      "hash": "349f958a",
+      "kind": "stringLiteral",
+      "text": "Can we migrate from shared API to Dedicated API without code changes?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/dedicated-endpoint/components/faq.tsx",
+      "hash": "766c2f1e",
+      "kind": "stringLiteral",
+      "text": "Yes! 100% API compatibility – update your endpoint URL and retain existing integration code."
+    },
+    {
+      "context": "unsupportedAttribute:icon",
+      "file": "src/app/dedicated-endpoint/components/selector.tsx",
+      "hash": "2327ee53",
+      "kind": "stringLiteral",
+      "text": "llm.svg"
+    },
+    {
+      "context": "unsupportedAttribute:icon",
+      "file": "src/app/dedicated-endpoint/components/selector.tsx",
+      "hash": "7587d443",
+      "kind": "stringLiteral",
+      "text": "image.svg"
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/dedicated-endpoint/data/dedicatedEndpointFaq.ts",
+      "hash": "0e30fbc8",
+      "kind": "stringLiteral",
+      "text": "How is billing calculated?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/dedicated-endpoint/data/dedicatedEndpointFaq.ts",
+      "hash": "76c6c59e",
+      "kind": "stringLiteral",
+      "text": "Per-second on running replicas only. When your endpoint is scaled to zero or stopped, you pay nothing. No minimum commitments, no idle charges."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/dedicated-endpoint/data/dedicatedEndpointFaq.ts",
+      "hash": "93160371",
+      "kind": "stringLiteral",
+      "text": "What models can I deploy?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/dedicated-endpoint/data/dedicatedEndpointFaq.ts",
+      "hash": "4b00b382",
+      "kind": "stringLiteral",
+      "text": "You can choose from 50,000+ open-source models on Hugging Face, or connect your private repository. The catalog covers popular LLM families; pick the checkpoint that matches your use case in the console."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/dedicated-endpoint/data/dedicatedEndpointFaq.ts",
+      "hash": "4e4859ae",
+      "kind": "stringLiteral",
+      "text": "How long does deployment take?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/dedicated-endpoint/data/dedicatedEndpointFaq.ts",
+      "hash": "46f156da",
+      "kind": "stringLiteral",
+      "text": "End-to-end setup is usually under a few minutes: select a model, size GPU, and your OpenAI-compatible endpoint is provisioned. Typical warm paths complete in about two minutes or less."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/dedicated-endpoint/data/dedicatedEndpointFaq.ts",
+      "hash": "449f2838",
+      "kind": "stringLiteral",
+      "text": "Is the API OpenAI-compatible?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/dedicated-endpoint/data/dedicatedEndpointFaq.ts",
+      "hash": "27e6f24a",
+      "kind": "stringLiteral",
+      "text": "Yes. We expose a standard OpenAI-style HTTP API; point your client at our base URL and use familiar paths like /v1/chat/completions with your existing request bodies and headers."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/dedicated-endpoint/data/dedicatedEndpointFaq.ts",
+      "hash": "f0fa26f1",
+      "kind": "stringLiteral",
+      "text": "What if my deployment fails or OOMs?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/dedicated-endpoint/data/dedicatedEndpointFaq.ts",
+      "hash": "98347f14",
+      "kind": "stringLiteral",
+      "text": "You can change GPU type, memory, or replica count in the product UI. Logs surface runtime errors. If a model exceeds GPU memory, pick a larger tier or a quantized variant, then redeploy — no extra setup fee for retries on the same project."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/dedicated-endpoint/data/dedicatedEndpointFaq.ts",
+      "hash": "15e857c3",
+      "kind": "stringLiteral",
+      "text": "Can I migrate from self-hosted vLLM?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/dedicated-endpoint/data/dedicatedEndpointFaq.ts",
+      "hash": "d63c24da",
+      "kind": "stringLiteral",
+      "text": "In most cases you only need to change the client base URL and any auth headers. Request and response shapes stay aligned with the OpenAI chat pattern you already use with vLLM, so code churn stays minimal."
+    },
+    {
+      "context": "unsupportedAttribute:PreTag",
+      "file": "src/app/gpus-console/application/components/detailsTab.tsx",
+      "hash": "4c184632",
+      "kind": "stringLiteral",
+      "text": "div"
+    },
+    {
+      "context": "property:aria-label",
+      "file": "src/app/gpus-console/billing/components/commonBillingTable.tsx",
+      "hash": "25719208",
+      "kind": "stringLiteral",
+      "text": "Product Name"
+    },
+    {
+      "context": "property:aria-label",
+      "file": "src/app/gpus-console/billing/components/serverlessBillingTable.tsx",
+      "hash": "6bf9f811",
+      "kind": "stringLiteral",
+      "text": "Endpoint ID"
+    },
+    {
+      "context": "property:aria-label",
+      "file": "src/app/gpus-console/billing/components/serverlessBillingTable.tsx",
+      "hash": "f34265cc",
+      "kind": "stringLiteral",
+      "text": "GPU Type"
+    },
+    {
+      "context": "unsupportedAttribute:expandIconPosition",
+      "file": "src/app/gpus-console/components/addTemplate/index.tsx",
+      "hash": "c0e461e7",
+      "kind": "stringLiteral",
+      "text": "end"
+    },
+    {
+      "context": "unsupportedAttribute:aria-labelledby",
+      "file": "src/app/gpus-console/components/addTemplate/index.tsx",
+      "hash": "bd349f3b",
+      "kind": "stringLiteral",
+      "text": "customized-dialog-title"
+    },
+    {
+      "context": "unsupportedAttribute:expandIconPosition",
+      "file": "src/app/gpus-console/components/addTemplateInPrewarm/index.tsx",
+      "hash": "7f529e69",
+      "kind": "stringLiteral",
+      "text": "end"
+    },
+    {
+      "context": "unsupportedAttribute:aria-labelledby",
+      "file": "src/app/gpus-console/components/addTemplateInPrewarm/index.tsx",
+      "hash": "2ad572c4",
+      "kind": "stringLiteral",
+      "text": "customized-dialog-title"
+    },
+    {
+      "context": "return:Button",
+      "file": "src/app/gpus-console/components/button/Button.tsx",
+      "hash": "f1791c12",
+      "kind": "stringLiteral",
+      "text": "link"
+    },
+    {
+      "context": "return:Button",
+      "file": "src/app/gpus-console/components/button/Button.tsx",
+      "hash": "7152ce96",
+      "kind": "templateExpression",
+      "text": "px"
+    },
+    {
+      "context": "return:Button",
+      "file": "src/app/gpus-console/components/button/Button.tsx",
+      "hash": "6611bc10",
+      "kind": "stringLiteral",
+      "text": "left"
+    },
+    {
+      "context": "unsupportedAttribute:stroke-linecap",
+      "file": "src/app/gpus-console/components/icons/icons.tsx",
+      "hash": "248a661f",
+      "kind": "stringLiteral",
+      "text": "round"
+    },
+    {
+      "context": "unsupportedAttribute:stroke-linejoin",
+      "file": "src/app/gpus-console/components/icons/icons.tsx",
+      "hash": "d1ae51a8",
+      "kind": "stringLiteral",
+      "text": "round"
+    },
+    {
+      "context": "unsupportedAttribute:maskUnits",
+      "file": "src/app/gpus-console/components/icons/icons.tsx",
+      "hash": "4e0b75cb",
+      "kind": "stringLiteral",
+      "text": "userSpaceOnUse"
+    },
+    {
+      "context": "unsupportedAttribute:mask",
+      "file": "src/app/gpus-console/components/icons/icons.tsx",
+      "hash": "fb219cfd",
+      "kind": "stringLiteral",
+      "text": "url(#mask0_928_1146)"
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus-console/components/mainPage/component/code.tsx",
+      "hash": "590b9917",
+      "kind": "stringLiteral",
+      "text": "\"total\": \"1\","
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus-console/components/mainPage/component/code.tsx",
+      "hash": "2eb48878",
+      "kind": "stringLiteral",
+      "text": "\"instances\": [{"
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus-console/components/mainPage/component/code.tsx",
+      "hash": "bf0a19f7",
+      "kind": "stringLiteral",
+      "text": "\"id\": \"12948885700ef8e3\","
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus-console/components/mainPage/component/code.tsx",
+      "hash": "68aef279",
+      "kind": "stringLiteral",
+      "text": "\"memory\": \"63\","
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus-console/components/mainPage/component/code.tsx",
+      "hash": "0248be91",
+      "kind": "stringLiteral",
+      "text": "\"gpuNum\": \"1\","
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus-console/components/mainPage/component/code.tsx",
+      "hash": "0846c28a",
+      "kind": "stringLiteral",
+      "text": "\"productId\": \"1\","
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus-console/components/mainPage/component/code.tsx",
+      "hash": "e0578c63",
+      "kind": "stringLiteral",
+      "text": "\"productName\": \"RTX 4090 24GB\","
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus-console/components/mainPage/component/code.tsx",
+      "hash": "0b127f61",
+      "kind": "stringLiteral",
+      "text": "\"instancePrice\": \"269100\","
+    },
+    {
+      "context": "unsupportedAttribute:aria-labelledby",
+      "file": "src/app/gpus-console/explore/components/changeNewTemplate.tsx",
+      "hash": "2b991e9e",
+      "kind": "stringLiteral",
+      "text": "customized-dialog-title"
+    },
+    {
+      "context": "unsupportedAttribute:clip-path",
+      "file": "src/app/gpus-console/explore/components/stepOne.tsx",
+      "hash": "aa8c3e8c",
+      "kind": "stringLiteral",
+      "text": "url(#clip0_5394_4611)"
+    },
+    {
+      "context": "unsupportedAttribute:stroke-linecap",
+      "file": "src/app/gpus-console/explore/components/stepOne.tsx",
+      "hash": "8333c966",
+      "kind": "stringLiteral",
+      "text": "round"
+    },
+    {
+      "context": "unsupportedAttribute:stroke-linejoin",
+      "file": "src/app/gpus-console/explore/components/stepOne.tsx",
+      "hash": "1601b27b",
+      "kind": "stringLiteral",
+      "text": "round"
+    },
+    {
+      "context": "unsupportedAttribute:clip-path",
+      "file": "src/app/gpus-console/explore/components/stepOne.tsx",
+      "hash": "4624f606",
+      "kind": "stringLiteral",
+      "text": "url(#clip0_5319_4594)"
+    },
+    {
+      "context": "unsupportedAttribute:expandIconPosition",
+      "file": "src/app/gpus-console/explore/components/stepTwo.tsx",
+      "hash": "e4e09841",
+      "kind": "stringLiteral",
+      "text": "end"
+    },
+    {
+      "context": "unsupportedAttribute:trailColor",
+      "file": "src/app/gpus-console/image/components/addImagePrewarmJob.tsx",
+      "hash": "c369dead",
+      "kind": "stringLiteral",
+      "text": "var(--gray-1)"
+    },
+    {
+      "context": "unsupportedAttribute:strokeColor",
+      "file": "src/app/gpus-console/image/components/addImagePrewarmJob.tsx",
+      "hash": "de660794",
+      "kind": "stringLiteral",
+      "text": "var(--brand-0)"
+    },
+    {
+      "context": "unsupportedAttribute:stroke-linecap",
+      "file": "src/app/gpus-console/image/components/addImagePrewarmJob.tsx",
+      "hash": "82c12584",
+      "kind": "stringLiteral",
+      "text": "round"
+    },
+    {
+      "context": "unsupportedAttribute:stroke-linejoin",
+      "file": "src/app/gpus-console/image/components/addImagePrewarmJob.tsx",
+      "hash": "2df72a97",
+      "kind": "stringLiteral",
+      "text": "round"
+    },
+    {
+      "context": "unsupportedAttribute:trailColor",
+      "file": "src/app/gpus-console/image/components/section.tsx",
+      "hash": "9ee2daa8",
+      "kind": "stringLiteral",
+      "text": "var(--gray-1)"
+    },
+    {
+      "context": "unsupportedAttribute:strokeColor",
+      "file": "src/app/gpus-console/image/components/section.tsx",
+      "hash": "74175c1e",
+      "kind": "stringLiteral",
+      "text": "var(--brand-0)"
+    },
+    {
+      "context": "property:aria-label",
+      "file": "src/app/gpus-console/image/components/section.tsx",
+      "hash": "52326abc",
+      "kind": "stringLiteral",
+      "text": "Image Name/Remarks"
+    },
+    {
+      "context": "unsupportedAttribute:stroke-linecap",
+      "file": "src/app/gpus-console/image/components/section.tsx",
+      "hash": "189d722c",
+      "kind": "stringLiteral",
+      "text": "round"
+    },
+    {
+      "context": "unsupportedAttribute:stroke-linejoin",
+      "file": "src/app/gpus-console/image/components/section.tsx",
+      "hash": "7fdba8f2",
+      "kind": "stringLiteral",
+      "text": "round"
+    },
+    {
+      "context": "unsupportedAttribute:labelRowsPerPage",
+      "file": "src/app/gpus-console/image/components/section.tsx",
+      "hash": "2d799e70",
+      "kind": "stringLiteral",
+      "text": "Rows per page"
+    },
+    {
+      "context": "unsupportedAttribute:descClassName",
+      "file": "src/app/gpus-console/instances/components/InstanceMetrics.tsx",
+      "hash": "2d65bf09",
+      "kind": "stringLiteral",
+      "text": "!min-w-[180px]"
+    },
+    {
+      "context": "unsupportedAttribute:checkPosition",
+      "file": "src/app/gpus-console/instances/components/mountNetVolume.tsx",
+      "hash": "a6bddbea",
+      "kind": "stringLiteral",
+      "text": "right"
+    },
+    {
+      "context": "property:aria-label",
+      "file": "src/app/gpus-console/instances/components/section.tsx",
+      "hash": "f87d9e37",
+      "kind": "stringLiteral",
+      "text": "Instance Name/ID Filter"
+    },
+    {
+      "context": "property:aria-label",
+      "file": "src/app/gpus-console/instances/components/section.tsx",
+      "hash": "eaaeda1d",
+      "kind": "stringLiteral",
+      "text": "GPU Type"
+    },
+    {
+      "context": "unsupportedAttribute:aria-controls",
+      "file": "src/app/gpus-console/instances/components/section.tsx",
+      "hash": "25fe8059",
+      "kind": "stringLiteral",
+      "text": "panel3-content"
+    },
+    {
+      "context": "unsupportedAttribute:expandIconPosition",
+      "file": "src/app/gpus-console/instances/components/upgradeInstance.tsx",
+      "hash": "f3343671",
+      "kind": "stringLiteral",
+      "text": "end"
+    },
+    {
+      "context": "property:aria-label",
+      "file": "src/app/gpus-console/jobs/components/mainTable.tsx",
+      "hash": "aa12d839",
+      "kind": "stringLiteral",
+      "text": "Job ID"
+    },
+    {
+      "context": "unsupportedAttribute:product",
+      "file": "src/app/gpus-console/layout.tsx",
+      "hash": "6439e7a2",
+      "kind": "stringLiteral",
+      "text": "gpus"
+    },
+    {
+      "context": "property:placeholder",
+      "file": "src/app/gpus-console/lib/widgets.ts",
+      "hash": "04a95051",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:placeholder",
+      "file": "src/app/gpus-console/lib/widgets.ts",
+      "hash": "7dc142b7",
+      "kind": "stringLiteral",
+      "text": "What you want to avoid generating..."
+    },
+    {
+      "context": "property:aria-label",
+      "file": "src/app/gpus-console/savingsPlans/components/section.tsx",
+      "hash": "f7fb4a9a",
+      "kind": "stringLiteral",
+      "text": "Filter by GPU Type"
+    },
+    {
+      "context": "unsupportedAttribute:clearAriaLabel",
+      "file": "src/app/gpus-console/serverless-deploy/components/addEndpoint.tsx",
+      "hash": "cd33b53c",
+      "kind": "stringLiteral",
+      "text": "Clear container registry credential"
+    },
+    {
+      "context": "unsupportedAttribute:clearAriaLabel",
+      "file": "src/app/gpus-console/serverless-deploy/components/addEndpoint.tsx",
+      "hash": "775a0b17",
+      "kind": "stringLiteral",
+      "text": "Clear network volume selection"
+    },
+    {
+      "context": "unsupportedAttribute:containerClassName",
+      "file": "src/app/gpus-console/serverless-deploy/components/addEndpoint.tsx",
+      "hash": "bda83c2f",
+      "kind": "stringLiteral",
+      "text": "w-full"
+    },
+    {
+      "context": "property:placeholder",
+      "file": "src/app/gpus-console/serverless/components/item.tsx",
+      "hash": "37a9b21a",
+      "kind": "stringLiteral",
+      "text": "Your Endpoint Name"
+    },
+    {
+      "context": "unsupportedAttribute:autoComplete",
+      "file": "src/app/gpus-console/settings/components/resetPassword.tsx",
+      "hash": "8ef872a1",
+      "kind": "stringLiteral",
+      "text": "new-password"
+    },
+    {
+      "context": "unsupportedAttribute:autoComplete",
+      "file": "src/app/gpus-console/settings/components/resetPassword.tsx",
+      "hash": "f243f894",
+      "kind": "stringLiteral",
+      "text": "off"
+    },
+    {
+      "context": "unsupportedAttribute:aria-controls",
+      "file": "src/app/gpus-console/settings/components/section.tsx",
+      "hash": "494783a3",
+      "kind": "stringLiteral",
+      "text": "panel3-content"
+    },
+    {
+      "context": "unsupportedAttribute:component",
+      "file": "src/app/gpus-console/settings/components/section.tsx",
+      "hash": "1373806f",
+      "kind": "stringLiteral",
+      "text": "th"
+    },
+    {
+      "context": "unsupportedAttribute:scope",
+      "file": "src/app/gpus-console/settings/components/section.tsx",
+      "hash": "66080d78",
+      "kind": "stringLiteral",
+      "text": "row"
+    },
+    {
+      "context": "unsupportedAttribute:aria-labelledby",
+      "file": "src/app/gpus-console/storage/components/addConfirm.tsx",
+      "hash": "e96755b9",
+      "kind": "stringLiteral",
+      "text": "customized-dialog-title"
+    },
+    {
+      "context": "unsupportedAttribute:aria-labelledby",
+      "file": "src/app/gpus-console/storage/components/addNetworkVolume.tsx",
+      "hash": "a62ce68b",
+      "kind": "stringLiteral",
+      "text": "customized-dialog-title"
+    },
+    {
+      "context": "property:aria-label",
+      "file": "src/app/gpus-console/storage/components/section.tsx",
+      "hash": "2b2a16e8",
+      "kind": "stringLiteral",
+      "text": "Storage Name/ID Filter"
+    },
+    {
+      "context": "unsupportedAttribute:PreTag",
+      "file": "src/app/gpus-console/templates-library/components/detailsTab.tsx",
+      "hash": "e14f4a29",
+      "kind": "stringLiteral",
+      "text": "div"
+    },
+    {
+      "context": "property:aria-label",
+      "file": "src/app/gpus-console/templates/components/section.tsx",
+      "hash": "a29660a2",
+      "kind": "stringLiteral",
+      "text": "Template Name Filter"
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus/components/Code/outputCode.tsx",
+      "hash": "8f61eac9",
+      "kind": "stringLiteral",
+      "text": "\"total\": \"1\","
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus/components/Code/outputCode.tsx",
+      "hash": "24311ec4",
+      "kind": "stringLiteral",
+      "text": "\"instances\": [{"
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus/components/Code/outputCode.tsx",
+      "hash": "8ab38cd6",
+      "kind": "stringLiteral",
+      "text": "\"id\": \"12948885700ef8e3\","
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus/components/Code/outputCode.tsx",
+      "hash": "d9a6e94c",
+      "kind": "stringLiteral",
+      "text": "\"memory\": \"63\","
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus/components/Code/outputCode.tsx",
+      "hash": "62432e07",
+      "kind": "stringLiteral",
+      "text": "\"gpuNum\": \"1\","
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus/components/Code/outputCode.tsx",
+      "hash": "6c32040e",
+      "kind": "stringLiteral",
+      "text": "\"productId\": \"1\","
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus/components/Code/outputCode.tsx",
+      "hash": "5366e070",
+      "kind": "stringLiteral",
+      "text": "\"productName\": \"RTX 4090 24GB\","
+    },
+    {
+      "context": "property:text",
+      "file": "src/app/gpus/components/Code/outputCode.tsx",
+      "hash": "3993dc3c",
+      "kind": "stringLiteral",
+      "text": "\"instancePrice\": \"35000\","
+    },
+    {
+      "context": "unsupportedAttribute:direction",
+      "file": "src/app/homepage/components/BuiltWith.tsx",
+      "hash": "a04ba863",
+      "kind": "stringLiteral",
+      "text": "previous"
+    },
+    {
+      "context": "unsupportedAttribute:direction",
+      "file": "src/app/homepage/components/BuiltWith.tsx",
+      "hash": "e931eee6",
+      "kind": "stringLiteral",
+      "text": "next"
+    },
+    {
+      "context": "unsupportedAttribute:decoding",
+      "file": "src/app/homepage/components/BuiltWith.tsx",
+      "hash": "35b8c74e",
+      "kind": "stringLiteral",
+      "text": "async"
+    },
+    {
+      "context": "variable:BARE_METAL_CLUSTER_SUMMARY_LEFT",
+      "file": "src/app/homepage/components/gpu-cloud/bareMetalClusterStates.ts",
+      "hash": "c656c94a",
+      "kind": "stringLiteral",
+      "text": "CLUSTER-01 · 6 nodes"
+    },
+    {
+      "context": "variable:BARE_METAL_CLUSTER_SUMMARY_LEFT",
+      "file": "src/app/homepage/components/gpu-cloud/bareMetalClusterStates.ts",
+      "hash": "5c50d6e9",
+      "kind": "stringLiteral",
+      "text": "CLUSTER-02 · 12 nodes"
+    },
+    {
+      "context": "variable:BARE_METAL_CLUSTER_SUMMARY_LEFT",
+      "file": "src/app/homepage/components/gpu-cloud/bareMetalClusterStates.ts",
+      "hash": "27192053",
+      "kind": "stringLiteral",
+      "text": "CLUSTER-03 · 3 nodes"
+    },
+    {
+      "context": "variable:BARE_METAL_CLUSTER_SUMMARY_RIGHT",
+      "file": "src/app/homepage/components/gpu-cloud/bareMetalClusterStates.ts",
+      "hash": "6657a07c",
+      "kind": "stringLiteral",
+      "text": "NVLink · GPUDirect RDMA · PCIe"
+    },
+    {
+      "context": "variable:BARE_METAL_CLUSTER_SUMMARY_RIGHT",
+      "file": "src/app/homepage/components/gpu-cloud/bareMetalClusterStates.ts",
+      "hash": "21d68f65",
+      "kind": "stringLiteral",
+      "text": "PCIe · 10GbE"
+    },
+    {
+      "context": "unsupportedAttribute:aria-describedby",
+      "file": "src/app/homepage/components/Hero.tsx",
+      "hash": "86aa579e",
+      "kind": "stringLiteral",
+      "text": "home-agent-instructions"
+    },
+    {
+      "context": "variable:AGENT_COPY_TEXT",
+      "file": "src/app/homepage/components/Hero.tsx",
+      "hash": "063d197f",
+      "kind": "templateExpression",
+      "text": "Read and follow the instructions."
+    },
+    {
+      "context": "unsupportedAttribute:overflow",
+      "file": "src/app/homepage/components/HeroDecoration.tsx",
+      "hash": "b1e37d63",
+      "kind": "stringLiteral",
+      "text": "visible"
+    },
+    {
+      "context": "unsupportedAttribute:kicker",
+      "file": "src/app/homepage/components/ProductGpuCloudSection.tsx",
+      "hash": "0aed4c77",
+      "kind": "stringLiteral",
+      "text": "GPU Instances"
+    },
+    {
+      "context": "unsupportedAttribute:kicker",
+      "file": "src/app/homepage/components/ProductGpuCloudSection.tsx",
+      "hash": "0d42f13e",
+      "kind": "stringLiteral",
+      "text": "Serverless GPU"
+    },
+    {
+      "context": "unsupportedAttribute:kicker",
+      "file": "src/app/homepage/components/ProductGpuCloudSection.tsx",
+      "hash": "dc80541e",
+      "kind": "stringLiteral",
+      "text": "Bare Metal"
+    },
+    {
+      "context": "variable:GPU_CLOUD_ROW_GRID_COPY_FIRST",
+      "file": "src/app/homepage/components/ProductGpuCloudSection.tsx",
+      "hash": "1320d451",
+      "kind": "stringLiteral",
+      "text": "lg:grid-cols-[minmax(0,346fr)_minmax(0,651fr)]"
+    },
+    {
+      "context": "variable:copy",
+      "file": "src/app/homepage/components/ProductGpuCloudSection.tsx",
+      "hash": "5bc20c29",
+      "kind": "stringLiteral",
+      "text": "link"
+    },
+    {
+      "context": "variable:copy",
+      "file": "src/app/homepage/components/ProductGpuCloudSection.tsx",
+      "hash": "aa3faf26",
+      "kind": "stringLiteral",
+      "text": "button"
+    },
+    {
+      "context": "unsupportedAttribute:decoding",
+      "file": "src/app/homepage/components/WhatsNewClient.tsx",
+      "hash": "1733bf92",
+      "kind": "stringLiteral",
+      "text": "async"
+    },
+    {
+      "context": "unsupportedAttribute:direction",
+      "file": "src/app/homepage/components/WhatsNewClient.tsx",
+      "hash": "60807ba6",
+      "kind": "stringLiteral",
+      "text": "previous"
+    },
+    {
+      "context": "unsupportedAttribute:direction",
+      "file": "src/app/homepage/components/WhatsNewClient.tsx",
+      "hash": "41c27115",
+      "kind": "stringLiteral",
+      "text": "next"
+    },
+    {
+      "context": "unsupportedAttribute:decoding",
+      "file": "src/app/homepage/components/WhyNovita.tsx",
+      "hash": "a5e1cc58",
+      "kind": "stringLiteral",
+      "text": "async"
+    },
+    {
+      "context": "unsupportedAttribute:content",
+      "file": "src/app/layout.tsx",
+      "hash": "b5001a21",
+      "kind": "stringLiteral",
+      "text": "4090,gpu,ai,A100,h100"
+    },
+    {
+      "context": "unsupportedAttribute:content",
+      "file": "src/app/layout.tsx",
+      "hash": "d1cd0705",
+      "kind": "stringLiteral",
+      "text": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    },
+    {
+      "context": "unsupportedAttribute:media",
+      "file": "src/app/layout.tsx",
+      "hash": "125e135a",
+      "kind": "stringLiteral",
+      "text": "(prefers-color-scheme: light)"
+    },
+    {
+      "context": "unsupportedAttribute:media",
+      "file": "src/app/layout.tsx",
+      "hash": "5b6aa8be",
+      "kind": "stringLiteral",
+      "text": "(prefers-color-scheme: dark)"
+    },
+    {
+      "context": "unsupportedAttribute:strategy",
+      "file": "src/app/layout.tsx",
+      "hash": "6f9a9486",
+      "kind": "stringLiteral",
+      "text": "beforeInteractive"
+    },
+    {
+      "context": "unsupportedAttribute:strategy",
+      "file": "src/app/layout.tsx",
+      "hash": "597df1e7",
+      "kind": "stringLiteral",
+      "text": "lazyOnload"
+    },
+    {
+      "context": "unsupportedAttribute:strategy",
+      "file": "src/app/layout.tsx",
+      "hash": "02d53b5a",
+      "kind": "stringLiteral",
+      "text": "afterInteractive"
+    },
+    {
+      "context": "variable:prompt",
+      "file": "src/app/llama3/components/Integration/CodeBlock.tsx",
+      "hash": "140bd118",
+      "kind": "stringLiteral",
+      "text": "A chat between a curious user and an artificial intelligence assistant"
+    },
+    {
+      "context": "variable:AGENT_COPY_TEXT",
+      "file": "src/app/mainpage/components/AgentEntry.tsx",
+      "hash": "d786d648",
+      "kind": "templateExpression",
+      "text": "Read and follow the instructions."
+    },
+    {
+      "context": "property:action",
+      "file": "src/app/mainpage/components/BookCall.tsx",
+      "hash": "6c056193",
+      "kind": "stringLiteral",
+      "text": "BOOK_DEMO"
+    },
+    {
+      "context": "property:action",
+      "file": "src/app/mainpage/components/BookDemo.tsx",
+      "hash": "ff63f5df",
+      "kind": "stringLiteral",
+      "text": "BOOK_DEMO"
+    },
+    {
+      "context": "unsupportedAttribute:slidesPerView",
+      "file": "src/app/mainpage/components/Partners.tsx",
+      "hash": "23d91773",
+      "kind": "stringLiteral",
+      "text": "auto"
+    },
+    {
+      "context": "property:title",
+      "file": "src/app/model-api/image/[keyword]/page.tsx",
+      "hash": "f852444a",
+      "kind": "templateExpression",
+      "text": "image | 404"
+    },
+    {
+      "context": "property:description",
+      "file": "src/app/model-api/image/[keyword]/page.tsx",
+      "hash": "5e1de648",
+      "kind": "templateExpression",
+      "text": "image page"
+    },
+    {
+      "context": "property:title",
+      "file": "src/app/model-api/image/pokemon/[keyword]/page.tsx",
+      "hash": "29b170a1",
+      "kind": "templateExpression",
+      "text": "pokemon | 404"
+    },
+    {
+      "context": "property:description",
+      "file": "src/app/model-api/image/pokemon/[keyword]/page.tsx",
+      "hash": "de3c61b5",
+      "kind": "templateExpression",
+      "text": "image page"
+    },
+    {
+      "context": "property:title",
+      "file": "src/app/model-api/model/[version_id]/page.tsx",
+      "hash": "c0063092",
+      "kind": "templateExpression",
+      "text": "model | Stable Diffusion"
+    },
+    {
+      "context": "property:description",
+      "file": "src/app/model-api/model/[version_id]/page.tsx",
+      "hash": "e910cee8",
+      "kind": "templateExpression",
+      "text": "model |"
+    },
+    {
+      "context": "unsupportedAttribute:layout",
+      "file": "src/app/model-api/model/components/privateModel/UploadModal.tsx",
+      "hash": "5aa9f7fe",
+      "kind": "stringLiteral",
+      "text": "vertical"
+    },
+    {
+      "context": "unsupportedAttribute:displayMode",
+      "file": "src/app/model-api/product/components/ProductRecommendations/ProductRecommendations.tsx",
+      "hash": "6fe7237d",
+      "kind": "stringLiteral",
+      "text": "row"
+    },
+    {
+      "context": "unsupportedAttribute:apiVer",
+      "file": "src/app/model-api/product/img2img/Case.tsx",
+      "hash": "0b4bf9fc",
+      "kind": "stringLiteral",
+      "text": "v2"
+    },
+    {
+      "context": "unsupportedAttribute:tryBtnTxt",
+      "file": "src/app/model-api/product/LoRA-training/page.tsx",
+      "hash": "36011be7",
+      "kind": "stringLiteral",
+      "text": "Try in colab"
+    },
+    {
+      "context": "unsupportedAttribute:apiVer",
+      "file": "src/app/model-api/product/sd3/Case.tsx",
+      "hash": "238a1002",
+      "kind": "stringLiteral",
+      "text": "v3"
+    },
+    {
+      "context": "variable:DESC_TITLE",
+      "file": "src/app/model-api/product/speech2txt-translate/Case.tsx",
+      "hash": "2ff92018",
+      "kind": "stringLiteral",
+      "text": "Effortless Multilingual Communication."
+    },
+    {
+      "context": "unsupportedAttribute:subType",
+      "file": "src/app/model-api/product/speech2txt-translate/Case.tsx",
+      "hash": "6390b34e",
+      "kind": "stringLiteral",
+      "text": "translation"
+    },
+    {
+      "context": "variable:DESC_TITLE",
+      "file": "src/app/model-api/product/speech2txt/Case.tsx",
+      "hash": "5e1b474e",
+      "kind": "stringLiteral",
+      "text": "Real-time and Accurate Speech-to-Text"
+    },
+    {
+      "context": "unsupportedAttribute:subType",
+      "file": "src/app/model-api/product/speech2txt/Case.tsx",
+      "hash": "480a0622",
+      "kind": "stringLiteral",
+      "text": "transcription"
+    },
+    {
+      "context": "unsupportedAttribute:apiVer",
+      "file": "src/app/model-api/product/txt2img/Case.tsx",
+      "hash": "06e4bc14",
+      "kind": "stringLiteral",
+      "text": "v3"
+    },
+    {
+      "context": "unsupportedAttribute:subType",
+      "file": "src/app/model-api/product/voice-cloning-instant/Case.tsx",
+      "hash": "f0dd8f4f",
+      "kind": "stringLiteral",
+      "text": "voice_cloning"
+    },
+    {
+      "context": "variable:DESC_TITLE",
+      "file": "src/app/model-api/product/voice-cloning-instant/Case.tsx",
+      "hash": "f9075018",
+      "kind": "stringLiteral",
+      "text": "Instant voice cloning: Minimize effort, maximize your productivity"
+    },
+    {
+      "context": "unsupportedAttribute:subType",
+      "file": "src/app/model-api/product/voice-cloning/Case.tsx",
+      "hash": "4c0867da",
+      "kind": "stringLiteral",
+      "text": "voice_cloning_profession"
+    },
+    {
+      "context": "variable:DESC_TITLE",
+      "file": "src/app/model-api/product/voice-cloning/Case.tsx",
+      "hash": "ac6d2e28",
+      "kind": "stringLiteral",
+      "text": "Professional Voice Cloning:The Best Voice Cloning API"
+    },
+    {
+      "context": "unsupportedAttribute:status",
+      "file": "src/app/models-console/image-dedicated-endpoints/components/EnterpriseTable.tsx",
+      "hash": "f1bed5ad",
+      "kind": "stringLiteral",
+      "text": "warning"
+    },
+    {
+      "context": "unsupportedAttribute:product",
+      "file": "src/app/models-console/layout.tsx",
+      "hash": "2ea79c13",
+      "kind": "stringLiteral",
+      "text": "models"
+    },
+    {
+      "context": "unsupportedAttribute:displayMode",
+      "file": "src/app/models-console/library/page.tsx",
+      "hash": "e69e7d26",
+      "kind": "stringLiteral",
+      "text": "row"
+    },
+    {
+      "context": "unsupportedAttribute:displayMode",
+      "file": "src/app/models-console/library/page.tsx",
+      "hash": "d65c57af",
+      "kind": "stringLiteral",
+      "text": "block"
+    },
+    {
+      "context": "unsupportedAttribute:containerClassName",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/AddAdapterModal.tsx",
+      "hash": "dab2e851",
+      "kind": "stringLiteral",
+      "text": "w-full"
+    },
+    {
+      "context": "unsupportedAttribute:content",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/DEModelStatus.tsx",
+      "hash": "0037f7b9",
+      "kind": "stringLiteral",
+      "text": "Performing a version update"
+    },
+    {
+      "context": "unsupportedAttribute:contentClassName",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/DEModelStatus.tsx",
+      "hash": "966ce661",
+      "kind": "stringLiteral",
+      "text": "w-[200px] whitespace-normal"
+    },
+    {
+      "context": "unsupportedAttribute:content",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/detail/InstanceConfigReadOnly.tsx",
+      "hash": "0bcda398",
+      "kind": "stringLiteral",
+      "text": "Instance configuration cannot be modified after creation. To change GPU type/count, create a new endpoint and migrate traffic."
+    },
+    {
+      "context": "unsupportedAttribute:contentClassName",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/detail/InstanceConfigReadOnly.tsx",
+      "hash": "09d56e3d",
+      "kind": "stringLiteral",
+      "text": "w-[320px] whitespace-normal"
+    },
+    {
+      "context": "unsupportedAttribute:unit",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/detail/MetricsTab.tsx",
+      "hash": "7a2b7ab7",
+      "kind": "stringLiteral",
+      "text": "tokens/s"
+    },
+    {
+      "context": "unsupportedAttribute:unit",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/detail/MetricsTab.tsx",
+      "hash": "9a8b10cc",
+      "kind": "stringLiteral",
+      "text": "ms"
+    },
+    {
+      "context": "unsupportedAttribute:unit",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/detail/MetricsTab.tsx",
+      "hash": "5735d2d0",
+      "kind": "stringLiteral",
+      "text": "requests"
+    },
+    {
+      "context": "unsupportedAttribute:unit",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/detail/MetricsTab.tsx",
+      "hash": "637dc028",
+      "kind": "stringLiteral",
+      "text": "replicas"
+    },
+    {
+      "context": "unsupportedAttribute:content",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/form-field/AutoscalingConfig.tsx",
+      "hash": "f4a4e18f",
+      "kind": "stringLiteral",
+      "text": "The fixed number of replicas that will always be running."
+    },
+    {
+      "context": "unsupportedAttribute:contentClassName",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/form-field/AutoscalingConfig.tsx",
+      "hash": "b30826bc",
+      "kind": "stringLiteral",
+      "text": "w-[240px] whitespace-normal"
+    },
+    {
+      "context": "unsupportedAttribute:content",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/form-field/AutoscalingConfig.tsx",
+      "hash": "85ef7877",
+      "kind": "stringLiteral",
+      "text": "Set the minimum and maximum number of replicas. The system will automatically scale between these values based on traffic."
+    },
+    {
+      "context": "unsupportedAttribute:contentClassName",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/form-field/AutoscalingConfig.tsx",
+      "hash": "7bc5b0fa",
+      "kind": "stringLiteral",
+      "text": "w-[280px] whitespace-normal"
+    },
+    {
+      "context": "unsupportedAttribute:content",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/form-field/AutoscalingConfig.tsx",
+      "hash": "4156afd3",
+      "kind": "stringLiteral",
+      "text": "The time to wait before scaling down after traffic decreases."
+    },
+    {
+      "context": "unsupportedAttribute:contentClassName",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/form-field/AutoscalingConfig.tsx",
+      "hash": "c3434e9c",
+      "kind": "stringLiteral",
+      "text": "w-[260px] whitespace-normal"
+    },
+    {
+      "context": "unsupportedAttribute:contentClassName",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/form-field/EngineConfig.tsx",
+      "hash": "49ad3e49",
+      "kind": "stringLiteral",
+      "text": "w-[280px] whitespace-normal"
+    },
+    {
+      "context": "unsupportedAttribute:content",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/form-field/GPUTileSelector.tsx",
+      "hash": "3d42bf16",
+      "kind": "stringLiteral",
+      "text": "The total GPU quota for all card types under each account is 8. If you need more, please contact us."
+    },
+    {
+      "context": "unsupportedAttribute:contentClassName",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/form-field/GPUTileSelector.tsx",
+      "hash": "1c07ef64",
+      "kind": "stringLiteral",
+      "text": "w-[246px] whitespace-normal"
+    },
+    {
+      "context": "unsupportedAttribute:content",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/form-field/InstanceField.tsx",
+      "hash": "887c732c",
+      "kind": "stringLiteral",
+      "text": "The total GPU quota for all card types under each account is 8. If you need more, please contact us."
+    },
+    {
+      "context": "unsupportedAttribute:contentClassName",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/form-field/InstanceField.tsx",
+      "hash": "094801f6",
+      "kind": "stringLiteral",
+      "text": "w-[246px] whitespace-normal"
+    },
+    {
+      "context": "unsupportedAttribute:content",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/form-field/ModelField.tsx",
+      "hash": "08911e7c",
+      "kind": "stringLiteral",
+      "text": "A base model can be configured with multiple LoRA adapters."
+    },
+    {
+      "context": "unsupportedAttribute:contentClassName",
+      "file": "src/app/models-console/llm-dedicated-endpoints/components/form-field/ModelField.tsx",
+      "hash": "99d57ff1",
+      "kind": "stringLiteral",
+      "text": "w-[246px] whitespace-normal"
+    },
+    {
+      "context": "unsupportedAttribute:containerClassName",
+      "file": "src/app/models-console/llm-dedicated-endpoints/sub-pages/DedicatedEndpointList/ListToolbar.tsx",
+      "hash": "328c26ed",
+      "kind": "stringLiteral",
+      "text": "w-[300px]"
+    },
+    {
+      "context": "unsupportedAttribute:index",
+      "file": "src/app/models-console/llm-metrics/components/LineChart.tsx",
+      "hash": "bc9390b0",
+      "kind": "stringLiteral",
+      "text": "date"
+    },
+    {
+      "context": "unsupportedAttribute:help",
+      "file": "src/app/models-console/llm-metrics/page.tsx",
+      "hash": "2efc47f4",
+      "kind": "stringLiteral",
+      "text": "Percentage of non-5xx status code responses during a specified time period."
+    },
+    {
+      "context": "unsupportedAttribute:help",
+      "file": "src/app/models-console/llm-metrics/page.tsx",
+      "hash": "65447e5e",
+      "kind": "stringLiteral",
+      "text": "The average number of input or output tokens per request during a specified time period."
+    },
+    {
+      "context": "unsupportedAttribute:help",
+      "file": "src/app/models-console/llm-metrics/page.tsx",
+      "hash": "ad15ccfa",
+      "kind": "stringLiteral",
+      "text": "The overall time it takes for the model to generate the full response for an LLM request."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/models-console/llm-playground/components/chat-messages/OCRPromptSelector.tsx",
+      "hash": "877501c6",
+      "kind": "stringLiteral",
+      "text": "<|grounding|>Convert the document to markdown."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/models-console/llm-playground/components/chat-messages/OCRPromptSelector.tsx",
+      "hash": "91880b24",
+      "kind": "stringLiteral",
+      "text": "<|grounding|>OCR this image."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/models-console/llm-playground/components/chat-messages/OCRPromptSelector.tsx",
+      "hash": "a09efd20",
+      "kind": "stringLiteral",
+      "text": "Free OCR."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/models-console/llm-playground/components/chat-messages/OCRPromptSelector.tsx",
+      "hash": "c0711d55",
+      "kind": "stringLiteral",
+      "text": "Parse the figure."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/models-console/llm-playground/components/chat-messages/OCRPromptSelector.tsx",
+      "hash": "50c3fa61",
+      "kind": "stringLiteral",
+      "text": "Describe this image in detail."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/models-console/llm-playground/components/chat-messages/OCRPromptSelector.tsx",
+      "hash": "00b4f6ad",
+      "kind": "stringLiteral",
+      "text": "Locate <|ref|>xxxx<|/ref|> in the image."
+    },
+    {
+      "context": "unsupportedAttribute:language",
+      "file": "src/app/models-console/llm-playground/components/chat-messages/parts-render/tool-parts.tsx",
+      "hash": "abf71e26",
+      "kind": "stringLiteral",
+      "text": "json"
+    },
+    {
+      "context": "unsupportedAttribute:defaultValue",
+      "file": "src/app/models-console/llm-playground/components/chat-options/config.tsx",
+      "hash": "fec6ea0f",
+      "kind": "stringLiteral",
+      "text": "text"
+    },
+    {
+      "context": "variable:description",
+      "file": "src/app/models-console/llm-playground/components/chat-options/config.tsx",
+      "hash": "43db7772",
+      "kind": "stringLiteral",
+      "text": "Maximum number of tokens in the generated text — shorter length has faster performance"
+    },
+    {
+      "context": "property:system_prompt",
+      "file": "src/app/models-console/llm-playground/components/chat-options/config.tsx",
+      "hash": "abe93692",
+      "kind": "stringLiteral",
+      "text": "System persona, such as \"You are an AI assistant.\""
+    },
+    {
+      "context": "variable:description",
+      "file": "src/app/models-console/llm-playground/components/chat-options/config.tsx",
+      "hash": "270c17bf",
+      "kind": "stringLiteral",
+      "text": "Creativity and randomness of the response"
+    },
+    {
+      "context": "variable:description",
+      "file": "src/app/models-console/llm-playground/components/chat-options/config.tsx",
+      "hash": "2c591f4b",
+      "kind": "stringLiteral",
+      "text": "Dynamically adjusts the number of choices for each predicted token, which helps to maintain diversity and generate more fluent and natural-sounding text"
+    },
+    {
+      "context": "variable:description",
+      "file": "src/app/models-console/llm-playground/components/chat-options/config.tsx",
+      "hash": "3edaf7aa",
+      "kind": "stringLiteral",
+      "text": "A number between -2.0 and 2.0 where a positive value increases the likelihood of a model talking about new topics"
+    },
+    {
+      "context": "unsupportedAttribute:thumbClassName",
+      "file": "src/app/models-console/llm-playground/components/chat-options/config.tsx",
+      "hash": "6eb5dd93",
+      "kind": "stringLiteral",
+      "text": "focus-visible:ring-offset-0 focus-visible:ring-0"
+    },
+    {
+      "context": "variable:description",
+      "file": "src/app/models-console/llm-playground/components/chat-options/config.tsx",
+      "hash": "deb774d2",
+      "kind": "stringLiteral",
+      "text": "A number between -2.0 and 2.0 where a positive value decreases the likelihood of repeating tokens that have already been mentioned"
+    },
+    {
+      "context": "variable:description",
+      "file": "src/app/models-console/llm-playground/components/chat-options/config.tsx",
+      "hash": "7f291154",
+      "kind": "stringLiteral",
+      "text": "Reduce the likelihood of repeating prompt text or getting stuck in a loop"
+    },
+    {
+      "context": "variable:description",
+      "file": "src/app/models-console/llm-playground/components/chat-options/config.tsx",
+      "hash": "7a923bcc",
+      "kind": "stringLiteral",
+      "text": "A number between 0 and 1 that can be used as an alternative to top_p and top-k"
+    },
+    {
+      "context": "variable:description",
+      "file": "src/app/models-console/llm-playground/components/chat-options/config.tsx",
+      "hash": "d31edf61",
+      "kind": "stringLiteral",
+      "text": "Limits the number of choices for the next predicted word or token, which helps to speed up the generation process and can improve the quality of the generated text"
+    },
+    {
+      "context": "variable:description",
+      "file": "src/app/models-console/llm-playground/components/chat-options/config.tsx",
+      "hash": "86ea509b",
+      "kind": "stringLiteral",
+      "text": "Use a JSON schema to define the structure of the model's response format or let the model decide it's own structure."
+    },
+    {
+      "context": "property:message",
+      "file": "src/app/models-console/llm-playground/components/chat-options/tools.tsx",
+      "hash": "55993b2e",
+      "kind": "templateExpression",
+      "text": "Function name \" \" already exists"
+    },
+    {
+      "context": "unsupportedAttribute:direction",
+      "file": "src/app/models-console/llm-playground/components/code-drawer/CodeDrawer.tsx",
+      "hash": "b4c8e170",
+      "kind": "stringLiteral",
+      "text": "right"
+    },
+    {
+      "context": "unsupportedAttribute:checkPosition",
+      "file": "src/app/models-console/llm-playground/components/model-selector/ModelSelector.tsx",
+      "hash": "4cb9ea39",
+      "kind": "stringLiteral",
+      "text": "right"
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/models-console/llm-playground/types/modelConstraints.ts",
+      "hash": "8ebc94e4",
+      "kind": "stringLiteral",
+      "text": "<|grounding|>Convert the document to markdown."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/models-console/llm-playground/types/modelConstraints.ts",
+      "hash": "206098b3",
+      "kind": "stringLiteral",
+      "text": "<|grounding|>OCR this image."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/models-console/llm-playground/types/modelConstraints.ts",
+      "hash": "8f79ec38",
+      "kind": "stringLiteral",
+      "text": "Free OCR."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/models-console/llm-playground/types/modelConstraints.ts",
+      "hash": "c787235d",
+      "kind": "stringLiteral",
+      "text": "Parse the figure."
+    },
+    {
+      "context": "property:prompt",
+      "file": "src/app/models-console/llm-playground/types/modelConstraints.ts",
+      "hash": "42ef6e61",
+      "kind": "stringLiteral",
+      "text": "Describe this image in detail."
+    },
+    {
+      "context": "unsupportedAttribute:containerClassName",
+      "file": "src/app/models-console/multimodal-playground/components/FormFields/ArrayInputField.tsx",
+      "hash": "59bfcf3c",
+      "kind": "stringLiteral",
+      "text": "flex-1"
+    },
+    {
+      "context": "unsupportedAttribute:accept",
+      "file": "src/app/models-console/multimodal-playground/components/FormFields/ImageUploadField.tsx",
+      "hash": "c660bdf3",
+      "kind": "stringLiteral",
+      "text": "image/*"
+    },
+    {
+      "context": "unsupportedAttribute:containerClassName",
+      "file": "src/app/models-console/multimodal-playground/components/FormFields/ImageUploadField.tsx",
+      "hash": "21529740",
+      "kind": "stringLiteral",
+      "text": "flex-1"
+    },
+    {
+      "context": "unsupportedAttribute:autoComplete",
+      "file": "src/app/models-console/multimodal-playground/components/ModelSelector/SearchInput.tsx",
+      "hash": "73258b49",
+      "kind": "stringLiteral",
+      "text": "off"
+    },
+    {
+      "context": "property:text_gen",
+      "file": "src/app/models/[model_series]/[model_name]/components/MultimodalModelPlayground.tsx",
+      "hash": "9f6ca15e",
+      "kind": "stringLiteral",
+      "text": "Text"
+    },
+    {
+      "context": "unsupportedAttribute:pageType",
+      "file": "src/app/models/[model_series]/[model_name]/components/MultimodalModelPlayground.tsx",
+      "hash": "522ab086",
+      "kind": "stringLiteral",
+      "text": "web"
+    },
+    {
+      "context": "variable:title",
+      "file": "src/app/models/[model_series]/[model_name]/page.tsx",
+      "hash": "4d65f8a8",
+      "kind": "templateExpression",
+      "text": "| Novita AI"
+    },
+    {
+      "context": "property:VIDEO_REMOVE_SUBTITLE",
+      "file": "src/app/models/constants/funcs.ts",
+      "hash": "f591e5d2",
+      "kind": "stringLiteral",
+      "text": "Video Remove Subtitle"
+    },
+    {
+      "context": "property:video-remove-subtitle",
+      "file": "src/app/models/constants/funcs.ts",
+      "hash": "b89d8917",
+      "kind": "stringLiteral",
+      "text": "Video Remove Subtitle"
+    },
+    {
+      "context": "property:REMOVE_TEXT",
+      "file": "src/app/models/constants/funcs.ts",
+      "hash": "f3c2f66d",
+      "kind": "stringLiteral",
+      "text": "Remove Text"
+    },
+    {
+      "context": "property:remove-text",
+      "file": "src/app/models/constants/funcs.ts",
+      "hash": "84f8f3c1",
+      "kind": "stringLiteral",
+      "text": "Remove Text"
+    },
+    {
+      "context": "property:placeholder",
+      "file": "src/app/models/lib/widgets.ts",
+      "hash": "64c19ff4",
+      "kind": "stringLiteral",
+      "text": "Description of what you want to generate..."
+    },
+    {
+      "context": "property:placeholder",
+      "file": "src/app/models/lib/widgets.ts",
+      "hash": "6b66fbb5",
+      "kind": "stringLiteral",
+      "text": "What you want to avoid generating..."
+    },
+    {
+      "context": "unsupportedAttribute:defaultActiveKey",
+      "file": "src/app/models/video/wan-2.6/Case.tsx",
+      "hash": "148a826f",
+      "kind": "stringLiteral",
+      "text": "t2v"
+    },
+    {
+      "context": "unsupportedAttribute:fillRule",
+      "file": "src/app/models/voices/components/key-features/icons/CustomizeIcon.tsx",
+      "hash": "bd807771",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:clipRule",
+      "file": "src/app/models/voices/components/key-features/icons/CustomizeIcon.tsx",
+      "hash": "1fc26075",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:fillRule",
+      "file": "src/app/models/voices/components/key-features/icons/FriendlyIcon.tsx",
+      "hash": "5266ba3f",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:clipRule",
+      "file": "src/app/models/voices/components/key-features/icons/FriendlyIcon.tsx",
+      "hash": "5b03ae1d",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:fillRule",
+      "file": "src/app/models/voices/components/key-features/icons/IntegrationIcon.tsx",
+      "hash": "24efc75b",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:clipRule",
+      "file": "src/app/models/voices/components/key-features/icons/IntegrationIcon.tsx",
+      "hash": "b85fba09",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:fillRule",
+      "file": "src/app/models/voices/components/key-features/icons/LatencyIcon.tsx",
+      "hash": "ad554482",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:clipRule",
+      "file": "src/app/models/voices/components/key-features/icons/LatencyIcon.tsx",
+      "hash": "229c87df",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:fillRule",
+      "file": "src/app/models/voices/components/key-features/icons/VoiceIcon.tsx",
+      "hash": "0ecbdd4a",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:clipRule",
+      "file": "src/app/models/voices/components/key-features/icons/VoiceIcon.tsx",
+      "hash": "96db5e2c",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:tabsStyle",
+      "file": "src/app/pricing/components/DetailContent.tsx",
+      "hash": "53aca76c",
+      "kind": "stringLiteral",
+      "text": "line"
+    },
+    {
+      "context": "unsupportedAttribute:status",
+      "file": "src/app/pricing/components/EnterprisePlan.tsx",
+      "hash": "2c656a4d",
+      "kind": "stringLiteral",
+      "text": "success"
+    },
+    {
+      "context": "unsupportedAttribute:message",
+      "file": "src/app/pricing/components/EnterprisePlan.tsx",
+      "hash": "b8fff06f",
+      "kind": "stringLiteral",
+      "text": "Your request has been submitted"
+    },
+    {
+      "context": "unsupportedAttribute:layout",
+      "file": "src/app/pricing/components/EnterprisePlan.tsx",
+      "hash": "9b8f014f",
+      "kind": "stringLiteral",
+      "text": "vertical"
+    },
+    {
+      "context": "property:text_to_image",
+      "file": "src/app/pricing/components/ModelAPIPrice.tsx",
+      "hash": "0dad4731",
+      "kind": "stringLiteral",
+      "text": "Text-to-image generation"
+    },
+    {
+      "context": "unsupportedAttribute:unit",
+      "file": "src/app/pricing/components/ModelSection.tsx",
+      "hash": "ebcdad1a",
+      "kind": "stringLiteral",
+      "text": "Mt"
+    },
+    {
+      "context": "property:action",
+      "file": "src/app/pricing/components/visitReport.tsx",
+      "hash": "ff9bc40e",
+      "kind": "stringLiteral",
+      "text": "PAGE_VIEW_PRICING"
+    },
+    {
+      "context": "unsupportedAttribute:tabsStyle",
+      "file": "src/app/quota-limits/components/QuotaLimitsTabs.tsx",
+      "hash": "9de750bd",
+      "kind": "stringLiteral",
+      "text": "line"
+    },
+    {
+      "context": "unsupportedAttribute:product",
+      "file": "src/app/quota-limits/template.tsx",
+      "hash": "e179b8d9",
+      "kind": "stringLiteral",
+      "text": "main"
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/referral/components/FAQ.tsx",
+      "hash": "8a87d62d",
+      "kind": "stringLiteral",
+      "text": "How much can I earn in vouchers?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/referral/components/FAQ.tsx",
+      "hash": "40653e67",
+      "kind": "stringLiteral",
+      "text": "Each user can earn up to a total of $500 in vouchers through our referral program."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/referral/components/FAQ.tsx",
+      "hash": "45a8a38f",
+      "kind": "stringLiteral",
+      "text": "What can the vouchers be used for?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/referral/components/FAQ.tsx",
+      "hash": "ca51beca",
+      "kind": "stringLiteral",
+      "text": "These vouchers are exclusively redeemable for all LLM APIs."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/referral/components/FAQ.tsx",
+      "hash": "05f854ad",
+      "kind": "stringLiteral",
+      "text": "Do the vouchers expire?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/referral/components/FAQ.tsx",
+      "hash": "1b9c527d",
+      "kind": "stringLiteral",
+      "text": "Yes. Each new voucher expires 90 days from the date it is issued."
+    },
+    {
+      "context": "property:question",
+      "file": "src/app/referral/components/FAQ.tsx",
+      "hash": "815ce7cf",
+      "kind": "stringLiteral",
+      "text": "How do I use the voucher?"
+    },
+    {
+      "context": "property:answer",
+      "file": "src/app/referral/components/FAQ.tsx",
+      "hash": "0f506a07",
+      "kind": "stringLiteral",
+      "text": "Your voucher is immediately available for use on LLM APIs—no need to top up your balance or apply a voucher code. Simply start making calls to the LLM APIs."
+    },
+    {
+      "context": "unsupportedAttribute:index",
+      "file": "src/app/sandbox-console/components/singleMetrics/index.tsx",
+      "hash": "4d75126b",
+      "kind": "stringLiteral",
+      "text": "timestamp"
+    },
+    {
+      "context": "unsupportedAttribute:product",
+      "file": "src/app/sandbox-console/layout.tsx",
+      "hash": "f8ad1a81",
+      "kind": "stringLiteral",
+      "text": "sandbox"
+    },
+    {
+      "context": "unsupportedAttribute:defaultValue",
+      "file": "src/app/sandbox-console/usage/section.tsx",
+      "hash": "a136d0fa",
+      "kind": "stringLiteral",
+      "text": "Day"
+    },
+    {
+      "context": "unsupportedAttribute:defaultValue",
+      "file": "src/app/sandbox-console/view/DateToggleGroup.tsx",
+      "hash": "128b3f69",
+      "kind": "stringLiteral",
+      "text": "hour"
+    },
+    {
+      "context": "unsupportedAttribute:outClassName",
+      "file": "src/app/sandbox/components/ReadyStart/index.tsx",
+      "hash": "2271dc07",
+      "kind": "stringLiteral",
+      "text": "!ml-0"
+    },
+    {
+      "context": "unsupportedAttribute:buttonType",
+      "file": "src/app/serverless/components/Features.tsx",
+      "hash": "90f5f529",
+      "kind": "stringLiteral",
+      "text": "boxWhite"
+    },
+    {
+      "context": "unsupportedAttribute:tabsStyle",
+      "file": "src/app/settings/components/SettingsTabs.tsx",
+      "hash": "1e5e825f",
+      "kind": "stringLiteral",
+      "text": "line"
+    },
+    {
+      "context": "property:button",
+      "file": "src/app/settings/key-management/page.tsx",
+      "hash": "2bd5d8d3",
+      "kind": "stringLiteral",
+      "text": "Upgrade To Team Account"
+    },
+    {
+      "context": "property:action",
+      "file": "src/app/settings/key-management/page.tsx",
+      "hash": "524dd529",
+      "kind": "stringLiteral",
+      "text": "Action"
+    },
+    {
+      "context": "property:button",
+      "file": "src/app/settings/team/page.tsx",
+      "hash": "9c11527f",
+      "kind": "stringLiteral",
+      "text": "Upgrade To Team Account"
+    },
+    {
+      "context": "property:action",
+      "file": "src/app/settings/team/page.tsx",
+      "hash": "f2fc91c3",
+      "kind": "stringLiteral",
+      "text": "Action"
+    },
+    {
+      "context": "property:button",
+      "file": "src/app/settings/template.tsx",
+      "hash": "ad2e8d2c",
+      "kind": "stringLiteral",
+      "text": "Upgrade To Team Account"
+    },
+    {
+      "context": "property:action",
+      "file": "src/app/settings/template.tsx",
+      "hash": "4444af19",
+      "kind": "stringLiteral",
+      "text": "Action"
+    },
+    {
+      "context": "unsupportedAttribute:product",
+      "file": "src/app/settings/template.tsx",
+      "hash": "c8bfb4ca",
+      "kind": "stringLiteral",
+      "text": "main"
+    },
+    {
+      "context": "unsupportedAttribute:PreTag",
+      "file": "src/app/templates-library/[templateId]/detailsTab.tsx",
+      "hash": "f5b15559",
+      "kind": "stringLiteral",
+      "text": "div"
+    },
+    {
+      "context": "unsupportedAttribute:product",
+      "file": "src/app/templates-library/[templateId]/page.tsx",
+      "hash": "726c0520",
+      "kind": "stringLiteral",
+      "text": "gpus"
+    },
+    {
+      "context": "unsupportedAttribute:PreTag",
+      "file": "src/app/templates/[slug]/page.tsx",
+      "hash": "a01fc1a4",
+      "kind": "stringLiteral",
+      "text": "div"
+    },
+    {
+      "context": "unsupportedAttribute:rootPage",
+      "file": "src/app/user/email-validate/page.tsx",
+      "hash": "9b4e40f4",
+      "kind": "stringLiteral",
+      "text": "validate-email"
+    },
+    {
+      "context": "unsupportedAttribute:rootPage",
+      "file": "src/app/user/login/page.tsx",
+      "hash": "92f4cb9f",
+      "kind": "stringLiteral",
+      "text": "login"
+    },
+    {
+      "context": "unsupportedAttribute:rootPage",
+      "file": "src/app/user/register/page.tsx",
+      "hash": "ec30e8ee",
+      "kind": "stringLiteral",
+      "text": "signup"
+    },
+    {
+      "context": "unsupportedAttribute:rootPage",
+      "file": "src/app/user/reset/[token]/page.tsx",
+      "hash": "eaaa09fe",
+      "kind": "stringLiteral",
+      "text": "reset"
+    },
+    {
+      "context": "unsupportedAttribute:rootPage",
+      "file": "src/app/user/reset/page.tsx",
+      "hash": "72ba9723",
+      "kind": "stringLiteral",
+      "text": "reset"
+    },
+    {
+      "context": "property:summary",
+      "file": "src/app/well-known/openapi.json/route.ts",
+      "hash": "01b40663",
+      "kind": "stringLiteral",
+      "text": "List models"
+    },
+    {
+      "context": "property:summary",
+      "file": "src/app/well-known/openapi.json/route.ts",
+      "hash": "6de266da",
+      "kind": "stringLiteral",
+      "text": "Create chat completion"
+    },
+    {
+      "context": "property:summary",
+      "file": "src/app/well-known/openapi.json/route.ts",
+      "hash": "7823f3e7",
+      "kind": "stringLiteral",
+      "text": "Create completion"
+    },
+    {
+      "context": "property:summary",
+      "file": "src/app/well-known/openapi.json/route.ts",
+      "hash": "886cea04",
+      "kind": "stringLiteral",
+      "text": "Create embeddings"
+    },
+    {
+      "context": "variable:Action",
+      "file": "src/components/ai-elements/actions.tsx",
+      "hash": "b44384c4",
+      "kind": "stringLiteral",
+      "text": "ghost"
+    },
+    {
+      "context": "variable:Action",
+      "file": "src/components/ai-elements/actions.tsx",
+      "hash": "7acdb3d3",
+      "kind": "stringLiteral",
+      "text": "sm"
+    },
+    {
+      "context": "variable:button",
+      "file": "src/components/ai-elements/actions.tsx",
+      "hash": "307fa512",
+      "kind": "stringLiteral",
+      "text": "size-9 p-1.5 text-muted-foreground hover:text-foreground relative"
+    },
+    {
+      "context": "unsupportedAttribute:initial",
+      "file": "src/components/ai-elements/conversation.tsx",
+      "hash": "378c836f",
+      "kind": "stringLiteral",
+      "text": "smooth"
+    },
+    {
+      "context": "unsupportedAttribute:resize",
+      "file": "src/components/ai-elements/conversation.tsx",
+      "hash": "87cf2961",
+      "kind": "stringLiteral",
+      "text": "smooth"
+    },
+    {
+      "context": "unsupportedAttribute:clipPath",
+      "file": "src/components/ai-elements/loader.tsx",
+      "hash": "88e730dd",
+      "kind": "stringLiteral",
+      "text": "url(#clip0_2393_1490)"
+    },
+    {
+      "context": "variable:Message",
+      "file": "src/components/ai-elements/message.tsx",
+      "hash": "9ee4f929",
+      "kind": "stringLiteral",
+      "text": "group flex w-full items-start justify-end gap-2 py-2"
+    },
+    {
+      "context": "variable:Message",
+      "file": "src/components/ai-elements/message.tsx",
+      "hash": "be855656",
+      "kind": "stringLiteral",
+      "text": "user"
+    },
+    {
+      "context": "variable:Message",
+      "file": "src/components/ai-elements/message.tsx",
+      "hash": "94d9f737",
+      "kind": "stringLiteral",
+      "text": "is-user"
+    },
+    {
+      "context": "variable:Message",
+      "file": "src/components/ai-elements/message.tsx",
+      "hash": "9a6f78a8",
+      "kind": "stringLiteral",
+      "text": "is-assistant flex-row-reverse justify-end"
+    },
+    {
+      "context": "unsupportedAttribute:orientation",
+      "file": "src/components/ai-elements/suggestion.tsx",
+      "hash": "0dea29ed",
+      "kind": "stringLiteral",
+      "text": "horizontal"
+    },
+    {
+      "context": "unsupportedAttribute:language",
+      "file": "src/components/ai-elements/tool.tsx",
+      "hash": "68844981",
+      "kind": "stringLiteral",
+      "text": "json"
+    },
+    {
+      "context": "unsupportedAttribute:sandbox",
+      "file": "src/components/ai-elements/web-preview.tsx",
+      "hash": "5e3a8bbc",
+      "kind": "stringLiteral",
+      "text": "allow-scripts allow-same-origin allow-forms allow-popups allow-presentation"
+    },
+    {
+      "context": "variable:Button",
+      "file": "src/components/ui/button.tsx",
+      "hash": "3003b13d",
+      "kind": "stringLiteral",
+      "text": "console"
+    },
+    {
+      "context": "variable:Button",
+      "file": "src/components/ui/button.tsx",
+      "hash": "720cb1d5",
+      "kind": "stringLiteral",
+      "text": "web"
+    },
+    {
+      "context": "property:text",
+      "file": "src/components/ui/button.tsx",
+      "hash": "853595af",
+      "kind": "templateExpression",
+      "text": "font-subtle underline transition-none"
+    },
+    {
+      "context": "property:caption_label",
+      "file": "src/components/ui/calendar-utc.tsx",
+      "hash": "64e94fd7",
+      "kind": "stringLiteral",
+      "text": "text-sm font-medium"
+    },
+    {
+      "context": "property:nav_button_previous",
+      "file": "src/components/ui/calendar-utc.tsx",
+      "hash": "58be8fff",
+      "kind": "stringLiteral",
+      "text": "absolute left-1"
+    },
+    {
+      "context": "property:nav_button_next",
+      "file": "src/components/ui/calendar-utc.tsx",
+      "hash": "94c6c5d5",
+      "kind": "stringLiteral",
+      "text": "absolute right-1"
+    },
+    {
+      "context": "property:caption_label",
+      "file": "src/components/ui/calendar.tsx",
+      "hash": "e3047f90",
+      "kind": "stringLiteral",
+      "text": "text-sm font-medium"
+    },
+    {
+      "context": "property:nav_button_previous",
+      "file": "src/components/ui/calendar.tsx",
+      "hash": "40dbedea",
+      "kind": "stringLiteral",
+      "text": "absolute left-1"
+    },
+    {
+      "context": "property:nav_button_next",
+      "file": "src/components/ui/calendar.tsx",
+      "hash": "a790b47d",
+      "kind": "stringLiteral",
+      "text": "absolute right-1"
+    },
+    {
+      "context": "unsupportedAttribute:aria-roledescription",
+      "file": "src/components/ui/carousel.tsx",
+      "hash": "6883ebae",
+      "kind": "stringLiteral",
+      "text": "carousel"
+    },
+    {
+      "context": "unsupportedAttribute:aria-roledescription",
+      "file": "src/components/ui/carousel.tsx",
+      "hash": "48bc4827",
+      "kind": "stringLiteral",
+      "text": "slide"
+    },
+    {
+      "context": "property:--normal-text",
+      "file": "src/components/ui/sonner.tsx",
+      "hash": "b20890f8",
+      "kind": "stringLiteral",
+      "text": "var(--popover-foreground)"
+    },
+    {
+      "context": "unsupportedAttribute:PreTag",
+      "file": "src/components/ui/standard/md-docs.tsx",
+      "hash": "6aa96b17",
+      "kind": "stringLiteral",
+      "text": "div"
+    },
+    {
+      "context": "property:placeholder",
+      "file": "src/constants/llm-dedicated-endpoint.ts",
+      "hash": "ee2ff32f",
+      "kind": "stringLiteral",
+      "text": "Enter max concurrency"
+    },
+    {
+      "context": "property:placeholder",
+      "file": "src/constants/llm-dedicated-endpoint.ts",
+      "hash": "0b152ac8",
+      "kind": "stringLiteral",
+      "text": "Enter suffix decoding value"
+    },
+    {
+      "context": "property:placeholder",
+      "file": "src/constants/llm-dedicated-endpoint.ts",
+      "hash": "eb9fc965",
+      "kind": "stringLiteral",
+      "text": "Enter model's maximum context length"
+    },
+    {
+      "context": "property:placeholder",
+      "file": "src/constants/llm-dedicated-endpoint.ts",
+      "hash": "317770e6",
+      "kind": "stringLiteral",
+      "text": "Enter model context length"
+    },
+    {
+      "context": "property:INVALID_REQUEST_BODY",
+      "file": "src/hooks/useOauthEvent.ts",
+      "hash": "8ea01c2a",
+      "kind": "stringLiteral",
+      "text": "The request body is invalid"
+    },
+    {
+      "context": "property:ILLEGAL_PROMPT",
+      "file": "src/hooks/useOauthEvent.ts",
+      "hash": "707c1047",
+      "kind": "stringLiteral",
+      "text": "The prompt is illegal"
+    },
+    {
+      "context": "property:EMPTY_IMAGE_CAPTION",
+      "file": "src/hooks/useOauthEvent.ts",
+      "hash": "6b4e5e38",
+      "kind": "stringLiteral",
+      "text": "Empty image caption"
+    },
+    {
+      "context": "property:EMAILS_EMPTY",
+      "file": "src/hooks/useOauthEvent.ts",
+      "hash": "4d9f3064",
+      "kind": "stringLiteral",
+      "text": "Email list is empty"
+    },
+    {
+      "context": "property:PHONES_EMPTY",
+      "file": "src/hooks/useOauthEvent.ts",
+      "hash": "d7373ae7",
+      "kind": "stringLiteral",
+      "text": "Phone list is empty"
+    },
+    {
+      "context": "property:action",
+      "file": "src/hooks/useOauthEvent.ts",
+      "hash": "fb0c25e6",
+      "kind": "stringLiteral",
+      "text": "LOGIN"
+    },
+    {
+      "context": "unsupportedAttribute:stroke-linecap",
+      "file": "src/lib/icons/Affiliate.tsx",
+      "hash": "3bfb507e",
+      "kind": "stringLiteral",
+      "text": "round"
+    },
+    {
+      "context": "unsupportedAttribute:stroke-linejoin",
+      "file": "src/lib/icons/Affiliate.tsx",
+      "hash": "26902388",
+      "kind": "stringLiteral",
+      "text": "round"
+    },
+    {
+      "context": "unsupportedAttribute:fillRule",
+      "file": "src/lib/icons/Chart.tsx",
+      "hash": "21560d23",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:clipRule",
+      "file": "src/lib/icons/Chart.tsx",
+      "hash": "ea77168f",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:fillRule",
+      "file": "src/lib/icons/Clock.tsx",
+      "hash": "9fa20612",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:clipRule",
+      "file": "src/lib/icons/Clock.tsx",
+      "hash": "8b2cfa37",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "return:Copy",
+      "file": "src/lib/icons/Copy.tsx",
+      "hash": "561a25dc",
+      "kind": "stringLiteral",
+      "text": "none"
+    },
+    {
+      "context": "return:Copy",
+      "file": "src/lib/icons/Copy.tsx",
+      "hash": "df9bb1a6",
+      "kind": "stringLiteral",
+      "text": "round"
+    },
+    {
+      "context": "return:Copy",
+      "file": "src/lib/icons/Copy.tsx",
+      "hash": "670e8c8d",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:fillRule",
+      "file": "src/lib/icons/Edit.tsx",
+      "hash": "2dc68f66",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:clipRule",
+      "file": "src/lib/icons/Edit.tsx",
+      "hash": "5df7f87f",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:filterUnits",
+      "file": "src/lib/icons/RightArrowWithBG.tsx",
+      "hash": "093da11a",
+      "kind": "stringLiteral",
+      "text": "userSpaceOnUse"
+    },
+    {
+      "context": "unsupportedAttribute:color-interpolation-filters",
+      "file": "src/lib/icons/RightArrowWithBG.tsx",
+      "hash": "42e88516",
+      "kind": "stringLiteral",
+      "text": "sRGB"
+    },
+    {
+      "context": "unsupportedAttribute:in",
+      "file": "src/lib/icons/RightArrowWithBG.tsx",
+      "hash": "8b39e91d",
+      "kind": "stringLiteral",
+      "text": "BackgroundImageFix"
+    },
+    {
+      "context": "unsupportedAttribute:in2",
+      "file": "src/lib/icons/RightArrowWithBG.tsx",
+      "hash": "f81a927b",
+      "kind": "stringLiteral",
+      "text": "SourceAlpha"
+    },
+    {
+      "context": "unsupportedAttribute:operator",
+      "file": "src/lib/icons/RightArrowWithBG.tsx",
+      "hash": "7a110cf5",
+      "kind": "stringLiteral",
+      "text": "in"
+    },
+    {
+      "context": "unsupportedAttribute:in",
+      "file": "src/lib/icons/RightArrowWithBG.tsx",
+      "hash": "7feb47c4",
+      "kind": "stringLiteral",
+      "text": "SourceGraphic"
+    },
+    {
+      "context": "unsupportedAttribute:in2",
+      "file": "src/lib/icons/RightArrowWithBG.tsx",
+      "hash": "c2140bab",
+      "kind": "stringLiteral",
+      "text": "effect1_backgroundBlur_700_2477"
+    },
+    {
+      "context": "unsupportedAttribute:filter",
+      "file": "src/lib/icons/RightArrowWithBG.tsx",
+      "hash": "bcb9b491",
+      "kind": "stringLiteral",
+      "text": "url(#filter0_b_700_2477)"
+    },
+    {
+      "context": "unsupportedAttribute:stroke-linecap",
+      "file": "src/lib/icons/Rocket.tsx",
+      "hash": "0974eefc",
+      "kind": "stringLiteral",
+      "text": "round"
+    },
+    {
+      "context": "unsupportedAttribute:stroke-linejoin",
+      "file": "src/lib/icons/Rocket.tsx",
+      "hash": "c21730d3",
+      "kind": "stringLiteral",
+      "text": "round"
+    },
+    {
+      "context": "unsupportedAttribute:fillRule",
+      "file": "src/lib/icons/Safari.tsx",
+      "hash": "873c478d",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:clipRule",
+      "file": "src/lib/icons/Safari.tsx",
+      "hash": "7ed3d6d8",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:clipPath",
+      "file": "src/lib/icons/VISA.tsx",
+      "hash": "62c6d46b",
+      "kind": "stringLiteral",
+      "text": "url(#clip0_2519_14513)"
+    },
+    {
+      "context": "unsupportedAttribute:transform",
+      "file": "src/lib/icons/VISA.tsx",
+      "hash": "d4b8109c",
+      "kind": "stringLiteral",
+      "text": "translate(0 0.240234)"
+    },
+    {
+      "context": "unsupportedAttribute:gradientTransform",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "ef29f892",
+      "kind": "stringLiteral",
+      "text": "matrix(390.364 -536.262 -111.718 -494.847 59.8515 453.919)"
+    },
+    {
+      "context": "unsupportedAttribute:gradientUnits",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "19bca5b4",
+      "kind": "stringLiteral",
+      "text": "userSpaceOnUse"
+    },
+    {
+      "context": "unsupportedAttribute:stopColor",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "ad7fe4c8",
+      "kind": "stringLiteral",
+      "text": "white"
+    },
+    {
+      "context": "unsupportedAttribute:gradientTransform",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "7474fc2f",
+      "kind": "stringLiteral",
+      "text": "matrix(288.721 876.019 -171.161 107.473 332.46 362.836)"
+    },
+    {
+      "context": "unsupportedAttribute:preserveAspectRatio",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "dfb7b61c",
+      "kind": "stringLiteral",
+      "text": "none"
+    },
+    {
+      "context": "unsupportedAttribute:overflow",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "956e55ad",
+      "kind": "stringLiteral",
+      "text": "visible"
+    },
+    {
+      "context": "unsupportedAttribute:filter",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "fc8447b4",
+      "kind": "stringLiteral",
+      "text": "url(#filter0_f_other)"
+    },
+    {
+      "context": "unsupportedAttribute:filter",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "0702cf85",
+      "kind": "stringLiteral",
+      "text": "url(#filter1_f_other)"
+    },
+    {
+      "context": "unsupportedAttribute:x",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "fb5a03f7",
+      "kind": "stringLiteral",
+      "text": "3.8147e-06"
+    },
+    {
+      "context": "unsupportedAttribute:filterUnits",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "b088cb6c",
+      "kind": "stringLiteral",
+      "text": "userSpaceOnUse"
+    },
+    {
+      "context": "unsupportedAttribute:colorInterpolationFilters",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "16f305a2",
+      "kind": "stringLiteral",
+      "text": "sRGB"
+    },
+    {
+      "context": "unsupportedAttribute:in",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "8c8be87b",
+      "kind": "stringLiteral",
+      "text": "SourceGraphic"
+    },
+    {
+      "context": "unsupportedAttribute:in2",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "501bc885",
+      "kind": "stringLiteral",
+      "text": "BackgroundImageFix"
+    },
+    {
+      "context": "unsupportedAttribute:gradientTransform",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "9c19e85b",
+      "kind": "stringLiteral",
+      "text": "matrix(981.89 -1348.87 -281.006 -1244.7 150.545 1141.75)"
+    },
+    {
+      "context": "unsupportedAttribute:gradientTransform",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "74c70f16",
+      "kind": "stringLiteral",
+      "text": "matrix(726.224 2203.46 -430.524 270.328 836.241 912.646)"
+    },
+    {
+      "context": "unsupportedAttribute:fillRule",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "be487e1b",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:clipRule",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "976e9df2",
+      "kind": "stringLiteral",
+      "text": "evenodd"
+    },
+    {
+      "context": "unsupportedAttribute:filter",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "24b8cd0a",
+      "kind": "stringLiteral",
+      "text": "url(#filter0_f_llm)"
+    },
+    {
+      "context": "unsupportedAttribute:filter",
+      "file": "src/lib/icons/VizAssets.tsx",
+      "hash": "cd0aa9b1",
+      "kind": "stringLiteral",
+      "text": "url(#filter1_f_llm)"
+    },
+    {
+      "context": "variable:title",
+      "file": "src/lib/markdown/htmlToMarkdown.ts",
+      "hash": "afca395f",
+      "kind": "stringLiteral",
+      "text": "title"
+    },
+    {
+      "context": "variable:description",
+      "file": "src/lib/markdown/htmlToMarkdown.ts",
+      "hash": "6f0eb908",
+      "kind": "stringLiteral",
+      "text": "description"
+    },
+    {
+      "context": "variable:description",
+      "file": "src/lib/markdown/htmlToMarkdown.ts",
+      "hash": "1413ea28",
+      "kind": "stringLiteral",
+      "text": "og:description"
+    },
+    {
+      "context": "variable:description",
+      "file": "src/lib/markdown/htmlToMarkdown.ts",
+      "hash": "9272c145",
+      "kind": "stringLiteral",
+      "text": "twitter:description"
+    },
+    {
+      "context": "variable:body",
+      "file": "src/lib/markdown/htmlToMarkdown.ts",
+      "hash": "31f6bbf5",
+      "kind": "stringLiteral",
+      "text": "body"
+    },
+    {
+      "context": "variable:FIELD_NAME_TO_TITLE",
+      "file": "src/lib/utils/dynamic-pricing/default-config.ts",
+      "hash": "51aff996",
+      "kind": "stringLiteral",
+      "text": "Duration"
+    },
+    {
+      "context": "variable:FIELD_NAME_TO_TITLE",
+      "file": "src/lib/utils/dynamic-pricing/default-config.ts",
+      "hash": "3515e2c7",
+      "kind": "stringLiteral",
+      "text": "Resolution"
+    },
+    {
+      "context": "variable:FIELD_NAME_TO_TITLE",
+      "file": "src/lib/utils/dynamic-pricing/default-config.ts",
+      "hash": "9522d3c6",
+      "kind": "stringLiteral",
+      "text": "Size"
+    },
+    {
+      "context": "variable:FIELD_NAME_TO_TITLE",
+      "file": "src/lib/utils/dynamic-pricing/default-config.ts",
+      "hash": "0636c506",
+      "kind": "stringLiteral",
+      "text": "Mode"
+    },
+    {
+      "context": "variable:FIELD_NAME_TO_TITLE",
+      "file": "src/lib/utils/dynamic-pricing/default-config.ts",
+      "hash": "68ffe85b",
+      "kind": "stringLiteral",
+      "text": "Steps"
+    },
+    {
+      "context": "variable:FIELD_NAME_TO_TITLE",
+      "file": "src/lib/utils/dynamic-pricing/default-config.ts",
+      "hash": "38264669",
+      "kind": "stringLiteral",
+      "text": "Scale"
+    },
+    {
+      "context": "variable:FIELD_NAME_TO_TITLE",
+      "file": "src/lib/utils/dynamic-pricing/openapi-parser.ts",
+      "hash": "bf4437b2",
+      "kind": "stringLiteral",
+      "text": "Resolution"
+    },
+    {
+      "context": "variable:FIELD_NAME_TO_TITLE",
+      "file": "src/lib/utils/dynamic-pricing/openapi-parser.ts",
+      "hash": "9c3b667a",
+      "kind": "stringLiteral",
+      "text": "Size"
+    },
+    {
+      "context": "variable:FIELD_NAME_TO_TITLE",
+      "file": "src/lib/utils/dynamic-pricing/openapi-parser.ts",
+      "hash": "dfc52c9c",
+      "kind": "stringLiteral",
+      "text": "Mode"
+    },
+    {
+      "context": "variable:FIELD_NAME_TO_TITLE",
+      "file": "src/lib/utils/dynamic-pricing/openapi-parser.ts",
+      "hash": "3a12bd2c",
+      "kind": "stringLiteral",
+      "text": "Steps"
+    },
+    {
+      "context": "variable:FIELD_NAME_TO_TITLE",
+      "file": "src/lib/utils/dynamic-pricing/openapi-parser.ts",
+      "hash": "012a7959",
+      "kind": "stringLiteral",
+      "text": "Scale"
+    },
+    {
+      "context": "variable:FIELD_NAME_TO_TITLE",
+      "file": "src/lib/utils/dynamic-pricing/openapi-parser.ts",
+      "hash": "130038cb",
+      "kind": "stringLiteral",
+      "text": "Duration"
+    },
+    {
+      "context": "variable:BODY_STRING_FIELDS_NORMALIZE_CASE",
+      "file": "src/lib/utils/dynamic-pricing/table-generator.ts",
+      "hash": "95051ed9",
+      "kind": "stringLiteral",
+      "text": "resolution"
+    },
+    {
+      "context": "variable:BODY_STRING_FIELDS_NORMALIZE_CASE",
+      "file": "src/lib/utils/dynamic-pricing/table-generator.ts",
+      "hash": "f3e4e3e6",
+      "kind": "stringLiteral",
+      "text": "mode"
+    },
+    {
+      "context": "variable:BODY_STRING_FIELDS_NORMALIZE_CASE",
+      "file": "src/lib/utils/dynamic-pricing/table-generator.ts",
+      "hash": "eff8e66e",
+      "kind": "stringLiteral",
+      "text": "size"
+    },
+    {
+      "context": "variable:title",
+      "file": "src/lib/utils/filePreview.ts",
+      "hash": "320f1998",
+      "kind": "stringLiteral",
+      "text": "title"
+    },
+    {
+      "context": "property:action",
+      "file": "src/lib/utils/user.ts",
+      "hash": "e24fd4c4",
+      "kind": "stringLiteral",
+      "text": "LOGIN"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,15 @@
+{
+  "applicatioin": "应用",
+  "deployInstance": "部署实例",
+  "deployServerless": "部署无服务器",
+  "imagePrewarm": "镜像预热",
+  "instances": "实例",
+  "jobs": "任务",
+  "myEndpoints": "我的端点",
+  "myInstances": "我的实例",
+  "networkVolume": "网络卷",
+  "other": "其他",
+  "serverless": "无服务器",
+  "settings": "设置",
+  "templatesLibrary": "模板库"
+}

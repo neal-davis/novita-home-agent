@@ -1,0 +1,14 @@
+{
+  "autoscalingChangesTakeEffectWithin5": "Autoscaling changes take effect within 5 minutes",
+  "autoscalingConfiguration": "Autoscaling Configuration",
+  "cancel": "Cancel",
+  "disabled": "Disabled",
+  "edit-530164": "Edit",
+  "edit-a15b1c": "Edit (",
+  "enabled": "Enabled",
+  "maxReplicas": "Max Replicas",
+  "minReplicas": "Min Replicas",
+  "save": "Save",
+  "scaleDownDelay": "Scale-down Delay",
+  "scaleToZero": "Scale-to-Zero"
+}

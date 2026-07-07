@@ -1,0 +1,13 @@
+{
+  "alias": "Apelido",
+  "goToTeamSetting": "Ir para as configurações da equipe",
+  "loading": "Carregando...",
+  "membersWithBudget": "Membros com orçamento",
+  "role": "Função",
+  "team": "Equipe",
+  "teamId": "ID da equipe",
+  "teamInformation": "Informações da equipe",
+  "teamMemberBudgets": "Orçamentos dos membros da equipe",
+  "totalMembers": "Total de membros",
+  "youCanSetIndividualBudgetLimits": "Você pode definir limites de orçamento individuais para cada membro da equipe a fim de controlar os gastos totais deles na plataforma."
+}

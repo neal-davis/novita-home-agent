@@ -1,0 +1,5 @@
+{
+  "_comment": "Empty /api/v1/gpu/image/repository/auths for the empty-state branch of hermetic /gpus-console/settings — registry table renders header but zero body rows.",
+  "code": 0,
+  "data": []
+}

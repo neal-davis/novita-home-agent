@@ -1,0 +1,15 @@
+{
+  "baseModel": "Basismodell",
+  "baseModelType": "Basismodelltyp",
+  "category": "Kategorie",
+  "enterName": "Namen eingeben",
+  "fileUploadFailedPleaseReUpload": "Dateiupload fehlgeschlagen, bitte erneut hochladen!",
+  "name": "Name",
+  "nsfwNotSafeForWork": "NSFW(Not Safe For Work)",
+  "pleaseAddYourKeyFirst": "Bitte fügen Sie zuerst Ihren Schlüssel hinzu",
+  "pleaseSelect": "Bitte auswählen",
+  "pleaseUploadYourModelFirst": "Bitte laden Sie zuerst Ihr Modell hoch",
+  "submit": "Absenden",
+  "submitSuccess": "Erfolgreich abgesendet",
+  "type": "Typ"
+}

@@ -1,0 +1,15 @@
+{
+  "addVideoUrl": "動画URLを追加",
+  "duration": "長さ",
+  "enterVideoUrl": "動画URLを入力",
+  "leaveBlankForRandom": "ランダムにする場合は空欄のままにしてください",
+  "message1080p": "1080P",
+  "message10s": "10秒",
+  "message5s": "5秒",
+  "message720p": "720P",
+  "prompt": "プロンプト",
+  "referenceVideoUrls": "参照動画URL",
+  "resolution": "解像度",
+  "seed": "シード",
+  "showcase": "ショーケース"
+}

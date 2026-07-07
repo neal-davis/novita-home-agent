@@ -1,0 +1,10 @@
+{
+  "agentSandbox": "エージェントサンドボックス",
+  "agentSandboxGpuCloudAgentApplications": "エージェントサンドボックス — GPU Cloud、エージェントアプリケーション、Model APIs 図",
+  "getStarted": "始める",
+  "noCreditCardRequiredValidFor": "クレジットカード不要、90日間有効",
+  "pricing": "料金",
+  "runtimeForAiAgentsToExecute": "AIエージェントが現実世界のタスクを実行するためのランタイム",
+  "secureProgrammableSandboxesForAiGenerated": "AI生成コード、ブラウザワークフロー、コンピューター操作、長時間実行タスク向けの、安全でプログラム可能なサンドボックス。",
+  "startFreeWith100Credits": "$100分のクレジットで無料で始める*"
+}

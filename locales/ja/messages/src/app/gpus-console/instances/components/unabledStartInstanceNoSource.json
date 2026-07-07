@@ -1,0 +1,22 @@
+{
+  "afterMigrationInstanceDetailsEG": "移行後も、インスタンスの詳細（例：ID、アウトバウンドIP）は変更されません。イメージは安全に保存されます：",
+  "afterMigrationYourInstanceInformationWill": "移行後も、インスタンス情報（インスタンスIDやEgress IPなど）は変更されません。",
+  "backUpYourData": "データをバックアップする",
+  "cancel": "キャンセル",
+  "howeverLocalDataOnTheNode": "ただし、ノード上のローカルデータは保持されません。",
+  "iUnderstandThatCurrentDataWill": "移行後に現在のデータが保持されないことを理解し、バックアップを完了しました。",
+  "ifSelectedTheContainerDiskWill": "選択すると、Container Diskがイメージ化され、インスタンスとともに移行されます。新しいイメージにはContainer Diskのデータが含まれており、すぐに使用できます。",
+  "inAdvanceToPreventLossInstance": "損失を防ぐために事前に行ってください。インスタンス移行ジョブは終了できません。",
+  "migrateData": "データを移行",
+  "migrateNow": "今すぐ移行",
+  "noResourcesAvailablePleaseTryAgain": "利用可能なリソースがありません。後でもう一度お試しいただくか、カスタマーサポートにお問い合わせください！",
+  "please": "お願いします",
+  "pleaseConfirmThatYouHaveBacked": "データをバックアップ済みであることを確認してください。",
+  "success": "成功",
+  "theMigrationTaskCannotBeCanceled": "移行タスクは開始後にキャンセルできません。",
+  "theNovitaOfficialRepo": "Novita公式Repo。",
+  "thisNodeCurrentlyHasNoAvailable": "このノードには現在利用可能なリソースがありません。同じ仕様のリソースに移行しますか？",
+  "toEnsureDataSafety": "データの安全性を確保するため、",
+  "unableToStart": "開始できません",
+  "weRecommendBackingUpYourData": "事前にデータをバックアップすることをお勧めします。"
+}

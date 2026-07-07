@@ -1,0 +1,21 @@
+{
+  "clipSkip": "Clip Skip",
+  "enterYourPromptHere": "ここにプロンプトを入力",
+  "guidanceScale": "ガイダンススケール",
+  "height2562048": "高さ (256~2048)",
+  "imageNum": "画像数",
+  "initialImage": "初期画像",
+  "lora": "LoRA",
+  "loraModel": "LoRAモデル",
+  "loraWeight": "LoRAの重み",
+  "model": "モデル",
+  "negativePrompt-b4dbac": "ネガティブプロンプト",
+  "negativePrompt-e08352": "ネガティブプロンプト",
+  "prompt": "プロンプト",
+  "sampler": "サンプラー",
+  "seed": "シード",
+  "steps": "ステップ数",
+  "strength": "強度",
+  "uploadImage": "画像をアップロード",
+  "width2562048": "幅 (256~2048)"
+}

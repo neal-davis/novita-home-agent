@@ -1,0 +1,11 @@
+{
+  "cancel": "キャンセル",
+  "download": "ダウンロード",
+  "generate": "生成",
+  "imagePrompt": "画像プロンプト",
+  "negativePrompt": "ネガティブプロンプト",
+  "seed": "シード",
+  "selectAnExample": "例を選択",
+  "strength": "強度",
+  "tryAnExample": "例を試す"
+}

@@ -1,0 +1,10 @@
+{
+  "back": "Back",
+  "confirm": "Confirm",
+  "emailAddress": "Email address",
+  "needToCreateAnAccount": "Need to create an account?",
+  "resetPassword": "Reset Password",
+  "resettingYourPasswordWillLogYou": "Resetting your password will log you out of your current account",
+  "signUp": "Sign up",
+  "weWillEmailYouInstructionsFor": "We will email you instructions for resetting your password."
+}

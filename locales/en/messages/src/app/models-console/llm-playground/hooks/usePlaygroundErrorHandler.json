@@ -1,0 +1,7 @@
+{
+  "anUnexpectedErrorOccurredPleaseCheck": "An unexpected error occurred. Please check your API key and try again.",
+  "failedToAuthenticatePleaseCheckYour": "Failed to authenticate. Please check your API key and try again.",
+  "modelNotAvailableNowPleaseTry": "Model not available now, please try again later.",
+  "notEnoughBalancePleaseTopUp": "Not enough balance, please top up and continue using.",
+  "topUp": "Top up"
+}

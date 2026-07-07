@@ -1,0 +1,13 @@
+{
+  "baseImage": "Image de base",
+  "cancel": "Annuler",
+  "chooseBaseImage": "Choisir l’image de base",
+  "chooseFaceImage": "Choisir l’image du visage",
+  "download": "Télécharger",
+  "estimatedCost": "Coût estimé :",
+  "faceImage": "Image du visage",
+  "generate": "Générer",
+  "tipsTheDifferenceOfBaseImage": "Conseils : la différence entre l’image de base et l’image du visage",
+  "uploadBaseImage": "Importer l’image de base",
+  "uploadFaceImage": "Importer l’image du visage"
+}

@@ -1,0 +1,15 @@
+{
+  "automaticInstanceMigration": "Automatic Instance Migration",
+  "automaticMigration": "Automatic Migration",
+  "automaticallyMigratesTheInstanceToA": "Automatically migrates the instance to a healthy node on hardware failure. Instance ID, Port Mapping Address, and data remain unchanged, with only brief downtime.",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "ifNoActionIsTakenThe": "If no action is taken, the system will auto-migrate to maintain service continuity.",
+  "ifTheSystemDiskIsIncluded": "If the system disk is included, downtime depends on its size (typically minutes to ~10+ minutes).",
+  "migrateSystemDisk": "Migrate System Disk",
+  "success": "success",
+  "supportIsAvailableDuringMigrationIf": "Support is available during migration if needed.",
+  "theFollowingRegionsDontSupportThis": "The following regions don't support this feature:",
+  "usCa03UsCaNas": "US-CA-03/US-CA-NAS-01/US-02/US-CA-02",
+  "youllBeNotifiedOfFaultsAnd": "You’ll be notified of faults and must migrate manually within 7 days."
+}

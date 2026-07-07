@@ -1,0 +1,15 @@
+{
+  "addCredential": "Add Credential",
+  "afterAdjustingTheInstanceYouCan": "After adjusting the instance, you can save the updated instance as an image, and then create new templates and instances based on the latest image!",
+  "cancel": "Cancel",
+  "containerRegistryCredentials": "Container Registry Credentials",
+  "imagePath": "Image Path",
+  "pleaseEnterAPathConsistingOf": "Please enter a path consisting of lowercase letters and numbers, with each segment optionally containing ., _ or -, and supporting multiple levels separated by /.",
+  "pleaseInputYourImageAddress": "Please input your Image address",
+  "pleaseSelectCredentials": "Please Select Credentials",
+  "save": "Save",
+  "saveImage": "Save Image",
+  "success": "success",
+  "theContainerRegistryCredentialsCanNot": "The container registry credentials can not be empty",
+  "theImagePathCanNotBe": "The image path can not be empty, and can not contain whitespace characters"
+}

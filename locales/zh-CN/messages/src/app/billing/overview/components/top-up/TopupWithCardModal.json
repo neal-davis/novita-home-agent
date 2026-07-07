@@ -1,0 +1,18 @@
+{
+  "a9GstAppliesToPayments": "来自新加坡的付款需缴纳 9% GST。",
+  "accountInformation": "账户信息",
+  "amount": "金额",
+  "cancel": "取消",
+  "confirmPayment": "确认支付",
+  "description": "描述",
+  "novitaAiCredit": "Novita AI 额度",
+  "paymentAmount": "支付金额",
+  "paymentMethod": "支付方式",
+  "recharging": "充值中...",
+  "redirecting": "正在重定向...",
+  "stripeCheckout": "Stripe Checkout",
+  "teamId": "团队 ID：",
+  "theCreditTopUpOf": "$ 的额度充值",
+  "topUpCredit": "充值额度",
+  "wasSuccessful": "已成功。"
+}

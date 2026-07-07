@@ -1,0 +1,6 @@
+{
+  "aggregatedBilling": "集約請求",
+  "enterpriseBilling": "エンタープライズ請求",
+  "fixedTermBilling": "固定期間請求",
+  "usageBasedBilling": "従量課金"
+}

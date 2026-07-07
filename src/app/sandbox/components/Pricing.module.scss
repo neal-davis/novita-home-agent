@@ -1,0 +1,14 @@
+
+@include screen-lg {
+  .outContainer {
+    padding-left: var(--spacing-layout-inner-x);
+    padding-right: var(--spacing-layout-inner-x);
+  }
+}
+
+.title {
+  @include font-h4-large;
+  @include screen-md {
+    @include font-h3;
+  }
+}

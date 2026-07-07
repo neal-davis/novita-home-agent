@@ -1,0 +1,13 @@
+{
+  "all": "すべて",
+  "back": "戻る",
+  "close": "閉じる",
+  "loading": "読み込み中...",
+  "loadingMessages": "メッセージを読み込み中...",
+  "markAllAsRead": "すべて既読にする",
+  "messages": "メッセージ",
+  "noMessagesYet": "メッセージはまだありません",
+  "noMoreMessages": "これ以上メッセージはありません",
+  "read": "既読",
+  "unread": "未読"
+}

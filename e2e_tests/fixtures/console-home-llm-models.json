@@ -1,0 +1,531 @@
+{
+  "_comment": "De-identified subset of GET /api/llm-models (public LLM catalog route handler, no PII). Trimmed to the first 4 models because console Explore does data.slice(0,4); long `description` strings replaced with short placeholders to keep the fixture lean. displayName values (GLM 5.2 / Kimi K2.7 Code / MiniMax M3 / Deepseek V4 Pro) are public product names and are asserted in the spec as deterministic card content. cached_at is a synthetic ISO timestamp. The redundant *_token_price_per_m_toString fields were dropped: convertRawModelToLLMModelClient re-derives them from the numeric *_token_price_per_m, and the de-PII scanner flags the literal 'token' in their key name as a false positive.",
+  "data": [
+    {
+      "type": "Chat",
+      "id": "zai-org/glm-5.2",
+      "name": "glm-5.2",
+      "displayName": "GLM 5.2",
+      "description": "GLM 5.2 (description trimmed for e2e fixture).",
+      "context_size": 1048576,
+      "input_token_price_per_m": 14000,
+      "output_token_price_per_m": 44000,
+      "cache_read_input_token_price_per_m": 2600,
+      "cache_creation_input_token_price_per_m": 0,
+      "cache_creation_input_pricing": {
+        "originPricePerM": 0,
+        "pricePerM": 0
+      },
+      "cache_creation_1_hour_input_token_price_per_m": 0,
+      "cache_creation_1_hour_input_pricing": {
+        "originPricePerM": 0,
+        "pricePerM": 0
+      },
+      "features": [
+        "function-calling",
+        "structured-outputs",
+        "reasoning",
+        "serverless"
+      ],
+      "inputModalities": ["text"],
+      "outputModalities": ["text"],
+      "endpoints": ["chat/completions", "anthropic"],
+      "linkPath": "zai-org-glm-5.2",
+      "infos": {
+        "inputPricing": "$1.4/Mt",
+        "outputPricing": "$4.4/Mt",
+        "contextSize": 1048576,
+        "maxOutputTokens": 131072,
+        "cacheReadPricing": "$0.26/Mt"
+      },
+      "status": 1,
+      "input_pricing": {
+        "originPricePerM": 14000,
+        "pricePerM": 14000
+      },
+      "cache_read_input_pricing": {
+        "originPricePerM": 2600,
+        "pricePerM": 2600
+      },
+      "cache_pricing": {
+        "originPricePerM": 2600,
+        "pricePerM": 2600
+      },
+      "output_pricing": {
+        "originPricePerM": 44000,
+        "pricePerM": 44000
+      },
+      "max_output_tokens": 131072,
+      "rpm": 30,
+      "labels": [
+        {
+          "key": "specification",
+          "value": "MoE"
+        },
+        {
+          "key": "display",
+          "value": "NEW"
+        },
+        {
+          "key": "filter",
+          "value": "Featured"
+        }
+      ],
+      "tags": ["LLM", "Serverless"],
+      "series": "Zai-org",
+      "quantization": "fp8",
+      "quota_items": [
+        {
+          "tier": "T1",
+          "rpm": 30,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T2",
+          "rpm": 100,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T3",
+          "rpm": 1000,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T4",
+          "rpm": 3000,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T5",
+          "rpm": 6000,
+          "tpm": 50000000
+        }
+      ],
+      "is_tiered_billing": false,
+      "tiered_billing_configs": [],
+      "multimodal_pricing": null,
+      "model_released_at": "1781625600",
+      "platform_release_at": "1781625600",
+      "isCompletion": false,
+      "de_configured": false,
+      "hf_mirror_url": "",
+      "isDiscount": false,
+      "isFree": false,
+      "isNew": true,
+      "isHot": false,
+      "isFeatured": true
+    },
+    {
+      "type": "Chat",
+      "id": "moonshotai/kimi-k2.7-code",
+      "name": "kimi-k2.7-code",
+      "displayName": "Kimi K2.7 Code",
+      "description": "Kimi K2.7 Code (description trimmed for e2e fixture).",
+      "context_size": 262144,
+      "input_token_price_per_m": 9500,
+      "output_token_price_per_m": 40000,
+      "cache_read_input_token_price_per_m": 1900,
+      "cache_creation_input_token_price_per_m": 0,
+      "cache_creation_input_pricing": {
+        "originPricePerM": 0,
+        "pricePerM": 0
+      },
+      "cache_creation_1_hour_input_token_price_per_m": 0,
+      "cache_creation_1_hour_input_pricing": {
+        "originPricePerM": 0,
+        "pricePerM": 0
+      },
+      "features": [
+        "serverless",
+        "function-calling",
+        "structured-outputs",
+        "reasoning"
+      ],
+      "inputModalities": ["text", "image", "video"],
+      "outputModalities": ["text"],
+      "endpoints": ["chat/completions", "anthropic"],
+      "linkPath": "moonshotai-kimi-k2.7-code",
+      "infos": {
+        "inputPricing": "$0.95/Mt",
+        "outputPricing": "$4/Mt",
+        "contextSize": 262144,
+        "maxOutputTokens": 262144,
+        "cacheReadPricing": "$0.19/Mt"
+      },
+      "status": 1,
+      "input_pricing": {
+        "originPricePerM": 9500,
+        "pricePerM": 9500
+      },
+      "cache_read_input_pricing": {
+        "originPricePerM": 1900,
+        "pricePerM": 1900
+      },
+      "cache_pricing": {
+        "originPricePerM": 1900,
+        "pricePerM": 1900
+      },
+      "output_pricing": {
+        "originPricePerM": 40000,
+        "pricePerM": 40000
+      },
+      "max_output_tokens": 262144,
+      "rpm": 30,
+      "labels": [
+        {
+          "key": "specification",
+          "value": "MoE"
+        },
+        {
+          "key": "display",
+          "value": "NEW"
+        },
+        {
+          "key": "display",
+          "value": "HOT"
+        },
+        {
+          "key": "filter",
+          "value": "Featured"
+        }
+      ],
+      "tags": ["LLM", "Serverless"],
+      "series": "MoonshotAI",
+      "quantization": "",
+      "quota_items": [
+        {
+          "tier": "T1",
+          "rpm": 30,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T2",
+          "rpm": 100,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T3",
+          "rpm": 1000,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T4",
+          "rpm": 3000,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T5",
+          "rpm": 6000,
+          "tpm": 50000000
+        }
+      ],
+      "is_tiered_billing": false,
+      "tiered_billing_configs": [],
+      "multimodal_pricing": null,
+      "model_released_at": "1781193600",
+      "platform_release_at": "1781276400",
+      "isCompletion": false,
+      "de_configured": false,
+      "hf_mirror_url": "",
+      "isDiscount": false,
+      "isFree": false,
+      "isNew": true,
+      "isHot": true,
+      "isFeatured": true
+    },
+    {
+      "type": "Chat",
+      "id": "minimax/minimax-m3",
+      "name": "minimax-m3",
+      "displayName": "MiniMax M3",
+      "description": "",
+      "context_size": 1000000,
+      "input_token_price_per_m": 3000,
+      "output_token_price_per_m": 12000,
+      "cache_read_input_token_price_per_m": 600,
+      "cache_creation_input_token_price_per_m": 0,
+      "cache_creation_input_pricing": {
+        "originPricePerM": 0,
+        "pricePerM": 0
+      },
+      "cache_creation_1_hour_input_token_price_per_m": 0,
+      "cache_creation_1_hour_input_pricing": {
+        "originPricePerM": 0,
+        "pricePerM": 0
+      },
+      "features": [
+        "serverless",
+        "function-calling",
+        "structured-outputs",
+        "reasoning"
+      ],
+      "inputModalities": ["text", "image", "video"],
+      "outputModalities": ["text"],
+      "endpoints": ["chat/completions", "anthropic"],
+      "linkPath": "minimax-minimax-m3",
+      "infos": {
+        "inputPricing": "$0.3/Mt",
+        "outputPricing": "$1.2/Mt",
+        "contextSize": 1000000,
+        "maxOutputTokens": 131072,
+        "cacheReadPricing": "$0.06/Mt"
+      },
+      "status": 1,
+      "input_pricing": {
+        "originPricePerM": 3000,
+        "pricePerM": 3000
+      },
+      "cache_read_input_pricing": {
+        "originPricePerM": 600,
+        "pricePerM": 600
+      },
+      "cache_pricing": {
+        "originPricePerM": 600,
+        "pricePerM": 600
+      },
+      "output_pricing": {
+        "originPricePerM": 12000,
+        "pricePerM": 12000
+      },
+      "max_output_tokens": 131072,
+      "rpm": 30,
+      "labels": [
+        {
+          "key": "specification",
+          "value": "MoE"
+        },
+        {
+          "key": "specification",
+          "value": "> 100B"
+        },
+        {
+          "key": "display",
+          "value": "NEW"
+        },
+        {
+          "key": "filter",
+          "value": "Featured"
+        }
+      ],
+      "tags": ["LLM", "Serverless"],
+      "series": "MiniMax",
+      "quantization": "",
+      "quota_items": [
+        {
+          "tier": "T1",
+          "rpm": 30,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T2",
+          "rpm": 100,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T3",
+          "rpm": 1000,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T4",
+          "rpm": 3000,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T5",
+          "rpm": 6000,
+          "tpm": 50000000
+        }
+      ],
+      "is_tiered_billing": true,
+      "tiered_billing_configs": [
+        {
+          "min_tokens": 1,
+          "max_tokens": 524288,
+          "input_pricing": {
+            "originPricePerM": 3000,
+            "pricePerM": 3000
+          },
+          "output_pricing": {
+            "originPricePerM": 12000,
+            "pricePerM": 12000
+          },
+          "cache_read_input_pricing": {
+            "originPricePerM": 600,
+            "pricePerM": 600
+          },
+          "cache_creation_input_pricing": {
+            "originPricePerM": 0,
+            "pricePerM": 0
+          },
+          "output_min_tokens": 0,
+          "output_max_tokens": 0,
+          "cache_creation_1_hour_input_pricing": {
+            "originPricePerM": 0,
+            "pricePerM": 0
+          }
+        },
+        {
+          "min_tokens": 524288,
+          "max_tokens": 1000000,
+          "input_pricing": {
+            "originPricePerM": 6000,
+            "pricePerM": 6000
+          },
+          "output_pricing": {
+            "originPricePerM": 24000,
+            "pricePerM": 24000
+          },
+          "cache_read_input_pricing": {
+            "originPricePerM": 1200,
+            "pricePerM": 1200
+          },
+          "cache_creation_input_pricing": {
+            "originPricePerM": 0,
+            "pricePerM": 0
+          },
+          "output_min_tokens": 0,
+          "output_max_tokens": 0,
+          "cache_creation_1_hour_input_pricing": {
+            "originPricePerM": 0,
+            "pricePerM": 0
+          }
+        }
+      ],
+      "multimodal_pricing": null,
+      "model_released_at": "0",
+      "platform_release_at": "1780282959",
+      "isCompletion": false,
+      "de_configured": false,
+      "hf_mirror_url": "",
+      "isDiscount": false,
+      "isFree": false,
+      "isNew": true,
+      "isHot": false,
+      "isFeatured": true
+    },
+    {
+      "type": "Chat",
+      "id": "deepseek/deepseek-v4-pro",
+      "name": "deepseek-v4-pro",
+      "displayName": "Deepseek V4 Pro",
+      "description": "Deepseek V4 Pro (description trimmed for e2e fixture).",
+      "context_size": 1048576,
+      "input_token_price_per_m": 16000,
+      "output_token_price_per_m": 32000,
+      "cache_read_input_token_price_per_m": 1350,
+      "cache_creation_input_token_price_per_m": 0,
+      "cache_creation_input_pricing": {
+        "originPricePerM": 0,
+        "pricePerM": 0
+      },
+      "cache_creation_1_hour_input_token_price_per_m": 0,
+      "cache_creation_1_hour_input_pricing": {
+        "originPricePerM": 0,
+        "pricePerM": 0
+      },
+      "features": [
+        "serverless",
+        "function-calling",
+        "structured-outputs",
+        "reasoning"
+      ],
+      "inputModalities": ["text"],
+      "outputModalities": ["text"],
+      "endpoints": ["chat/completions", "anthropic"],
+      "linkPath": "deepseek-deepseek-v4-pro",
+      "infos": {
+        "inputPricing": "$1.6/Mt",
+        "outputPricing": "$3.2/Mt",
+        "contextSize": 1048576,
+        "maxOutputTokens": 393216,
+        "cacheReadPricing": "$0.135/Mt"
+      },
+      "status": 1,
+      "input_pricing": {
+        "originPricePerM": 16000,
+        "pricePerM": 16000
+      },
+      "cache_read_input_pricing": {
+        "originPricePerM": 1350,
+        "pricePerM": 1350
+      },
+      "cache_pricing": {
+        "originPricePerM": 1350,
+        "pricePerM": 1350
+      },
+      "output_pricing": {
+        "originPricePerM": 32000,
+        "pricePerM": 32000
+      },
+      "max_output_tokens": 393216,
+      "rpm": 30,
+      "labels": [
+        {
+          "key": "specification",
+          "value": "MoE"
+        },
+        {
+          "key": "specification",
+          "value": "> 100B"
+        },
+        {
+          "key": "display",
+          "value": "NEW"
+        },
+        {
+          "key": "display",
+          "value": "HOT"
+        },
+        {
+          "key": "filter",
+          "value": "Featured"
+        }
+      ],
+      "tags": ["LLM", "Serverless"],
+      "series": "DeepSeek",
+      "quantization": "fp8",
+      "quota_items": [
+        {
+          "tier": "T1",
+          "rpm": 30,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T2",
+          "rpm": 100,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T3",
+          "rpm": 1000,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T4",
+          "rpm": 3000,
+          "tpm": 50000000
+        },
+        {
+          "tier": "T5",
+          "rpm": 6000,
+          "tpm": 50000000
+        }
+      ],
+      "is_tiered_billing": false,
+      "tiered_billing_configs": [],
+      "multimodal_pricing": null,
+      "model_released_at": "0",
+      "platform_release_at": "1777000931",
+      "isCompletion": false,
+      "de_configured": false,
+      "hf_mirror_url": "",
+      "isDiscount": false,
+      "isFree": false,
+      "isNew": true,
+      "isHot": true,
+      "isFeatured": true
+    }
+  ],
+  "cached_at": "2026-01-01T00:00:00.000Z"
+}

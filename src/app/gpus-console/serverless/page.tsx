@@ -1,0 +1,10 @@
+import Container from "./components/container";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Novita AI Serverless",
+};
+
+export default function Page() {
+  return <Container />;
+}

@@ -1,0 +1,6 @@
+{
+  "exploreGpus": "GPUを探す",
+  "globallyDistributedGpusWithLocalSpeed": "ローカル並みの速度で利用できる、グローバルに分散されたGPU",
+  "gpuCloud": "GPUクラウド",
+  "launchHighPerformanceGpuInstancesIn": "グローバルリージョン全体で、高性能GPUインスタンスを数秒で起動できます。トレーニング、ファインチューニング、高スループット推論に最適です。オンデマンド、または50%オフのスポットでご利用いただけます。"
+}

@@ -1,0 +1,17 @@
+{
+  "apiExampleComV1ChatCompletions": "api.example.com/v1/chat/completions",
+  "chooseYourGpu": "GPUを選択",
+  "deploy": "デプロイ",
+  "deployIn3Steps": "3ステップでデプロイ",
+  "endpoint": "エンドポイント",
+  "everythingYouNeedToDeployScale": "本番環境でAI推論をデプロイ、スケール、管理するために必要なすべて。",
+  "live": "ライブ",
+  "pickYourModel": "モデルを選択",
+  "post": "POST",
+  "replicas": "レプリカ",
+  "search50kModelsFromHuggingFace": "Hugging Faceの50K+モデルを検索するか、プライベートリポジトリのURLを貼り付けてください。",
+  "searchModelsEGQwen25": "モデルを検索... 例: Qwen2.5-7B",
+  "seeTheRecommendedGpuForYour": "モデルに推奨されるGPUを確認できます。予算に合ったものを選択してください。",
+  "workflow": "ワークフロー",
+  "yourEndpointIsLiveInMinutes": "エンドポイントは数分でライブになります。OpenAI互換URLをすぐに使用できます。"
+}

@@ -1,0 +1,9 @@
+{
+  "autoscaling": "Autoscaling",
+  "endpointId": "Endpoint ID",
+  "engine": "Engine",
+  "engineConfiguration": "Engine Configuration",
+  "lora": "LoRA",
+  "modelId": "Model ID",
+  "readOnly": "Read-only"
+}

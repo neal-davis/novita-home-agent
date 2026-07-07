@@ -1,0 +1,44 @@
+.selectedTabTxt {
+  font-weight: 500;
+  font-size: 14px;
+  // color: #FFFFFF;
+  line-height: 14px;
+  text-align: center;
+  font-style: normal;
+}
+.unSelectedTabTxt {
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--black);
+  line-height: 14px;
+  text-align: left;
+  font-style: normal;
+}
+.toggleBtn {
+  border: none !important;
+  margin-right: 8px;
+  border-radius: 4px !important;
+  text-transform: none !important;
+}
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 20px;
+}
+.titleTxt {
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+  color: var(--black);
+}
+.toggleBtnGroup {
+  border: 1px solid var(--gray-2);
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+.card {
+  background-color: var(--white) !important;
+  border: 1px solid var(--gray-2) !important;
+  color: var(--black) !important;
+}

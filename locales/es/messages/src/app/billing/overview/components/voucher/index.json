@@ -1,0 +1,18 @@
+{
+  "all": "Todos",
+  "applicableProducts": "Productos aplicables",
+  "balanceTotal": "Saldo / Total",
+  "collapse": "Contraer",
+  "effectDate": "Fecha de entrada en vigor",
+  "expirationDate": "Fecha de vencimiento",
+  "expired": "Vencido",
+  "status-11dc9e": "Estado:",
+  "status-bae7d5": "Estado",
+  "textVarBrand1": "text-[var(--brand-1)]",
+  "textVarDark3": "text-[var(--dark-3)]",
+  "textVarRed2": "text-[var(--red-2)]",
+  "used": "Usado",
+  "valid": "Válido",
+  "voucher": "Cupón",
+  "voucherDetails": "Detalles del cupón"
+}

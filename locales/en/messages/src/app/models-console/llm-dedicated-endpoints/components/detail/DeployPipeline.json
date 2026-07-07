@@ -1,0 +1,8 @@
+{
+  "deploymentPipeline": "Deployment Pipeline",
+  "engineStartup": "Engine Startup",
+  "modelImagePull": "Model & Image Pull",
+  "resourceScheduling": "Resource Scheduling",
+  "running": "Running",
+  "waiting": "Waiting..."
+}

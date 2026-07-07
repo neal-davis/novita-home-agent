@@ -1,0 +1,9 @@
+{
+  "advancedScalingOptions": "Advanced scaling options",
+  "optional": "(optional)",
+  "scaleDownWindow": "Scale Down Window",
+  "seconds": "Seconds",
+  "stableWindow": "Stable Window",
+  "timeInSecondsBeforeScalingDown": "Time in seconds before scaling down replicas.",
+  "timeInSecondsBeforeScalingUp": "Time in seconds before scaling up replicas."
+}

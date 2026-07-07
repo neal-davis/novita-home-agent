@@ -1,0 +1,21 @@
+{
+  "autoRecharge": "自動チャージ",
+  "autoRechargeIs": "自動チャージは",
+  "autoRechargeSettingsHaveBeenUpdated": "自動チャージ設定が正常に更新されました",
+  "autoTopUp": "自動チャージ",
+  "autoTopUpIs": "自動チャージは",
+  "autoTopUpSettingsHaveBeen": "自動チャージ設定が正常に更新されました",
+  "automaticPayments": "自動支払い",
+  "automaticallyRechargeWhenYourBalanceFalls": "残高がしきい値を下回った場合に自動的にチャージします。",
+  "failedToUpdateAutoRechargeSetting": "自動チャージ設定の更新に失敗しました。",
+  "failedToUpdateAutoRechargeSettings": "自動チャージ設定の更新に失敗しました",
+  "failedToUpdateAutoTopUp": "自動チャージ設定の更新に失敗しました。",
+  "failedToUpdateAutoTopUp2": "自動チャージ設定の更新に失敗しました",
+  "modify": "変更",
+  "off": "オフ",
+  "on": "オン",
+  "pleaseAddAPaymentMethodFirst": "先にお支払い方法を追加してください。",
+  "pleaseAddAPaymentMethodFor": "まず自動チャージ用のお支払い方法を追加してください。",
+  "setUp": "設定",
+  "whenYourAvailableCreditFallsBelow": "利用可能クレジットがしきい値を下回った場合、デフォルトのカードに請求し、残高をその金額まで回復します。"
+}

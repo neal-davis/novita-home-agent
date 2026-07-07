@@ -1,0 +1,21 @@
+{
+  "agentSandbox": "Bac à sable d’agent",
+  "baseUrl": "BASE_URL",
+  "dedicatedEndpoints": "Points de terminaison dédiés",
+  "exploreAllModels": "Explorer tous les modèles",
+  "getStarted": "Commencer",
+  "gpuCloud": "Cloud GPU",
+  "model": "MODEL",
+  "modelApis-10b567": "API DE MODÈLES",
+  "modelApis-8d449d": "API de modèles",
+  "noInfrastructureToManage": "Aucune infrastructure à gérer.",
+  "operational": "OPÉRATIONNEL",
+  "privateEndpointsGuaranteedPerformanceNoNoisy": "Points de terminaison privés. Performances garanties. Pas de voisins bruyants.",
+  "productNavigation": "Navigation du produit",
+  "productionReadyYouCallItWe": "prêt pour la production. Vous l’appelez, nous l’exécutons. Facturé au",
+  "run200ModelsThroughASingle": "Exécutez plus de 200 modèles via une seule API.",
+  "serverlessModelApis": "API de modèles serverless",
+  "textImageAudioVideoAllServerless": "Texte, image, audio, vidéo — tout serverless, tout",
+  "tokenNotTheHour": "token, pas à l’heure.",
+  "yourModelYourComputeIsolatedResources": "Votre modèle. Votre calcul. Des ressources isolées assurent une latence constante, quel que soit le débit. Parce que la production n&apos;a pas de budget pour les nouvelles tentatives."
+}

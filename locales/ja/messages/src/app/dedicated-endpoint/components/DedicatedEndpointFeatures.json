@@ -1,0 +1,17 @@
+{
+  "billedByGpuHourWithPer": "GPU時間単位で課金され、秒単位の粒度で計算されます。アイドル時はゼロまでスケール — 最低契約量はなく、アイドル状態の GPU コストも発生しません。",
+  "blazingFastInference": "超高速推論",
+  "builtForProductionWorkloads": "本番ワークロード向けに構築",
+  "chooseFromNvidiaH200H100And": "NVIDIA H200、H100、RTX 4090 から選択できます。モデル要件に合わせてテンソル並列性と GPU 数を選択できます。",
+  "dedicatedTechnicalSupportCustomSlasAnd": "専任のテクニカルサポート、カスタム SLA、新しい GPU タイプへの優先アクセス。大規模デプロイ向けのボリュームディスカウント。",
+  "dynamicAutoScaling": "動的オートスケーリング",
+  "enterpriseSupport": "エンタープライズサポート",
+  "everythingYouNeedToDeployScale": "本番環境で AI 推論をデプロイ、スケール、管理するために必要なすべて。",
+  "flexibleGpuOptions": "柔軟な GPU オプション",
+  "hotSwapLoraAdaptersOnRunning": "実行中のエンドポイントで再起動なしに LoRA アダプターをホットスワップできます。単一のベースモデル上に複数のファインチューニング済みバリアントをデプロイできます。",
+  "loraAdapterSupport": "LoRA アダプターサポート",
+  "payPerHourBilling": "時間単位課金",
+  "platform": "プラットフォーム",
+  "poweredByOptimizedServingEnginesOn": "NVIDIA H200、H100、RTX 4090 GPUs 上の最適化されたサービングエンジンによって駆動。リアルタイムアプリケーション向けにサブ秒レイテンシを実現します。",
+  "scaleFrom0ToNReplicas": "トラフィックに基づいて 0 から N レプリカまで自動的にスケールします。トラフィックパターンに合わせて最小/最大レプリカ数とスケールダウン遅延を設定できます。"
+}

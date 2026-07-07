@@ -1,0 +1,8 @@
+{
+  "editLoraAdapters": "编辑 LoRA 适配器",
+  "failedToUpdateLoraAdapters": "更新 LoRA 适配器失败",
+  "loraAdaptersUpdated": "LoRA 适配器已更新",
+  "metrics": "指标",
+  "overview": "概览",
+  "settings": "设置"
+}

@@ -1,0 +1,9 @@
+{
+  "allStatus": "All Status",
+  "failed": "Failed",
+  "newEndpoint": "New Endpoint",
+  "running": "Running",
+  "searchByEndpointOrModelName": "Search by endpoint or model name...",
+  "sleeping": "Sleeping",
+  "terminated": "Terminated"
+}

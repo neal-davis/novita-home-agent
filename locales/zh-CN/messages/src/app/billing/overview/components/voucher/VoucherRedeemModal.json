@@ -1,0 +1,11 @@
+{
+  "amount": "金额",
+  "applicable": "适用",
+  "cancel": "取消",
+  "gotIt": "知道了",
+  "redeem": "兑换",
+  "validUntil": "有效期至",
+  "voucherCode": "优惠券码",
+  "voucherCodeRedeem": "兑换优惠券码",
+  "voucherRedeemedSuccessfully": "优惠券兑换成功！"
+}

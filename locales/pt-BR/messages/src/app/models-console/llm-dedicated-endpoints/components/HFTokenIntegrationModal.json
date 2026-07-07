@@ -1,0 +1,9 @@
+{
+  "cancel": "Cancelar",
+  "huggingFaceAccessToken": "Token de acesso do Hugging Face",
+  "save": "Salvar",
+  "submitRequirements": "Enviar requisitos",
+  "thisLink": "este link",
+  "toConnectYourHuggingFaceAccount": "Para conectar sua conta do Hugging Face, você precisa registrar seu token de acesso do Hugging Face. Você pode gerar um token de acesso no Hugging Face seguindo",
+  "yourHuggingFaceAccessToken": "Seu token de acesso do Hugging Face"
+}

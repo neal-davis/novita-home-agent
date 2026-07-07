@@ -1,0 +1,10 @@
+{
+  "decrementCodingPlanDoesNotSupport": "El plan de codificación decrementado no admite la actualización de la suscripción",
+  "loginExpiredPleaseLoginAgain": "La sesión ha caducado, inicia sesión de nuevo",
+  "modelAccess": "Acceso al modelo",
+  "monthly": "mensual",
+  "pleaseLoginFirst": "Inicia sesión primero",
+  "subscribe": "Suscribirse",
+  "subscriptionFailedThePurchasedCodingPlan": "La suscripción falló, el plan de codificación adquirido es mayor o igual que este nivel",
+  "yourPlan": "Tu plan"
+}

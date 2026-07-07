@@ -1,0 +1,21 @@
+{
+  "addAlert": "アラートを追加",
+  "balanceAlertsAreTriggeredBasedOn": "残高アラートは、アカウント残高と残りのクレジット限度額を含む利用可能クレジットに基づいてトリガーされます。",
+  "cancel": "キャンセル",
+  "confirm": "確認",
+  "editAlert": "アラートを編集",
+  "email": "メール",
+  "enableStatus": "有効ステータス",
+  "enterAmount": "金額を入力",
+  "inbox": "受信トレイ",
+  "notificationMembers": "通知メンバー",
+  "notificationMethod": "通知方法",
+  "pleaseEnterTheWarningAmount": "警告金額を入力してください",
+  "pleaseSelectAtLeastOneNotification": "少なくとも1つの通知方法を選択してください",
+  "selectMethods": "方法を選択",
+  "theMaximumPostpaidAmountApprovedBased": "アカウントの信用プロファイルに基づいて承認された後払いの最大金額で、先に利用して後で支払うことができます。",
+  "theWarningAmountMustBeBetween": "警告金額は$1から$10,000,000の間である必要があり、有効な警告ステータスの金額間の間隔は少なくとも$5である必要があります。",
+  "thresholdMustBeAnInteger": "しきい値は整数である必要があります",
+  "thresholdMustBeBetween1And": "しきい値は1から10000000の間である必要があります",
+  "warningAmount": "警告金額"
+}

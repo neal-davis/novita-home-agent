@@ -1,0 +1,6 @@
+{
+  "deploy": "部署",
+  "gpuHot": "GPU 热门",
+  "onDemand": "按需",
+  "oneClickDeployment": "一键部署"
+}

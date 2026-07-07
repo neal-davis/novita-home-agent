@@ -1,0 +1,22 @@
+{
+  "alreadyHaveAnAccount": "Already have an account?",
+  "createAnAccount": "Create an account",
+  "createWithAnEmail": "Create with an Email",
+  "emailAddress": "Email Address",
+  "enterYourEmailAddress": "Enter your email address",
+  "enterYourInvitationCode": "Enter your invitation code",
+  "enterYourPassword": "Enter your password",
+  "invalidInvitationCode": "Invalid invitation code",
+  "invitationCode": "Invitation Code",
+  "logIn": "Log in",
+  "or": "Or",
+  "password": "Password",
+  "pleaseCheckYourEmailToActivate": "Please check your email to activate your account.",
+  "pleaseFinishTheCaptchaFirst": "Please finish the captcha first.",
+  "signUpForNovita": "Sign up for Novita",
+  "signUpWithGithub": "Sign up with GitHub",
+  "signUpWithGoogle": "Sign up with Google",
+  "signUpWithHuggingFace": "Sign up with Hugging Face",
+  "team": "Team",
+  "youveBeenInvitedToJoin": "You've been invited to join"
+}

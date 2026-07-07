@@ -1,0 +1,11 @@
+{
+  "canGenerateSpeechIn300ms": "Peut générer de la parole en <300ms.",
+  "discordCommunity": "Communauté Discord",
+  "easeOfUse": "Facilité d’utilisation",
+  "exploreDocumentation": "Explorer la documentation",
+  "fromCharacterVoicingAndAudiobookNarration": "Du doublage de personnages à la narration de livres audio, en passant par les outils éducatifs et les expériences interactives, la bibliothèque vocale de Novita AI offre un large choix de voix adaptées à vos besoins spécifiques.",
+  "getAllTheHelpYouNeed": "Obtenez toute l’aide dont vous avez besoin grâce à notre communauté d’experts.",
+  "howToUseTextToSpeech": "Comment utiliser l’API de synthèse vocale",
+  "lowLatency": "Faible latence",
+  "novitaAiBringsTheMostCompelling": "Novita AI apporte aux développeurs les voix les plus captivantes, riches et hyperréalistes en seulement quelques lignes de code."
+}

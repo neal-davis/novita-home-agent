@@ -1,0 +1,7 @@
+{
+  "_comment": "De-PII'd /v3/stripe/autoRecharge for the AutomaticPayments block (consumed, not asserted). Auto-recharge disabled with placeholder thresholds.",
+  "threshold": "5",
+  "amount": "20",
+  "isAutoRecharge": false,
+  "maxAmount": "500"
+}

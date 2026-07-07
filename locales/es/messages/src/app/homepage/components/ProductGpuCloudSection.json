@@ -1,0 +1,10 @@
+{
+  "dedicatedPhysicalGpuClustersForLarge": "Clústeres físicos dedicados de GPU para inferencia a gran escala, ejecuciones de entrenamiento e implementaciones empresariales que no pueden comprometer el rendimiento. Cuando necesitas el hardware solo para ti, esto es.",
+  "deployModelsRunInferenceTrainFrom": "Implementa modelos, ejecuta inferencia, entrena desde cero, en instancias GPU dedicadas que controlas por completo. Rendimiento predecible. Sin recursos compartidos. Sin sorpresas.",
+  "fullControlGpuMachinesYoursIn": "Máquinas GPU con control total. Tuyas en segundos.",
+  "getStarted": "Comenzar",
+  "gpuCloud": "NUBE GPU",
+  "maximumPerformanceZeroAbstractionOverhead": "Máximo rendimiento. Cero sobrecarga de abstracción.",
+  "noInstancesToProvisionNoIdle": "Sin instancias que aprovisionar. Sin cómputo inactivo que pagar. Novita asigna recursos GPU automáticamente, escala bajo demanda, escala a cero cuando terminas. Pagas por la ejecución, nada más.",
+  "submitAJobWeHandleThe": "Envía un trabajo. Nosotros nos encargamos del resto."
+}

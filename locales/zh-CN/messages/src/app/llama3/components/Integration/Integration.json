@@ -1,0 +1,10 @@
+{
+  "apiBaseUrl": "API 基础 URL",
+  "checkTheFullListOfSupported": "查看支持的模型完整列表",
+  "getApiKey": "获取 API Key",
+  "here": "此处",
+  "integrateLlama3ApiWithYour": "将 Llama 3 API 集成到您的应用程序中",
+  "orUseTheModelsApiTo": "或使用 Models API 获取所有可用模型。",
+  "supportedModels": "支持的模型",
+  "weProvideCompatibilityWithTheOpenai": "我们提供与 OpenAI API 标准的兼容性，让您能够更轻松地集成到现有应用程序中。"
+}

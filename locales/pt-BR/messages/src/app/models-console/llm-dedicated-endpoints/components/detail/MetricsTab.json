@@ -1,0 +1,16 @@
+{
+  "concurrentRequests": "Solicitações simultâneas",
+  "input": "Entrada",
+  "last5Minutes": "Últimos 5 minutos",
+  "output": "Saída",
+  "p50": "P50",
+  "p95": "P95",
+  "p99": "P99",
+  "processedTokens": "Tokens processados",
+  "replicasActive": "Réplicas (ativas)",
+  "streamingOnly": "somente streaming",
+  "total": "Total",
+  "tpotTimePerOutputToken": "TPOT (Tempo por token de saída)",
+  "ttftTimeToFirstToken": "TTFT (Tempo até o primeiro token)",
+  "utc0": "UTC+0"
+}

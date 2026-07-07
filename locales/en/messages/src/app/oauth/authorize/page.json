@@ -1,0 +1,9 @@
+{
+  "applicationInformationError": "Application information error",
+  "isRequestingAccessToYourNovita": "is requesting access to your Novita account associated with email",
+  "missingRequiredParametersAuthorizationCannotBe": "Missing required parameters, authorization cannot be completed",
+  "permissionsNotice": "Permissions Notice:",
+  "requestParameterError": "Request parameter error",
+  "selectTheTeamAccountYouWish": "Select the team account you wish to authorize access to:",
+  "unableToGetApplicationInformationPlease": "Unable to get application information, please contact the application provider"
+}

@@ -1,0 +1,26 @@
+.optional {
+  margin-left: 2px;
+  color: var(--dark-3);
+}
+
+.config_wrapper {
+  margin-top: 8px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 8px;
+  border-radius: 6px;
+  background-color: var(--gray-3);
+
+  .title {
+    margin-bottom: 4px;
+    @include font-small-console-medium;
+    color: var(--black);
+  }
+
+  .desc {
+    @include font-small-console;
+    color: var(--dark-2);
+  }
+}

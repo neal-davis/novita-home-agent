@@ -1,0 +1,5 @@
+{
+  "_comment": "Empty notices for the console Header subtree on the /billing/details landing. reqNotices (/api/v1/notices via the same-origin route handler, also matched as /v1/notices on the backend) feeds VoucherNotification, which does (res?.data||[]).forEach(...). The mockBackend fallback {data:{}} makes ({}).forEach throw 'forEach is not a function' (caught + logged, not fatal); this array-shaped {data:[]} keeps that subtree quiet so the only assertion-relevant state is a clean DetailContent. No PII.",
+  "code": 0,
+  "data": []
+}

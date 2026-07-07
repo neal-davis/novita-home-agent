@@ -1,0 +1,17 @@
+{
+  "billedByGpuHourWithPer": "Cobrado por hora de GPU com granularidade por segundo. Escale para zero quando ocioso — sem compromisso mínimo, sem custos de GPU ociosa.",
+  "blazingFastInference": "Inferência ultrarrápida",
+  "builtForProductionWorkloads": "Criado para cargas de trabalho de produção",
+  "chooseFromNvidiaH200H100And": "Escolha entre NVIDIA H200, H100 e RTX 4090. Selecione o paralelismo de tensores e a quantidade de GPUs para atender aos requisitos do seu modelo.",
+  "dedicatedTechnicalSupportCustomSlasAnd": "Suporte técnico dedicado, SLAs personalizados e acesso prioritário a novos tipos de GPU. Descontos por volume para grandes implantações.",
+  "dynamicAutoScaling": "Autoescalonamento dinâmico",
+  "enterpriseSupport": "Suporte empresarial",
+  "everythingYouNeedToDeployScale": "Tudo o que você precisa para implantar, escalar e gerenciar inferência de AI em produção.",
+  "flexibleGpuOptions": "Opções flexíveis de GPU",
+  "hotSwapLoraAdaptersOnRunning": "Troque adaptadores LoRA a quente em endpoints em execução, sem reinicializações. Implante várias variantes ajustadas em um único modelo base.",
+  "loraAdapterSupport": "Suporte a adaptadores LoRA",
+  "payPerHourBilling": "Cobrança por hora",
+  "platform": "Plataforma",
+  "poweredByOptimizedServingEnginesOn": "Desenvolvido com mecanismos de serviço otimizados em GPUs NVIDIA H200, H100 e RTX 4090. Latência abaixo de um segundo para aplicações em tempo real.",
+  "scaleFrom0ToNReplicas": "Escale de 0 a N réplicas automaticamente com base no tráfego. Defina réplicas mín./máx. e atraso de redução de escala para corresponder aos seus padrões de tráfego."
+}

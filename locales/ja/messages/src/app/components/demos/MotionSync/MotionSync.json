@@ -1,0 +1,17 @@
+{
+  "cancel": "キャンセル",
+  "chooseMotionVideo": "モーション動画を選択：",
+  "forOptimalResultsEnsureTheImage": "最適な結果を得るには、画像に以下が含まれていることを確認してください：",
+  "generate": "生成",
+  "heigh": "高さ",
+  "message1ACleanBackground": "1. すっきりした背景",
+  "message2TheUpperHalfOfA": "2. 人物の上半身",
+  "orChooseFromPresetImages": "またはプリセット画像から選択：",
+  "queueing": "キューに追加中...",
+  "seed": "シード",
+  "steps": "ステップ",
+  "thisTaskMayTakeSomeTime": "このタスクには時間がかかる場合があります（数分）。しばらくお待ちください。",
+  "uploadBaseImage": "ベース画像をアップロード",
+  "uploadMotionVideo": "モーション動画をアップロード",
+  "width": "幅"
+}

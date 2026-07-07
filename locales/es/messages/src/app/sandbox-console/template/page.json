@@ -1,0 +1,17 @@
+{
+  "all": "Todos",
+  "automaticallyAdjustedToTheNearestValid-261322": "Ajustado automáticamente al valor válido más cercano (CPU debe ser un entero, el mínimo es 1)",
+  "automaticallyAdjustedToTheNearestValid-df2cec": "Ajustado automáticamente al valor válido más cercano (solo se admiten múltiplos de 512 MiB, el mínimo es 512 MiB)",
+  "clickToCopy": "Haz clic para copiar",
+  "core": "Núcleo",
+  "cores": "Núcleos",
+  "cpuCores": "Núcleos de CPU",
+  "findATemplate": "Buscar una plantilla",
+  "memory": "Memoria",
+  "mib": "MiB",
+  "private": "Privado",
+  "public": "Público",
+  "template": "Plantilla",
+  "thisTemplateIsProvidedByNovita": "Esta plantilla es proporcionada por Novita AI y está disponible para todos los usuarios de forma predeterminada.",
+  "visibility": "Visibilidad"
+}

@@ -1,0 +1,10 @@
+{
+  "dateAlignmentTest": "Prueba de alineación de fechas",
+  "legacyLlmListActionTestModel": "Modelo de prueba de acción de lista de LLM heredado",
+  "legacyLlmListModel": "Modelo de lista de LLM heredado",
+  "longSummaryLayoutTest": "Prueba de diseño de resumen largo",
+  "multimodalActionTestModel": "Modelo de prueba de acción multimodal",
+  "multimodalLabelTestModel": "Modelo de prueba de etiqueta multimodal",
+  "multimodalListTestModel": "Modelo de prueba de lista multimodal",
+  "tieredListModel": "Modelo de lista por niveles"
+}

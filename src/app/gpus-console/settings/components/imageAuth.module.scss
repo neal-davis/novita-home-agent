@@ -1,0 +1,60 @@
+.container {
+  margin-top: 41px;
+}
+.title {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  margin-bottom: 12px;
+  font-style: normal;
+}
+.line {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  border-bottom: 1px solid var(--gray-2);
+  width: 100%;
+  height: 1px;
+}
+.nameInput {
+  height: 40px;
+  width: 100%;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--black);
+  line-height: 21px;
+  text-align: left;
+  font-style: normal;
+}
+.usernameTxt {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  margin-bottom: 12px;
+  font-style: normal;
+}
+.usernameInput {
+  height: 40px;
+  width: 100%;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--black);
+  line-height: 21px;
+  text-align: left;
+  font-style: normal;
+}
+.confirmBtn {
+  width: 100%;
+  height: 32px;
+  text-transform: none !important;
+  color: var(--white) !important;
+  box-shadow: none !important;
+  @include font-subtle;
+}
+.confirmBtn:hover {
+  background: var(--dark-2) !important;
+}

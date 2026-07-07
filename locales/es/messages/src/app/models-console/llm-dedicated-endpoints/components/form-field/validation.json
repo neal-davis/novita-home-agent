@@ -1,0 +1,12 @@
+{
+  "huggingFaceModelRepositoryNameIs": "El nombre del repositorio del modelo de Hugging Face es obligatorio",
+  "maxReplicasMustNotExceed10": "El número máximo de réplicas no debe superar 10",
+  "minReplicasMustBeAtLeast": "El número mínimo de réplicas debe ser al menos 0",
+  "mustBeAtLeast1": "Debe ser al menos 1",
+  "nameMustBeAtLeast3": "El nombre debe tener al menos 3 caracteres",
+  "nameMustNotExceed63Characters": "El nombre no debe superar los 63 caracteres",
+  "nameMustStartWithALowercase": "El nombre debe comenzar con una letra minúscula y contener solo letras minúsculas, números y guiones",
+  "scaleDownDelayMustBeAt": "El retraso de reducción de escala debe ser de al menos 300 segundos",
+  "scaleDownWindowMustBeAt": "La ventana de reducción de escala debe ser de al menos 60 segundos",
+  "stableWindowMustBeAtLeast": "La ventana estable debe ser de al menos 60 segundos"
+}

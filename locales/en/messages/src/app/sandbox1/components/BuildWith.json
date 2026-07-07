@@ -1,0 +1,20 @@
+{
+  "builtWithNovitaAi": "Built with Novita AI",
+  "concurrentInstances": "Concurrent Instances",
+  "contactSales": "Contact Sales",
+  "contactSupport": "Contact support",
+  "defineReusableSandboxEnvironmentsOnceAnd": "Define reusable sandbox environments once and use them across workloads.",
+  "deploymentRegion": "Deployment Region",
+  "eachSandboxIncludesAnIsolatedFilesystem": "Each sandbox includes an isolated filesystem for code, data, and session state.",
+  "enterprise": "Enterprise",
+  "fileSystem": "File system",
+  "forAdvancedWorkloadsThatNeedHigher": "For advanced workloads that need higher resource limits, custom deployment regions, or dedicated infrastructure.",
+  "getStartedWithQuickstartsReusableTemplates": "Get started with quickstarts, reusable templates, and isolated sandbox storage.",
+  "launchYourFirstSandboxInMinutes": "Launch your first sandbox in minutes.",
+  "learnMore": "Learn more",
+  "maxVcpusPerSandbox": "Max vCPUs per Sandbox",
+  "quickStart": "Quick Start",
+  "startBuildingWithAgentSandbox": "Start building with Agent Sandbox",
+  "templates": "Templates",
+  "uptimeSla": "Uptime SLA"
+}

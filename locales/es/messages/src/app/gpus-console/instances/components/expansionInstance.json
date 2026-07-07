@@ -1,0 +1,17 @@
+{
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
+  "day": "día",
+  "days": "días",
+  "expansionCapacity": "Capacidad de ampliación",
+  "expansionFee": "Tarifa de ampliación",
+  "expirationTime": "Hora de vencimiento",
+  "freeCapacity": "Capacidad libre",
+  "gb": "GB",
+  "instanceId": "ID de instancia",
+  "remainingRentalPeriod": "Período de alquiler restante",
+  "settlementAmount": "Importe de liquidación",
+  "storagePrice": "Precio de almacenamiento",
+  "subscriptionInstanceExpansionBilling": "Facturación de ampliación de instancia de suscripción",
+  "usedCapacity": "Capacidad utilizada"
+}

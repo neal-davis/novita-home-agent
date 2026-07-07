@@ -1,0 +1,15 @@
+{
+  "change": "Modifier",
+  "companyName": "Nom de l’entreprise",
+  "completeAQuickSurveyToClaim": "Répondez à une courte enquête pour obtenir 1 $ de crédits gratuits !",
+  "country": "Pays",
+  "email": "E-mail",
+  "firstName": "Prénom",
+  "goToSettings": "Accéder aux paramètres",
+  "lastName": "Nom de famille",
+  "password": "Mot de passe",
+  "save": "Enregistrer",
+  "saveAccountInfoFailed": "Échec de l’enregistrement des informations du compte",
+  "saveAccountInfoSuccess": "Informations du compte enregistrées avec succès",
+  "userId": "ID utilisateur"
+}

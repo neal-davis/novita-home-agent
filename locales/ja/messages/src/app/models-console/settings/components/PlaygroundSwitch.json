@@ -1,0 +1,10 @@
+{
+  "cancel": "キャンセル",
+  "dedicatedEndpointsResources": "専用エンドポイントリソース",
+  "learnMore": "詳細を見る",
+  "operationFailed": "操作に失敗しました",
+  "playground": "プレイグラウンド",
+  "pleaseNoteThatThisWillShare": "これにより、専用エンドポイントリソースが他の生成処理と共有され、パフォーマンスに影響する可能性があることにご注意ください。",
+  "useDedicatedEndpointsResources": "専用エンドポイントリソースを使用",
+  "yourCurrentPayAsYouGo": "現在のPay-As-You-Goプランでは、Enterpriseリソースへのアクセスは含まれていません。これらの機能を利用するにはアップグレードしてください。"
+}

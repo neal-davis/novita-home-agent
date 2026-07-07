@@ -1,0 +1,57 @@
+.upload_form {
+  width: 100%;
+}
+.form_stack {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.form_field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  color: var(--black);
+}
+.field_label {
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--black);
+}
+.required_mark {
+  margin-right: 4px;
+  color: var(--red-1);
+}
+.field_error {
+  font-size: 12px;
+  line-height: 18px;
+  color: var(--red-1);
+}
+.switchBox {
+  display: inline-block;
+  margin-right: 16px;
+  padding: 1px 3px;
+  border: 1px solid #efefef;
+  border-radius: 20px;
+
+  & > button {
+    transform: translate(0, -1px);
+  }
+
+  :global {
+    .ant-switch {
+      min-width: 38px;
+      background-color: var(--gray-1) !important;
+    }
+
+    .ant-switch-checked {
+      background-color: var(--brand-0) !important;
+    }
+  }
+}
+.list {
+  display: flex;
+  justify-content: space-between;
+}
+.list > div {
+  width: 48%;
+}

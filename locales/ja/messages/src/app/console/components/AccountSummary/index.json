@@ -1,0 +1,15 @@
+{
+  "accountSummary": "アカウント概要",
+  "addPaymentMethod": "支払い方法を追加",
+  "allKeys": "すべてのキー",
+  "apiKeys": "APIキー",
+  "availableCredit": "利用可能なクレジット",
+  "availableVouchers": "利用可能なバウチャー",
+  "credit": "クレジット",
+  "expiration": "有効期限:",
+  "goToBilling": "請求ページへ移動",
+  "monthlySpend": "月間支出",
+  "noPermission": "権限がありません",
+  "trackYourBalanceSpendingAndApi": "残高、支出、APIキーをひと目で確認できます。",
+  "view": "表示"
+}

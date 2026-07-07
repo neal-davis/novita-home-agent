@@ -1,0 +1,10 @@
+{
+  "billedTokens": "Jetons facturés",
+  "billingMultiplier": "Multiplicateur de facturation",
+  "modelId": "ID du modèle",
+  "next": "Suivant",
+  "noUsageData": "Aucune donnée d’utilisation",
+  "previous": "Précédent",
+  "rawUsageTokens": "Utilisation brute (jetons)",
+  "startTimeEndTime": "Heure de début - heure de fin"
+}

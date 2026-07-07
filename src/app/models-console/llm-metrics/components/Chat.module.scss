@@ -1,0 +1,52 @@
+.chat_wrapper {
+  position: relative;
+  padding: 20px;
+  font-size: 14px;
+
+  .loading_bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+    .bar {
+      animation-name: animation-chart-loading;
+      animation-delay: 300ms;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-duration: 658ms;
+
+      width: 28%;
+      height: 1px;
+      background: linear-gradient(
+        90deg,
+        rgba(210, 222, 247, 0) 0%,
+        rgb(139, 92, 246) 80.75%,
+        rgba(210, 222, 247, 0) 100%
+      );
+      transform: translateX(-100%);
+      will-change: transform;
+    }
+  }
+
+  .title {
+    color: var(--black);
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 10px;
+  }
+}
+
+@keyframes animation-chart-loading {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  85% {
+    transform: translateX(357.143%);
+  }
+
+  100% {
+    transform: translateX(357.143%);
+  }
+}

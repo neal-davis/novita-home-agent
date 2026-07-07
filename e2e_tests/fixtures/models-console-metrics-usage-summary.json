@@ -1,0 +1,13 @@
+{
+  "totalRequests": "125000",
+  "inputTokens": "45000000",
+  "cacheTokens": "5000000",
+  "outputTokens": "12000000",
+  "meta": {
+    "isLive": false,
+    "delayMinutes": 5,
+    "currency": "USD",
+    "granularity": "Daily",
+    "timezone": "UTC"
+  }
+}

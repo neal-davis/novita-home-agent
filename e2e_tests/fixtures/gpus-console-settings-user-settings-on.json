@@ -1,0 +1,5 @@
+{
+  "_comment": "De-PII'd /v1/user/settings (Single-Numa ON) for hermetic /gpus-console/settings. Section reads res.singleNuma → 'Prefer Single-Numa' checkbox initial state. singleNuma:true → Radix checkbox renders data-state='checked'. Companion of gpus-console-settings-user-settings.json (false) so both branches are exercised across the two hermetic tests.",
+  "code": 0,
+  "singleNuma": true
+}

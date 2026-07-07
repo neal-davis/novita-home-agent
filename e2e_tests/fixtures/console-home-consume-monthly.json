@@ -1,0 +1,32 @@
+{
+  "_comment": "Synthetic /v1/user/queryConsumeMonthly. ConsumeMonthlyChart reads res.consume_list and feeds it to echarts (canvas). Values are made-up monthly spend amounts (raw 'points' strings), no PII. The chart renders to <canvas>, so the spec asserts the chart container/heading is present rather than reading data values out of the canvas.",
+  "consume_list": [
+    {
+      "month": "2026-01",
+      "gpu_instance": "1000000",
+      "model_api": "1500000",
+      "serverless": "800000",
+      "storage": "500000",
+      "cloud_sandbox": "300000",
+      "llm_dedicated_endpoint": "200000"
+    },
+    {
+      "month": "2026-02",
+      "gpu_instance": "1200000",
+      "model_api": "1800000",
+      "serverless": "900000",
+      "storage": "600000",
+      "cloud_sandbox": "350000",
+      "llm_dedicated_endpoint": "250000"
+    },
+    {
+      "month": "2026-03",
+      "gpu_instance": "1100000",
+      "model_api": "1600000",
+      "serverless": "850000",
+      "storage": "550000",
+      "cloud_sandbox": "320000",
+      "llm_dedicated_endpoint": "220000"
+    }
+  ]
+}

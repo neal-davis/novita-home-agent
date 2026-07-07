@@ -1,0 +1,142 @@
+.container {
+  padding: 134px 0 100px 0;
+}
+.subContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0;
+  /* background: #ffffff; */
+  box-shadow: 0px 4px 20px 0px rgba(21, 34, 50, 0.1);
+  border-radius: var(--radius-dialog);
+}
+.section {
+  color: var(--black);
+  background: var(--white);
+  box-shadow: 0px 4px 20px 0px rgba(21, 34, 50, 0.1);
+  border-radius: var(--radius-dialog);
+  padding: 24px 24px 16px;
+  width: 600px;
+}
+.title {
+  margin-top: -10px;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 22px;
+  color: var(--dark-1);
+}
+.desc {
+  font-size: 16px;
+  color: #514f6e;
+  line-height: 16px;
+  font-weight: 400;
+  margin-bottom: 16px;
+}
+.mainSection {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 504px;
+  height: 608px;
+  padding: 24px 32px;
+}
+.subtitle {
+  color: var(--dark-1);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+}
+.line {
+  position: absolute;
+  top: 54px;
+  border-bottom: 1px solid var(--gray-2);
+  width: 100%;
+  height: 1px;
+}
+.desc {
+  margin-top: 33px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: left;
+  font-style: normal;
+}
+.label {
+  @include font-small-console;
+}
+.addBtn {
+  background: var(--white) !important;
+  padding: 0 16px;
+  height: 32px;
+  border-radius: 4px !important;
+  border: 1px solid var(--gray-2) !important;
+  text-transform: none !important;
+  box-shadow: none !important;
+}
+.addBtn:hover {
+  opacity: 0.8 !important;
+  transition: opacity 0.3s ease-in-out !important;
+}
+.addBtnTxt {
+  color: var(--dark-1);
+  @include font-small-console;
+}
+.terminateBtn {
+  background: var(--brand-0) !important;
+  width: 68px;
+  height: 36px;
+  float: right;
+  border-radius: 6px !important;
+  text-transform: none !important;
+  box-shadow: none !important;
+}
+.terminateBtn:hover {
+  background: var(--brand-2) !important;
+}
+.terminateBtnTxt {
+  color: var(--black);
+  @include font-menu;
+}
+.cancelBtn {
+  background: var(--white) !important;
+  margin-right: 16px !important;
+  width: 68px;
+  height: 36px;
+  float: right;
+  border-radius: 6px !important;
+  box-shadow: none !important;
+  border: 1px solid var(--gray-2) !important;
+  text-transform: none !important;
+}
+.cancelBtn:hover {
+  background-color: var(--gray-3) !important;
+}
+.cancelBtnTxt {
+  color: var(--dark-1);
+  @include font-menu;
+}
+.select {
+  :global(.MuiSelect-select.MuiInputBase-input) {
+    font-family: inherit !important;
+  }
+  :global(.MuiOutlinedInput-notchedOutline) {
+    border: none !important;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .container {
+    padding: 86px 0 100px 0;
+  }
+  .title {
+    font-size: 24px;
+  }
+  .desc {
+    font-size: 14px;
+  }
+  .wrap {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

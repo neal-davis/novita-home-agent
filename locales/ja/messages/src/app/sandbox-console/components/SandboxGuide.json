@@ -1,0 +1,17 @@
+{
+  "addApiKey": "APIキーを追加",
+  "belowIsASimpleExampleShowing": "以下は、SDKを通じてサンドボックスを作成し、指定したコマンドを実行する方法を示す簡単な例です。",
+  "buildStatefulAgentsWithNovitaSandbox": "Novita Sandboxでステートフルエージェントを構築",
+  "cliReference": "CLIリファレンス",
+  "copyCode": "コードをコピー",
+  "createApiKey": "APIキーを作成",
+  "docs": "ドキュメント",
+  "executeTheFollowingCommandsToRun": "上記のコードを実行するには、次のコマンドを実行してください。",
+  "goToKeyManagement": "キー管理に移動",
+  "installSdk": "SDKをインストール",
+  "runAiGeneratedCodeToolsAnd": "AI生成コード、ツール、ブラウザを安全なクラウドサンドボックスで実行",
+  "scaleFromOneSandboxToThousands": "コーディング、データ分析、RLワークロード向けに、1つのサンドボックスから数千までスケール",
+  "useSdkToStartAgentSandbox": "SDKを使用してエージェントサンドボックスを起動",
+  "youCanInstallTheSdkBy": "次のコマンドを実行することでSDKをインストールできます。",
+  "zeroInfrastructureManagement": "インフラ管理不要"
+}

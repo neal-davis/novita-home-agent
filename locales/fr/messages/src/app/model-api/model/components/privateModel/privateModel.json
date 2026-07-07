@@ -1,0 +1,18 @@
+{
+  "accessOurListOfPublicModels": "accéder à notre liste de modèles publics",
+  "creditBalance": "Solde de crédits",
+  "featuredApis": "APIs en vedette",
+  "ifYouHaveAnyQuestionsPlease": "Si vous avez des questions, veuillez contacter notre service client ou notre équipe technique via le canal Discord :",
+  "informationalNotes": "Notes d’information",
+  "joinOurDiscordToGetIt": "rejoignez notre Discord pour l’obtenir !",
+  "logInAndRequestPrivateModel": "Connectez-vous et demandez les autorisations pour les modèles privés ou si vous souhaitez",
+  "manageYourPrivateModels": "Gérer vos modèles privés",
+  "modelLibrary": "Bibliothèque de modèles",
+  "modelList": "Liste des modèles",
+  "playground": "Terrain d’expérimentation",
+  "pleaseBePatientWhileWeCheck": "Veuillez patienter pendant que nous vérifions vos autorisations...",
+  "uploadModel": "Téléverser un modèle",
+  "youDontHavePermissionToUpload": "Vous n’avez pas l’autorisation de téléverser des modèles,",
+  "youMustHaveAtLeastOne": "Vous devez disposer d’au moins une clé pour téléverser des modèles !",
+  "youNeedToLoginToAccess": "Vous devez vous connecter pour accéder à cette page !"
+}

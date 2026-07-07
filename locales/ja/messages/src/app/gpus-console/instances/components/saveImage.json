@@ -1,0 +1,15 @@
+{
+  "addCredential": "認証情報を追加",
+  "afterAdjustingTheInstanceYouCan": "インスタンスを調整した後、更新されたインスタンスをイメージとして保存し、その最新のイメージを基に新しいテンプレートやインスタンスを作成できます！",
+  "cancel": "キャンセル",
+  "containerRegistryCredentials": "コンテナレジストリ認証情報",
+  "imagePath": "イメージパス",
+  "pleaseEnterAPathConsistingOf": "小文字の英字と数字で構成され、各セグメントに ., _ または - を任意で含めることができ、/ で区切られた複数階層に対応するパスを入力してください。",
+  "pleaseInputYourImageAddress": "イメージのアドレスを入力してください",
+  "pleaseSelectCredentials": "認証情報を選択してください",
+  "save": "保存",
+  "saveImage": "イメージを保存",
+  "success": "成功",
+  "theContainerRegistryCredentialsCanNot": "コンテナレジストリの認証情報は空にできません",
+  "theImagePathCanNotBe": "イメージパスは空にできず、空白文字を含めることはできません"
+}

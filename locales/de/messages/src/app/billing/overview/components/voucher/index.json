@@ -1,0 +1,18 @@
+{
+  "all": "Alle",
+  "applicableProducts": "Anwendbare Produkte",
+  "balanceTotal": "Guthaben / Gesamt",
+  "collapse": "Einklappen",
+  "effectDate": "Gültig ab",
+  "expirationDate": "Ablaufdatum",
+  "expired": "Abgelaufen",
+  "status-11dc9e": "Status:",
+  "status-bae7d5": "Status",
+  "textVarBrand1": "text-[var(--brand-1)]",
+  "textVarDark3": "text-[var(--dark-3)]",
+  "textVarRed2": "text-[var(--red-2)]",
+  "used": "Verwendet",
+  "valid": "Gültig",
+  "voucher": "Gutschein",
+  "voucherDetails": "Gutscheindetails"
+}

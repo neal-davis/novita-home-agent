@@ -1,0 +1,7 @@
+{
+  "deployServerless": "Desplegar sin servidor",
+  "deployed": "Desplegado",
+  "myEndpoints": "Mis endpoints",
+  "redirectingToMyEndpoints": "Redirigiendo a Mis endpoints ......",
+  "yourEndpointIsBeingCreatedUsing": "Tu endpoint se está creando con la configuración que seleccionaste. Estará listo en breve; puedes verlo en la consola."
+}

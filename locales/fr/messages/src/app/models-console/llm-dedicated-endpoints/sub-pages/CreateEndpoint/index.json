@@ -1,0 +1,12 @@
+{
+  "autoscalingConfiguration": "Configuration de la mise à l’échelle automatique",
+  "availableGpuTypesAndQuantitiesDepend": "Les types et quantités de GPU disponibles dépendent du modèle sélectionné.",
+  "endpointName": "Nom du point de terminaison",
+  "engineConfiguration": "Configuration du moteur",
+  "gpuConfiguration": "Configuration du GPU",
+  "loadingModelConfiguration": "Chargement de la configuration du modèle...",
+  "lowercaseLettersNumbersAndHyphensMust": "Lettres minuscules, chiffres et traits d’union. Doit commencer par une lettre (3 à 63 caractères).",
+  "model": "Modèle",
+  "pleaseEnterTheEndpointName": "Veuillez saisir le nom du point de terminaison...",
+  "pleaseSelectAModelFirstTo": "Veuillez d’abord sélectionner un modèle pour voir les options GPU disponibles."
+}

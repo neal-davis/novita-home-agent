@@ -1,0 +1,46 @@
+.page_container {
+  position: relative;
+  padding-top: 90px;
+  padding-bottom: 132px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.list .item {
+  max-width: 752px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 24px;
+  border-radius: 8px;
+  border: 1px solid var(--gray-2);
+  background: var(--gray-3);
+  border-radius: 12px;
+}
+
+.item .item_content a {
+  font-weight: 700;
+  color: #fff;
+}
+
+.btn_container {
+  margin-top: 92px;
+  text-align: center;
+}
+
+.btn_container .btn {
+  font-size: 30px;
+  height: 92px;
+  width: 444px;
+}
+
+.btn_container .btn:hover {
+  background: linear-gradient(0deg, #3b17d6 0%, #3b17d6 100%), #1882ff !important;
+}

@@ -1,0 +1,55 @@
+.black_friday_link {
+  cursor: pointer;
+  margin-bottom: 16px;
+  padding: 10px;
+  min-height: 60px;
+  position: relative;
+  border-radius: 8px;
+  gap: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  // border: 1px solid #4FD3FF;
+  background: linear-gradient(91deg, #28b7ef -19.28%, #9e18dc 120.26%), #23d57c;
+
+  @media screen and (max-width: 1150px) {
+    flex-direction: column;
+    gap: 4px;
+    .build_month_desc {
+      align-items: center;
+      justify-content: center;
+    }
+  }
+
+  .build_month_title {
+    color: var(--white);
+    text-align: right;
+    text-shadow: 0 0 4px rgba(233, 254, 255, 0.54);
+
+    /* Font-h4 */
+    -webkit-text-stroke-width: 0.6px;
+    -webkit-text-stroke-color: #534dff;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 38px; /* 158.333% */
+  }
+  .build_month_desc {
+    display: flex;
+    flex-direction: column;
+  }
+  .link {
+    color: var(--white);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px; /* 142.857% */
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: auto;
+    text-decoration-thickness: auto;
+    text-underline-offset: auto;
+    text-underline-position: from-font;
+  }
+}

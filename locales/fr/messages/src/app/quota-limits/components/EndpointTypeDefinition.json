@@ -1,0 +1,3 @@
+{
+  "indicatesWhetherTheEndpointIsPublic": "Indique si le point de terminaison est public (infrastructure partagée) ou dédié (ressources exclusives). Les limites de débit et la facturation varient selon le type."
+}

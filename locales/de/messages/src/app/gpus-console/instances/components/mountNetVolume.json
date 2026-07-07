@@ -1,0 +1,22 @@
+{
+  "aSingleInstanceCanMountUp": "Eine einzelne Instanz kann bis zu 30 Cloud-Speichervolumes einbinden.",
+  "addMount": "Einbindung hinzufügen",
+  "applyingTheseChangesWillRestartThe": "Das Anwenden dieser Änderungen startet die aktuelle Instanz sofort neu.",
+  "beforeDetachingAVolumeEnsureIt": "Stellen Sie vor dem Trennen eines Volumes sicher, dass es innerhalb der Instanz ausgehängt wurde, um den Verlust nicht gespeicherter Daten zu vermeiden.",
+  "cancel": "Abbrechen",
+  "cloudStorageMountsWillBeChanged": "Cloud-Speichereinbindungen werden geändert in",
+  "confirm": "Bestätigen",
+  "maximum30MountsAllowedPleaseUnmount": "Maximal 30 Einbindungen zulässig. Bitte hängen Sie zuerst einige Speicher aus",
+  "mountCloudStorage": "Cloud-Speicher einbinden",
+  "mountPath": "Einbindungspfad",
+  "mountingNotes": "Hinweise zur Einbindung",
+  "pleaseEnterADifferentCloudStorage": "Bitte geben Sie einen anderen Einbindungspfad für den Cloud-Speicher ein",
+  "pleaseEnterAValidCloudStorage": "Bitte geben Sie einen gültigen Einbindungspfad für den Cloud-Speicher ein",
+  "pleaseMakeSureYouveUnmountedThe": "Bitte stellen Sie sicher, dass Sie das zusätzliche Volume ausgehängt haben – das Übermitteln dieser Änderung startet die Instanz neu.",
+  "pleaseSelectADifferentCloudStorage": "Bitte wählen Sie einen anderen Cloud-Speicher aus",
+  "pleaseSelectTheCloudStorageTo": "Bitte wählen Sie den einzubindenden Cloud-Speicher aus",
+  "storageInstance": "Speicherinstanz",
+  "success": "Erfolg",
+  "thereIsNoChangeInThe": "Es gibt keine Änderung an den vorhandenen Cloud-Speicherdaten, bitte bestätigen",
+  "tips": "Tipps"
+}

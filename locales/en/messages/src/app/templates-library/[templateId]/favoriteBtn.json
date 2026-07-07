@@ -1,0 +1,10 @@
+{
+  "bookmarkThisTemplate": "Bookmark this template",
+  "favorite": "Favorite",
+  "favoriteSuccessfully": "Favorite successfully",
+  "loginFailurePleaseLogInAgain": "Login failure, please log in again",
+  "pleaseLogInFirst": "Please log in first",
+  "unbookmarkThisTemplate": "Unbookmark this template",
+  "unfavorite": "Unfavorite",
+  "unfavoriteSuccessfully": "Unfavorite successfully"
+}

@@ -1,0 +1,18 @@
+{
+  "adapterAlreadyExists": "Adapter ist bereits vorhanden",
+  "adapterName": "Adaptername",
+  "adapterReadyToAdd": "Adapter kann hinzugefügt werden.",
+  "addAdapter": "Adapter hinzufügen",
+  "cancel": "Abbrechen",
+  "clickTheButtonAboveToAdd-5002cb": "Klicken Sie auf die Schaltfläche oben, um Adapter hinzuzufügen.",
+  "clickTheButtonAboveToAdd-fcb6d5": "Klicken Sie auf die Schaltfläche oben, um Hugging Face-Adapter hinzuzufügen.",
+  "enterAdaptersRepositoryName": "Repository-Name des Adapters eingeben",
+  "enterHuggingFaceAdaptersRepositoryName": "Repository-Name des Hugging Face-Adapters eingeben",
+  "gatheringAdapterInformation": "Adapterinformationen werden abgerufen...",
+  "loraAdapterSuccessfullyMatchedWithThe": "LoRA-Adapter wurde erfolgreich dem Basismodell zugeordnet.",
+  "noAdapterAdded": "Kein Adapter hinzugefügt",
+  "optionalRouteForThisAdapterLeave": "Optionale Route für diesen Adapter. Leer lassen, um auf den Adapternamen zurückzugreifen. Die Route muss innerhalb des Endpunkts eindeutig sein.",
+  "remove": "Entfernen",
+  "route": "Route",
+  "save": "Speichern"
+}

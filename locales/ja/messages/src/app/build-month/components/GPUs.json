@@ -1,0 +1,9 @@
+{
+  "globallyDistributedGpusWithLocalSpeed": "ローカル並みの速度を備えたグローバル分散GPU",
+  "launchInSecondsAcrossGlobalRegions": "世界各地のリージョンで数秒以内に起動。トレーニングと推論に最適です。",
+  "novitaBuildMonth2025": "Novita Build Month 2025",
+  "onDemand": "オンデマンド",
+  "startNow": "今すぐ開始",
+  "takeAdvantageOfOurHighPerformance": "高性能なGPUインスタンスを最大20%オフでご利用ください！",
+  "upTo20Off": "最大20%オフ"
+}

@@ -1,0 +1,16 @@
+{
+  "amountShouldPay": "Importe a pagar",
+  "billingPeriod": "Período de facturación",
+  "captionTable": "tabla de subtítulos",
+  "cashPaid": "Pago en efectivo",
+  "duration": "Duración",
+  "endpointId-a11c3a": "ID del endpoint",
+  "endpointId-b72156": "ID de punto de conexión",
+  "export": "Exportar",
+  "gpuType": "Tipo de GPU",
+  "gpusWorker": "GPUs/Worker",
+  "priceUnitS": "Precio(Unidad:/s)",
+  "search": "buscar",
+  "voucherDeduction": "Deducción de cupón",
+  "workId": "ID de trabajo"
+}

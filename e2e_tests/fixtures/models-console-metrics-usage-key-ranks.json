@@ -1,0 +1,24 @@
+{
+  "keys": [
+    {
+      "keyId": "key-e2e-001",
+      "keyName": "e2e-key-alpha",
+      "keyMask": "sk-****alpha",
+      "memberId": "member-e2e-001",
+      "memberName": "Member One",
+      "requests": "70000",
+      "totalTokens": "40000000",
+      "cost": "8500000"
+    },
+    {
+      "keyId": "key-e2e-002",
+      "keyName": "e2e-key-beta",
+      "keyMask": "sk-****beta",
+      "memberId": "member-e2e-002",
+      "memberName": "Member Two",
+      "requests": "40000",
+      "totalTokens": "18000000",
+      "cost": "3700000"
+    }
+  ]
+}

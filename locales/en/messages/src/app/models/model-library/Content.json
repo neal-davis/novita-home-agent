@@ -1,0 +1,8 @@
+{
+  "all": "All",
+  "models": "Models (",
+  "noModelsFoundTryAdjustingYour": "No models found. Try adjusting your filters.",
+  "textToAudio": "Text to Audio",
+  "textToImage": "Text to Image",
+  "textToText": "Text to Text"
+}

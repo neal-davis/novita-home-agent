@@ -1,0 +1,17 @@
+{
+  "aboutPricing": "About pricing",
+  "afterTopUp": "after top-up.",
+  "contactSales": "Contact Sales",
+  "forAdvancedWorkloadsThatNeedHigher": "For advanced workloads that need higher resource limits, custom deployment regions, or dedicated infrastructure.",
+  "maximumConcurrentSandboxes": "Maximum Concurrent Sandboxes",
+  "maximumLocalStoragePerSandbox": "Maximum Local Storage per Sandbox",
+  "maximumMemoryPerSandbox": "Maximum Memory per Sandbox",
+  "maximumVcpuPerSandbox": "Maximum vCPU per Sandbox",
+  "needCustomQuotas": "Need Custom Quotas？",
+  "promoCredits": "PROMO CREDITS",
+  "quotaTier": "Quota Tier",
+  "sandboxMaximumLifetime": "Sandbox Maximum Lifetime",
+  "unlockHigherQuotas": "Unlock higher quotas",
+  "upgradeToPaidTier": "Upgrade to Paid Tier",
+  "yourCurrentTier": "Your Current Tier:"
+}

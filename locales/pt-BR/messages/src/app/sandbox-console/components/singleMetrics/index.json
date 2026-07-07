@@ -1,0 +1,12 @@
+{
+  "averageCpuUtilization": "Utilização média da CPU:",
+  "ifThereAreMultiplePausesOnly": "Se houver várias Pausas, somente a consulta de dados antes",
+  "mb": "MB",
+  "memoryUtilizationAvg": "Utilização média da memória:",
+  "memoryUtilizationMax": "Utilização máxima da memória:",
+  "metrics": "Métricas",
+  "peakCpuUtilization": "Pico de utilização da CPU:",
+  "secondsAgo": "Segundos atrás",
+  "supportsQueryingDataFromThe72": "Permite consultar dados das 72 horas anteriores à Pausa.",
+  "theMostRecentPauseIsDisplayed": "a Pausa mais recente é exibida."
+}

@@ -1,0 +1,16 @@
+{
+  "baseModel": "ベースモデル",
+  "baseModelType": "ベースモデルタイプ",
+  "confirm": "確認",
+  "delete": "削除",
+  "deleteSuccess": "削除に成功しました！",
+  "modelNameInApi": "APIでのモデル名",
+  "name": "名前",
+  "operate": "操作",
+  "pleaseSelectAModelFirst": "まずモデルを選択してください！",
+  "running": "実行中",
+  "status": "ステータス",
+  "type": "タイプ",
+  "unavailable": "利用不可",
+  "warningThisActionCannotBeUndone": "警告：この操作は元に戻せません。"
+}

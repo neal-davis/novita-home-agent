@@ -1,0 +1,17 @@
+{
+  "emailAddress": "电子邮件地址",
+  "enterYourEmailAddress": "输入您的电子邮件地址",
+  "enterYourPassword": "输入您的密码",
+  "forgotPassword": "忘记密码？",
+  "joinNovitaAiTodayAndGet": "立即加入 Novita AI，获得 $1 免费额度",
+  "logIn": "登录",
+  "loginForNovita": "登录 Novita",
+  "loginWithEmail": "使用电子邮件登录",
+  "needToCreateAnAccount": "需要创建账户？",
+  "or": "或",
+  "password": "密码",
+  "pleaseFinishTheCaptchaFirst": "请先完成验证码。",
+  "signUp": "注册",
+  "team": "团队",
+  "youveBeenInvitedToJoin": "您已受邀加入"
+}

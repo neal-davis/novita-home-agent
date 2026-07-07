@@ -1,0 +1,13 @@
+{
+  "allModels": "Tous les modèles",
+  "audio": "Audio",
+  "embedding": "Plongement",
+  "featured": "En vedette",
+  "image": "Image",
+  "provider": "FOURNISSEUR",
+  "reranker": "Réordonnanceur",
+  "serverless": "Sans serveur",
+  "task": "TÂCHE",
+  "video": "Vidéo",
+  "vision": "Vision"
+}

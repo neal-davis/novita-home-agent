@@ -1,0 +1,40 @@
+.gridBackground {
+  // grid background style
+  background-image: linear-gradient(rgba(245, 245, 245, 1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(245, 245, 245, 1) 1px, transparent 1px);
+  background-size: 40px 40px;
+  background-position: 0 0;
+
+  // grid container - extends beyond padding/margin
+  margin-left: calc(-1 * var(--spacing-layout-x));
+  margin-right: calc(-1 * var(--spacing-layout-x));
+  padding-left: var(--spacing-layout-x);
+  padding-right: var(--spacing-layout-x);
+
+  // Ensure grid background is visible
+  position: relative;
+  z-index: 1;
+}
+
+// Alternative approach: add grid background to header area
+.headerGridBackground {
+  position: relative;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: calc(-1 * var(--spacing-layout-inner-x));
+    right: calc(-1 * var(--spacing-layout-inner-x));
+    height: 100vh;
+    background-image: linear-gradient(
+        rgba(245, 245, 245, 1) 1px,
+        transparent 1px
+      ),
+      linear-gradient(90deg, rgba(245, 245, 245, 1) 1px, transparent 1px);
+    background-size: 40px 40px;
+    background-position: 0 0;
+    z-index: -1;
+    pointer-events: none;
+  }
+}

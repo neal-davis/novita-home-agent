@@ -1,0 +1,47 @@
+{
+  "clusters": [
+    {
+      "id": "us-dallas-nas-2",
+      "name": "US-Dallas-NAS-02 (Dallas)",
+      "continent": "NorthAmerica",
+      "hasDataCenter": true,
+      "supportNetStorage": true,
+      "volumes": [],
+      "supportNetwork": true,
+      "version": "v2"
+    },
+    {
+      "id": "1",
+      "name": "US-01 (Dallas)",
+      "continent": "NorthAmerica",
+      "hasDataCenter": true,
+      "supportNetStorage": true,
+      "volumes": [],
+      "supportNetwork": true,
+      "version": "v1"
+    },
+    {
+      "id": "us-ca-7",
+      "name": "US-CA-07 (California)",
+      "continent": "NorthAmerica",
+      "hasDataCenter": true,
+      "supportNetStorage": false,
+      "volumes": [],
+      "supportNetwork": false,
+      "version": "v2"
+    },
+    {
+      "id": "us-ca-8",
+      "name": "US-CA-08 (California)",
+      "continent": "",
+      "hasDataCenter": true,
+      "supportNetStorage": false,
+      "volumes": [],
+      "supportNetwork": true,
+      "version": "v2"
+    }
+  ],
+  "cpuModels": [4, 6, 8, 10],
+  "memoryModels": [8, 16, 24, 48],
+  "cudaVersions": ["11.8", "12.4", "12.7", "12.8", "12.9", "13.0"]
+}

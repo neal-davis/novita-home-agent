@@ -1,0 +1,11 @@
+{
+  "apiUsage": "API Usage",
+  "applications": "Applications",
+  "chat": "Chat",
+  "completion": "Completion",
+  "emptyContent": "Empty Content",
+  "howToUse": "How to Use",
+  "modelCard": "Model Card",
+  "prompting": "Prompting",
+  "useTheFollowingCodeExamplesTo": "Use the following code examples to integrate with our API:"
+}

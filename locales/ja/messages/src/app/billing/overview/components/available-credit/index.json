@@ -1,0 +1,12 @@
+{
+  "accountBalance": "アカウント残高",
+  "availableCredit": "利用可能なクレジット",
+  "creditLimit": "クレジット限度額",
+  "outstandingInvoices": "未払いの請求書",
+  "pendingCharges": "保留中の請求",
+  "prepaidFundsInYourAccountThat": "従量制の購入を行うたびに減少する、アカウント内の前払い資金。",
+  "theMaximumPostpaidAmountApprovedBased": "アカウントの信用プロファイルに基づいて承認された後払いの上限額。先に利用し、後で支払うことができます。",
+  "totalAmountOwedUnderYourCredit": "与信限度額内で支払い義務があり、支払い期間内に返済する必要がある合計金額。",
+  "usageChargesThatHaveBeenIncurred": "発生済みだが、まだ差し引き期限に達していない利用料金。これらの金額は、請求サイクルが支払い時期に達すると、残高または与信限度額から自動的に請求されます。",
+  "yourAvailableCreditIsTheRemaining": "利用可能なクレジットとは、保留中の請求を差し引いた後、クレジット限度額に達するまでに使用できる残りの金額です。"
+}

@@ -1,0 +1,17 @@
+{
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
+  "day": "dia",
+  "days": "dias",
+  "expansionCapacity": "Capacidade de expansão",
+  "expansionFee": "Taxa de expansão",
+  "expirationTime": "Hora de expiração",
+  "freeCapacity": "Capacidade gratuita",
+  "gb": "GB",
+  "instanceId": "ID da instância",
+  "remainingRentalPeriod": "Período de aluguel restante",
+  "settlementAmount": "Valor de liquidação",
+  "storagePrice": "Preço do armazenamento",
+  "subscriptionInstanceExpansionBilling": "Cobrança de expansão da instância de assinatura",
+  "usedCapacity": "Capacidade usada"
+}

@@ -1,0 +1,18 @@
+{
+  "allTemplates": "Todas las plantillas",
+  "close": "cerrar",
+  "currentTemplate": "Plantilla actual",
+  "loginFailurePleaseLogInAgain": "Error de inicio de sesión, inicia sesión de nuevo",
+  "myCreations": "Mis creaciones",
+  "myFavorites": "Mis favoritos",
+  "new": "Nuevo",
+  "noResultsFound": "No se encontraron resultados",
+  "novitaAiGpuMarketplaceDeployGpu": "Marketplace de GPU de Novita AI - Implementa instancias de GPU sin complicaciones",
+  "official": "Oficial",
+  "pleaseLogInFirst": "Inicia sesión primero",
+  "recommendedForYou": "🔥 Recomendado para ti",
+  "rentGpusFromNovitaAisGpu": "Alquila GPUs en el marketplace de GPU de Novita AI, personaliza tu propia implementación y lanza una instancia. 4090, A100, L40, 3090 están disponibles. Paga por lo que usas.",
+  "searchTemplate": "Buscar plantilla",
+  "trySearchingForSomethingElseOr": "Intenta buscar otra cosa o crea tu propia plantilla.",
+  "updatedTime": "Hora de actualización:"
+}

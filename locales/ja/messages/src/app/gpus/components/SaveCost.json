@@ -1,0 +1,14 @@
+{
+  "and": "および",
+  "cutGpuCostsBy": "GPUコストを削減：",
+  "message1HourAdvanceReclaimNotice": "1時間前の回収予告",
+  "message1HourGuaranteedRunTime": "1時間の実行時間保証",
+  "reduceYourCloudExpensesByUp": "パフォーマンスを妥協することなく、クラウド費用を最大50%削減できます。",
+  "reliableSavingsWithSpotPricing": "スポット料金で確実な節約",
+  "saveUpTo50OnCosts": "コストを最大50%削減",
+  "seePricing": "料金を見る",
+  "soYouAlwaysHaveTimeTo": "ため、進行状況を失うことなく、いつでも調整する時間を確保できます。",
+  "spotInstanceInfo": "スポットインスタンス情報",
+  "upTo50": "最大50%",
+  "whileKeepingWorkflowsPredictableEverySpot": "ワークフローの予測可能性を保ちながら。すべてのスポットインスタンスには"
+}

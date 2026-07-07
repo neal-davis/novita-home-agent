@@ -1,0 +1,12 @@
+{
+  "chatCompletionResponse": "Chat completion response",
+  "completionResponse": "Completion response",
+  "createAnOpenaiCompatibleChatCompletion": "Create an OpenAI-compatible chat completion.",
+  "createAnOpenaiCompatibleTextCompletion": "Create an OpenAI-compatible text completion.",
+  "createOpenaiCompatibleEmbeddings": "Create OpenAI-compatible embeddings.",
+  "discoveryDocumentForNovitasOpenaiCompatible": "Discovery document for Novita's OpenAI-compatible model APIs and platform APIs.",
+  "embeddingResponse": "Embedding response",
+  "listAvailableOpenaiCompatibleModels": "List available OpenAI-compatible models.",
+  "modelList": "Model list",
+  "novitaApi": "Novita API"
+}

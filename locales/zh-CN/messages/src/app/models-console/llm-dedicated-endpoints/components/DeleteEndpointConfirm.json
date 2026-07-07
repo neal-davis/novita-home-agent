@@ -1,0 +1,11 @@
+{
+  "cancel": "取消",
+  "close": "关闭",
+  "delete": "删除",
+  "deleteEndpoint": "删除端点",
+  "enterEndpointName": "输入端点名称",
+  "pleaseTerminateTheEndpointBeforeDeleting": "请先终止该端点，再进行删除",
+  "pleaseType": "请输入",
+  "thisActionCannotBeUndoneThis": "此操作无法撤销。这将永久删除该端点。",
+  "toConfirm": "以确认"
+}

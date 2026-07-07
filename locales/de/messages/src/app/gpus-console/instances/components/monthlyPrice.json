@@ -1,0 +1,8 @@
+{
+  "billingItems": "Abrechnungsposten",
+  "gpuFee": "GPU-Gebühr",
+  "storageFeeBeyondFreeQuota": "Speichergebühr (über das kostenlose Kontingent hinaus)",
+  "total": "Gesamt",
+  "unitPrice": "Einzelpreis",
+  "usage": "Nutzung"
+}

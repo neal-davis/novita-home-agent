@@ -1,0 +1,12 @@
+{
+  "advanceNotice": "Aviso antecipado",
+  "builtInProtection": "Proteção integrada",
+  "combineWithOnDemandOrReserved": "Combine com instâncias sob demanda ou reservadas para obter o equilíbrio ideal entre custo e estabilidade",
+  "flexibleDeployment": "Implantação flexível",
+  "guaranteed1HourInitialRuntime": "Tempo de execução inicial garantido de 1 hora",
+  "message1HourTerminationAlertsViaApi": "Alertas de encerramento com 1 hora de antecedência via API, e-mail ou console",
+  "payHalfTheOnDemandRate": "Pague metade da tarifa sob demanda",
+  "runWorkloadsAtAFractionOf": "Execute cargas de trabalho por uma fração do custo — sem sacrificar a confiabilidade",
+  "saveUpTo50": "Economize até 50%",
+  "whySpotInstances": "Por que usar Instâncias Spot"
+}

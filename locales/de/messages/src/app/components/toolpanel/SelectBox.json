@@ -1,0 +1,13 @@
+{
+  "cleanup": "Bereinigen",
+  "img2img": "Bild-zu-Bild",
+  "lcmTxt2img": "LCM-Text-zu-Bild",
+  "outpainting": "Outpainting",
+  "reimagine": "Neu interpretieren",
+  "removeBackground": "Hintergrund entfernen",
+  "removeText": "Text entfernen",
+  "removeWatermark": "Wasserzeichen entfernen",
+  "replaceSky": "Himmel ersetzen",
+  "txt2img": "Text-zu-Bild",
+  "upscale": "Hochskalieren"
+}

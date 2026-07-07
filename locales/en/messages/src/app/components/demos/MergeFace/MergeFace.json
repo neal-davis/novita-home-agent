@@ -1,0 +1,13 @@
+{
+  "baseImage": "Base Image",
+  "cancel": "Cancel",
+  "chooseBaseImage": "Choose base image",
+  "chooseFaceImage": "Choose face image",
+  "download": "Download",
+  "estimatedCost": "Estimated cost:",
+  "faceImage": "Face Image",
+  "generate": "Generate",
+  "tipsTheDifferenceOfBaseImage": "Tips: The difference of base image and face image",
+  "uploadBaseImage": "Upload base image",
+  "uploadFaceImage": "Upload face image"
+}

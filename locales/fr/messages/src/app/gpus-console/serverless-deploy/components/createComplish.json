@@ -1,0 +1,7 @@
+{
+  "deployServerless": "Déployer sans serveur",
+  "deployed": "Déployé",
+  "myEndpoints": "Mes points de terminaison",
+  "redirectingToMyEndpoints": "Redirection vers Mes points de terminaison ......",
+  "yourEndpointIsBeingCreatedUsing": "Votre point de terminaison est en cours de création avec la configuration que vous avez sélectionnée. Il sera bientôt prêt — consultez-le dans la console."
+}

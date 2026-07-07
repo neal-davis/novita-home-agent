@@ -1,0 +1,16 @@
+.no_data_img {
+  height: 150px;
+  width: 240px;
+  opacity: 0.5;
+}
+
+.no_data_text {
+  color: var(--dark-2);
+  @include font-h5;
+  margin-bottom: 10px;
+}
+
+.no_data_description {
+  color: var(--dark-2);
+  @include font-subtle;
+}

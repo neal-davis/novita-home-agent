@@ -1,0 +1,15 @@
+{
+  "addCredential": "Adicionar credencial",
+  "afterAdjustingTheInstanceYouCan": "Depois de ajustar a instância, você pode salvar a instância atualizada como uma imagem e, em seguida, criar novos modelos e instâncias com base na imagem mais recente!",
+  "cancel": "Cancelar",
+  "containerRegistryCredentials": "Credenciais do Registro de Contêineres",
+  "imagePath": "Caminho da imagem",
+  "pleaseEnterAPathConsistingOf": "Insira um caminho composto por letras minúsculas e números, com cada segmento podendo conter opcionalmente ., _ ou -, e com suporte a vários níveis separados por /.",
+  "pleaseInputYourImageAddress": "Insira o endereço da sua imagem",
+  "pleaseSelectCredentials": "Selecione as credenciais",
+  "save": "Salvar",
+  "saveImage": "Salvar imagem",
+  "success": "sucesso",
+  "theContainerRegistryCredentialsCanNot": "As credenciais do registro de contêiner não podem estar vazias",
+  "theImagePathCanNotBe": "O caminho da imagem não pode estar vazio e não pode conter caracteres de espaço em branco"
+}

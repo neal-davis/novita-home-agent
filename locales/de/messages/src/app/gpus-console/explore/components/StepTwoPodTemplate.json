@@ -1,0 +1,13 @@
+{
+  "capacityHasExceededTheLimitPlease": "Die Kapazität hat das Limit überschritten, bitte kontaktieren Sie",
+  "containerDisk": "Container-Datenträger",
+  "createVolume": "+ Volume erstellen",
+  "free": "kostenlos",
+  "gb": "GB",
+  "networkMountPath": "Netzwerk-Mount-Pfad",
+  "networkVolume": "Netzwerk-Volume",
+  "podTemplate": "Pod-Vorlage",
+  "support": "Support",
+  "updateTemplateNow": "Vorlage jetzt aktualisieren",
+  "yourTemplateCurrentlyIncludesVolumeDisk": "Ihre Vorlage enthält derzeit eine Volume-Disk-Einbindung, die nicht mehr unterstützt wird (Container Disk wurde erweitert). Bitte aktualisieren Sie Ihre Vorlage, um die Konfigurationen für die Volume-Disk-Einbindung zu entfernen und Daten auf der Container Disk zu speichern."
+}

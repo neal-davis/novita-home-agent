@@ -1,0 +1,12 @@
+{
+  "chatCompletionResponse": "聊天补全响应",
+  "completionResponse": "补全响应",
+  "createAnOpenaiCompatibleChatCompletion": "创建与 OpenAI 兼容的聊天补全。",
+  "createAnOpenaiCompatibleTextCompletion": "创建与 OpenAI 兼容的文本补全。",
+  "createOpenaiCompatibleEmbeddings": "创建与 OpenAI 兼容的嵌入。",
+  "discoveryDocumentForNovitasOpenaiCompatible": "Novita 的 OpenAI 兼容模型 API 和平台 API 的发现文档。",
+  "embeddingResponse": "嵌入响应",
+  "listAvailableOpenaiCompatibleModels": "列出可用的 OpenAI 兼容模型。",
+  "modelList": "模型列表",
+  "novitaApi": "Novita API"
+}

@@ -1,0 +1,22 @@
+{
+  "all": "すべて",
+  "amountShouldPay": "お支払い金額",
+  "billingPeriod": "請求期間",
+  "captionTable": "キャプション表",
+  "cashPaid": "現金支払額",
+  "instance": "インスタンス",
+  "localStorage": "ローカルストレージ",
+  "networkStorage": "ネットワークストレージ",
+  "onDemand": "オンデマンド",
+  "prepaid": "前払い",
+  "prepaidByDay": "日単位の前払い",
+  "prepaidByMonth": "月単位の前払い",
+  "prepaidByWeek": "週単位の前払い",
+  "prepaidByYear": "年単位の前払い",
+  "pricingModel": "料金モデル",
+  "product": "製品",
+  "productName": "製品名",
+  "productType": "製品タイプ",
+  "search": "検索",
+  "voucherDeduction": "バウチャー控除額"
+}

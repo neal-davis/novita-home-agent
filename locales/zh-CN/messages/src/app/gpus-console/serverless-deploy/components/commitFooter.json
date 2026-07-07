@@ -1,0 +1,8 @@
+{
+  "deploy": "部署 >",
+  "deploySuccessfully": "部署成功",
+  "pleaseLogInFirst": "请先登录",
+  "serverlessPrice": "Serverless 价格：",
+  "storagePrice": "存储价格：",
+  "thePriceOfEachWorkerNot": "每个 Worker 的价格，而不是每个 GPU 的价格。我们会对处于运行/启动状态的 Worker 收费，计费精确到秒。"
+}

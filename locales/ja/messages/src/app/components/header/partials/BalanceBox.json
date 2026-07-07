@@ -1,0 +1,11 @@
+{
+  "accountBalance": "アカウント残高",
+  "addAPaymentMethodToAccess": "サービスにアクセスするには支払い方法を追加してください。",
+  "addPaymentMethod": "支払い方法を追加",
+  "availableCredit": "利用可能なクレジット",
+  "creditsRemaining": "残りクレジット:",
+  "goToBilling": "請求に移動",
+  "paymentMethods": "支払い方法",
+  "topUp": "チャージ",
+  "vouchers": "バウチャー"
+}

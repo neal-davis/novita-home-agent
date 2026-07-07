@@ -1,0 +1,10 @@
+{
+  "autoscaling": "Mise à l’échelle automatique",
+  "endpointId": "ID du point de terminaison",
+  "engine": "Moteur",
+  "engineConfiguration": "Configuration du moteur",
+  "lora": "LoRA",
+  "loraAdapters": "Adaptateurs LoRA",
+  "modelId": "ID du modèle",
+  "readOnly": "Lecture seule"
+}

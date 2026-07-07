@@ -1,0 +1,20 @@
+{
+  "builtWithNovitaAi": "Erstellt mit Novita AI",
+  "concurrentInstances": "Gleichzeitige Instanzen",
+  "contactSales": "Vertrieb kontaktieren",
+  "contactSupport": "Support kontaktieren",
+  "createYourFirstAgentSandboxNow": "Erstellen Sie jetzt Ihre erste Agent-Sandbox.",
+  "defineOnceReuseEverywhere": "Einmal definieren, überall wiederverwenden.",
+  "deploymentRegion": "Bereitstellungsregion",
+  "eachSandboxHasACompletelyIsolated": "Jede Sandbox verfügt über ein vollständig isoliertes Dateisystem.",
+  "enterprise": "Enterprise",
+  "exploreAgentSandboxAndStartBuilding": "Entdecken Sie die Agent-Sandbox und beginnen Sie mit unseren Schritt-für-Schritt-Anleitungen.",
+  "fileSystem": "Dateisystem",
+  "forAdvancedWorkloadsRequiringLargeMemory": "Für anspruchsvolle Workloads, die großen Arbeitsspeicher, höhere vCPU oder benutzerdefinierte Bereitstellungsorte erfordern.",
+  "learnMore": "Mehr erfahren",
+  "maxVcpusPerSandbox": "Max. vCPUs pro Sandbox",
+  "quickStart": "Schnellstart",
+  "readyToExploreAgentSandbox": "Bereit, die Agent-Sandbox zu entdecken?",
+  "template": "Vorlage",
+  "uptimeSla": "Verfügbarkeits-SLA"
+}

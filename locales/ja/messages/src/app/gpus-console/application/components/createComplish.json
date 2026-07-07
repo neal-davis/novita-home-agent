@@ -1,0 +1,7 @@
+{
+  "application": "アプリケーション",
+  "deployed": "デプロイ済み",
+  "myInstances": "マイインスタンス",
+  "redirectingToMyInstances": "マイインスタンスにリダイレクトしています ......",
+  "yourApplicationIsBeingCreatedUsing": "選択したセットアップを使用してアプリケーションを作成しています。まもなく準備が完了します—コンソールで確認できます。"
+}

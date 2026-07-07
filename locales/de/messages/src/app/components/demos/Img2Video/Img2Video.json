@@ -1,0 +1,14 @@
+{
+  "cancel": "Abbrechen",
+  "crop": "Zuschneiden",
+  "estimatedCost": "Geschätzte Kosten:",
+  "generate": "Generieren",
+  "model": "Modell",
+  "originalResolution": "Originalauflösung",
+  "resizeMode": "Größenänderungsmodus",
+  "seed": "Seed",
+  "steps": "Schritte",
+  "svd": "SVD",
+  "svdXt": "SVD-XT",
+  "theImageResolutionShouldBeLess": "Die Bildauflösung sollte kleiner als 576 * 1024 sein, wenn Sie \"Originalauflösung\" als Größenänderungsmodus wählen."
+}

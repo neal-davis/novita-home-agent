@@ -1,0 +1,65 @@
+.container {
+  display: flex;
+
+  .main {
+    padding-right: 0;
+  }
+
+  .content {
+    flex: 1;
+    padding-top: 60px;
+    max-width: 400px;
+    min-width: 320px;
+
+    .title {
+      @include font-h1;
+      color: var(--dark-1);
+    }
+
+    .desc {
+      margin-top: 32px;
+      margin-bottom: 32px;
+      @include font-p;
+      color: var(--dark-2);
+    }
+  }
+
+  .decorator {
+    width: 486px;
+    height: 264px;
+    background-image: url("/pricing/pricing-bg.png");
+    background-size: cover;
+    background-position: left -62px;
+    background-repeat: no-repeat;
+  }
+}
+
+.mobile_container {
+  display: block;
+
+  .content {
+    padding-top: 80px;
+    padding-left: 24px;
+    padding-right: 24px;
+
+    .desc {
+      margin-top: 24px;
+      margin-bottom: 24px;
+    }
+  }
+
+  .decorator {
+    width: 100%;
+    height: 302px;
+    background-size: 96%;
+    background-position: center;
+  }
+}
+
+@include screen-sm {
+  .mobile_container {
+    .decorator {
+      background-size: 57%;
+    }
+  }
+}

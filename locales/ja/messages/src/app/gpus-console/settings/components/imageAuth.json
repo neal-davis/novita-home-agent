@@ -1,0 +1,23 @@
+{
+  "addCredential": "認証情報を追加",
+  "addingPublicKeysToYourAccount": "アカウントに公開鍵を追加すると、関連付けられた秘密鍵を使用して、基本的なターミナルアクセスオプションでインスタンスにアクセスできるようになります。複数の公開鍵は改行で区切って追加できます。",
+  "automaticFaultMigration": "自動障害移行",
+  "confirm": "確認",
+  "confirmPassword": "パスワードの確認",
+  "containerRegistryAuth": "コンテナレジストリ認証",
+  "enterNameMaxLength255": "名前を入力してください（最大長255）",
+  "enterPasswordAgainMaxLength8000": "パスワードを再入力してください（最大長8000）",
+  "enterPasswordMaxLength8000": "パスワードを入力してください（最大長8000）",
+  "enterUsernameMaxLength511": "ユーザー名を入力してください（最大長511）",
+  "name": "名前",
+  "password": "パスワード",
+  "singleNuma": "Single-Numa",
+  "sshPublicKey": "SSH公開鍵",
+  "sshPublicKeys": "SSH公開鍵",
+  "success": "成功",
+  "thisPolicyWouldAllowResourceAllocation": "このポリシーでは、その割り当てリクエストを満たす方法が他にまったくない場合に限り、異なるNUMAノードからのリソース割り当てが許可されます。",
+  "username": "ユーザー名",
+  "usernameCannotContainCharacter": "ユーザー名に「:」文字を含めることはできません",
+  "whenHardwareFailuresSuchAsNode": "インスタンスが存在するノードで、ノードのダウンタイムやGPU例外などのハードウェア障害が発生した場合、プラットフォームはインスタンスを正常なノードへ自動的に移行できます。これにより、インスタンスID、パブリックIP、データは変更されず、ビジネス運用への影響を可能な限り最小限に抑えます。",
+  "youCanRegisterYourContainerRegistry": "ここでコンテナレジストリの認証情報を登録し、さまざまなコンテナレジストリからプライベートイメージをプルできます。現在サポートしているのは docker login タイプの認証情報のみであることにご注意ください。ここで認証情報を登録し、テンプレートの編集または作成時にドロップダウンから選択することで、認証情報をテンプレートに追加できます。"
+}

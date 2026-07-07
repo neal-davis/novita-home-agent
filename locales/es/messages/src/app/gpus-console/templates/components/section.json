@@ -1,0 +1,12 @@
+{
+  "community": "Comunidad",
+  "createTime": "Hora de creación",
+  "creator": "Creador",
+  "flagged": "Marcado",
+  "id": "ID:",
+  "newTemplate": "+ Nueva plantilla",
+  "private": "Privado",
+  "search": "buscar",
+  "success": "éxito",
+  "templateNameFilter": "Filtro de nombre de plantilla"
+}

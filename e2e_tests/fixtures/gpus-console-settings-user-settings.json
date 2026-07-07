@@ -1,0 +1,5 @@
+{
+  "_comment": "De-PII'd /v1/user/settings for hermetic /gpus-console/settings. Section reads res.singleNuma → Single-Numa 'Prefer Single-Numa' checkbox initial checked state. singleNuma:false → checkbox unchecked.",
+  "code": 0,
+  "singleNuma": false
+}

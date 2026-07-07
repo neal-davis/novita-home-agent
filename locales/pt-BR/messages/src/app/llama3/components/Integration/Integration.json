@@ -1,0 +1,10 @@
+{
+  "apiBaseUrl": "URL base da API",
+  "checkTheFullListOfSupported": "Confira a lista completa de modelos compatíveis",
+  "getApiKey": "Obter chave da API",
+  "here": "aqui",
+  "integrateLlama3ApiWithYour": "Integre a API Llama 3 ao seu aplicativo",
+  "orUseTheModelsApiTo": "ou use a Models API para obter todos os modelos disponíveis.",
+  "supportedModels": "Modelos compatíveis",
+  "weProvideCompatibilityWithTheOpenai": "Oferecemos compatibilidade com o padrão da API OpenAI, permitindo uma integração mais fácil aos seus aplicativos existentes."
+}

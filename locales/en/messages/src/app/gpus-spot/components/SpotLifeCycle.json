@@ -1,0 +1,16 @@
+{
+  "afterProtectionEndsInstanceMayBe": "After protection ends, instance may be reclaimed",
+  "forcedTermination": "Forced Termination",
+  "instanceEntersRunningState": "Instance enters running state",
+  "instanceIsStoppedAndReleasedAutomatically": "Instance is stopped and released automatically",
+  "interruptionWindow": "Interruption Window",
+  "launch": "Launch",
+  "message1HourGuaranteedRuntimeThenInterruptible": "1-hour guaranteed runtime, then interruptible with 1-hour notice before automatic reclaim Spot uses spare capacity—low cost, reclaimable anytime.",
+  "message1HourProtection": "1-Hour Protection",
+  "noInterruptionsDuringThisPeriod": "No interruptions during this period",
+  "note": "Note:",
+  "sent1HourInAdvance": "Sent 1 hour in advance",
+  "spotInstanceLifecycle": "Spot Instance Lifecycle",
+  "terminationNotice": "Termination Notice",
+  "workloadsShouldBeInterruptionTolerantUse": "Workloads should be interruption-tolerant. Use checkpointing or backups to prevent data loss."
+}

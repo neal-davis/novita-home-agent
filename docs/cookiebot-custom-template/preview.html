@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Novita Cookiebot Template Preview</title>
+    <style>
+      :root {
+        --brand-0: #23d57c;
+        --brand-1: #16b063;
+        --brand-3: #effcf5;
+        --text-1: #0a0a0a;
+        --text-2: #404040;
+        --text-3: #737373;
+        --bg-light: #ffffff;
+        --fill-5: #fafafa;
+        --border-default: rgba(10, 10, 10, 0.1);
+        --radius-8-medium: 8px;
+        --radius-12-large: 12px;
+        --font-family:
+          -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial,
+          sans-serif;
+      }
+
+      body {
+        min-height: 100vh;
+        margin: 0;
+        overflow: hidden;
+        background:
+          linear-gradient(180deg, rgba(250, 250, 250, 0), #f6f7f4 72%),
+          radial-gradient(
+            circle at 62% 34%,
+            rgba(35, 213, 124, 0.32),
+            transparent 26%
+          ),
+          linear-gradient(135deg, #f8f9f7, #eef4ef);
+        color: var(--text-1);
+        font-family: var(--font-family);
+      }
+
+      .preview-page {
+        padding: 72px;
+      }
+
+      .preview-page h1 {
+        max-width: 760px;
+        margin: 0;
+        font-size: 72px;
+        line-height: 0.96;
+        letter-spacing: 0;
+      }
+
+      .preview-page p {
+        max-width: 520px;
+        color: var(--text-2);
+        font-size: 18px;
+        line-height: 28px;
+      }
+
+      .preview-actions {
+        display: flex;
+        gap: 14px;
+        margin-top: 28px;
+      }
+
+      .preview-actions span {
+        display: inline-flex;
+        align-items: center;
+        height: 48px;
+        padding: 0 24px;
+        border-radius: 999px;
+        font-weight: 700;
+      }
+
+      .preview-actions span:first-child {
+        background: #0a0a0a;
+        color: white;
+      }
+
+      .preview-actions span:last-child {
+        border: 1px solid #0a0a0a;
+        background: white;
+      }
+    </style>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="preview-page">
+      <h1>Model APIs and GPU Cloud</h1>
+      <p>
+        A static preview page for the Novita-styled Cookiebot custom banner.
+      </p>
+      <div class="preview-actions" aria-hidden="true">
+        <span>Start building</span>
+        <span>Contact sales</span>
+      </div>
+    </main>
+
+    <div
+      id="CybotCookiebotDialog"
+      class="nv-cookiebot"
+      lang="en"
+      dir="ltr"
+      role="dialog"
+      aria-labelledby="nv-cookiebot-title"
+    >
+      <div class="nv-cookiebot__accent" aria-hidden="true"></div>
+      <div class="nv-cookiebot__body">
+        <div class="nv-cookiebot__header">
+          <p class="nv-cookiebot__eyebrow">Privacy choices</p>
+          <p id="nv-cookiebot-title" class="nv-cookiebot__title">
+            We use cookies
+          </p>
+        </div>
+
+        <div class="nv-cookiebot__message">
+          We use necessary cookies to make our website work. With your consent,
+          we use optional cookies to remember preferences, measure performance,
+          and improve our services.
+        </div>
+
+        <button
+          class="nv-cookiebot__details-button"
+          type="button"
+          aria-expanded="false"
+          aria-controls="nv-cookiebot-details"
+          onclick="window.novitaCookiebotToggleDetails(event)"
+        >
+          <span>Show details</span>
+          <span class="nv-cookiebot__chevron" aria-hidden="true"></span>
+        </button>
+
+        <div id="nv-cookiebot-details" class="nv-cookiebot__details" hidden>
+          <div class="nv-cookiebot__details-intro">
+            <span class="nv-cookiebot__details-title">
+              Manage optional cookies
+            </span>
+            <span class="nv-cookiebot__details-copy">
+              Necessary cookies stay on. You can choose whether Novita AI may
+              use optional categories below.
+            </span>
+          </div>
+
+          <div class="nv-cookiebot__categories">
+            <label
+              class="nv-cookiebot__category nv-cookiebot__category--locked"
+            >
+              <span class="nv-cookiebot__category-copy">
+                <span class="nv-cookiebot__category-title">Necessary</span>
+                <span class="nv-cookiebot__category-description">
+                  Required for security, navigation, account access, and core
+                  website features.
+                </span>
+              </span>
+              <input
+                id="CybotCookiebotDialogBodyLevelButtonNecessary"
+                type="checkbox"
+                checked
+                disabled
+              />
+              <span class="nv-cookiebot__toggle" aria-hidden="true"></span>
+            </label>
+
+            <label class="nv-cookiebot__category">
+              <span class="nv-cookiebot__category-copy">
+                <span class="nv-cookiebot__category-title">Preferences</span>
+                <span class="nv-cookiebot__category-description">
+                  Remember choices such as language, region, and interface
+                  preferences.
+                </span>
+              </span>
+              <input
+                id="CybotCookiebotDialogBodyLevelButtonPreferences"
+                type="checkbox"
+              />
+              <span class="nv-cookiebot__toggle" aria-hidden="true"></span>
+            </label>
+
+            <label class="nv-cookiebot__category">
+              <span class="nv-cookiebot__category-copy">
+                <span class="nv-cookiebot__category-title">Statistics</span>
+                <span class="nv-cookiebot__category-description">
+                  Help us understand product usage and improve website
+                  performance.
+                </span>
+              </span>
+              <input
+                id="CybotCookiebotDialogBodyLevelButtonStatistics"
+                type="checkbox"
+              />
+              <span class="nv-cookiebot__toggle" aria-hidden="true"></span>
+            </label>
+
+            <label class="nv-cookiebot__category">
+              <span class="nv-cookiebot__category-copy">
+                <span class="nv-cookiebot__category-title">Marketing</span>
+                <span class="nv-cookiebot__category-description">
+                  Support attribution, campaigns, and relevant service updates.
+                </span>
+              </span>
+              <input
+                id="CybotCookiebotDialogBodyLevelButtonMarketing"
+                type="checkbox"
+              />
+              <span class="nv-cookiebot__toggle" aria-hidden="true"></span>
+            </label>
+          </div>
+
+          <details class="nv-cookiebot__tables">
+            <summary onclick="window.novitaCookiebotToggleTable(event)">
+              <span class="nv-cookiebot__tables-title">
+                Detailed cookie list
+              </span>
+              <span class="nv-cookiebot__tables-hint">
+                Scroll sideways to view all columns.
+              </span>
+            </summary>
+            <div class="nv-cookiebot__table-group">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Name</th>
+                    <th>Provider</th>
+                    <th>Purpose</th>
+                    <th>Maximum Storage Duration</th>
+                    <th>Type</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>cf.turnstile.u</td>
+                    <td><a href="#">Cloudflare</a></td>
+                    <td>
+                      This cookie is used to distinguish between humans and
+                      bots.
+                    </td>
+                    <td>Persistent</td>
+                    <td>HTML local storage</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </details>
+        </div>
+
+        <div class="nv-cookiebot__links">
+          <a href="/legal/cookie-policy" target="_blank" rel="noopener">
+            Cookie Policy
+          </a>
+          <a href="/legal/privacy-policy" target="_blank" rel="noopener">
+            Privacy Policy
+          </a>
+        </div>
+
+        <div class="nv-cookiebot__actions">
+          <button
+            id="CybotCookiebotDialogBodyLevelButtonLevelOptinDeclineAll"
+            class="nv-cookiebot__button nv-cookiebot__button--secondary"
+            type="button"
+            onclick="window.novitaCookiebotDeny(event)"
+          >
+            Deny
+          </button>
+          <button
+            id="CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection"
+            class="nv-cookiebot__button nv-cookiebot__button--selection"
+            type="button"
+            onclick="window.novitaCookiebotSaveSelection(event)"
+          >
+            Save choices
+          </button>
+          <button
+            id="CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+            class="nv-cookiebot__button nv-cookiebot__button--primary"
+            type="button"
+            onclick="window.novitaCookiebotAllowAll(event)"
+          >
+            Allow all
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <script src="./scripts.js"></script>
+    <script>
+      window.Cookiebot = {
+        dialog: {
+          submitDecline: function () {
+            console.log("Cookiebot decline");
+          },
+          submitConsent: function () {
+            console.log("Cookiebot consent");
+          },
+        },
+      };
+    </script>
+  </body>
+</html>

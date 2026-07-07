@@ -1,0 +1,6 @@
+{
+  "cancel": "キャンセル",
+  "terminate": "終了",
+  "terminateEndpoint": "エンドポイントを終了",
+  "thisEndpointWillBeTerminatedImmediately": "このエンドポイントは直ちに終了されるため、今後のリクエストは失敗します。このエンドポイントはいつでも再起動できます。"
+}

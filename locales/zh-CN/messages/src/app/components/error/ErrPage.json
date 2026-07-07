@@ -1,0 +1,17 @@
+{
+  "buildGenAiProductsSeamlessly": "无缝构建生成式 AI 产品",
+  "buildWithModelApis": "使用模型 API 构建",
+  "contactUs": "联系我们",
+  "cutCostsByUpTo50": "成本最高降低 50%",
+  "deployWithGpuInstance": "使用 GPU 实例部署",
+  "discordChannel": "Discord 频道",
+  "error": "错误",
+  "goToHomePage": "前往首页",
+  "ifYoureBrowsingAroundJustLook": "如果你只是随便逛逛，不妨看看我们为你精选的这个！",
+  "launchAgentSandbox": "启动 Agent 沙盒",
+  "pageNotFound": "页面未找到",
+  "refresh": "刷新",
+  "scaleWithServerless": "使用 Serverless 扩展",
+  "scaleWithoutManagingGpuInfrastructure": "无需管理 GPU 基础设施即可扩展",
+  "theRuntimeInfrastructureForSecureScalable": "面向安全且可扩展 AI Agents 的运行时基础设施"
+}

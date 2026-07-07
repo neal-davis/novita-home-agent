@@ -1,0 +1,18 @@
+{
+  "aboutPricing": "关于定价",
+  "afterTopUp": "充值后。",
+  "contactSales": "联系销售",
+  "forAdvancedWorkloadsThatNeedHigher": "适用于需要更高资源限制、自定义部署区域或专用基础设施的高级工作负载。",
+  "increaseLimit": "提高限额",
+  "maximumConcurrentSandboxes": "最大并发沙盒数",
+  "maximumLocalStoragePerSandbox": "每个沙盒的最大本地存储",
+  "maximumMemoryPerSandbox": "每个沙盒的最大内存",
+  "maximumVcpuPerSandbox": "每个沙盒的最大 vCPU",
+  "needCustomQuotas": "需要自定义配额？",
+  "promoCredits": "促销额度",
+  "quotaTier": "配额层级",
+  "sandboxMaximumLifetime": "沙盒最长生命周期",
+  "unlockHigherQuotas": "解锁更高配额",
+  "upgradeToPaidTier": "升级到付费层级",
+  "yourCurrentTier": "您当前的层级："
+}

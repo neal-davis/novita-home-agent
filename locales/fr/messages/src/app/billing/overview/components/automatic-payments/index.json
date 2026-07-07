@@ -1,0 +1,21 @@
+{
+  "autoRecharge": "Recharge automatique",
+  "autoRechargeIs": "La recharge automatique est",
+  "autoRechargeSettingsHaveBeenUpdated": "Les paramètres de recharge automatique ont été mis à jour avec succès",
+  "autoTopUp": "Recharge automatique",
+  "autoTopUpIs": "La recharge automatique est",
+  "autoTopUpSettingsHaveBeen": "Les paramètres de recharge automatique ont été mis à jour avec succès",
+  "automaticPayments": "Paiements automatiques",
+  "automaticallyRechargeWhenYourBalanceFalls": "Rechargez automatiquement lorsque votre solde passe sous un seuil.",
+  "failedToUpdateAutoRechargeSetting": "Échec de la mise à jour du paramètre de recharge automatique.",
+  "failedToUpdateAutoRechargeSettings": "Échec de la mise à jour des paramètres de recharge automatique",
+  "failedToUpdateAutoTopUp": "Échec de la mise à jour du paramètre de recharge automatique.",
+  "failedToUpdateAutoTopUp2": "Échec de la mise à jour des paramètres de recharge automatique",
+  "modify": "Modifier",
+  "off": "DÉSACTIVÉ",
+  "on": "ACTIVÉ",
+  "pleaseAddAPaymentMethodFirst": "Veuillez d’abord ajouter un moyen de paiement.",
+  "pleaseAddAPaymentMethodFor": "Veuillez d’abord ajouter un moyen de paiement pour la recharge automatique.",
+  "setUp": "Configurer",
+  "whenYourAvailableCreditFallsBelow": "Lorsque votre crédit disponible passe sous votre seuil, nous débiterons votre carte par défaut afin de rétablir votre solde à ce montant."
+}

@@ -1,0 +1,21 @@
+{
+  "autoRecharge": "Automatische Aufladung",
+  "autoRechargeIs": "Automatische Aufladung ist",
+  "autoRechargeSettingsHaveBeenUpdated": "Die Einstellungen für die automatische Aufladung wurden erfolgreich aktualisiert",
+  "autoTopUp": "Automatische Aufladung",
+  "autoTopUpIs": "Automatische Aufladung ist",
+  "autoTopUpSettingsHaveBeen": "Die Einstellungen für die automatische Aufladung wurden erfolgreich aktualisiert",
+  "automaticPayments": "Automatische Zahlungen",
+  "automaticallyRechargeWhenYourBalanceFalls": "Automatisch aufladen, wenn Ihr Guthaben unter einen Schwellenwert fällt.",
+  "failedToUpdateAutoRechargeSetting": "Die Einstellung für die automatische Aufladung konnte nicht aktualisiert werden.",
+  "failedToUpdateAutoRechargeSettings": "Die Einstellungen für die automatische Aufladung konnten nicht aktualisiert werden",
+  "failedToUpdateAutoTopUp": "Die Einstellung für die automatische Aufladung konnte nicht aktualisiert werden.",
+  "failedToUpdateAutoTopUp2": "Die Einstellungen für die automatische Aufladung konnten nicht aktualisiert werden",
+  "modify": "Ändern",
+  "off": "AUS",
+  "on": "EIN",
+  "pleaseAddAPaymentMethodFirst": "Bitte fügen Sie zuerst eine Zahlungsmethode hinzu.",
+  "pleaseAddAPaymentMethodFor": "Bitte fügen Sie zuerst eine Zahlungsmethode für die automatische Aufladung hinzu.",
+  "setUp": "Einrichten",
+  "whenYourAvailableCreditFallsBelow": "Wenn Ihr verfügbares Guthaben unter Ihren Schwellenwert fällt, belasten wir Ihre Standardkarte, um Ihr Guthaben wieder auf diesen Betrag aufzufüllen."
+}

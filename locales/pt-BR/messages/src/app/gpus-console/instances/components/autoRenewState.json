@@ -1,0 +1,7 @@
+{
+  "autoRenewIsEnabledButNo": "A renovação automática está ativada, mas nenhum método de pagamento válido foi detectado. A renovação falhará e mudará para pagamento conforme o uso. Adicione um método de pagamento.",
+  "autoRenewOff": "Renovação automática: desativada",
+  "budgetIsInsufficient": "O orçamento é insuficiente.",
+  "lessThan3DaysLeftPlease": "Restam menos de 3 dias. Renove em breve.",
+  "moreThan3DaysLeftPlease": "Restam mais de 3 dias. Verifique a renovação."
+}

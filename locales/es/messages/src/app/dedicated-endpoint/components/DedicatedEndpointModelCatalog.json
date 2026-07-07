@@ -1,0 +1,7 @@
+{
+  "catalog": "Catálogo",
+  "chat": "Chat",
+  "deployPopularOpenSourceModels": "Implementa modelos populares de código abierto",
+  "oneClickDeployTheMostPopular": "Implementa con un clic los LLMs más populares, o trae tu propio modelo de Hugging Face.",
+  "reasoning": "Razonamiento"
+}

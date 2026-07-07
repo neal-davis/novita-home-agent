@@ -1,0 +1,9 @@
+{
+  "confirmMyAccount": "Confirmar mi cuenta",
+  "emailVerification": "Verificación de correo electrónico",
+  "emailVerified": "Correo electrónico verificado",
+  "invalidParams": "Parámetros no válidos.",
+  "pleaseFinishTheCaptchaFirst": "Completa primero el captcha.",
+  "weJustNeedToMakeSure": "Solo necesitamos asegurarnos de que eres una persona real antes de que puedas continuar. Puedes confirmar el correo electrónico de tu cuenta mediante el botón de abajo",
+  "youCanNowProceedToThe": "Ahora puedes continuar con el siguiente paso."
+}

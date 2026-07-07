@@ -1,0 +1,21 @@
+{
+  "agentSandbox": "エージェントサンドボックス",
+  "baseUrl": "BASE_URL",
+  "dedicatedEndpoints": "専用エンドポイント",
+  "exploreAllModels": "すべてのモデルを見る",
+  "getStarted": "始める",
+  "gpuCloud": "GPUクラウド",
+  "model": "MODEL",
+  "modelApis-10b567": "モデルAPI",
+  "modelApis-8d449d": "モデルAPI",
+  "noInfrastructureToManage": "管理すべきインフラストラクチャはありません。",
+  "operational": "稼働中",
+  "privateEndpointsGuaranteedPerformanceNoNoisy": "プライベートエンドポイント。保証されたパフォーマンス。ノイジーネイバーなし。",
+  "productNavigation": "製品ナビゲーション",
+  "productionReadyYouCallItWe": "本番対応。呼び出すだけで、私たちが実行します。課金は",
+  "run200ModelsThroughASingle": "単一のAPIで200以上のモデルを実行できます。",
+  "serverlessModelApis": "サーバーレスモデルAPI",
+  "textImageAudioVideoAllServerless": "テキスト、画像、音声、動画 — すべてサーバーレス、すべて",
+  "tokenNotTheHour": "時間単位ではなく、トークン単位です。",
+  "yourModelYourComputeIsolatedResources": "あなたのモデル。あなたのコンピュート。分離されたリソースにより、どのスループットでも一貫したレイテンシを実現します。本番環境にはリトライ予算がないからです。"
+}

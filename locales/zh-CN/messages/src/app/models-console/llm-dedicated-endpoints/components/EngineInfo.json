@@ -1,0 +1,12 @@
+{
+  "cancel": "取消",
+  "confirmRestart": "确认并重启",
+  "edit": "编辑",
+  "engineConfiguration": "引擎配置",
+  "off": "关",
+  "on": "开",
+  "restartEngine": "重启引擎？",
+  "saveRestartEngine": "保存并重启引擎",
+  "savingChangesWillTriggerARolling": "保存更改将触发引擎的滚动重启",
+  "thisWillTriggerARollingRestart": "这将触发所有副本的滚动重启。该过程可能需要几分钟。在重启期间，您的端点将保持可用。"
+}

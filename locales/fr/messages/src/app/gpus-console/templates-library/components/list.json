@@ -1,0 +1,18 @@
+{
+  "allTemplates": "Tous les modèles",
+  "createTemplate": "Créer un modèle",
+  "deployPreConfiguredEnvironmentsOrCreate": "Déployez des environnements préconfigurés ou créez le vôtre.",
+  "favoriteSuccessfully": "Ajouté aux favoris avec succès",
+  "loginFailurePleaseLogInAgain": "Échec de la connexion, veuillez vous reconnecter",
+  "myCreations": "Mes créations",
+  "myFavorites": "Mes favoris",
+  "noResultsFound": "Aucun résultat trouvé",
+  "official": "Officiel",
+  "pleaseLogInFirst": "Veuillez d’abord vous connecter",
+  "recommendedForYou": "🔥 Recommandé pour vous",
+  "searchTemplates": "Rechercher des modèles...",
+  "success": "succès",
+  "templatesLibrary": "Bibliothèque de modèles",
+  "trySearchingForSomethingElseOr": "Essayez de rechercher autre chose, ou créez votre propre modèle.",
+  "unfavoriteSuccessfully": "Retiré des favoris avec succès"
+}

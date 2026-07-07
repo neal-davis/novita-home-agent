@@ -1,0 +1,8 @@
+{
+  "assignAccessPermissionsToMembersBy": "通过选择角色为成员分配访问权限。每位新成员的预算默认不受限制。如需调整，请前往“预算”页面。",
+  "cancel": "取消",
+  "edit": "编辑",
+  "failedToUpdateRole": "更新角色失败",
+  "save": "保存",
+  "viewPermissionDetails": "查看权限详情"
+}

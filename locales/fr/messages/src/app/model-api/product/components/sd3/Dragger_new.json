@@ -1,0 +1,8 @@
+{
+  "imageInvalid": "Image non valide !",
+  "theSizeOfTheImageFile": "La taille du fichier image doit être inférieure à",
+  "theSizeOfTheVideoFile": "La taille du fichier vidéo doit être inférieure à",
+  "uploadImage": "Importer une image",
+  "videoInvalid": "Vidéo non valide !",
+  "youCanOnlyUploadJpgPng": "Vous ne pouvez importer qu’une image JPG/PNG."
+}

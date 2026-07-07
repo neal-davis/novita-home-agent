@@ -1,0 +1,18 @@
+{
+  "affiliateDashboard": "Affiliate Dashboard",
+  "email": "Email",
+  "initialLoginCredentials": "Initial Login Credentials",
+  "initialPassword": "Initial Password",
+  "notAvailableYet": "Not available yet",
+  "openDashboard": "Open Dashboard",
+  "referralLink": "Referral Link",
+  "retry": "Retry",
+  "shareThisLinkToEarn10": "Share this link to earn 10% commission on every referral's spending",
+  "startEarningCommissionsWithYourPersonalized": "Start earning commissions with your personalized affiliate tools",
+  "trackYourReferralsEarningsAndPayout": "Track your referrals, earnings, and payout history",
+  "unableToLoadAffiliateCredentialsPlease": "Unable to load affiliate credentials. Please try again later.",
+  "useTheseToAccessYourAffiliate": "Use these to access your affiliate dashboard for the first time",
+  "weRecommendChangingYourPasswordAfter": "We recommend changing your password after your first login.",
+  "yourAffiliateCredentials": "Your Affiliate Credentials",
+  "yourReferralLink": "Your Referral Link"
+}

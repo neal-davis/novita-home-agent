@@ -1,0 +1,94 @@
+.model_api_price {
+  padding-top: 0;
+  padding-bottom: 30px;
+
+  .price_card {
+    margin: 16px 0;
+    padding: 8px 16px 16px 16px;
+    background-color: var(--white);
+    border-radius: 8px;
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  .category_title {
+    @include font-h6;
+    color: var(--dark-1);
+  }
+
+  .table_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 54px;
+  }
+
+  .integration_guide {
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--dark-1);
+    text-decoration: underline;
+    cursor: pointer;
+    font-family: var(--font-tt-mono);
+  }
+
+  .category_desc {
+    margin-top: -18px;
+    margin-bottom: 15px;
+    @include font-subtle;
+    color: var(--dark-2);
+
+    .calc_btn {
+      margin: 0 5px;
+      @include font-subtle-medium;
+      color: var(--black);
+      text-decoration: underline;
+      cursor: pointer;
+    }
+  }
+
+  .table_wrap {
+    td {
+      padding-top: 9.5px;
+      padding-bottom: 9.5px;
+      border: none;
+    }
+
+    tr {
+      border-bottom: 1px solid var(--gray-2);
+    }
+
+    thead {
+      tr {
+        th {
+          background-color: var(--gray-3);
+        }
+      }
+    }
+
+    tbody {
+      tr {
+        td {
+          border-right: none;
+          border-left: none;
+        }
+      }
+    }
+  }
+
+  .free_tag {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 18px;
+    background-color: rgba(202, 246, 224, 0.3);
+    color: var(--brand-1);
+    border-radius: 2px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1;
+  }
+}

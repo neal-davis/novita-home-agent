@@ -1,0 +1,17 @@
+{
+  "cancel": "取消",
+  "estimatedCost": "预估费用：",
+  "generate": "生成",
+  "guidanceScale": "引导系数",
+  "heigh": "高度",
+  "model": "模型",
+  "negativePrompt": "反向提示词",
+  "prompt": "提示词",
+  "queueing": "排队中...",
+  "seed": "种子",
+  "showcase": "展示",
+  "steps": "步数",
+  "thisTaskMayTakeSomeTime": "此任务可能需要一些时间（几分钟），请耐心等待。",
+  "whatYouWantToAvoidGenerating": "你想避免生成的内容...",
+  "width": "宽度"
+}

@@ -1,0 +1,22 @@
+{
+  "aSingleInstanceCanMountUp": "Une seule instance peut monter jusqu’à 30 volumes de stockage cloud.",
+  "addMount": "Ajouter un montage",
+  "applyingTheseChangesWillRestartThe": "L’application de ces modifications redémarrera immédiatement l’instance actuelle.",
+  "beforeDetachingAVolumeEnsureIt": "Avant de détacher un volume, assurez-vous qu’il a été démonté dans l’instance afin d’éviter de perdre des données non enregistrées.",
+  "cancel": "Annuler",
+  "cloudStorageMountsWillBeChanged": "Les montages de stockage cloud seront modifiés en",
+  "confirm": "Confirmer",
+  "maximum30MountsAllowedPleaseUnmount": "Maximum de 30 montages autorisés. Veuillez d’abord démonter certains volumes de stockage",
+  "mountCloudStorage": "Monter le stockage cloud",
+  "mountPath": "Chemin de montage",
+  "mountingNotes": "Notes de montage",
+  "pleaseEnterADifferentCloudStorage": "Veuillez saisir un chemin de montage de stockage cloud différent",
+  "pleaseEnterAValidCloudStorage": "Veuillez saisir un chemin de montage de stockage cloud valide",
+  "pleaseMakeSureYouveUnmountedThe": "Veuillez vous assurer d’avoir démonté le volume supplémentaire ; l’envoi de cette modification redémarrera l’instance.",
+  "pleaseSelectADifferentCloudStorage": "Veuillez sélectionner un stockage cloud différent",
+  "pleaseSelectTheCloudStorageTo": "Veuillez sélectionner le stockage cloud à monter",
+  "storageInstance": "Instance de stockage",
+  "success": "succès",
+  "thereIsNoChangeInThe": "Aucune modification n’est apportée aux données de stockage cloud existantes, veuillez confirmer",
+  "tips": "Conseils"
+}

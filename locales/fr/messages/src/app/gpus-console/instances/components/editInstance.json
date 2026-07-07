@@ -1,0 +1,18 @@
+{
+  "cancel": "Annuler",
+  "containerDiskExpansionCurrent": "Extension du disque du conteneur (actuel",
+  "editInstance": "Modifier l’instance",
+  "enterYourContainerDiskExpandSize": "Saisissez la taille d’extension du disque du conteneur",
+  "expand": "Étendre :",
+  "exposeHttpPortsMax10": "Exposer les ports HTTP (max. 10)",
+  "exposeTcpPorts": "Exposer les ports TCP",
+  "gb-4d1316": "Go)",
+  "gb-505a44": "Go",
+  "pleaseEnterAValidSizeAnd": "Veuillez saisir une taille valide, qui ne peut pas être inférieure à 0 Go",
+  "pleaseEnterAValidSizeCurrent": "Veuillez saisir une taille valide ; la taille après extension ne peut pas être supérieure à",
+  "save": "Enregistrer",
+  "subscriptionInstanceExpansionRequiresPrepaymentOf": "L’extension de l’instance d’abonnement nécessite le prépaiement des frais de stockage supplémentaires pour la période restante de l’instance d’abonnement.",
+  "success": "Succès",
+  "theCurrentInstanceHasBeenShut": "L’instance actuelle a été arrêtée. Lorsque l’instance est en cours d’exécution, vous pouvez ajuster la capacité du disque système.",
+  "youCanEditWhileTheInstance": "Vous pouvez modifier pendant que l’instance est en cours d’exécution, vous ne perdrez pas de données."
+}

@@ -1,0 +1,14 @@
+{
+  "application": "应用",
+  "deployServerless": "部署无服务器",
+  "explore": "探索",
+  "gpus": "GPUS",
+  "image": "镜像",
+  "instances": "实例",
+  "jobs": "任务",
+  "serverless": "无服务器",
+  "settings": "设置",
+  "storage": "存储",
+  "templates": "模板",
+  "templateslibrary": "模板库"
+}

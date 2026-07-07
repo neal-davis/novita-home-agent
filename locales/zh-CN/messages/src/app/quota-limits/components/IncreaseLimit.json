@@ -1,0 +1,16 @@
+{
+  "cancel": "取消",
+  "contactEmail": "联系邮箱",
+  "currentLimit": "当前限制",
+  "increaseLimit": "提高限制",
+  "limitMetric": "限制指标",
+  "pleaseEnterAPositiveIntegerValue": "请输入正整数值",
+  "pleaseEnterAValidEmailAddress": "请输入有效的电子邮箱地址",
+  "pleaseEnterTheReasonForYour": "请输入您的配额申请原因，以便我们加快审核流程",
+  "quotaIncreaseRequestSubmitted": "配额提升请求已提交",
+  "reasonForRequest": "请求原因",
+  "requestRateLimitIncrease": "请求提高速率限制",
+  "requestedRateLimit": "请求的速率限制",
+  "resourceService": "资源/服务",
+  "submit": "提交"
+}

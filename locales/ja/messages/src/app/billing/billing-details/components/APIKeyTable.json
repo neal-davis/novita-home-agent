@@ -1,0 +1,17 @@
+{
+  "all": "すべて",
+  "day": "日",
+  "export": "エクスポート",
+  "groupBy": "グループ化",
+  "imageVideo": "画像/動画",
+  "modelName": "モデル名",
+  "month": "月",
+  "noData": "データがありません！",
+  "productType": "製品タイプ",
+  "selectCategory": "カテゴリを選択",
+  "theQueryTimeRangeCannotBe": "クエリの時間範囲は2026-01-01より前にできません",
+  "theQueryTimeRangeCannotExceed": "クエリの時間範囲は31日を超えることはできません",
+  "theStartTimeCannotBeLater": "開始時刻は終了時刻より後にできません",
+  "timeRange": "時間範囲",
+  "week": "週"
+}

@@ -1,0 +1,17 @@
+{
+  "cancel": "キャンセル",
+  "confirm": "確認",
+  "day": "日",
+  "days": "日",
+  "expansionCapacity": "拡張容量",
+  "expansionFee": "拡張料金",
+  "expirationTime": "有効期限",
+  "freeCapacity": "無料容量",
+  "gb": "GB",
+  "instanceId": "インスタンスID",
+  "remainingRentalPeriod": "残りレンタル期間",
+  "settlementAmount": "決済金額",
+  "storagePrice": "ストレージ料金",
+  "subscriptionInstanceExpansionBilling": "サブスクリプションインスタンス拡張の請求",
+  "usedCapacity": "使用済み容量"
+}

@@ -1,0 +1,13 @@
+{
+  "availableServerless": "Available Serverless",
+  "cacheRead": "Cache Read",
+  "cacheWrite1h": "Cache Write(1h)",
+  "cacheWrite5m": "Cache Write(5m)",
+  "features": "Features",
+  "input": "Input",
+  "onDemandDeployments": "On-demand Deployments",
+  "output": "Output",
+  "runQueriesImmediatelyPayOnlyFor": "Run queries immediately, pay only for usage",
+  "serverlessApi": "Serverless API",
+  "tryNow": "Try Now"
+}

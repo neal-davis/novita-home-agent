@@ -1,0 +1,20 @@
+{
+  "agentSandbox": "Agent Sandbox",
+  "anyBillingDataViewedBeforeThis": "Any billing data viewed before this time is for reference only and should not be used for reconciliation.",
+  "billingRecordsAreGeneratedAtAn": "Billing records are generated at an hourly interval. As an exception, storage services are billed daily, with records generated at 00:00 UTC.",
+  "billingSummariesAggregatedByApiKey-51443b": "Billing summaries aggregated by API Key currently only support billing data starting from 2026 onwards.",
+  "billingSummariesAggregatedByApiKey-e50926": "Billing summaries aggregated by API Key currently support only LLM and image/video products.",
+  "byApiKey": "By API Key",
+  "byCreator": "By Creator",
+  "forProductsBilledOnAFixed": "For products billed on a Fixed-term Billing basis, billing statements are generated on a monthly cycle. The final billing statement for the current month will be available after 06:00 UTC on the 1st of the following month.",
+  "gpuInstance": "GPU Instance",
+  "gpuInstances": "GPU Instances",
+  "gpuServerless": "GPU Serverless",
+  "imageDedicatedEndpoint": "Image Dedicated Endpoint",
+  "imageVideoSearch": "Image/Video/Search",
+  "llmDedicatedEndpoints": "LLM Dedicated Endpoints",
+  "llmServerlessEndpoints": "LLM Serverless Endpoints",
+  "multiDimensionalSummaryBillsDisplayOther": "Multi-dimensional summary bills display other summary dimensions except for the billing mode dimension.",
+  "storage": "Storage",
+  "summary": "Summary"
+}

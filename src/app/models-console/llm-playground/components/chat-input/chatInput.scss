@@ -1,0 +1,128 @@
+@import "@/styles/mixins";
+@import "@/styles/colors";
+
+.chat-input-container {
+  &.drag-over {
+    border-color: var(--brand-0);
+    background-color: var(--brand-3);
+    transition: all 0.2s ease-in-out;
+  }
+}
+
+.file-preview-item {
+  position: relative;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+  border: 1px solid var(--gray-2);
+  border-radius: 6px;
+  padding: 8px;
+  background-color: var(--gray-3);
+  min-width: 100px;
+  transition: all 0.2s ease-in-out;
+
+  &:hover {
+    border-color: var(--dark-3);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .file-preview-content {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    border-radius: 4px;
+    overflow: hidden;
+    background-color: var(--gray-2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .upload-overlay {
+      position: absolute;
+      inset: 0;
+      background-color: rgba(0, 0, 0, 0.5);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      .spinner {
+        animation: spin 1s linear infinite;
+      }
+    }
+  }
+
+  .file-name {
+    @include font-p-small;
+    color: var(--dark-3);
+    max-width: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .upload-status {
+    @include font-p-small;
+    color: var(--dark-3);
+  }
+
+  .remove-button {
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    width: 20px;
+    height: 20px;
+    background-color: var(--dark-1);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    border: 2px solid var(--white);
+
+    &:hover {
+      background-color: var(--dark-2);
+      transform: scale(1.1);
+    }
+
+    svg {
+      width: 12px;
+      height: 12px;
+      color: var(--white);
+    }
+  }
+}
+
+.file-count-indicator {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  @include font-p-small;
+  color: var(--dark-3);
+
+  .count-item {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+
+    svg {
+      width: 12px;
+      height: 12px;
+    }
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

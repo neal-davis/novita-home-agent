@@ -1,0 +1,15 @@
+{
+  "accountSummary": "Résumé du compte",
+  "addPaymentMethod": "Ajouter un moyen de paiement",
+  "allKeys": "Toutes les clés",
+  "apiKeys": "Clés API",
+  "availableCredit": "Crédit disponible",
+  "availableVouchers": "Bons disponibles",
+  "credit": "Crédit",
+  "expiration": "Expiration :",
+  "goToBilling": "Accéder à la facturation",
+  "monthlySpend": "Dépenses mensuelles",
+  "noPermission": "Aucune autorisation",
+  "trackYourBalanceSpendingAndApi": "Suivez votre solde, vos dépenses et vos clés API en un coup d’œil.",
+  "view": "Afficher"
+}

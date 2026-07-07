@@ -1,0 +1,6 @@
+{
+  "gpuCount": "GPU 数:",
+  "insufficientGpuResourcesPleaseRetryAfter": "GPU リソースが不足しています。しばらくしてから再試行してください。",
+  "selectGpuType": "GPU タイプを選択",
+  "thereIsCurrentlyNoRecommendedGpu": "現在、推奨される GPU 構成はありません。"
+}

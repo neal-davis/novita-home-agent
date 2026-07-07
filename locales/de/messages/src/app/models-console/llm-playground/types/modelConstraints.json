@@ -1,0 +1,12 @@
+{
+  "convertDocumentToMarkdownFormat": "Dokument in Markdown-Format konvertieren",
+  "describeImage": "Bild beschreiben",
+  "document": "Dokument",
+  "extractTextFromGeneralImages": "Text aus allgemeinen Bildern extrahieren",
+  "freeFormOcrWithoutLayoutConstraints": "Freiform-OCR ohne Layoutbeschränkungen",
+  "freeOcr": "Kostenlose OCR",
+  "generateDetailedImageDescriptions": "Detaillierte Bildbeschreibungen generieren",
+  "ocrImage": "OCR-Bild",
+  "parseFigure": "Abbildung parsen",
+  "parseFiguresInDocuments": "Abbildungen in Dokumenten parsen"
+}

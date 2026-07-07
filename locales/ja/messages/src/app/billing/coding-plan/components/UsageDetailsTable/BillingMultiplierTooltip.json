@@ -1,0 +1,8 @@
+{
+  "cacheReadInput": "キャッシュ（読み取り）入力",
+  "cacheWrite5mInput": "キャッシュ（書き込み:5m）入力",
+  "cacheWrites1hInput": "キャッシュ（書き込み:1h）入力",
+  "details": "詳細",
+  "output": "出力",
+  "uncachedInput": "非キャッシュ入力"
+}

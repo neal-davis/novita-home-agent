@@ -1,0 +1,15 @@
+{
+  "addCredential": "Añadir credencial",
+  "afterAdjustingTheInstanceYouCan": "Después de ajustar la instancia, puede guardar la instancia actualizada como una imagen y, a continuación, crear nuevas plantillas e instancias basadas en la imagen más reciente.",
+  "cancel": "Cancelar",
+  "containerRegistryCredentials": "Credenciales del registro de contenedores",
+  "imagePath": "Ruta de la imagen",
+  "pleaseEnterAPathConsistingOf": "Introduce una ruta compuesta por letras minúsculas y números, con cada segmento pudiendo contener opcionalmente ., _ o -, y compatible con varios niveles separados por /.",
+  "pleaseInputYourImageAddress": "Introduzca la dirección de su imagen",
+  "pleaseSelectCredentials": "Seleccione las credenciales",
+  "save": "Guardar",
+  "saveImage": "Guardar imagen",
+  "success": "correcto",
+  "theContainerRegistryCredentialsCanNot": "Las credenciales del registro de contenedores no pueden estar vacías",
+  "theImagePathCanNotBe": "La ruta de la imagen no puede estar vacía y no puede contener caracteres de espacio en blanco"
+}

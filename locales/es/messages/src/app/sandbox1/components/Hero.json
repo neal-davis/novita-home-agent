@@ -1,0 +1,10 @@
+{
+  "agentSandbox": "ENTORNO AISLADO PARA AGENTES",
+  "agentSandboxGpuCloudAgentApplications": "Entorno aislado para agentes — GPU Cloud, aplicaciones de agentes, diagrama de APIs de modelos",
+  "getStarted": "Comenzar",
+  "noCreditCardRequiredValidFor": "No se requiere tarjeta de crédito, válido durante 90 días",
+  "pricing": "Precios",
+  "runtimeForAiAgentsToExecute": "Entorno de ejecución para que los agentes de IA ejecuten tareas del mundo real",
+  "secureProgrammableSandboxesForAiGenerated": "Entornos aislados seguros y programables para código generado por IA, flujos de trabajo del navegador, uso de computadoras y tareas de larga duración.",
+  "startFreeWith100Credits": "Comienza gratis con $100 en créditos*"
+}

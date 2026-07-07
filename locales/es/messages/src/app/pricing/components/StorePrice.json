@@ -1,0 +1,8 @@
+{
+  "capacity": "capacidad: $",
+  "gbFreeQuotaChargesForThe": "GB de cuota gratuita; el excedente se cobra en función de la capacidad y la duración de uso.",
+  "storageResources": "Recursos de almacenamiento",
+  "supports": "Admite",
+  "unitPrice": "Precio unitario: $",
+  "unitPriceForTheExcess": "Precio unitario del excedente"
+}

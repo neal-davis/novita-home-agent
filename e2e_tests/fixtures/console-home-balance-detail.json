@@ -1,0 +1,8 @@
+{
+  "_comment": "De-PII'd /v1/billing/balance/detail. Values are raw 'points'. billingSlice.fetchBalanceDetail does Big(availableBalance).div(10000).toFixed(4) => availableCredit. availableBalance 12345600 => '1234.5600', which AccountSummary renders as '$1234.5600' (spec asserts substring 1234.56). Other fields 0/synthetic.",
+  "availableBalance": "12345600",
+  "cashBalance": "11110000",
+  "creditLimit": "0",
+  "pendingCharges": "0",
+  "outstandingInvoices": "0"
+}

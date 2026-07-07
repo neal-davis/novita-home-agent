@@ -1,0 +1,16 @@
+{
+  "allTemplates": "All Templates",
+  "currentTemplate": "Current Template",
+  "loginFailurePleaseLogInAgain": "Login failure, please log in again",
+  "myCreations": "My Creations",
+  "myFavorites": "My Favorites",
+  "new": "New",
+  "noResultsFound": "No results found",
+  "official": "Official",
+  "pleaseLogInFirst": "Please log in first",
+  "recommendedForYou": "🔥 Recommended for You",
+  "searchTemplate": "Search Template",
+  "trySearchingForSomethingElseOr": "Try searching for something else, or create your own template.",
+  "updatedTime": "Updated time:",
+  "viewCurrentTemplateReadme": "View current template README"
+}

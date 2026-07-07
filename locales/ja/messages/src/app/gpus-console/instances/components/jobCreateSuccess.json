@@ -1,0 +1,7 @@
+{
+  "aJobHasBeenCreatedJob": "ジョブが作成されました。ジョブ ID:",
+  "close": "閉じる",
+  "jobCreatedSuccess": "ジョブの作成に成功しました",
+  "toJobs": "[Jobs] へ",
+  "youCanViewAndManageYour": "。ジョブは [Console - Jobs] で表示・管理できます。ジョブが完了すると、保存された画像を画像リポジトリで表示できます。"
+}

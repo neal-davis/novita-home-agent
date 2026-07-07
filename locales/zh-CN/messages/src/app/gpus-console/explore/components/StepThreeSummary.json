@@ -1,0 +1,14 @@
+{
+  "autoRenewEnabledPeriod": "已启用自动续费（周期：",
+  "billingMethod": "计费方式",
+  "chargeOrderCouponsBalanceAutoTop": "） | 扣费顺序：优惠券→余额→自动充值。",
+  "details": "详情",
+  "gb": "GB",
+  "gpuCost": "GPU 费用",
+  "instanceSummary": "实例摘要",
+  "onDemand": "按需",
+  "perDay": "每天",
+  "pricingSummary": "价格摘要",
+  "spot": "Spot",
+  "totalDisk": "总磁盘"
+}

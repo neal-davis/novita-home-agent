@@ -1,0 +1,4 @@
+{
+  "expectedFunctionNameToBeA": "「function.name」は文字列である必要があります。",
+  "expectedIdToBeAString": "「id」は文字列である必要があります。"
+}

@@ -1,0 +1,66 @@
+.box {
+  padding: 32px 24px;
+  background-color: var(--dark-1);
+  min-height: 280px;
+  max-width: 259px;
+  min-width: 242px;
+  width: 100%;
+  border-radius: 6px;
+
+  .name {
+    @include font-h5;
+    height: 48px;
+    margin-bottom: 33px;
+    .name1 {
+      color: var(--gray-3);
+    }
+    .name2 {
+      color: var(--brand-0);
+    }
+  }
+  .memory {
+    color: var(--gray-3);
+    @include font-body;
+    margin-bottom: 20px;
+  }
+  .line {
+    height: 1px;
+    width: 100%;
+    background-color: var(--dark-2);
+    margin-bottom: 37px;
+  }
+  .one {
+    color: var(--white);
+    @include font-subtle;
+  }
+  .eight {
+    color: var(--gray-3);
+    @include font-body;
+  }
+  .spot {
+    color: var(--gray-3);
+    @include font-body;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    .spotLabel {
+      background-color: var(--brand-0);
+      color: var(--white);
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+  }
+}
+
+.first {
+  border-top-left-radius: 16px !important;
+  border-bottom-left-radius: 16px !important;
+}
+
+.last {
+  border-top-right-radius: 16px !important;
+  border-bottom-right-radius: 16px !important;
+}

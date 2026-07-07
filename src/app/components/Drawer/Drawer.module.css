@@ -1,0 +1,100 @@
+.drawer_wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  column-gap: 20px;
+  row-gap: 20px;
+  overflow: hidden;
+}
+.drawer_wrapper.drawer_draggable {
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.drawer_board {
+  position: relative;
+  user-select: none;
+  /* min-width: 400px; */
+  /* align-self: center; */
+}
+
+.canvas_loading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(180, 180, 180, 0.5);
+  z-index: 100;
+}
+
+.preview_img {
+  top: 0;
+  left: 0;
+  width: auto;
+  height: 100%;
+  object-fit: contain;
+}
+.preview_img_origin {
+  position: relative;
+}
+.preview_img_result {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.drawer_canvas {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  cursor: none;
+  outline: none;
+  touch-action: none;
+}
+
+.drawer_board.with_baseimage .drawer_canvas {
+  position: absolute;
+}
+.drawer_draggable .canvas_control {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  flex: none;
+}
+
+@media screen and (max-width: 700px) {
+  .drawer_wrapper {
+    flex-direction: column;
+  }
+  .canvas_control {
+    position: static;
+    top: 0;
+    left: 0;
+    margin: 20px 0;
+    width: 100% !important;
+    flex: 1 !important;
+  }
+}
+
+.brush_cursor {
+  position: fixed;
+  left: 0;
+  top: 0;
+  cursor: none;
+  opacity: 0.7;
+  pointer-events: none;
+  z-index: 100;
+}

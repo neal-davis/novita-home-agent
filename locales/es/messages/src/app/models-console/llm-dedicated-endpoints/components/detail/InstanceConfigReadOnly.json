@@ -1,0 +1,8 @@
+{
+  "engine": "MOTOR",
+  "instanceConfiguration": "Configuración de instancia",
+  "lora": "LoRA",
+  "loraAdapters": "Adaptadores LoRA",
+  "model": "MODELO",
+  "readOnly": "Solo lectura"
+}

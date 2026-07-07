@@ -1,0 +1,21 @@
+{
+  "autoRecharge": "自动充值",
+  "autoRechargeIs": "自动充值已",
+  "autoRechargeSettingsHaveBeenUpdated": "自动充值设置已成功更新",
+  "autoTopUp": "自动充值",
+  "autoTopUpIs": "自动充值已",
+  "autoTopUpSettingsHaveBeen": "自动充值设置已成功更新",
+  "automaticPayments": "自动付款",
+  "automaticallyRechargeWhenYourBalanceFalls": "当您的余额低于阈值时自动充值。",
+  "failedToUpdateAutoRechargeSetting": "更新自动充值设置失败。",
+  "failedToUpdateAutoRechargeSettings": "更新自动充值设置失败",
+  "failedToUpdateAutoTopUp": "更新自动充值设置失败。",
+  "failedToUpdateAutoTopUp2": "更新自动充值设置失败",
+  "modify": "修改",
+  "off": "关闭",
+  "on": "开启",
+  "pleaseAddAPaymentMethodFirst": "请先添加付款方式。",
+  "pleaseAddAPaymentMethodFor": "请先为自动充值添加付款方式。",
+  "setUp": "设置",
+  "whenYourAvailableCreditFallsBelow": "当您的可用额度低于阈值时，我们将从您的默认银行卡扣款，以将余额恢复到该金额。"
+}

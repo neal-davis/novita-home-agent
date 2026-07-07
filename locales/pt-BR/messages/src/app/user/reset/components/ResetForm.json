@@ -1,0 +1,10 @@
+{
+  "back": "Voltar",
+  "confirm": "Confirmar",
+  "emailAddress": "Endereço de e-mail",
+  "needToCreateAnAccount": "Precisa criar uma conta?",
+  "resetPassword": "Redefinir senha",
+  "resettingYourPasswordWillLogYou": "Redefinir sua senha fará com que você saia da sua conta atual",
+  "signUp": "Cadastrar-se",
+  "weWillEmailYouInstructionsFor": "Enviaremos por e-mail as instruções para redefinir sua senha."
+}

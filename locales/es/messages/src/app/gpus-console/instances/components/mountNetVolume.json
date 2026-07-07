@@ -1,0 +1,22 @@
+{
+  "aSingleInstanceCanMountUp": "Una sola instancia puede montar hasta 30 volúmenes de almacenamiento en la nube.",
+  "addMount": "Añadir montaje",
+  "applyingTheseChangesWillRestartThe": "Aplicar estos cambios reiniciará la instancia actual inmediatamente.",
+  "beforeDetachingAVolumeEnsureIt": "Antes de desconectar un volumen, asegúrate de que se haya desmontado dentro de la instancia para evitar perder datos no guardados.",
+  "cancel": "Cancelar",
+  "cloudStorageMountsWillBeChanged": "Los montajes de almacenamiento en la nube se cambiarán a",
+  "confirm": "Confirmar",
+  "maximum30MountsAllowedPleaseUnmount": "Se permite un máximo de 30 montajes. Desmonta primero parte del almacenamiento",
+  "mountCloudStorage": "Montar almacenamiento en la nube",
+  "mountPath": "Ruta de montaje",
+  "mountingNotes": "Notas de montaje",
+  "pleaseEnterADifferentCloudStorage": "Introduce una ruta de montaje de almacenamiento en la nube diferente",
+  "pleaseEnterAValidCloudStorage": "Introduce una ruta de montaje de almacenamiento en la nube válida",
+  "pleaseMakeSureYouveUnmountedThe": "Asegúrate de haber desmontado el volumen adicional; enviar este cambio reiniciará la instancia.",
+  "pleaseSelectADifferentCloudStorage": "Selecciona un almacenamiento en la nube diferente",
+  "pleaseSelectTheCloudStorageTo": "Selecciona el almacenamiento en la nube que deseas montar",
+  "storageInstance": "Instancia de almacenamiento",
+  "success": "éxito",
+  "thereIsNoChangeInThe": "No hay cambios en los datos de almacenamiento en la nube existentes, confirma",
+  "tips": "Consejos"
+}

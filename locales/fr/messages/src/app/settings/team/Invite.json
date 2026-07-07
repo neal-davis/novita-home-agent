@@ -1,0 +1,23 @@
+{
+  "account": "Compte",
+  "assignAccessPermissionsToMembersBy": "Attribuez des autorisations d’accès aux membres en sélectionnant des rôles. Le budget de chaque nouveau membre est illimité par défaut. Si vous devez l’ajuster, veuillez vous rendre sur la page « Budgets ».",
+  "budget": "Budget",
+  "cancel": "Annuler",
+  "changeTheBudgetOnTheBudgets": "Modifiez le budget sur la page « Budgets » après que les invités ont rejoint votre équipe.",
+  "close": "Fermer",
+  "invitationEmailsHaveBeenSentYou": "Les e-mails d’invitation ont été envoyés ! Vous pouvez également partager directement avec les membres de votre équipe les liens d’invitation ci-dessous. Ces liens resteront accessibles dans la liste des membres pour consultation ultérieure.",
+  "invitationEmailsSentSuccessfully": "E-mails d’invitation envoyés avec succès !",
+  "invitationFailed": "Échec de l’invitation",
+  "inviteLink": "Lien d’invitation",
+  "inviteLinkCopied": "Lien d’invitation copié",
+  "inviteMembers-2aadfa": "+ Inviter des membres",
+  "inviteMembers-4ee562": "+ Inviter des membres",
+  "inviteMembersToYourTeam": "Invitez des membres dans votre équipe",
+  "inviteSelectAntSelectArrowRight": ".invite-select .ant-select-arrow { right: 18px !important; }",
+  "role": "Rôle",
+  "selectARole": "Sélectionner un rôle",
+  "separateMultipleEmailsWithCommas": "Séparez plusieurs e-mails par des virgules",
+  "status": "Statut",
+  "unlimited": "Illimité",
+  "viewPermissionDetails": "Afficher les détails des autorisations"
+}

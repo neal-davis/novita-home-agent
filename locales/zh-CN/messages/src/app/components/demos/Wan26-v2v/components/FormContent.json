@@ -1,0 +1,15 @@
+{
+  "addVideoUrl": "添加视频 URL",
+  "duration": "时长",
+  "enterVideoUrl": "输入视频 URL",
+  "leaveBlankForRandom": "留空则随机",
+  "message1080p": "1080P",
+  "message10s": "10秒",
+  "message5s": "5秒",
+  "message720p": "720P",
+  "prompt": "提示词",
+  "referenceVideoUrls": "参考视频 URL",
+  "resolution": "分辨率",
+  "seed": "种子",
+  "showcase": "展示"
+}

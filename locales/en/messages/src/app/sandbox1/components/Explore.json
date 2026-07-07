@@ -1,0 +1,20 @@
+{
+  "builtWithNovitaAi": "Built with Novita AI",
+  "concurrentInstances": "Concurrent Instances",
+  "contactSales": "Contact Sales",
+  "contactSupport": "Contact support",
+  "createYourFirstAgentSandboxNow": "Create your first agent sandbox now.",
+  "defineOnceReuseEverywhere": "Define once, reuse everywhere.",
+  "deploymentRegion": "Deployment Region",
+  "eachSandboxHasACompletelyIsolated": "Each Sandbox has a completely isolated filesystem.",
+  "enterprise": "Enterprise",
+  "exploreAgentSandboxAndStartBuilding": "Explore Agent Sandbox and start building with our step-by-step guides.",
+  "fileSystem": "File system",
+  "forAdvancedWorkloadsRequiringLargeMemory": "For advanced workloads requiring large memory, higher vCPU, or custom deployment locations.",
+  "learnMore": "Learn more",
+  "maxVcpusPerSandbox": "Max vCPUs per Sandbox",
+  "quickStart": "Quick Start",
+  "readyToExploreAgentSandbox": "Ready to Explore Agent Sandbox?",
+  "template": "Template",
+  "uptimeSla": "Uptime SLA"
+}

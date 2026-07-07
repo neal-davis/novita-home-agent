@@ -1,0 +1,18 @@
+{
+  "affiliateDashboard": "Painel de afiliado",
+  "email": "E-mail",
+  "initialLoginCredentials": "Credenciais iniciais de login",
+  "initialPassword": "Senha inicial",
+  "notAvailableYet": "Ainda não disponível",
+  "openDashboard": "Abrir painel",
+  "referralLink": "Link de indicação",
+  "retry": "Tentar novamente",
+  "shareThisLinkToEarn10": "Compartilhe este link para ganhar 10% de comissão sobre os gastos de cada indicação",
+  "startEarningCommissionsWithYourPersonalized": "Comece a ganhar comissões com suas ferramentas personalizadas de afiliado",
+  "trackYourReferralsEarningsAndPayout": "Acompanhe suas indicações, ganhos e histórico de pagamentos",
+  "unableToLoadAffiliateCredentialsPlease": "Não foi possível carregar as credenciais de afiliado. Tente novamente mais tarde.",
+  "useTheseToAccessYourAffiliate": "Use estas credenciais para acessar seu painel de afiliado pela primeira vez",
+  "weRecommendChangingYourPasswordAfter": "Recomendamos alterar sua senha após o primeiro login.",
+  "yourAffiliateCredentials": "Suas credenciais de afiliado",
+  "yourReferralLink": "Seu link de indicação"
+}

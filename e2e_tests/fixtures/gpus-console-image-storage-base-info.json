@@ -1,0 +1,30 @@
+{
+  "_comment": "Synthetic GET /api/v1/gpu/storage/base_info (reqGpuStorageBaseInfo) response for hermetic /gpus-console/image. section.tsx filters res.clusters to version === 'v2' to build the Region cascade filter (continents + regions). Synthetic cluster ids/names only, no PII.",
+  "code": 0,
+  "clusters": [
+    {
+      "id": "cluster-e2e-us-1",
+      "name": "E2E-US-CLUSTER",
+      "continent": "North America",
+      "version": "v2"
+    },
+    {
+      "id": "cluster-e2e-eu-1",
+      "name": "E2E-EU-CLUSTER",
+      "continent": "Europe",
+      "version": "v2"
+    },
+    {
+      "id": "cluster-e2e-ap-1",
+      "name": "E2E-AP-CLUSTER",
+      "continent": "Asia Pacific",
+      "version": "v2"
+    },
+    {
+      "id": "cluster-e2e-legacy-1",
+      "name": "E2E-LEGACY-CLUSTER",
+      "continent": "North America",
+      "version": "v1"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "convertDocumentToMarkdownFormat": "将文档转换为 Markdown 格式",
+  "describeImage": "描述图像",
+  "document": "文档",
+  "extractTextFromGeneralImages": "从通用图像中提取文本",
+  "freeFormOcrWithoutLayoutConstraints": "不受布局约束的自由形式 OCR",
+  "freeOcr": "免费 OCR",
+  "generateDetailedImageDescriptions": "生成详细的图像描述",
+  "ocrImage": "OCR 图像",
+  "parseFigure": "解析图表",
+  "parseFiguresInDocuments": "解析文档中的图形"
+}

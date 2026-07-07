@@ -1,0 +1,22 @@
+{
+  "analyseCorrelationMatrix": "分析 · 相关矩阵",
+  "billing": "计费",
+  "clickElementFormFieldLocated": "点击元素 · 已定位表单字段",
+  "enterDataFormPopulated": "输入数据 · 表单已填充",
+  "generateReportMarkdownOutput": "生成报告 · markdown 输出",
+  "identifyBugNullPointerLine84": "识别错误 · 第 84 行空指针",
+  "initEnvironmentEpisode1248": "初始化环境 · 第 1,248 轮",
+  "isolation": "隔离",
+  "loadDataset24mRowsIngested": "加载数据集 · 已摄取 240 万行",
+  "openBrowserNagivateToTarget": "打开浏览器 · 导航到目标",
+  "readCodebaseSrcApiRoutesPy": "读取代码库 · src/api/routes.py",
+  "resetNextEpisodeQueued": "重置 · 下一轮已排队",
+  "reward24StateUpdated": "奖励 · +2.4 · 状态已更新",
+  "runTestSuitePytest": "运行测试套件 · pytest",
+  "startup": "启动",
+  "status": "状态",
+  "stepActionSampledFromPolicy": "步骤 · 从策略中采样操作",
+  "submitAwaitConfirmation": "提交 · 等待确认",
+  "transformCleanNormalize": "转换 · 清理 + 规范化",
+  "writeFixPatchApplied": "编写修复 · 补丁已应用"
+}

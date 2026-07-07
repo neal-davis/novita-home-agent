@@ -1,0 +1,23 @@
+.dragger_wrap {
+  width: 100%;
+  border-radius: 8px;
+  background-color: var(--dark-3);
+}
+
+.dragger_icon {
+  font-size: 48px;
+  color: #fff;
+}
+
+.dragger_desc {
+  font-size: 20px;
+  color: var(--black);
+  letter-spacing: 0;
+  line-height: 20px;
+  font-weight: 500;
+  margin-top: 26px;
+}
+
+.dragger_inner {
+  padding: 50px 10px;
+}

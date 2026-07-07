@@ -1,0 +1,87 @@
+.outContainer {
+  position: relative;
+  background-color: var(--black);
+}
+.container {
+  position: relative;
+  // height: 759px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    max-width: 632px;
+    .topInner {
+      text-align: center;
+      color: var(--gray-3);
+      @include font-h3;
+    }
+    .bottomInner {
+      text-align: center;
+      color: var(--gray-3);
+      @include font-body;
+    }
+    margin-bottom: 85px;
+  }
+  .bottom {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 6px;
+    width: 100%;
+    .subContainer {
+      display: inline-flex;
+      align-items: stretch;
+      justify-content: center;
+      gap: 6px;
+    }
+  }
+}
+.webContainer {
+  display: none !important;
+  @include screen-sm {
+    display: flex !important;
+  }
+}
+.mobileContainer {
+  display: flex !important;
+  @include screen-sm {
+    display: none !important;
+  }
+}
+.leftTopVector {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rightBottomVector {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+@media (max-width: 768px) {
+  .leftTopVector {
+    width: 107px;
+    height: 97px;
+    top: -9px;
+  }
+  .rightBottomVector {
+    width: 107px;
+    height: 97px;
+    bottom: -9px;
+  }
+}
+.swiper_wrap {
+  max-width: 100%;
+  --swiper-pagination-color: var(--brand-0);
+}
+.slide {
+  max-width: 260px !important;
+  min-width: 260px !important;
+}

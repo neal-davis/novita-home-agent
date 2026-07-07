@@ -1,0 +1,13 @@
+.select_value {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding-right: 10px;
+}
+
+.button_icon {
+  display: inline-block;
+  color: var(--dark-3);
+  margin-right: 0.5rem;
+}

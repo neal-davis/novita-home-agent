@@ -1,0 +1,11 @@
+{
+  "action": "Aktion",
+  "dateRange": "Datumsbereich",
+  "failedToGetAuditLogs": "Audit-Protokolle konnten nicht abgerufen werden",
+  "member": "Mitglied",
+  "resource": "Ressource",
+  "resourceGroup": "Ressourcengruppe",
+  "resourceId": "Ressourcen-ID",
+  "search": "Suchen",
+  "timestamp": "Zeitstempel"
+}

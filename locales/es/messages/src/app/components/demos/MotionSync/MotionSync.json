@@ -1,0 +1,17 @@
+{
+  "cancel": "Cancelar",
+  "chooseMotionVideo": "Elegir video de movimiento:",
+  "forOptimalResultsEnsureTheImage": "Para obtener resultados óptimos, asegúrate de que la imagen incluya:",
+  "generate": "Generar",
+  "heigh": "Altura",
+  "message1ACleanBackground": "1. un fondo limpio",
+  "message2TheUpperHalfOfA": "2. la mitad superior del cuerpo de una persona",
+  "orChooseFromPresetImages": "O elige entre imágenes preestablecidas:",
+  "queueing": "En cola...",
+  "seed": "Semilla",
+  "steps": "Pasos",
+  "thisTaskMayTakeSomeTime": "Esta tarea puede tardar un tiempo (unos minutos), ten paciencia.",
+  "uploadBaseImage": "Subir imagen base",
+  "uploadMotionVideo": "Subir video de movimiento",
+  "width": "Ancho"
+}

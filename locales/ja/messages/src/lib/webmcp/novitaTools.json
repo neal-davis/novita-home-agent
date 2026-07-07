@@ -1,0 +1,14 @@
+{
+  "novitaAgentSandboxWorkflow": "Novita Agent Sandbox ワークフロー",
+  "novitaAuthPage": "Novita 認証ページ",
+  "novitaConsole": "Novita コンソール",
+  "novitaDocs": "Novita ドキュメント",
+  "novitaGpuWorkflow": "Novita GPU ワークフロー",
+  "novitaModelApiWorkflow": "Novita Model API ワークフロー",
+  "openANovitaAgentSandboxWorkflow": "概要、コンソール、テンプレート、利用状況、料金、ドキュメントなどの Novita Agent Sandbox ワークフローを開きます。",
+  "openANovitaAuthenticationPageFor": "ログイン、登録、またはパスワードリセット用の Novita 認証ページを開きます。",
+  "openANovitaConsoleAreaSuch": "概要、API キー、請求、クォータ制限、GPU Cloud、Model API、Agent Sandbox などの Novita コンソール領域を開きます。",
+  "openANovitaGpuCloudWorkflow": "インスタンス、Serverless、テンプレート、ストレージ、ジョブ、設定、料金などの Novita GPU Cloud ワークフローを開きます。",
+  "openANovitaModelApiWorkflow": "モデルライブラリ、プレイグラウンド、専用エンドポイント、料金などの Novita Model API ワークフローを開きます。",
+  "openNovitaDocumentationForQuickStart": "クイックスタート、Model API、LLM API、Serverless GPUs、GPU Instances、Sandbox、API リファレンスに関する Novita ドキュメントを開きます。"
+}

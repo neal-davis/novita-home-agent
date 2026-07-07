@@ -1,0 +1,70 @@
+{
+  "models": [
+    {
+      "id": 30163,
+      "name": "V5[Prt-RE]",
+      "hash_sha256": "7F96A1A9CA",
+      "sd_name": "AnythingV5_v5PrtRE.safetensors",
+      "type": {
+        "name": "checkpoint",
+        "display_name": "Checkpoint"
+      },
+      "categories": [],
+      "status": 1,
+      "download_url": "https://example.com/api/download/models/30163",
+      "tags": ["base model", "anime"],
+      "cover_url": "/not_found.png",
+      "source": "civitai",
+      "base_model": "SD 1.5",
+      "base_model_type": "",
+      "download_url_ttl": 2592000,
+      "sd_name_in_api": "AnythingV5_v5PrtRE.safetensors",
+      "is_nsfw": false,
+      "is_sdxl": false,
+      "is_sd3": false,
+      "model_details": [
+        {
+          "prompt": "masterpiece, best quality, 1girl, solo",
+          "negative_prompt": "worst quality, low quality, blurry",
+          "sampler_name": "Euler a",
+          "height": 640,
+          "width": 960,
+          "cfg_scale": 7,
+          "seed": "259215291",
+          "steps": 47
+        }
+      ],
+      "model_name": "AnythingV5_v5PrtRE.safetensors",
+      "in_whitelist": true
+    },
+    {
+      "id": 30164,
+      "name": "DreamShaper",
+      "hash_sha256": "C0FF1CE123",
+      "sd_name": "dreamshaper_8.safetensors",
+      "type": {
+        "name": "checkpoint",
+        "display_name": "Checkpoint"
+      },
+      "categories": [],
+      "status": 1,
+      "download_url": "https://example.com/api/download/models/30164",
+      "tags": ["base model", "photorealistic"],
+      "cover_url": "/not_found.png",
+      "source": "civitai",
+      "base_model": "SD 1.5",
+      "base_model_type": "",
+      "download_url_ttl": 2592000,
+      "sd_name_in_api": "dreamshaper_8.safetensors",
+      "is_nsfw": false,
+      "is_sdxl": false,
+      "is_sd3": false,
+      "model_details": [],
+      "model_name": "dreamshaper_8.safetensors",
+      "in_whitelist": true
+    }
+  ],
+  "pagination": {
+    "next_cursor": "c_100"
+  }
+}

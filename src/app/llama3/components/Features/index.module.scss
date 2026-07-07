@@ -1,0 +1,42 @@
+.page {
+  padding: 90px 0;
+  position: relative;
+
+  .bg {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 247px;
+    height: 247px;
+  }
+
+  .title {
+    @include font-h3;
+    text-align: center;
+  }
+
+  .li {
+    height: 240px;
+    background: var(--gray-3);
+    padding: 28px;
+
+    .li_index {
+      position: relative;
+      padding-left: 24px;
+
+      &::before {
+        content: "";
+        width: 12px;
+        height: 24px;
+        border-top: 12px solid transparent;
+        border-bottom: 12px solid var(--brand-0);
+        border-left: 6px solid transparent;
+        border-right: 6px solid transparent;
+        display: inline-block;
+        position: absolute;
+        left: 0;
+        top: -10px;
+      }
+    }
+  }
+}

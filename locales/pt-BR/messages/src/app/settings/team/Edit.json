@@ -1,0 +1,8 @@
+{
+  "assignAccessPermissionsToMembersBy": "Atribua permissões de acesso aos membros selecionando funções. O orçamento de cada novo membro é ilimitado por padrão. Se você precisar ajustá-lo, acesse a página \"Orçamentos\".",
+  "cancel": "Cancelar",
+  "edit": "Editar",
+  "failedToUpdateRole": "Falha ao atualizar a função",
+  "save": "Salvar",
+  "viewPermissionDetails": "Ver detalhes das permissões"
+}

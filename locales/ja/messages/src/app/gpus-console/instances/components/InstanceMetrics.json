@@ -1,0 +1,7 @@
+{
+  "gpuId": "GPU ID",
+  "gpuMemoryUsed": "使用済みGPUメモリ",
+  "gpuUtilization": "GPU使用率",
+  "metrics": "メトリクス",
+  "secondsAgo": "秒前"
+}

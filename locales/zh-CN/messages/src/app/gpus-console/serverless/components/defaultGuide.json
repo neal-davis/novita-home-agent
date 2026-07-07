@@ -1,0 +1,9 @@
+{
+  "builtForLightweightScenariosWithFast": "专为轻量级场景打造，支持快速部署、弹性使用和多种工作负载。",
+  "deployNow": "立即部署",
+  "learnMore": "了解更多",
+  "multipleMixedResourceTypesWithOne": "多种混合资源类型，支持一键部署和自动扩缩容——可选择",
+  "needToDeployCloudResources": "需要部署云资源？",
+  "serverless": "无服务器",
+  "serverlessReady": "无服务器就绪"
+}

@@ -1,0 +1,14 @@
+{
+  "agentsandbox": "AGENTSANDBOX",
+  "concurrency": "Concorrência",
+  "eachTaskRunsInAFully": "Cada tarefa é executada em um ambiente totalmente isolado, com separação em nível de sistema para evitar vazamento de dados e acesso não autorizado.",
+  "highConcurrency": "Alta concorrência",
+  "inParallelAllInRealTime": "em paralelo — tudo em tempo real.",
+  "launchFastStayIsolatedHandleThousands": "Inicie rapidamente. Mantenha-se isolado. Execute milhares de tarefas",
+  "millisecondLevelStartup": "Inicialização em nível de milissegundos",
+  "runThousandsOfSandboxInstancesIn": "Execute milhares de instâncias de sandbox em paralelo com latência consistentemente baixa — ideal para cargas de trabalho em tempo real e de alto throughput.",
+  "sandboxInstancesLaunchInUnder200": "As instâncias de sandbox são iniciadas em menos de 200 ms, em média — otimizadas para cargas de trabalho de alta frequência e concorrentes.",
+  "secureIsolation": "Isolamento seguro",
+  "speedSecurityAnd": "Velocidade, segurança e",
+  "tryNow": "Experimente agora"
+}

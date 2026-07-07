@@ -1,0 +1,10 @@
+{
+  "back": "戻る",
+  "confirm": "確認",
+  "emailAddress": "メールアドレス",
+  "needToCreateAnAccount": "アカウントを作成する必要がありますか？",
+  "resetPassword": "パスワードをリセット",
+  "resettingYourPasswordWillLogYou": "パスワードをリセットすると、現在のアカウントからログアウトされます",
+  "signUp": "サインアップ",
+  "weWillEmailYouInstructionsFor": "パスワードのリセット手順をメールでお送りします。"
+}

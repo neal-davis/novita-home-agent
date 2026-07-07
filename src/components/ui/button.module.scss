@@ -1,0 +1,27 @@
+.consoleBtn {
+  color: var(--black);
+}
+
+.btn {
+  font-family: var(--btn-font-family);
+  &:hover {
+    .btnArrow {
+      animation: slideOut 0.3s linear forwards;
+    }
+  }
+
+  &.text {
+    font-family: inherit;
+
+    &:hover {
+      opacity: 0.85;
+    }
+  }
+}
+.btnArrow {
+  margin-left: 5px;
+  animation: slideRecover 0.3s linear forwards;
+}
+
+@include slideOut;
+@include slideRecover;

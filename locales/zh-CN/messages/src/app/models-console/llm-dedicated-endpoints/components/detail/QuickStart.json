@@ -1,0 +1,9 @@
+{
+  "apiKey": "API 密钥",
+  "endpointUrl": "端点 URL",
+  "manageApiKeys": "管理 API 密钥",
+  "python": "Python",
+  "quickStart": "快速开始",
+  "shell": "Shell",
+  "typescript": "TypeScript"
+}

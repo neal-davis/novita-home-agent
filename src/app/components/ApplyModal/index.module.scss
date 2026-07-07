@@ -1,0 +1,48 @@
+.applyModal {
+  :global {
+    .ant-modal-content {
+      padding: 24px 32px !important;
+      border-radius: var(--radius-dialog) !important;
+    }
+  }
+}
+
+.applyForm {
+  text-align: right;
+
+  input {
+    margin-top: 12px;
+  }
+
+  .errorTips {
+    height: 36px;
+    line-height: 36px;
+    text-align: left;
+    color: #ff4d4f;
+  }
+
+  .applyBtn {
+    display: inline-block;
+    padding: 0 52px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    border-radius: 12px;
+    background: #6847f5;
+    cursor: pointer;
+
+    &:hover {
+      opacity: 0.9;
+    }
+  }
+
+  .disabled {
+    background-color: #383e4e;
+    color: rgba($color: #fff, $alpha: 0.3);
+    cursor: not-allowed;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+}

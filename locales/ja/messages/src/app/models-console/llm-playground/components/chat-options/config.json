@@ -1,0 +1,8 @@
+{
+  "default": "デフォルト",
+  "jsonObject": "json_object",
+  "modelConfiguration": "モデル設定",
+  "responseFormat": "応答形式",
+  "systemPrompt": "システムプロンプト",
+  "text": "テキスト"
+}

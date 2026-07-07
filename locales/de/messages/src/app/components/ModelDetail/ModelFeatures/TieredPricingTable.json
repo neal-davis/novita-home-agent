@@ -1,0 +1,10 @@
+{
+  "cachedReads": "Zwischengespeicherte Lesevorgänge",
+  "cachedWrites1h": "Zwischengespeicherte Schreibvorgänge (1 h)",
+  "cachedWrites5m": "Zwischengespeicherte Schreibvorgänge (5 min)",
+  "inputLength": "Eingabelänge",
+  "inputPriceMTokens": "Eingabepreis (M Token)",
+  "outputLength": "Ausgabelänge",
+  "outputPriceMTokens": "Ausgabepreis (M Token)",
+  "tieredPricing": "Gestaffelte Preise"
+}

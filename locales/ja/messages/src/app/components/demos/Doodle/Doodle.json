@@ -1,0 +1,12 @@
+{
+  "back": "戻る",
+  "cancel": "キャンセル",
+  "clear": "クリア",
+  "download": "ダウンロード",
+  "generate": "生成",
+  "prompt": "プロンプト",
+  "promptIsEmpty": "プロンプトが空です",
+  "redo": "やり直し",
+  "similarity": "類似度",
+  "undo": "元に戻す"
+}

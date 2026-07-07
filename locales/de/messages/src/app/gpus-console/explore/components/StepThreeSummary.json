@@ -1,0 +1,14 @@
+{
+  "autoRenewEnabledPeriod": "Automatische Verlängerung aktiviert (Zeitraum:",
+  "billingMethod": "Abrechnungsmethode",
+  "chargeOrderCouponsBalanceAutoTop": ") | Abbuchungsreihenfolge: Coupons→Guthaben→Automatische Aufladung.",
+  "details": "Details",
+  "gb": "GB",
+  "gpuCost": "GPU-Kosten",
+  "instanceSummary": "Instanzübersicht",
+  "onDemand": "On-Demand",
+  "perDay": "pro Tag",
+  "pricingSummary": "Preisübersicht",
+  "spot": "Spot",
+  "totalDisk": "Gesamter Speicherplatz"
+}

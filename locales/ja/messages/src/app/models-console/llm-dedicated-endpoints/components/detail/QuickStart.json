@@ -1,0 +1,9 @@
+{
+  "apiKey": "APIキー",
+  "endpointUrl": "エンドポイントURL",
+  "manageApiKeys": "APIキーを管理",
+  "python": "Python",
+  "quickStart": "クイックスタート",
+  "shell": "シェル",
+  "typescript": "TypeScript"
+}

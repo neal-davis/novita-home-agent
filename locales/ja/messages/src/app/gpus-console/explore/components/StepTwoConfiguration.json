@@ -1,0 +1,12 @@
+{
+  "addEnvironmentVariable": "+ 環境変数を追加",
+  "configuration": "設定",
+  "containerImage": "コンテナイメージ",
+  "containerStartCommand": "コンテナ起動コマンド",
+  "entrypoint": "エントリーポイント",
+  "environmentVariables": "環境変数",
+  "exposeHttpPortsMax10": "HTTPポートを公開（最大10）",
+  "exposeTcpPorts": "TCPポートを公開",
+  "key": "キー",
+  "value": "値"
+}

@@ -1,0 +1,7 @@
+{
+  "authorizationSuccessful": "Authorization Successful!",
+  "goToAgentSandboxConsole": "-> Go to Agent Sandbox Console",
+  "invalidRedirectLink": "Invalid Redirect Link",
+  "redirectingToYourAuthorizedApplicationPlease": "Redirecting to your authorized application, please wait...",
+  "theRedirectLinkIsInvalidOr": "The redirect link is invalid or has expired"
+}

@@ -1,0 +1,8 @@
+{
+  "back": "返回",
+  "cancel": "取消",
+  "download": "下载",
+  "generate": "生成",
+  "theCenterOfTheCropShould": "裁剪区域的中心不应位于图像之外",
+  "theWidthAndHeightOfThe": "裁剪区域的宽度和高度应在 256 到 1024 之间。"
+}

@@ -1,0 +1,17 @@
+{
+  "addApiKey": "添加 API Key",
+  "belowIsASimpleExampleShowing": "以下是一个简单示例，展示如何通过 SDK 创建沙盒并运行指定命令。",
+  "buildStatefulAgentsWithNovitaSandbox": "使用 Novita Sandbox 构建有状态 Agent",
+  "cliReference": "CLI 参考",
+  "copyCode": "复制代码",
+  "createApiKey": "创建 API KEY",
+  "docs": "文档",
+  "executeTheFollowingCommandsToRun": "执行以下命令以运行上述代码。",
+  "goToKeyManagement": "前往密钥管理",
+  "installSdk": "安装 SDK",
+  "runAiGeneratedCodeToolsAnd": "在安全的云沙盒中运行 AI 生成的代码、工具和浏览器",
+  "scaleFromOneSandboxToThousands": "从一个沙盒扩展到数千个沙盒，用于编码、数据分析和 RL 工作负载",
+  "useSdkToStartAgentSandbox": "使用 SDK 启动 Agent 沙盒",
+  "youCanInstallTheSdkBy": "你可以通过执行以下命令来安装 SDK。",
+  "zeroInfrastructureManagement": "零基础设施管理"
+}

@@ -1,0 +1,11 @@
+{
+  "accountBalance": "账户余额",
+  "addAPaymentMethodToAccess": "添加付款方式以访问服务。",
+  "addPaymentMethod": "添加付款方式",
+  "availableCredit": "可用额度",
+  "creditsRemaining": "剩余额度：",
+  "goToBilling": "前往账单",
+  "paymentMethods": "付款方式",
+  "topUp": "充值",
+  "vouchers": "优惠券"
+}

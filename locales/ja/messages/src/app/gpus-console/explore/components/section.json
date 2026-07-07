@@ -1,0 +1,19 @@
+{
+  "balanceIsNotEnough": "残高が不足しています。",
+  "cudaVersionIsIncompatible": "CUDA バージョンに互換性がありません",
+  "deploy": "デプロイ",
+  "entrypointLengthCannotExceed2047Characters": "エントリーポイントの長さは2047文字を超えることはできません",
+  "environmentVariablesKeyCanNotBe": "環境変数キーを空にすることはできません。",
+  "httpportFieldMustHaveLessThan": "HttpPort フィールドの項目数は10個以下である必要があります。",
+  "insufficientResources": "リソースが不足しています",
+  "loginFailurePleaseLogInAgain": "ログインに失敗しました。再度ログインしてください",
+  "noAvailableSpotInstancesInThis": "このリージョンで利用可能なスポットインスタンスがありません。代わりにオンデマンドをお試しください。",
+  "pleaseEnterValidImage": "有効な画像を入力してください",
+  "pleaseEnterValidNetworkMountPath": "有効なネットワークマウントパスを入力してください。",
+  "pleaseEnterValidVolumeMountPath": "有効なボリュームマウントパスを入力してください。",
+  "pleaseInputValidVolumeDiskSize": "有効なボリュームディスクサイズを入力してください",
+  "pleaseLogInFirst": "先にログインしてください",
+  "pleaseSelectAProductWithStock": "在庫のある製品を選択してください。",
+  "success": "成功",
+  "theVolumeMountPathAndNetwork": "ボリュームのマウントパスとネットワークのマウントパスを同じにすることはできません。"
+}

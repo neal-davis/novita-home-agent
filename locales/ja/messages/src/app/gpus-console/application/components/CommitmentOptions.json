@@ -1,0 +1,10 @@
+{
+  "commitment": "コミットメント",
+  "message50OffInterruptible": "50% オフ、中断可能",
+  "onDemand": "オンデマンド",
+  "payAOneTimeFixedFee": "長期コミットメントに対して一回限りの固定料金を支払い、安定した専用リソースを予約します。",
+  "payAsYouGoWithCosts": "従量課金制で、実際の使用時間に基づいて費用が発生します。",
+  "spot": "スポット",
+  "spotInstancesOfferLowPricesBut": "スポットインスタンスは低価格で提供されますが、いつでも中断される可能性があります。",
+  "subscription": "サブスクリプション"
+}

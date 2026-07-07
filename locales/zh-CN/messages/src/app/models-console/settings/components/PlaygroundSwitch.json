@@ -1,0 +1,10 @@
+{
+  "cancel": "取消",
+  "dedicatedEndpointsResources": "专用端点资源",
+  "learnMore": "了解更多",
+  "operationFailed": "操作失败",
+  "playground": "体验区",
+  "pleaseNoteThatThisWillShare": "请注意，这将与其他生成任务共享您的专用端点资源，并可能影响其性能。",
+  "useDedicatedEndpointsResources": "使用专用端点资源",
+  "yourCurrentPayAsYouGo": "您当前的按量付费计划不包含企业资源访问权限。升级以解锁这些功能。"
+}

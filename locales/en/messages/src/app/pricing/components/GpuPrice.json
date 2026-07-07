@@ -1,0 +1,16 @@
+{
+  "billingMethod": "Billing Method",
+  "getStarted": "Get Started",
+  "message1x": "1x",
+  "message1xGpu": "1x GPU",
+  "message8xGpu": "8x GPU",
+  "onDemand": "On-Demand",
+  "onDemand1xGpu": "On-Demand · 1x GPU",
+  "onDemand8xGpu": "On-Demand · 8x GPU",
+  "pricing": "Pricing",
+  "specification": "Specification",
+  "spot": "Spot",
+  "spot1xGpu": "Spot · 1x GPU",
+  "spot8xGpu": "Spot · 8x GPU",
+  "spotInstanceInfo": "Spot Instance Info"
+}

@@ -1,0 +1,72 @@
+name: CI
+
+# 质量门禁：PR 必须通过这些检查才能合并（在仓库 Settings → Branches →
+# Branch protection 里把下方 job "pre-build-check" 设为 required status check）。
+# 这些检查从 Vercel 构建阶段移到这里，构建阶段只负责 next build。
+
+on:
+  pull_request:
+    branches: [main]
+  # 允许在 main 上直接 push 时也跑一遍（合并后兜底）
+  push:
+    branches: [main]
+
+# 同一 PR 新 push 时取消上一次未跑完的 run
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  pre-build-check:
+    name: pre-build-check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
+          ref: ${{ github.sha }}
+          submodules: false
+          persist-credentials: false
+          show-progress: false
+
+      - name: Setup Node
+        uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e
+        with:
+          node-version: 24.17.0
+          package-manager-cache: false
+          check-latest: false
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --prefer-offline --no-audit --no-fund
+
+      - name: Restore TypeScript cache
+        uses: actions/cache@v4
+        with:
+          path: tsconfig.tsbuildinfo
+          key: ${{ runner.os }}-tsc-${{ hashFiles('tsconfig.json', 'package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-tsc-
+
+      - name: Forbidden keywords
+        run: node scripts/check-forbidden-keywords.js
+
+      - name: Test location
+        run: npm run test:location
+
+      - name: ESLint
+        run: npm run lint:ci
+
+      - name: i18n lint
+        run: npm run i18n:lint
+
+      # i18n:check 校验生成的 message/manifest 文件是否与源文件同步
+      - name: i18n check (generated files up to date)
+        run: npm run i18n:check
+
+      - name: Jest unit coverage
+        run: npm run test:unit:coverage:ci
+
+      - name: TypeScript
+        run: npx tsc --noEmit

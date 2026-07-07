@@ -1,0 +1,16 @@
+{
+  "createTime": "Create Time",
+  "creator": "Creator",
+  "delete": "Delete",
+  "deploy": "Deploy",
+  "edit": "Edit",
+  "gbI": "GB I",
+  "itIsHighlyAdvisableToContinually": "It is highly advisable to continually back up anything you want to save offsite locally or to a cloud provider.",
+  "networkVolumeIsProvidedInThe": "Network Volume is provided in the pursuit of running tasks using its GPUs and is",
+  "newNetworkVolume": "+ New Network Volume",
+  "notMeantToBeALong": "not meant to be a long-term backup solution.",
+  "pleaseNoteThatIfYourAccount": "Please note that if your account is in arrears and no instances are running, your Network Volume will be",
+  "released3DaysLater": "released 3 days later.",
+  "storageNameIdFilter": "Storage Name/ID Filter",
+  "success": "success"
+}

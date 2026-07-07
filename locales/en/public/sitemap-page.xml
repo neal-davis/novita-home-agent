@@ -1,0 +1,1968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+        <loc>https://novita.ai</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai" />
+    </url>
+    <url>
+        <loc>https://novita.ai/models</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/models</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/models</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/models</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/models</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/models</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/models</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models" />
+    </url>
+    <url>
+        <loc>https://novita.ai/models/llm</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/llm" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/llm" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/llm" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/llm" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/llm" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/llm" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/llm" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/llm" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/models/llm</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/llm" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/llm" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/llm" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/llm" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/llm" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/llm" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/llm" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/llm" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/models/llm</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/llm" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/llm" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/llm" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/llm" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/llm" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/llm" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/llm" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/llm" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/models/llm</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/llm" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/llm" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/llm" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/llm" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/llm" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/llm" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/llm" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/llm" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/models/llm</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/llm" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/llm" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/llm" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/llm" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/llm" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/llm" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/llm" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/llm" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/models/llm</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/llm" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/llm" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/llm" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/llm" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/llm" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/llm" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/llm" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/llm" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/models/llm</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/llm" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/llm" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/llm" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/llm" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/llm" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/llm" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/llm" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/llm" />
+    </url>
+    <url>
+        <loc>https://novita.ai/models/image</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/image" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/image" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/image" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/image" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/image" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/image" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/image" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/image" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/models/image</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/image" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/image" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/image" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/image" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/image" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/image" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/image" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/image" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/models/image</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/image" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/image" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/image" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/image" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/image" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/image" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/image" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/image" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/models/image</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/image" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/image" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/image" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/image" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/image" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/image" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/image" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/image" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/models/image</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/image" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/image" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/image" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/image" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/image" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/image" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/image" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/image" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/models/image</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/image" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/image" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/image" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/image" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/image" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/image" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/image" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/image" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/models/image</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/image" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/image" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/image" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/image" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/image" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/image" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/image" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/image" />
+    </url>
+    <url>
+        <loc>https://novita.ai/models/voices</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/voices" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/voices" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/voices" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/voices" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/voices" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/voices" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/voices" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/voices" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/models/voices</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/voices" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/voices" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/voices" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/voices" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/voices" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/voices" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/voices" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/voices" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/models/voices</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/voices" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/voices" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/voices" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/voices" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/voices" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/voices" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/voices" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/voices" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/models/voices</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/voices" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/voices" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/voices" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/voices" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/voices" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/voices" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/voices" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/voices" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/models/voices</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/voices" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/voices" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/voices" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/voices" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/voices" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/voices" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/voices" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/voices" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/models/voices</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/voices" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/voices" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/voices" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/voices" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/voices" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/voices" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/voices" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/voices" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/models/voices</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/voices" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/voices" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/voices" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/voices" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/voices" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/voices" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/voices" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/voices" />
+    </url>
+    <url>
+        <loc>https://novita.ai/models/end-of-service</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/end-of-service" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/models/end-of-service</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/end-of-service" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/models/end-of-service</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/end-of-service" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/models/end-of-service</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/end-of-service" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/models/end-of-service</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/end-of-service" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/models/end-of-service</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/end-of-service" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/models/end-of-service</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/models/end-of-service" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/models/end-of-service" />
+    </url>
+    <url>
+        <loc>https://novita.ai/gpus</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpus" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpus" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpus" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpus" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpus" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpus" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpus" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpus" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/gpus</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpus" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpus" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpus" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpus" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpus" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpus" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpus" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpus" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/gpus</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpus" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpus" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpus" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpus" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpus" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpus" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpus" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpus" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/gpus</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpus" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpus" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpus" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpus" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpus" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpus" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpus" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpus" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/gpus</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpus" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpus" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpus" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpus" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpus" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpus" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpus" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpus" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/gpus</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpus" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpus" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpus" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpus" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpus" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpus" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpus" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpus" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/gpus</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpus" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpus" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpus" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpus" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpus" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpus" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpus" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpus" />
+    </url>
+    <url>
+        <loc>https://novita.ai/gpus-spot</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpus-spot" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/gpus-spot</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpus-spot" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/gpus-spot</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpus-spot" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/gpus-spot</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpus-spot" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/gpus-spot</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpus-spot" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/gpus-spot</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpus-spot" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/gpus-spot</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpus-spot" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpus-spot" />
+    </url>
+    <url>
+        <loc>https://novita.ai/gpu-baremetal</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpu-baremetal" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/gpu-baremetal</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpu-baremetal" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/gpu-baremetal</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpu-baremetal" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/gpu-baremetal</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpu-baremetal" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/gpu-baremetal</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpu-baremetal" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/gpu-baremetal</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpu-baremetal" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/gpu-baremetal</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/gpu-baremetal" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/gpu-baremetal" />
+    </url>
+    <url>
+        <loc>https://novita.ai/serverless</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/serverless" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/serverless" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/serverless" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/serverless" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/serverless" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/serverless" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/serverless" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/serverless" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/serverless</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/serverless" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/serverless" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/serverless" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/serverless" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/serverless" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/serverless" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/serverless" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/serverless" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/serverless</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/serverless" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/serverless" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/serverless" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/serverless" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/serverless" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/serverless" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/serverless" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/serverless" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/serverless</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/serverless" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/serverless" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/serverless" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/serverless" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/serverless" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/serverless" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/serverless" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/serverless" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/serverless</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/serverless" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/serverless" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/serverless" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/serverless" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/serverless" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/serverless" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/serverless" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/serverless" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/serverless</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/serverless" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/serverless" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/serverless" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/serverless" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/serverless" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/serverless" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/serverless" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/serverless" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/serverless</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/serverless" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/serverless" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/serverless" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/serverless" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/serverless" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/serverless" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/serverless" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/serverless" />
+    </url>
+    <url>
+        <loc>https://novita.ai/sandbox</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/sandbox" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/sandbox" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/sandbox" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/sandbox" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/sandbox" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/sandbox" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/sandbox" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/sandbox" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/sandbox</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/sandbox" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/sandbox" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/sandbox" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/sandbox" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/sandbox" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/sandbox" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/sandbox" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/sandbox" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/sandbox</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/sandbox" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/sandbox" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/sandbox" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/sandbox" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/sandbox" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/sandbox" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/sandbox" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/sandbox" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/sandbox</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/sandbox" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/sandbox" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/sandbox" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/sandbox" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/sandbox" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/sandbox" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/sandbox" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/sandbox" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/sandbox</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/sandbox" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/sandbox" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/sandbox" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/sandbox" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/sandbox" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/sandbox" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/sandbox" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/sandbox" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/sandbox</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/sandbox" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/sandbox" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/sandbox" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/sandbox" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/sandbox" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/sandbox" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/sandbox" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/sandbox" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/sandbox</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/sandbox" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/sandbox" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/sandbox" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/sandbox" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/sandbox" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/sandbox" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/sandbox" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/sandbox" />
+    </url>
+    <url>
+        <loc>https://novita.ai/templates</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/templates" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/templates" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/templates" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/templates" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/templates" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/templates" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/templates" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/templates" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/templates</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/templates" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/templates" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/templates" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/templates" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/templates" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/templates" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/templates" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/templates" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/templates</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/templates" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/templates" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/templates" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/templates" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/templates" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/templates" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/templates" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/templates" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/templates</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/templates" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/templates" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/templates" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/templates" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/templates" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/templates" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/templates" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/templates" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/templates</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/templates" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/templates" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/templates" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/templates" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/templates" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/templates" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/templates" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/templates" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/templates</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/templates" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/templates" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/templates" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/templates" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/templates" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/templates" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/templates" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/templates" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/templates</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/templates" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/templates" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/templates" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/templates" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/templates" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/templates" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/templates" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/templates" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pricing</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/pricing" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/pricing" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/pricing" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/pricing" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/pricing" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/pricing" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/pricing" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/pricing" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/pricing</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/pricing" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/pricing" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/pricing" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/pricing" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/pricing" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/pricing" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/pricing" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/pricing" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/pricing</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/pricing" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/pricing" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/pricing" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/pricing" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/pricing" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/pricing" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/pricing" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/pricing" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/pricing</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/pricing" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/pricing" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/pricing" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/pricing" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/pricing" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/pricing" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/pricing" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/pricing" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/pricing</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/pricing" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/pricing" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/pricing" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/pricing" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/pricing" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/pricing" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/pricing" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/pricing" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/pricing</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/pricing" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/pricing" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/pricing" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/pricing" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/pricing" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/pricing" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/pricing" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/pricing" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/pricing</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/pricing" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/pricing" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/pricing" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/pricing" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/pricing" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/pricing" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/pricing" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/pricing" />
+    </url>
+    <url>
+        <loc>https://novita.ai/legal</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/legal</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/legal</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/legal</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/legal</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/legal</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/legal</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal" />
+    </url>
+    <url>
+        <loc>https://novita.ai/legal/terms-of-service</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/terms-of-service" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/legal/terms-of-service</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/terms-of-service" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/legal/terms-of-service</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/terms-of-service" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/legal/terms-of-service</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/terms-of-service" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/legal/terms-of-service</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/terms-of-service" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/legal/terms-of-service</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/terms-of-service" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/legal/terms-of-service</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/terms-of-service" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/terms-of-service" />
+    </url>
+    <url>
+        <loc>https://novita.ai/legal/privacy-policy</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/privacy-policy" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/legal/privacy-policy</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/privacy-policy" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/legal/privacy-policy</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/privacy-policy" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/legal/privacy-policy</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/privacy-policy" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/legal/privacy-policy</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/privacy-policy" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/legal/privacy-policy</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/privacy-policy" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/legal/privacy-policy</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/privacy-policy" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/privacy-policy" />
+    </url>
+    <url>
+        <loc>https://novita.ai/legal/dedicated-endpoints-sla</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/dedicated-endpoints-sla" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/legal/dedicated-endpoints-sla</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/dedicated-endpoints-sla" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/legal/dedicated-endpoints-sla</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/dedicated-endpoints-sla" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/legal/dedicated-endpoints-sla</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/dedicated-endpoints-sla" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/legal/dedicated-endpoints-sla</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/dedicated-endpoints-sla" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/legal/dedicated-endpoints-sla</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/dedicated-endpoints-sla" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/legal/dedicated-endpoints-sla</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/legal/dedicated-endpoints-sla" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/legal/dedicated-endpoints-sla" />
+    </url>
+    <url>
+        <loc>https://novita.ai/user/login</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/login" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/login" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/login" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/login" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/login" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/login" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/login" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/login" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/user/login</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/login" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/login" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/login" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/login" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/login" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/login" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/login" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/login" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/user/login</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/login" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/login" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/login" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/login" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/login" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/login" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/login" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/login" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/user/login</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/login" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/login" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/login" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/login" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/login" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/login" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/login" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/login" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/user/login</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/login" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/login" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/login" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/login" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/login" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/login" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/login" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/login" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/user/login</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/login" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/login" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/login" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/login" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/login" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/login" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/login" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/login" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/user/login</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/login" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/login" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/login" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/login" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/login" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/login" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/login" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/login" />
+    </url>
+    <url>
+        <loc>https://novita.ai/user/register</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/register" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/register" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/register" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/register" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/register" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/register" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/register" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/register" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/user/register</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/register" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/register" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/register" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/register" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/register" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/register" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/register" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/register" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/user/register</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/register" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/register" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/register" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/register" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/register" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/register" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/register" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/register" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/user/register</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/register" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/register" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/register" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/register" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/register" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/register" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/register" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/register" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/user/register</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/register" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/register" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/register" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/register" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/register" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/register" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/register" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/register" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/user/register</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/register" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/register" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/register" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/register" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/register" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/register" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/register" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/register" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/user/register</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/register" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/register" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/register" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/register" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/register" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/register" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/register" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/register" />
+    </url>
+    <url>
+        <loc>https://novita.ai/user/reset</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/reset" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/reset" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/reset" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/reset" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/reset" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/reset" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/reset" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/reset" />
+    </url>
+    <url>
+        <loc>https://novita.ai/zh/user/reset</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/reset" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/reset" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/reset" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/reset" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/reset" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/reset" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/reset" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/reset" />
+    </url>
+    <url>
+        <loc>https://novita.ai/es/user/reset</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/reset" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/reset" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/reset" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/reset" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/reset" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/reset" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/reset" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/reset" />
+    </url>
+    <url>
+        <loc>https://novita.ai/pt/user/reset</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/reset" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/reset" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/reset" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/reset" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/reset" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/reset" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/reset" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/reset" />
+    </url>
+    <url>
+        <loc>https://novita.ai/fr/user/reset</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/reset" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/reset" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/reset" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/reset" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/reset" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/reset" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/reset" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/reset" />
+    </url>
+    <url>
+        <loc>https://novita.ai/de/user/reset</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/reset" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/reset" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/reset" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/reset" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/reset" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/reset" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/reset" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/reset" />
+    </url>
+    <url>
+        <loc>https://novita.ai/ja/user/reset</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://novita.ai/user/reset" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://novita.ai/zh/user/reset" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://novita.ai/es/user/reset" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://novita.ai/pt/user/reset" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://novita.ai/fr/user/reset" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://novita.ai/de/user/reset" />
+        <xhtml:link rel="alternate" hreflang="ja" href="https://novita.ai/ja/user/reset" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://novita.ai/user/reset" />
+    </url>
+</urlset>

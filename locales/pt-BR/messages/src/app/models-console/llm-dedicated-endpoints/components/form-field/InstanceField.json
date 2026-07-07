@@ -1,0 +1,7 @@
+{
+  "instanceType": "Tipo de instância",
+  "insufficientGpuResourcesPleaseRetryAfter": "Recursos de GPU insuficientes. Tente novamente depois de algum tempo.",
+  "selectGpu": "Selecionar GPU",
+  "thereIsCurrentlyNoRecommendedGpu": "No momento, não há nenhuma configuração de GPU recomendada.",
+  "xGpu": "X GPU $"
+}

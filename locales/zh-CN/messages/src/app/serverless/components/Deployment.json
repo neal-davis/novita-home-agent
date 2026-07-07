@@ -1,0 +1,14 @@
+{
+  "configureCustomElasticScalingStrategiesThrough": "通过简单的界面配置自定义弹性伸缩策略。支持基于模板创建并实时调整，无需复杂操作。",
+  "instantColdStart": "即时冷启动",
+  "privateImageQuickDeployment": "私有镜像，快速部署",
+  "readyToUseEasyConfiguration": "开箱即用，轻松配置",
+  "realTimeLogsMonitoring": "实时日志，监控",
+  "retainAndReviewLogsInReal": "实时保留并查看日志。监控关键指标和任务执行情况，让你全面了解正在运行的实例，并确保平稳运行。",
+  "serverlessColdStart": "无服务器冷启动",
+  "serverlessConfig": "无服务器配置",
+  "serverlessConsoleDemo": "无服务器控制台演示",
+  "serverlessLog": "无服务器日志",
+  "supportPrivateImagePullsFromDockerhub": "支持从 DockerHub 拉取私有镜像或上传自定义镜像。快速部署实例并按需扩展，且不影响正在运行的服务。",
+  "throughOptimizedPreloadingOurPlatformMinimizes": "通过优化预加载，我们的平台最大限度减少冷启动延迟，确保你的业务运行始终保持响应。"
+}

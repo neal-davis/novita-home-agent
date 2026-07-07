@@ -1,0 +1,7 @@
+{
+  "autoRenewIsEnabledButNo": "Le renouvellement automatique est activé, mais aucun mode de paiement valide n’est détecté. Le renouvellement échouera et passera au paiement à l’utilisation. Veuillez ajouter un mode de paiement.",
+  "autoRenewOff": "Renouvellement automatique : désactivé",
+  "budgetIsInsufficient": "Le budget est insuffisant.",
+  "lessThan3DaysLeftPlease": "Il reste moins de 3 jours. Veuillez renouveler bientôt.",
+  "moreThan3DaysLeftPlease": "Il reste plus de 3 jours. Veuillez vérifier le renouvellement."
+}

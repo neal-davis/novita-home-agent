@@ -1,0 +1,10 @@
+{
+  "dedicatedPhysicalGpuClustersForLarge": "大規模な推論、トレーニング実行、スループットを妥協できないエンタープライズ導入向けの専用物理 GPU クラスター。ハードウェアを独占する必要があるなら、これが最適です。",
+  "deployModelsRunInferenceTrainFrom": "モデルのデプロイ、推論の実行、ゼロからのトレーニングを、完全に制御できる専用 GPU インスタンス上で行えます。予測可能なパフォーマンス。共有リソースなし。想定外なし。",
+  "fullControlGpuMachinesYoursIn": "完全に制御できる GPU マシン。数秒であなた専用に。",
+  "getStarted": "始める",
+  "gpuCloud": "GPU クラウド",
+  "maximumPerformanceZeroAbstractionOverhead": "最大のパフォーマンス。抽象化によるオーバーヘッドはゼロ。",
+  "noInstancesToProvisionNoIdle": "プロビジョニングするインスタンスは不要。アイドル状態のコンピュートに支払う必要もありません。Novita は GPU リソースを自動的に割り当て、負荷時にはスケールアップし、完了後はゼロまでスケールダウンします。実行分だけを支払い、それ以外は一切不要です。",
+  "submitAJobWeHandleThe": "ジョブを送信してください。残りは私たちが処理します。"
+}

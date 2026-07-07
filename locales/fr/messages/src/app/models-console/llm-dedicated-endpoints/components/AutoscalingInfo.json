@@ -1,0 +1,14 @@
+{
+  "autoscalingChangesTakeEffectWithin5": "Les modifications de mise à l’échelle automatique prennent effet sous 5 minutes",
+  "autoscalingConfiguration": "Configuration de la mise à l’échelle automatique",
+  "cancel": "Annuler",
+  "disabled": "Désactivé",
+  "edit-530164": "Modifier",
+  "edit-a15b1c": "Modifier (",
+  "enabled": "Activé",
+  "maxReplicas": "Nombre maximal de réplicas",
+  "minReplicas": "Nombre minimal de réplicas",
+  "save": "Enregistrer",
+  "scaleDownDelay": "Délai de réduction de l’échelle",
+  "scaleToZero": "Mise à l’échelle à zéro"
+}

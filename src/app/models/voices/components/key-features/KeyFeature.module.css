@@ -1,0 +1,20 @@
+.page_wrap {
+  display: flex;
+  padding: 90px 0 120px;
+  width: 100%;
+}
+
+.box {
+  width: 1200px;
+  margin: auto;
+}
+
+.icon {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  top: -45px;
+  border-radius: 50%;
+  background: var(--white);
+  border: 1px solid var(--border);
+}

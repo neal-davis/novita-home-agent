@@ -1,0 +1,8 @@
+{
+  "confirm": "Confirmer",
+  "invalidEmailAddress": "Adresse e-mail invalide.",
+  "password": "Mot de passe",
+  "passwordConfirmation": "Confirmation du mot de passe",
+  "passwordResetSuccessfully": "Mot de passe réinitialisé avec succès.",
+  "resetPassword": "Réinitialiser le mot de passe"
+}

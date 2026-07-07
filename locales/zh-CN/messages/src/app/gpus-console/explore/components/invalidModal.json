@@ -1,0 +1,6 @@
+{
+  "cancel": "取消",
+  "updateTemplateNow": "立即更新模板",
+  "volumeDiskMounting": "卷磁盘挂载",
+  "yourTemplateCurrentlyIncludesVolumeDisk": "您的模板当前包含卷磁盘挂载，该功能已不再受支持（容器磁盘已扩容）。请更新您的模板，移除卷磁盘挂载配置，并将数据存储在容器磁盘上。"
+}

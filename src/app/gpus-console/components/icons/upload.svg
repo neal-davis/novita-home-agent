@@ -1,0 +1,21 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 28">
+<g id="&#240;&#159;&#166;&#134; icon &#34;upload&#34;">
+<path id="Vector" d="M0 0.000976562H59.9955V59.9976H0V0.000976562Z" fill="white" fill-opacity="0.01"/>
+<g id="Mask group">
+<mask id="mask0_928_1146" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="61" height="60">
+<g id="Group">
+<path id="Vector_2" d="M0.00585938 0H60.0013V59.9966H0.00585938V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_928_1146)">
+<g id="Group_2">
+<path id="Vector_3" d="M7.50391 30.0104V52.4987H52.5005V30" stroke="white" stroke-width="2.99996" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M41.2503 18.7498L30.0011 7.50049L18.752 18.7498" stroke="white" stroke-width="2.99996" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M29.9902 39.9986V7.50049" stroke="white" stroke-width="2.99996" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

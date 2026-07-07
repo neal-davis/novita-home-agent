@@ -1,0 +1,21 @@
+{
+  "addAlert": "Warnung hinzufügen",
+  "balanceAlertsAreTriggeredBasedOn": "Kontostandwarnungen werden basierend auf Ihrem verfügbaren Kredit ausgelöst, der Ihren Kontostand und das verbleibende Kreditlimit umfasst.",
+  "cancel": "Abbrechen",
+  "confirm": "Bestätigen",
+  "editAlert": "Warnung bearbeiten",
+  "email": "E-Mail",
+  "enableStatus": "Aktivierungsstatus",
+  "enterAmount": "Betrag eingeben",
+  "inbox": "Posteingang",
+  "notificationMembers": "Benachrichtigte Mitglieder",
+  "notificationMethod": "Benachrichtigungsmethode",
+  "pleaseEnterTheWarningAmount": "Bitte geben Sie den Warnbetrag ein",
+  "pleaseSelectAtLeastOneNotification": "Bitte wählen Sie mindestens eine Benachrichtigungsmethode aus",
+  "selectMethods": "Methoden auswählen",
+  "theMaximumPostpaidAmountApprovedBased": "Der maximale Postpaid-Betrag, der basierend auf dem Kreditprofil Ihres Kontos genehmigt wurde und es Ihnen ermöglicht, zuerst zu nutzen und später zu bezahlen.",
+  "theWarningAmountMustBeBetween": "Der Warnbetrag muss zwischen $1 und $10,000,000 liegen, und der Abstand zwischen Beträgen mit aktivem Warnstatus muss mindestens $5 betragen.",
+  "thresholdMustBeAnInteger": "Der Schwellenwert muss eine ganze Zahl sein",
+  "thresholdMustBeBetween1And": "Der Schwellenwert muss zwischen 1 und 10000000 liegen",
+  "warningAmount": "Warnbetrag"
+}

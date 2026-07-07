@@ -1,0 +1,15 @@
+{
+  "allowAgentsToAccessExternalApis": "必要に応じて、エージェントが外部 APIs やオンラインデータにアクセスできるようにします。",
+  "automateWebNavigationFormFillingAnd": "Web ナビゲーション、フォーム入力、コンテンツのスクレイピングを自動化します。",
+  "browserUse": "ブラウザの使用",
+  "codeExecution": "コード実行",
+  "computerUse": "コンピューターの使用",
+  "controlFullGuiEnvironmentsInputText": "完全な GUI 環境を制御します: テキスト入力、ページのスクロール、スクリーンショットの撮影など。",
+  "enableAgentsToInteractWithGui": "エージェントが GUI と対話し、VNC 経由でタスク実行をストリーミングできるようにします。",
+  "networkAccess": "ネットワークアクセス",
+  "pauseAndResumeLongRunningAgent": "進行状況を失うことなく、長時間実行されるエージェントタスクを一時停止および再開します。",
+  "runPythonJavascriptCAndOther": "安全なサンドボックス内で Python、JavaScript、C++ などの言語を実行します。",
+  "sandboxCapabilities": "サンドボックス機能",
+  "sessionPersistence": "セッションの永続性",
+  "visualOutput": "視覚的出力"
+}

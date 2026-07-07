@@ -1,0 +1,17 @@
+{
+  "all": "すべて",
+  "audio": "音声",
+  "embedding": "埋め込み",
+  "exploreModelsReadyForProductionDeploy": "本番環境に対応したモデルを探索 — 数秒でデプロイ。",
+  "image": "画像",
+  "modelLibrary": "モデルライブラリ",
+  "models": "モデル (",
+  "noModelsFoundTryAdjustingYour": "モデルが見つかりません。フィルターを調整してみてください。",
+  "reranker": "リランカー",
+  "seeEventTerms": "イベント規約を見る",
+  "textToAudio": "テキストから音声へ",
+  "textToImage": "テキストから画像へ",
+  "textToText": "テキストからテキストへ",
+  "video": "動画",
+  "vision": "ビジョン"
+}

@@ -1,0 +1,5 @@
+{
+  "_comment": "Empty /api/v1/endpoints response for the no-data branch of /gpus-console/serverless. Container -> getEndpoints returns [] -> DefaultGuide renders. No PII.",
+  "endpoints": [],
+  "total": 0
+}

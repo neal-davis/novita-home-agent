@@ -1,0 +1,144 @@
+.article {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 40px var(--spacing-layout-inner-x) 0;
+
+  .bg {
+    position: absolute;
+    right: -117px;
+    top: 40px;
+  }
+
+  .tag {
+    font-family: var(--font-tt-mono);
+    text-transform: uppercase;
+    font-size: 12px;
+    color: var(--dark-2);
+    margin-bottom: 1em;
+  }
+
+  .title {
+    @include font-h2;
+    max-width: 520px;
+  }
+}
+
+.container {
+  padding-top: calc(64px + 58px);
+  background-color: var(--white);
+
+  .link_info_box {
+    margin: 32px 0;
+    // max-width: 520px;
+
+    .list {
+      li {
+        color: var(--dark-2);
+        font-size: 16px;
+        line-height: 24px;
+
+        span {
+          color: var(--brand-1);
+        }
+
+        a {
+          font-family: var(--font-tt-mono);
+          text-decoration: underline;
+          color: var(--brand-1);
+        }
+      }
+    }
+  }
+
+  .client_box {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 155px;
+    padding: 0 var(--spacing-layout-inner-x);
+  }
+
+  .conversion_container {
+    display: flex;
+    gap: 16px;
+    margin: 90px 0;
+
+    & > div {
+      flex: 1;
+      border-radius: 8px;
+      background-color: var(--gray-3);
+      box-sizing: border-box;
+      padding: 26px;
+      min-height: 170px;
+    }
+
+    .title1 {
+      font-size: 20px;
+      line-height: 24px;
+      font-family: var(--font-tt-mono);
+      color: var(--dark-1);
+      margin-bottom: 17px;
+    }
+
+    .desc1 {
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 16px;
+      color: var(--dark-1);
+      font-family: var(--font-tt-mono);
+      margin-bottom: 26px;
+    }
+
+    .value {
+      font-size: 20px;
+      line-height: 24px;
+      font-family: var(--font-tt-mono);
+      color: var(--black);
+    }
+  }
+
+  .notice_container {
+    display: flex;
+    gap: 8px;
+    padding: 24px;
+    border: 1px solid var(--gray-2);
+    border-radius: 8px;
+
+    .content {
+      .d1 {
+        color: var(--black);
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 24px;
+      }
+      .ul {
+        margin-top: 10px;
+        li {
+          font-style: normal;
+          font-weight: 400;
+          line-height: 24px;
+          font-size: 16px;
+          color: var(--dark-2);
+          font-family: var(--font-tt-mono);
+
+          a {
+            text-decoration: underline;
+            margin-left: 0.5em;
+            color: inherit;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .container {
+    .conversion_container {
+      flex-direction: column;
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "action": "Ação",
+  "dateRange": "Intervalo de datas",
+  "failedToGetAuditLogs": "Falha ao obter logs de auditoria",
+  "member": "Membro",
+  "resource": "Recurso",
+  "resourceGroup": "Grupo de recursos",
+  "resourceId": "ID do recurso",
+  "search": "Pesquisar",
+  "timestamp": "Carimbo de data/hora"
+}

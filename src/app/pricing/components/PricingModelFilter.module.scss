@@ -1,0 +1,18 @@
+.filter_button {
+  height: 32px;
+  padding-left: 10px;
+  padding-right: 10px;
+  @include font-small-console;
+  color: var(--black);
+  border: 1px solid var(--gray-1);
+}
+
+.filter_button_active {
+  border: 1px solid var(--brand-0);
+  background-color: var(--brand-2);
+}
+
+.select_label {
+  color: var(--dark-2);
+  margin-right: 8px;
+}

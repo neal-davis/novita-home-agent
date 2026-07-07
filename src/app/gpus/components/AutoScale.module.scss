@@ -1,0 +1,47 @@
+.container {
+  background-color: var(--gray-3);
+
+  .wrap {
+    background-image: url("/gpus/gpus-bg-03.png");
+    background-size: 119% auto;
+    background-position: -51px 369px;
+    background-repeat: no-repeat;
+
+    .content {
+      width: 345px;
+      padding-top: 60px;
+      padding-bottom: 380px;
+
+      .title {
+        margin-bottom: 24px;
+        @include font-h4-large;
+        color: var(--dark-1);
+      }
+
+      .description {
+        margin-bottom: 32px;
+        @include font-body;
+        color: var(--dark-2);
+      }
+    }
+  }
+}
+
+@include screen-md {
+  .container {
+    .wrap {
+      background-size: 58% auto;
+      background-position: right 100px;
+
+      .content {
+        padding-top: 176px;
+        padding-bottom: 161px;
+
+        .title {
+          margin-bottom: 32px;
+          @include font-h3;
+        }
+      }
+    }
+  }
+}

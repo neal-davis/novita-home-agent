@@ -1,0 +1,14 @@
+{
+  "novitaAgentSandboxWorkflow": "Novita Agent Sandbox 工作流",
+  "novitaAuthPage": "Novita 认证页面",
+  "novitaConsole": "Novita 控制台",
+  "novitaDocs": "Novita 文档",
+  "novitaGpuWorkflow": "Novita GPU 工作流",
+  "novitaModelApiWorkflow": "Novita Model API 工作流",
+  "openANovitaAgentSandboxWorkflow": "打开 Novita Agent Sandbox 工作流，例如概览、控制台、模板、用量、定价或文档。",
+  "openANovitaAuthenticationPageFor": "打开 Novita 认证页面，用于登录、注册或重置密码。",
+  "openANovitaConsoleAreaSuch": "打开 Novita 控制台区域，例如概览、API 密钥、账单、配额限制、GPU Cloud、Model API 或 Agent Sandbox。",
+  "openANovitaGpuCloudWorkflow": "打开 Novita GPU Cloud 工作流，例如实例、serverless、模板、存储、任务、设置或定价。",
+  "openANovitaModelApiWorkflow": "打开 Novita Model API 工作流，例如模型库、playground、专用端点或定价。",
+  "openNovitaDocumentationForQuickStart": "打开 Novita 文档，查看快速入门、Model API、LLM API、Serverless GPUs、GPU 实例、Sandbox 或 API 参考。"
+}

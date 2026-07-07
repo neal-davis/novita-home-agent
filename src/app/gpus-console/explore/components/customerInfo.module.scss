@@ -1,0 +1,98 @@
+.container {
+  padding: 134px 0 100px 0;
+}
+.subContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0;
+  background: #ffffff;
+  box-shadow: 0px 4px 20px 0px rgba(21, 34, 50, 0.1);
+  border-radius: 12px;
+}
+.section {
+  max-width: 552px;
+  width: 100%;
+  // height: 729px;
+  background: #ffffff;
+  box-shadow: 0px 4px 20px 0px rgba(21, 34, 50, 0.1);
+  border-radius: 16px;
+}
+.subSection {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  padding: 42px 24px 24px 24px;
+  background-image: url("/gpu-instance/explore/icon-welcomebg.png");
+}
+.title {
+  font-size: 28px;
+  color: #11142d;
+  line-height: 28px;
+  font-weight: 900;
+  margin-bottom: 12px;
+}
+.desc {
+  font-size: 16px;
+  color: #514f6e;
+  line-height: 16px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+// .aniItem:hover{
+//   transform: scale(1.01);
+//   transition: all 0.8s ease;
+// }
+.mainSection {
+  background: #ffffff;
+  border-radius: 12px;
+  max-width: 504px;
+  width: 100%;
+  // height: 585px;
+  padding: 24px 32px;
+}
+.subtitle {
+  font-size: 12px;
+  color: #514f6e;
+  line-height: 12px;
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+.aniItem {
+  height: 48px !important;
+  :global {
+    .MuiSelect-select {
+      height: 48px !important;
+      min-height: 48px !important;
+      box-sizing: border-box !important;
+      padding: 13px 14px;
+      display: flex;
+      align-items: center;
+    }
+  }
+}
+.aniItem input::placeholder {
+  font-weight: 350;
+  font-size: 14px;
+  color: #808191;
+  // opacity: 1;
+  line-height: 14px;
+  text-align: left;
+  font-style: normal;
+}
+
+@media screen and (max-width: 1000px) {
+  .container {
+    padding: 86px 0 100px 0;
+  }
+  .title {
+    font-size: 24px;
+  }
+  .desc {
+    font-size: 14px;
+  }
+  .wrap {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

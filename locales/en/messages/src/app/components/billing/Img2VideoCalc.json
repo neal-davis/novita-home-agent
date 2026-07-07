@@ -1,0 +1,11 @@
+{
+  "apiImg2video": "API img2Video",
+  "apiImg2videoMotion": "API img2Video-motion",
+  "apiTxt2video": "API txt2Video",
+  "creditCost": "Credit Cost",
+  "frames": "Frames -",
+  "maxTrainSteps": "Max Train Steps -",
+  "models": "Models -",
+  "steps": "Steps -",
+  "videoApi": "Video API"
+}

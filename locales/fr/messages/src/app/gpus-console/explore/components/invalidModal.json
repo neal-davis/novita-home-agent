@@ -1,0 +1,6 @@
+{
+  "cancel": "Annuler",
+  "updateTemplateNow": "Mettre à jour le modèle maintenant",
+  "volumeDiskMounting": "Montage du disque de volume",
+  "yourTemplateCurrentlyIncludesVolumeDisk": "Votre modèle inclut actuellement le montage du disque de volume, qui n’est plus pris en charge (le disque de conteneur a été étendu). Veuillez mettre à jour votre modèle pour supprimer les configurations de montage du disque de volume et stocker les données sur le disque de conteneur."
+}

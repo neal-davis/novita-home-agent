@@ -1,0 +1,10 @@
+{
+  "agentSandbox": "智能体沙盒",
+  "agentSandboxGpuCloudAgentApplications": "智能体沙盒 — GPU 云、智能体应用、模型 APIs 图示",
+  "getStarted": "开始使用",
+  "noCreditCardRequiredValidFor": "无需信用卡，有效期 90 天",
+  "pricing": "定价",
+  "runtimeForAiAgentsToExecute": "供 AI 智能体执行真实世界任务的运行时",
+  "secureProgrammableSandboxesForAiGenerated": "为 AI 生成的代码、浏览器工作流、计算机使用和长时间运行任务提供安全、可编程的沙盒。",
+  "startFreeWith100Credits": "免费开始，获赠 100 美元额度*"
+}

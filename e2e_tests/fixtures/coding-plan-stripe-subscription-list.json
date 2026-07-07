@@ -1,0 +1,5 @@
+{
+  "_comment": "Empty subscription list for hermetic /coding-plan (client getResourcePackOrderList -> reads .subscriptions). MUST be an array; empty => no existing orders => Subscribe (first-buy) flow for every tier.",
+  "code": 0,
+  "subscriptions": []
+}

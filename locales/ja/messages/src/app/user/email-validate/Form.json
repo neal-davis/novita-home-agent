@@ -1,0 +1,9 @@
+{
+  "confirmMyAccount": "アカウントを確認する",
+  "emailVerification": "メール認証",
+  "emailVerified": "メール認証済み",
+  "invalidParams": "無効なパラメータです。",
+  "pleaseFinishTheCaptchaFirst": "先に captcha を完了してください。",
+  "weJustNeedToMakeSure": "続行する前に、あなたが実在の人物であることを確認する必要があります。下のボタンからアカウントのメールアドレスを確認できます",
+  "youCanNowProceedToThe": "次のステップに進むことができます。"
+}

@@ -1,0 +1,12 @@
+{
+  "and": "and $",
+  "autoRecharge": "Auto Recharge",
+  "autoRechargeIsNotGuaranteedIf": "Auto Recharge is not guaranteed. If a payment attempt fails and your balance reaches 0, your services may be interrupted. Please ensure your payment method is valid and check your balance regularly, or enable a",
+  "bringCreditBackUpTo": "Bring credit back up to",
+  "cancel": "Cancel",
+  "enterAnIntegerAmountBetween": "Enter an integer amount between $",
+  "lowBalanceAlert": "Low Balance Alert",
+  "saveSetting": "Save Setting",
+  "toGetNotifiedInAdvance": "to get notified in advance.",
+  "whenCreditGoesBelow": "When credit goes below"
+}

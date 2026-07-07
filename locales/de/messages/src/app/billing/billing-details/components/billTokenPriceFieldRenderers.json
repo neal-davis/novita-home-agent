@@ -1,0 +1,12 @@
+{
+  "audio": "Audio:",
+  "cachedReadsInput": "Zwischengespeicherte Eingabe (Lesezugriffe)",
+  "cachedWrites1hInput": "Zwischengespeicherte Eingabe (Schreibzugriffe:1h)",
+  "cachedWrites5mInput": "Zwischengespeicherte Eingabe (Schreibzugriffe:5m)",
+  "image": "Bild:",
+  "output": "Ausgabe",
+  "text-0a328f": "Text:",
+  "text-c3328c": "Text",
+  "uncachedInput": "Nicht zwischengespeicherte Eingabe",
+  "video": "Video:"
+}

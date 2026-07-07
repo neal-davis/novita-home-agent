@@ -1,0 +1,17 @@
+.wrap {
+  padding: 18px 0;
+  border-bottom: 1px solid var(--gray-2);
+  @include font-subtle;
+  color: var(--dark-2);
+
+  &:hover {
+    color: var(--brand-0);
+    .icon {
+      color: var(--brand-0);
+    }
+  }
+
+  .icon {
+    color: var(--dark-1);
+  }
+}

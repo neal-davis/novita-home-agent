@@ -1,0 +1,17 @@
+{
+  "all": "Todos",
+  "audio": "Áudio",
+  "embedding": "Incorporação",
+  "exploreModelsReadyForProductionDeploy": "Explore modelos prontos para produção — implante em segundos.",
+  "image": "Imagem",
+  "modelLibrary": "Biblioteca de modelos",
+  "models": "Modelos (",
+  "noModelsFoundTryAdjustingYour": "Nenhum modelo encontrado. Tente ajustar seus filtros.",
+  "reranker": "Reclassificador",
+  "seeEventTerms": "Ver termos do evento",
+  "textToAudio": "Texto para áudio",
+  "textToImage": "Texto para imagem",
+  "textToText": "Texto para texto",
+  "video": "Vídeo",
+  "vision": "Visão"
+}

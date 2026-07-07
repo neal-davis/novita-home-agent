@@ -1,0 +1,9 @@
+{
+  "globallyDistributedGpusWithLocalSpeed": "全球分布式 GPU，本地般速度",
+  "launchInSecondsAcrossGlobalRegions": "数秒内在全球区域启动，非常适合训练和推理。",
+  "novitaBuildMonth2025": "Novita Build Month 2025",
+  "onDemand": "按需",
+  "startNow": "立即开始",
+  "takeAdvantageOfOurHighPerformance": "享受我们的高性能 GPU 实例，最高可享 20% 折扣！",
+  "upTo20Off": "最高 20% 折扣"
+}

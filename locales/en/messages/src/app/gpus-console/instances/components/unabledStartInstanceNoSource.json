@@ -1,0 +1,22 @@
+{
+  "afterMigrationInstanceDetailsEG": "After migration, instance details (e.g., ID, outbound IP) remain unchanged. The image will be securely stored in",
+  "afterMigrationYourInstanceInformationWill": "After migration, your instance information will remain unchanged (such as Instance ID and Egress IP).",
+  "backUpYourData": "back up your data",
+  "cancel": "Cancel",
+  "howeverLocalDataOnTheNode": "However, local data on the node will not be preserved.",
+  "iUnderstandThatCurrentDataWill": "I understand that current data will not be retained after migration, and I have completed a backup.",
+  "ifSelectedTheContainerDiskWill": "If selected, the Container Disk will be imaged and migrated with the instance. The new image includes Container Disk data and is ready to use.",
+  "inAdvanceToPreventLossInstance": "in advance to prevent loss. Instance migration Job can't be terminated.",
+  "migrateData": "Migrate data",
+  "migrateNow": "Migrate now",
+  "noResourcesAvailablePleaseTryAgain": "No resources available, please try again later or contact customer support!",
+  "please": "Please",
+  "pleaseConfirmThatYouHaveBacked": "Please confirm that you have backed up your data.",
+  "success": "success",
+  "theMigrationTaskCannotBeCanceled": "The migration task cannot be canceled once started.",
+  "theNovitaOfficialRepo": "the Novita official Repo.",
+  "thisNodeCurrentlyHasNoAvailable": "This node currently has no available resources. Would you like to migrate to a resource of the same specification?",
+  "toEnsureDataSafety": "To ensure data safety,",
+  "unableToStart": "Unable to start",
+  "weRecommendBackingUpYourData": "we recommend backing up your data in advance."
+}

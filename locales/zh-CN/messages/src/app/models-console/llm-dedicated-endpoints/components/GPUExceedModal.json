@@ -1,0 +1,6 @@
+{
+  "contactUs": "联系我们",
+  "inUse": "使用中：",
+  "pleaseReduceYourRequestOrContact": "请减少您的请求，或联系我们以获取更多 GPU 容量。",
+  "youveExceededYourGpuQuota": "您已超出 GPU 配额。"
+}

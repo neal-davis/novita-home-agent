@@ -1,0 +1,12 @@
+{
+  "back": "返回",
+  "cancel": "取消",
+  "clear": "清除",
+  "download": "下载",
+  "generate": "生成",
+  "prompt": "提示词",
+  "promptIsEmpty": "提示词为空",
+  "redo": "重做",
+  "similarity": "相似度",
+  "undo": "撤销"
+}

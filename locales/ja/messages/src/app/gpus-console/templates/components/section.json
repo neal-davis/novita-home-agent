@@ -1,0 +1,12 @@
+{
+  "community": "コミュニティ",
+  "createTime": "作成日時",
+  "creator": "作成者",
+  "flagged": "フラグ付き",
+  "id": "ID:",
+  "newTemplate": "+ 新規テンプレート",
+  "private": "非公開",
+  "search": "検索",
+  "success": "成功",
+  "templateNameFilter": "テンプレート名フィルター"
+}

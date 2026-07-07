@@ -1,0 +1,4 @@
+{
+  "invalidSecret": "Secreto no válido",
+  "missingTagParam": "Falta el parámetro tag"
+}

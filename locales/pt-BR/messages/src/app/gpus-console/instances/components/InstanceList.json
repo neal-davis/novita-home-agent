@@ -1,0 +1,17 @@
+{
+  "billing": "Cobrança",
+  "containerDisk": "Disco do contêiner",
+  "createTime": "Data de criação",
+  "creator": "Criador",
+  "dataCenter": "Data Center",
+  "disk": "Disco",
+  "editInstanceName": "Editar nome da instância",
+  "expirationTime": "Hora de expiração",
+  "gb": "GB",
+  "gpu": "GPU:",
+  "gpuId": "ID da GPU",
+  "id": "ID:",
+  "localVolumePath": "Caminho do volume local",
+  "networkVolume": "Volume de rede",
+  "template": "Modelo"
+}

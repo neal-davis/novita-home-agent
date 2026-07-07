@@ -1,0 +1,18 @@
+.card {
+  padding: 16px;
+  border-radius: 6px;
+  border: 1px solid var(--gray-2);
+  background-color: var(--white);
+
+  .card_title {
+    margin-bottom: 4px;
+    @include font-subtle-medium;
+    color: var(--dark-1);
+  }
+
+  .card_desc {
+    margin-bottom: 12px;
+    @include font-small-console;
+    color: var(--dark-1);
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "afterMigrationTheNewReplicaWill": "After migration, the new replica will be restored to the snapshot state captured when the migration was initiated or when the automatic failure migration was triggered, helping ensure no data loss during the process.",
+  "dataConsistency": "Data consistency",
+  "importantUpdateEnhancedInstanceMigrationExperience": "Important Update: Enhanced Instance Migration Experience",
+  "ok": "OK",
+  "recommendation": "Recommendation",
+  "reducedServiceInterruption": "Reduced service interruption",
+  "snapshotBasedMigration": "Snapshot-based migration",
+  "theNewMigrationWorkflowReducesService": "The new migration workflow reduces service interruption from minutes to seconds, helping minimize impact to your workloads. The instance's port mapping address will remain unchanged after migration.",
+  "toAchieveTheFastestPossibleService": "To achieve the fastest possible service recovery, we strongly recommend designing and configuring your applications as stateless services. Stateless applications can be migrated without data migration, as they do not depend on persistent local data, enabling faster recovery and reduced migration time.",
+  "weArePleasedToAnnounceA": "We are pleased to announce a major upgrade to the instance migration process on our platform. This enhancement is designed to improve migration stability, reliability, and service continuity.",
+  "whatsNew": "What's New",
+  "whenDataMigrationIsEnabledBoth": "When data migration is enabled, both manual migrations and failure-triggered automatic migrations will be performed based on the instance snapshot captured at the time the migration task is initiated. The platform will create a new replica in the background in advance. Once the new replica is ready, traffic will be switched over and the original replica will be released, ensuring a smoother and more reliable migration experience."
+}

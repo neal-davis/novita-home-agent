@@ -1,0 +1,23 @@
+{
+  "available": "Verfügbar",
+  "balanceIsNotEnough": "Das Guthaben reicht nicht aus.",
+  "cancel": "Abbrechen",
+  "close": "Schließen",
+  "contactSupport": "Support kontaktieren",
+  "createNetworkVolume": "Netzwerk-Volume erstellen",
+  "dataCenterGpuAvailability": "GPU-Verfügbarkeit im Rechenzentrum",
+  "deleteNetworkVolume": "Netzwerk-Volume löschen",
+  "editNetworkVolume": "Netzwerk-Volume bearbeiten",
+  "forLargerVolumes": "für größere Volumes.",
+  "gbMinimum10gb": "GB (mindestens 10GB)",
+  "itIsHighlyAdvisableToContinually": "Es wird dringend empfohlen, alles, was Sie speichern möchten, kontinuierlich lokal außerhalb des Standorts oder bei einem Cloud-Anbieter zu sichern.",
+  "loading": "Wird geladen...",
+  "networkVolumeIsProvidedInThe": "Network Volume wird bereitgestellt, um Aufgaben mit seinen GPUs auszuführen, und ist",
+  "none": "Keine",
+  "notMeantToBeALong": "nicht als langfristige Backup-Lösung gedacht.",
+  "pleaseNoteThatIfYourAccount": "Bitte beachten Sie: Wenn Ihr Konto im Rückstand ist und keine Instanzen ausgeführt werden, wird Ihr Network Volume",
+  "released3DaysLater": "3 Tage später freigegeben.",
+  "save": "Speichern",
+  "selectDataCenter": "Rechenzentrum auswählen",
+  "volumeName": "Volume-Name"
+}

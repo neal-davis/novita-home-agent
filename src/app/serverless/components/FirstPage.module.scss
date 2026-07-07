@@ -1,0 +1,41 @@
+.wrap {
+  margin-top: var(--header-height);
+  padding: calc(var(--spacing-header-bottom) - 70px) 24px 120px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  user-select: none;
+
+  .content {
+    justify-content: space-between;
+
+    .info {
+      padding-top: var(--spacing-header-bottom);
+      max-width: 560px;
+
+      .slogan {
+        @include font-h2;
+      }
+
+      .description {
+        margin: 30px 0 40px;
+        @include font-body-medium;
+      }
+    }
+  }
+
+  @media (max-width: 1000px) {
+    .content {
+      justify-content: center;
+
+      .info {
+        min-width: 50%;
+        text-align: center;
+      }
+
+      & > div > img {
+        margin: 24px;
+      }
+    }
+  }
+}

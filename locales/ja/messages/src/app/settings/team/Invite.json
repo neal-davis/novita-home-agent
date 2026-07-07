@@ -1,0 +1,23 @@
+{
+  "account": "アカウント",
+  "assignAccessPermissionsToMembersBy": "ロールを選択してメンバーにアクセス権限を割り当てます。新しいメンバーごとの予算はデフォルトで無制限です。調整が必要な場合は、「Budgets」ページに移動してください。",
+  "budget": "予算",
+  "cancel": "キャンセル",
+  "changeTheBudgetOnTheBudgets": "招待されたメンバーがチームに参加した後、「予算」ページで予算を変更してください。",
+  "close": "閉じる",
+  "invitationEmailsHaveBeenSentYou": "招待メールが送信されました！以下の招待リンクをチームメンバーに直接共有することもできます。また、これらのリンクは今後の参照用にメンバーリストから引き続きアクセスできます。",
+  "invitationEmailsSentSuccessfully": "招待メールが正常に送信されました！",
+  "invitationFailed": "招待に失敗しました",
+  "inviteLink": "招待リンク",
+  "inviteLinkCopied": "招待リンクをコピーしました",
+  "inviteMembers-2aadfa": "+ メンバーを招待",
+  "inviteMembers-4ee562": "+ メンバーを招待",
+  "inviteMembersToYourTeam": "チームにメンバーを招待",
+  "inviteSelectAntSelectArrowRight": ".invite-select .ant-select-arrow { right: 18px !important; }",
+  "role": "役割",
+  "selectARole": "ロールを選択",
+  "separateMultipleEmailsWithCommas": "複数のメールアドレスはカンマで区切ってください",
+  "status": "ステータス",
+  "unlimited": "無制限",
+  "viewPermissionDetails": "権限の詳細を表示"
+}

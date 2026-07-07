@@ -1,0 +1,14 @@
+{
+  "autoscalingChangesTakeEffectWithin5": "自动扩缩容更改将在 5 分钟内生效",
+  "autoscalingConfiguration": "自动扩缩容配置",
+  "cancel": "取消",
+  "disabled": "已禁用",
+  "edit-530164": "编辑",
+  "edit-a15b1c": "编辑（",
+  "enabled": "已启用",
+  "maxReplicas": "最大副本数",
+  "minReplicas": "最小副本数",
+  "save": "保存",
+  "scaleDownDelay": "缩容延迟",
+  "scaleToZero": "缩容至零"
+}

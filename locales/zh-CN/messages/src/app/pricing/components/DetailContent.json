@@ -1,0 +1,6 @@
+{
+  "agentSandbox": "智能体沙盒",
+  "dedicatedEndpoints": "专用端点",
+  "gpus": "GPUs",
+  "serverlessEndpoints": "无服务器端点"
+}

@@ -1,0 +1,8 @@
+{
+  "setTeamNameFailed": "チーム名の設定に失敗しました",
+  "team": "チーム",
+  "teamInformation": "チーム情報",
+  "teamMember": "チームメンバー",
+  "teamOwnerUuid": "チームオーナーUUID",
+  "teamOwnerUuidCopied": "チームオーナーUUIDをコピーしました"
+}

@@ -1,0 +1,6 @@
+{
+  "createANewEndpoint": "Create a new endpoint",
+  "deployAvailableModelsAndLoraAdapters": "· Deploy available models and LoRA adapters on customizable GPU endpoints with per-hour billing.",
+  "highCostPerformance": "High cost performance",
+  "lowerPricesNoHardRateLimits": "· Lower prices, No hard rate limits, Cheaper under high utilization, Custom base models and multiple LoRAs, Predictable performance unaffected."
+}

@@ -1,0 +1,17 @@
+{
+  "cancel": "Abbrechen",
+  "chooseMotionVideo": "Bewegungsvideo auswählen:",
+  "forOptimalResultsEnsureTheImage": "Für optimale Ergebnisse stellen Sie sicher, dass das Bild Folgendes enthält:",
+  "generate": "Generieren",
+  "heigh": "Höhe",
+  "message1ACleanBackground": "1. einen sauberen Hintergrund",
+  "message2TheUpperHalfOfA": "2. die obere Körperhälfte einer Person",
+  "orChooseFromPresetImages": "Oder aus voreingestellten Bildern wählen:",
+  "queueing": "Wird in die Warteschlange eingereiht...",
+  "seed": "Seed",
+  "steps": "Schritte",
+  "thisTaskMayTakeSomeTime": "Diese Aufgabe kann einige Zeit dauern (einige Minuten), bitte haben Sie Geduld.",
+  "uploadBaseImage": "Basisbild hochladen",
+  "uploadMotionVideo": "Bewegungsvideo hochladen",
+  "width": "Breite"
+}

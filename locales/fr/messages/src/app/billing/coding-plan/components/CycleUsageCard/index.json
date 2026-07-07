@@ -1,0 +1,20 @@
+{
+  "autoRenewal": "renouvellement automatique",
+  "autoRenewalYourCodingPlanPackage": "renouvellement automatique, votre forfait Coding expirera le",
+  "cancel": "Annuler",
+  "cancelSubscription": "Annuler l’abonnement",
+  "changePlan": "Changer de forfait",
+  "confirm": "Confirmer",
+  "cycleUsage": "Utilisation du cycle",
+  "day": "Jour",
+  "ifYouConfirmCancelYour": "Si vous confirmez l’annulation de votre",
+  "no": "Non",
+  "notice": "Avis",
+  "of": "sur",
+  "processing": "Traitement...",
+  "restartAutoRenewal": "Redémarrer le renouvellement automatique",
+  "tokens": "tokens",
+  "until": "Jusqu’au",
+  "used": "% utilisé",
+  "warning": "Avertissement"
+}

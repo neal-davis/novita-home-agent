@@ -1,0 +1,6 @@
+{
+  "connectGithub": "GitHubに接続",
+  "toStartReceivingVouchersConnectAnd": "バウチャーの受け取りを開始するには、GitHubアカウントを連携して認証してください",
+  "verifyToStartReceivingVouchers": "バウチャーの受け取りを開始するには認証してください",
+  "youreCurrentlyUsingATeamAccount": "現在、チームアカウントを使用しています。アカウントを認証できるのはチームオーナーのみです。"
+}

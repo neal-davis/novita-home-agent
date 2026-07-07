@@ -1,0 +1,10 @@
+{
+  "autoscaling": "自动扩缩容",
+  "endpointId": "端点 ID",
+  "engine": "引擎",
+  "engineConfiguration": "引擎配置",
+  "lora": "LoRA",
+  "loraAdapters": "LoRA 适配器",
+  "modelId": "模型 ID",
+  "readOnly": "只读"
+}

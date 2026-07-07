@@ -1,0 +1,168 @@
+.dragger_wrap {
+  position: relative;
+  width: 220px;
+  height: 200px;
+  background-color: var(--gray-1);
+  border-radius: 6px;
+  overflow: hidden;
+  display: flex;
+  justify-content: stretch;
+  align-items: stretch;
+}
+
+.src_img_wrapper {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 0;
+  padding: 12px;
+}
+.src_img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  z-index: 1;
+}
+.src_video {
+  max-height: 100%;
+  max-width: 100%;
+  // object-fit: cover;
+  z-index: 1;
+  flex: 1;
+}
+.src_img_mask {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--gray-1);
+  opacity: 1;
+  z-index: 0;
+  transition: opacity 0.2s ease-out;
+}
+
+.src_delete_btn {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 0px;
+  right: 0px;
+  color: var(--black);
+  z-index: 10;
+  background: transparent;
+
+  .src_delete_icon_wrap {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    bottom: 0;
+    left: 0;
+    line-height: 16px;
+    text-align: center;
+    font-size: 8px;
+    background-color: var(--white);
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  .delete_icon {
+    font-size: 8px;
+  }
+}
+
+.dragger_btn {
+  padding: 0 24px;
+  height: 40px;
+  color: var(--white);
+  border-radius: 20px;
+  background-color: var(--dark-2);
+  transition: background-color 0.2s ease-out;
+}
+
+.dragger_icon {
+  font-size: 48px;
+  color: var(--black);
+  line-height: 1;
+}
+
+.dragger_desc {
+  color: var(--dark-2);
+  text-align: center;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.dragger_instructions {
+  font-size: 14px;
+  margin-top: 10px;
+  text-align: left;
+}
+
+.dragger_inner {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  justify-content: center;
+  align-items: center;
+  padding: 0 10px;
+  user-select: none;
+  opacity: 1;
+  transition: opacity 0.2s;
+  z-index: 1;
+}
+
+.dragger.has_img {
+  .src_img_mask {
+    display: block;
+    opacity: 0;
+  }
+  .dragger_inner {
+    opacity: 0;
+  }
+}
+
+.dragger_loading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.dragger_wrap.disabled,
+.dragger_wrap.disabled:hover {
+  cursor: not-allowed;
+  color: var(--dark-3);
+
+  .dragger_desc {
+    color: var(--dark-3);
+  }
+
+  .dragger_btn {
+    color: var(--white);
+    background-color: var(--dark-3);
+  }
+}
+
+.dragger:hover {
+  .dragger_btn {
+    color: var(--white);
+    background-color: var(--brand-0);
+  }
+}
+
+.dragger.has_img.not_uploading:hover {
+  .src_img_mask {
+    opacity: 0.6;
+  }
+  .dragger_inner {
+    opacity: 1;
+  }
+}

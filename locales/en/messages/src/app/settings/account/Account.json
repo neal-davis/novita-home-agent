@@ -1,0 +1,15 @@
+{
+  "change": "Change",
+  "companyName": "Company Name",
+  "completeAQuickSurvey": "Complete a quick survey",
+  "country": "Country",
+  "email": "Email",
+  "firstName": "First Name",
+  "goToSettings": "Go to Settings",
+  "lastName": "Last Name",
+  "password": "Password",
+  "save": "Save",
+  "saveAccountInfoFailed": "Save account info failed",
+  "saveAccountInfoSuccess": "Save account info success",
+  "userId": "User ID"
+}

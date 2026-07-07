@@ -1,0 +1,11 @@
+{
+  "amount": "Valor",
+  "applicable": "Aplicável",
+  "cancel": "Cancelar",
+  "gotIt": "Entendi",
+  "redeem": "Resgatar",
+  "validUntil": "Válido até",
+  "voucherCode": "Código do voucher",
+  "voucherCodeRedeem": "Resgate do código do voucher",
+  "voucherRedeemedSuccessfully": "Voucher resgatado com sucesso!"
+}

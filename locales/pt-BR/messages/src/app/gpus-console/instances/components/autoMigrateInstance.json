@@ -1,0 +1,15 @@
+{
+  "automaticInstanceMigration": "Migração Automática de Instância",
+  "automaticMigration": "Migração Automática",
+  "automaticallyMigratesTheInstanceToA": "Migra automaticamente a instância para um nó íntegro em caso de falha de hardware. O ID da instância, o Endereço de Mapeamento de Porta e os dados permanecem inalterados, com apenas um breve período de indisponibilidade.",
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
+  "ifNoActionIsTakenThe": "Se nenhuma ação for tomada, o sistema fará a migração automática para manter a continuidade do serviço.",
+  "ifTheSystemDiskIsIncluded": "Se o disco do sistema estiver incluído, o tempo de indisponibilidade dependerá do seu tamanho (normalmente de alguns minutos a ~10+ minutos).",
+  "migrateSystemDisk": "Migrar Disco do Sistema",
+  "success": "sucesso",
+  "supportIsAvailableDuringMigrationIf": "O suporte estará disponível durante a migração, se necessário.",
+  "theFollowingRegionsDontSupportThis": "As seguintes regiões não oferecem suporte a este recurso:",
+  "usCa03UsCaNas": "US-CA-03/US-CA-NAS-01/US-02/US-CA-02",
+  "youllBeNotifiedOfFaultsAnd": "Você será notificado sobre falhas e deverá migrar manualmente em até 7 dias."
+}

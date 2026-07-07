@@ -1,0 +1,17 @@
+{
+  "datePicker": "日付ピッカー:",
+  "endTime": "終了時刻:",
+  "message10m": "10分",
+  "message12h": "12時間",
+  "message1d": "1日",
+  "message1h": "1時間",
+  "message30m": "30分",
+  "message3d": "3日",
+  "message3h": "3時間",
+  "message5m": "5分",
+  "message7d": "7日",
+  "pickADate": "日付を選択",
+  "quickSelect": "クイック選択:",
+  "startTime": "開始時刻:",
+  "utc0": "UTC+0"
+}

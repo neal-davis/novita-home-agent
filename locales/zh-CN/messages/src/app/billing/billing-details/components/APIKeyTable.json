@@ -1,0 +1,17 @@
+{
+  "all": "全部",
+  "day": "天",
+  "export": "导出",
+  "groupBy": "分组依据",
+  "imageVideo": "图片/视频",
+  "modelName": "模型名称",
+  "month": "月",
+  "noData": "暂无数据！",
+  "productType": "产品类型",
+  "selectCategory": "选择类别",
+  "theQueryTimeRangeCannotBe": "查询时间范围不能早于 2026-01-01",
+  "theQueryTimeRangeCannotExceed": "查询时间范围不能超过 31 天",
+  "theStartTimeCannotBeLater": "开始时间不能晚于结束时间",
+  "timeRange": "时间范围",
+  "week": "周"
+}

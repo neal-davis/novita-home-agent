@@ -1,0 +1,23 @@
+{
+  "scopes": [
+    {
+      "type": "USAGE_SCOPE_TYPE_TEAM",
+      "memberName": "E2E Team",
+      "keyCount": 4
+    },
+    {
+      "type": "USAGE_SCOPE_TYPE_MEMBER",
+      "memberId": "member-e2e-001",
+      "memberName": "Member One",
+      "keyCount": 2
+    },
+    {
+      "type": "USAGE_SCOPE_TYPE_KEY",
+      "memberId": "member-e2e-001",
+      "memberName": "Member One",
+      "keyId": "key-e2e-001",
+      "keyName": "e2e-key-alpha",
+      "keyMask": "sk-****alpha"
+    }
+  ]
+}

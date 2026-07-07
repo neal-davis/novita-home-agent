@@ -1,0 +1,9 @@
+{
+  "cancel": "取消",
+  "deleteYourInstance": "删除您的实例。",
+  "success": "成功",
+  "terminateInstance": "终止实例",
+  "thisActionWillRemoveYourPod": "此操作将移除您的 Pod 配置，以及与其关联的所有非网络卷和数据。",
+  "thisIsIrreversibleDoYouWant": "此操作不可逆！您要继续吗？",
+  "yes": "是"
+}

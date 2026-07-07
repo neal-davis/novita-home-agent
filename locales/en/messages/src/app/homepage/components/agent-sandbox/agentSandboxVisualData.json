@@ -1,0 +1,22 @@
+{
+  "analyseCorrelationMatrix": "Analyse · correlation matrix",
+  "billing": "billing",
+  "clickElementFormFieldLocated": "Click element · form field located",
+  "enterDataFormPopulated": "Enter data · form populated",
+  "generateReportMarkdownOutput": "Generate report · markdown output",
+  "identifyBugNullPointerLine84": "Identify bug · null pointer line 84",
+  "initEnvironmentEpisode1248": "Init environment · episode 1,248",
+  "isolation": "isolation",
+  "loadDataset24mRowsIngested": "Load dataset · 2.4M rows ingested",
+  "openBrowserNagivateToTarget": "Open browser · nagivate to target",
+  "readCodebaseSrcApiRoutesPy": "Read codebase · src/api/routes.py",
+  "resetNextEpisodeQueued": "Reset · next episode queued",
+  "reward24StateUpdated": "Reward · +2.4 · state updated",
+  "runTestSuitePytest": "Run test suite · pytest",
+  "startup": "startup",
+  "status": "status",
+  "stepActionSampledFromPolicy": "Step · action sampled from policy",
+  "submitAwaitConfirmation": "Submit · await confirmation",
+  "transformCleanNormalize": "Transform · clean + normalize",
+  "writeFixPatchApplied": "Write fix · patch applied"
+}

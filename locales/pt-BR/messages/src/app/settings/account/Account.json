@@ -1,0 +1,15 @@
+{
+  "change": "Alterar",
+  "companyName": "Nome da empresa",
+  "completeAQuickSurveyToClaim": "Complete uma pesquisa rápida para resgatar $1 em créditos grátis!",
+  "country": "País",
+  "email": "E-mail",
+  "firstName": "Nome",
+  "goToSettings": "Ir para Configurações",
+  "lastName": "Sobrenome",
+  "password": "Senha",
+  "save": "Salvar",
+  "saveAccountInfoFailed": "Falha ao salvar as informações da conta",
+  "saveAccountInfoSuccess": "Informações da conta salvas com sucesso",
+  "userId": "ID do usuário"
+}

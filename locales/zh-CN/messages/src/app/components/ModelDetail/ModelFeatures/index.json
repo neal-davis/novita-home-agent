@@ -1,0 +1,13 @@
+{
+  "availableServerless": "可用的 Serverless",
+  "cacheRead": "缓存读取",
+  "cacheWrite1h": "缓存写入（1小时）",
+  "cacheWrite5m": "缓存写入（5分钟）",
+  "features": "功能",
+  "input": "输入",
+  "onDemandDeployments": "按需部署",
+  "output": "输出",
+  "runQueriesImmediatelyPayOnlyFor": "立即运行查询，仅按用量付费",
+  "serverlessApi": "Serverless API",
+  "tryNow": "立即试用"
+}

@@ -1,0 +1,15 @@
+{
+  "change": "変更",
+  "companyName": "会社名",
+  "completeAQuickSurveyToClaim": "簡単なアンケートに回答して、無料クレジット$1を受け取りましょう！",
+  "country": "国",
+  "email": "メールアドレス",
+  "firstName": "名",
+  "goToSettings": "設定に移動",
+  "lastName": "姓",
+  "password": "パスワード",
+  "save": "保存",
+  "saveAccountInfoFailed": "アカウント情報の保存に失敗しました",
+  "saveAccountInfoSuccess": "アカウント情報を保存しました",
+  "userId": "ユーザーID"
+}

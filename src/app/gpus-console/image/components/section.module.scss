@@ -1,0 +1,90 @@
+.itemContainer {
+  display: flex;
+  padding: 12px 16px;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  align-self: stretch;
+  border-radius: 6px;
+  border: 1px solid var(--gray-2);
+  background: var(--white);
+  /* module-shadow */
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+.state {
+  display: inline-flex;
+  height: 24px;
+  padding: 2px 8px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 4px;
+  background: var(--green-6);
+  color: var(--black);
+}
+.confirmBtn {
+  background: var(--dark-1) !important;
+  height: 32px;
+  min-width: 124px !important;
+  text-transform: none !important;
+  box-shadow: none !important;
+}
+.confirmBtn:hover {
+  background: var(--dark-2) !important;
+}
+.confirmBtnTxt {
+  color: var(--white) !important;
+  @include font-subtle;
+}
+.cancelBtn {
+  background: var(--white) !important;
+  margin-right: var(--spacing-button) !important;
+  width: 124px;
+  height: 32px;
+  border: 1px solid var(--dark-1) !important;
+  box-shadow: none !important;
+  text-transform: none !important;
+}
+.cancelBtn:hover {
+  background-color: var(--gray-3) !important;
+}
+.cancelBtnTxt {
+  color: var(--dark-1);
+  @include font-subtle;
+}
+.cascader {
+  :global(.ant-cascader:focus-visible) {
+    border: 1px solid var(--dark-1) !important;
+    box-shadow: none !important;
+    outline: none !important;
+  }
+
+  :global(.ant-select-focused:focus-visible) {
+    border: 1px solid var(--dark-1) !important;
+    box-shadow: none !important;
+  }
+  :global(.ant-select-open:focus-visible) {
+    border: 1px solid var(--dark-1) !important;
+    box-shadow: none !important;
+  }
+
+  :global(.ant-select-selector) {
+    box-shadow: none !important;
+    border-radius: 4px;
+  }
+
+  :global(.ant-select-clear) {
+    width: 14px !important;
+    &:hover {
+      color: var(--dark-1) !important;
+    }
+  }
+}
+.checkbox {
+  // border: 1px solid var(--dark-1) !important;
+  border-color: var(--dark-1) !important;
+}
+.compactModalHeader {
+  padding-bottom: 0;
+}

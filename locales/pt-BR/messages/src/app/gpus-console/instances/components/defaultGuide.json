@@ -1,0 +1,9 @@
+{
+  "deployNow": "Implantar agora",
+  "forHighComputeElasticMixedWorkloads": "Para cargas de trabalho mistas elásticas de alta computação, use",
+  "gpuInstances": "Instâncias de GPU",
+  "idealForHighComputeElasticMixed": "Ideal para cargas de trabalho mistas elásticas de alta computação, desde treinamento de AI até renderização.",
+  "instance": "Instância",
+  "learnMore": "Saiba mais",
+  "needToDeployCloudResources": "Precisa implantar recursos na nuvem?"
+}

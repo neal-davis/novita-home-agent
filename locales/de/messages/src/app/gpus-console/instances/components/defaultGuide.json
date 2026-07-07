@@ -1,0 +1,9 @@
+{
+  "deployNow": "Jetzt bereitstellen",
+  "forHighComputeElasticMixedWorkloads": "Für rechenintensive, elastische gemischte Workloads verwenden Sie",
+  "gpuInstances": "GPU-Instanzen",
+  "idealForHighComputeElasticMixed": "Ideal für rechenintensive, elastische gemischte Workloads von KI-Training bis Rendering.",
+  "instance": "Instanz",
+  "learnMore": "Mehr erfahren",
+  "needToDeployCloudResources": "Müssen Sie Cloud-Ressourcen bereitstellen?"
+}

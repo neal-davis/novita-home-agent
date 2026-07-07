@@ -1,0 +1,8 @@
+{
+  "addAPaymentMethodToAccess": "Add a payment method to access services.",
+  "addPaymentMethod": "Add Payment Method",
+  "bindACardToReceiveA": "Bind a card to receive a $1 Model API Voucher",
+  "currentPaymentMethod": "Current Payment Method",
+  "paymentMethods": "Payment Methods",
+  "removePaymentMethod": "Remove Payment Method"
+}

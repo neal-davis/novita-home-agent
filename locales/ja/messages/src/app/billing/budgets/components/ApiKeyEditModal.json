@@ -1,0 +1,16 @@
+{
+  "apiKey": "APIキー",
+  "apiKeyBudgetSavedSuccessfully": "APIキーの予算が正常に保存されました",
+  "apiKeyBudgetSettings": "APIキーの予算設定",
+  "applyTheFollowingBudgetSettings": "次の予算設定を適用しますか？",
+  "budgetLimit": "予算上限",
+  "budgetType": "予算タイプ",
+  "cancel": "キャンセル",
+  "confirm": "確認",
+  "confirmApiKeyBudget": "APIキーの予算を確認",
+  "enterAmount": "金額を入力",
+  "ifTheKeyBudgetExceedsThe": "キーの予算がメンバーの予算を超える場合、メンバーの予算が優先されます。",
+  "save": "保存",
+  "saving": "保存中...",
+  "unlimited": "無制限"
+}

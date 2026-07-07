@@ -1,0 +1,13 @@
+{
+  "all": "Todos",
+  "day": "Día",
+  "export": "Exportar",
+  "groupBy": "Agrupar por",
+  "hour": "Hora",
+  "month": "Mes",
+  "noData": "¡No hay datos!",
+  "productName": "Nombre del producto",
+  "productType": "Tipo de producto",
+  "timeRange": "Intervalo de tiempo",
+  "week": "Semana"
+}

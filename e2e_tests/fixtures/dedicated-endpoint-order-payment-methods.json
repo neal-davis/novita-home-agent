@@ -1,0 +1,13 @@
+{
+  "paymentMethods": [
+    {
+      "id": "pm_e2e_placeholder_card",
+      "brand": "visa",
+      "country": "US",
+      "expMonth": "12",
+      "expYear": "2030",
+      "funding": "credit",
+      "last4": "4242"
+    }
+  ]
+}

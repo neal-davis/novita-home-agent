@@ -1,0 +1,429 @@
+.subContainer {
+  width: 100%;
+}
+.subContainer input::-webkit-input-placeholder {
+  color: #909090;
+  font-size: 14px;
+}
+
+.subContainer input::-moz-placeholder {
+  color: #909090;
+  font-size: 14px;
+}
+
+.subContainer input::-ms-input-placeholder {
+  color: #909090;
+  font-size: 14px;
+}
+.section {
+  padding-bottom: 16px;
+}
+.section {
+  color: var(--black);
+  background: var(--white);
+  padding: 24px 32px;
+}
+.menuItem {
+  font-size: 14px !important;
+  // background-color: rgba(54, 64, 93, 0.1) !important;
+  background-color: var(--white) !important;
+  color: var(--black) !important;
+}
+.menuItem[aria-selected="true"] {
+  background-color: var(--gray-3) !important;
+}
+.menuItem[aria-selected="true"]:hover {
+  background-color: var(--gray-3) !important;
+}
+.menuItem:hover {
+  background-color: var(--gray-3) !important;
+}
+.addCredentialsItem {
+  display: flex;
+  width: 100%;
+  cursor: pointer;
+  align-items: center;
+  border: 0;
+  border-radius: 2px;
+  padding: 6px 32px 6px 8px;
+  text-align: left;
+}
+.aniItem:hover {
+  border-color: var(--dark-2) !important;
+}
+.aniItem:focus {
+  border-color: var(--dark-2) !important;
+}
+.readme:hover {
+  border: 1px solid var(--dark-2) !important;
+}
+.readme:focus-within {
+  border: 1px solid var(--dark-2) !important;
+}
+.previewWrapper {
+  :global {
+    .md-editor {
+      width: auto !important;
+      height: auto !important;
+      min-width: 100% !important;
+      min-height: 200px !important;
+    }
+
+    .md-editor-preview-wrapper {
+      overflow: visible !important;
+      height: auto !important;
+      max-height: none !important;
+      position: relative !important;
+    }
+
+    .md-editor-preview {
+      height: auto !important;
+      min-height: auto !important;
+      overflow: visible !important;
+    }
+  }
+}
+.steps {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #0caf60;
+  border-radius: 8px;
+  height: 88px;
+  padding: 18px 59px 16px 59px;
+}
+.title {
+  font-size: 28px;
+  color: #11142d;
+  line-height: 28px;
+  font-weight: 900;
+  margin-bottom: 12px;
+}
+.desc {
+  font-size: 16px;
+  color: #514f6e;
+  line-height: 16px;
+  font-weight: 400;
+  margin-bottom: 32px;
+}
+.selectedTabTxt {
+  font-size: 14px;
+  // color: #ffffff;
+  text-align: center;
+  line-height: 14px;
+  font-weight: 500;
+}
+.unSelectedTabTxt {
+  font-size: 14px;
+  color: var(--black);
+  line-height: 14px;
+  font-weight: 500;
+}
+.wrap {
+  display: flex;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  justify-content: space-between;
+  gap: 20px;
+}
+.selectItem {
+  width: 100% !important;
+  height: 36px;
+  // border-radius: 8px !important;
+  font-size: 14px !important;
+}
+.disabledSelectItem {
+  // border: 1px solid var(--gray-1) !important;
+  background-color: var(--gray-3) !important;
+  color: var(--dark-3) !important;
+  span {
+    color: var(--dark-3) !important;
+  }
+  :global(.MuiSelect-select) {
+    cursor: not-allowed !important;
+  }
+}
+.disabledSelectItem:hover {
+  cursor: not-allowed !important;
+  border: 1px solid var(--gray-1) !important;
+}
+.disabledSelectItem:focus-within {
+  cursor: not-allowed !important;
+  border: 1px solid var(--gray-1) !important;
+}
+.halfContainer {
+  margin-bottom: 20px;
+  display: flex;
+}
+.half {
+  width: calc(50% - 12px);
+  margin-right: 24px;
+  display: inline-block;
+}
+.otherHalf {
+  width: calc(50% - 12px);
+  display: inline-block;
+}
+.envValueGroup {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+.envValueGroup > *:first-child {
+  min-width: 0;
+  flex: 1 1 auto;
+}
+.envValueGroup > *:last-child {
+  flex: 0 0 36px;
+}
+.halfContainerOfThree {
+  margin-bottom: 8px;
+  display: flex;
+  gap: 8px;
+}
+.halfOfThree {
+  width: calc(40% - 6px);
+  display: inline-block;
+}
+.otherHalfOfThree {
+  width: calc(40% - 6px);
+  display: inline-block;
+}
+.thirdrHalfOfThree {
+  width: calc(20% - 4px);
+  min-width: 184px;
+  display: inline-block;
+}
+
+.commonBtn {
+  border: 1px solid var(--gray-1);
+  background-color: var(--white);
+  color: var(--dark-1);
+}
+.selectBtn {
+  border: 1px solid var(--dark-1);
+  background-color: var(--dark-1);
+  color: var(--white);
+}
+.leftBtn {
+  width: 50%;
+  min-width: 92px;
+  border-radius: 4px 0 0 4px;
+  padding: 8px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  user-select: none;
+  cursor: pointer;
+}
+.rightBtn {
+  width: 50%;
+  min-width: 92px;
+  border-radius: 0 4px 4px 0;
+  padding: 8px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  user-select: none;
+  cursor: pointer;
+}
+
+.cancelBtn {
+  background: var(--white) !important;
+  margin-right: var(--spacing-button) !important;
+  width: 124px;
+  height: 32px;
+  float: right;
+  border: 1px solid var(--dark-1) !important;
+  box-shadow: none !important;
+  text-transform: none !important;
+}
+.cancelBtn:hover {
+  background-color: var(--gray-3) !important;
+}
+.cancelBtnTxt {
+  color: var(--dark-1);
+  @include font-subtle;
+}
+.saveBtn {
+  position: relative;
+  overflow: hidden;
+  border: none !important;
+  background: var(--dark-1) !important;
+  height: 32px;
+  min-width: 124px !important;
+  float: right;
+  text-transform: none !important;
+  box-shadow: none !important;
+}
+.saveBtn:hover {
+  background: var(--dark-2) !important;
+}
+.saveBtnTxt {
+  color: var(--white) !important;
+  @include font-subtle;
+}
+.loadingWrap {
+  position: absolute;
+  left: -1px;
+  right: -1px;
+  top: -1px;
+  bottom: -1px;
+  z-index: 1;
+  background-color: var(--gray-2);
+  border-radius: 5px;
+  display: flex;
+  img {
+    width: 36px;
+    height: 36px;
+    margin: auto;
+  }
+}
+.templateModal {
+  max-height: calc(100vh - 48px);
+  overflow-y: auto;
+}
+
+.content {
+  background-color: var(--white);
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-height: 56px;
+  padding: 16px 56px 16px 24px;
+
+  h2 {
+    margin: 0;
+  }
+}
+
+.modalBody {
+  background-color: var(--white);
+  color: var(--black);
+  padding: 0 var(--spacing-console-24) var(--spacing-console-24);
+}
+
+.modalFooter {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: var(--spacing-console-8);
+}
+
+.addEnvVar {
+  border: 1px solid var(--dark-1) !important;
+  // border-radius: 6px !important;
+  height: 32px;
+  text-transform: none !important;
+  .addEnvVarTxt {
+    color: var(--black);
+    @include font-subtle;
+  }
+}
+.addEnvVar:hover {
+  background-color: var(--gray-3) !important;
+}
+@media screen and (max-width: 660px) {
+  .halfContainer {
+    margin-bottom: 20px;
+    display: block;
+  }
+  .half {
+    margin-bottom: 20px;
+    width: 100% !important;
+    margin-right: 0 !important;
+    display: block !important;
+  }
+  .otherHalf {
+    width: 100% !important;
+    display: block !important;
+  }
+  .cancelBtn {
+    width: calc(50% - 6px) !important;
+    margin-right: 12px !important;
+  }
+  .saveBtn {
+    width: calc(50% - 6px) !important;
+  }
+  .addEnvVar {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .container {
+    padding: 86px 0 100px 0;
+  }
+  .title {
+    font-size: 24px;
+  }
+  .desc {
+    font-size: 14px;
+  }
+  .wrap {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+.unit {
+  position: absolute;
+  top: 50%;
+  margin-top: -7px;
+  right: 40px;
+  font-weight: 400;
+  font-size: 14px;
+  color: #808191;
+  line-height: 14px;
+}
+
+.titleTab {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  border-bottom: 1px solid var(--gray-2);
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+
+  .tabItem {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    width: 118px;
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .tabTitle {
+    color: var(--dark-1);
+    @include font-subtle;
+  }
+
+  .tabTitleActive {
+    color: var(--dark-1);
+    @include font-subtle-medium;
+  }
+
+  .active {
+    border-bottom: 2px solid var(--black);
+  }
+
+  .notActive {
+    border-bottom: 2px solid transparent;
+  }
+}
+.modalRoot {
+  z-index: 1500;
+  position: relative;
+  :global(.ant-modal-root) {
+    z-index: 1500;
+    position: relative;
+  }
+}

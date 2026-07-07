@@ -1,0 +1,331 @@
+.infoAlert {
+  background-color: var(--brand-6) !important;
+  border-radius: 6px !important;
+  padding: 8px 12px !important;
+  display: flex;
+  align-items: center !important;
+  :global(.ant-alert-icon) {
+    margin-right: 4px;
+  }
+}
+.infoAlert span {
+  color: var(--brand-0) !important;
+  font-size: 18px !important;
+}
+.infoAlertDesc {
+  @include font-subtle;
+  color: var(--dark-4);
+  max-width: 100%;
+}
+.container {
+  padding: 134px 0 100px 0;
+}
+.subContainer {
+  width: 100%;
+  max-width: 610px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0;
+}
+.section {
+  color: var(--black);
+  width: 100%;
+}
+.title {
+  @include font-body-medium;
+  color: var(--dark-1);
+  text-align: left;
+  margin: 0;
+}
+.desc {
+  font-size: 16px;
+  color: #514f6e;
+  line-height: 16px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.mainSection {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 504px;
+  height: 608px;
+  padding: 24px 32px;
+}
+.subtitle {
+  font-size: 12px;
+  color: #514f6e;
+  line-height: 12px;
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+.line {
+  position: absolute;
+  top: 56px;
+  border-bottom: 1px solid var(--gray-2);
+  width: 100%;
+  height: 1px;
+}
+.funcDesc {
+  margin-top: 10px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: left;
+  font-style: normal;
+}
+.volDiskTxt {
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  margin-bottom: 12px;
+  font-style: normal;
+}
+.bolDiskInput {
+  border: 1px solid transparent;
+  color: var(--dark-1);
+  border-radius: 8px;
+}
+.disabledInput {
+  border: 1px solid var(--gray-1) !important;
+  background-color: var(--gray-3) !important;
+  color: var(--dark-3) !important;
+  cursor: not-allowed;
+  :global(.MuiInputBase-root) {
+    border: 1px solid transparent !important;
+  }
+  :global(.MuiOutlinedInput-notchedOutline) {
+    border: none !important;
+  }
+  :global(.MuiInputBase-input) {
+    cursor: not-allowed !important;
+  }
+}
+.disabledInput:hover {
+  :global(.MuiInputBase-root) {
+    border: 1px solid transparent !important;
+  }
+  :global(.MuiOutlinedInput-notchedOutline) {
+    border: none !important;
+  }
+}
+.httpPorts {
+  width: calc(50% - 12px);
+  display: inline-block;
+  margin-right: 24px;
+}
+.httpPortsTxt {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  margin-bottom: 12px;
+  font-style: normal;
+}
+.httpPortsInput {
+  color: var(--dark-1);
+  width: 100%;
+  height: 48px;
+  border: 1px solid var(--gray-1);
+  border-radius: 8px;
+  padding: 19px 20px;
+}
+.tcpPortsTxt {
+  @include font-subtle;
+  color: var(--dark-1);
+  text-align: left;
+  margin-bottom: 4px;
+}
+.tcpPortsInput {
+  color: var(--dark-1);
+  width: 100%;
+  height: 48px;
+  border: 1px solid var(--gray-1);
+  border-radius: 8px;
+  padding: 19px 20px;
+}
+.inUsePortTxt {
+  margin-top: 12px;
+  font-size: 12px;
+  color: grey;
+}
+.btnContainer {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.saveBtn {
+  background: var(--dark-1) !important;
+  height: 32px;
+  min-width: 124px !important;
+  text-transform: none !important;
+  box-shadow: none !important;
+  float: right;
+}
+.saveBtn:hover {
+  background: var(--dark-2) !important;
+}
+.saveBtnTxt {
+  color: var(--white) !important;
+  @include font-subtle;
+}
+.cancelBtn {
+  background: var(--white) !important;
+  margin-right: var(--spacing-button) !important;
+  width: 124px;
+  height: 32px;
+  border: 1px solid var(--dark-1) !important;
+  box-shadow: none !important;
+  text-transform: none !important;
+  float: right;
+}
+.cancelBtn:hover {
+  background-color: var(--gray-3) !important;
+}
+.cancelBtnTxt {
+  color: var(--dark-1);
+  @include font-subtle;
+}
+
+@media screen and (max-width: 1000px) {
+  .container {
+    padding: 86px 0 100px 0;
+  }
+  // .title {
+  //   font-size: 24px;
+  // }
+  .desc {
+    font-size: 14px;
+  }
+  .wrap {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+
+.avaliableWrap {
+  display: flex;
+  border-radius: 4px 4px 0 0;
+  border: 1px solid var(--gray-2);
+  align-items: center;
+}
+.unAvaliableWrap {
+  border-radius: 0 0 4px 4px;
+  // background-color: var(--gray-3);
+  align-items: center;
+  border-top: none;
+  margin-bottom: 16px;
+}
+.avaliableTitle {
+  width: 120px;
+  text-align: left;
+  padding: 12px;
+  @include font-subtle;
+  color: var(--black);
+}
+.unAvaliableTitle {
+  width: 120px;
+  text-align: left;
+  padding: 6px 12px;
+  @include font-subtle;
+  color: var(--black);
+}
+.unAvaliableContent {
+  @include font-small-console;
+  color: var(--dark-5);
+  // background-color: #f1f2f4;
+  display: flex;
+  align-items: center;
+}
+.avaliable,
+.unAvaliable {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+  border-left: 1px solid var(--gray-2);
+  min-height: 50px;
+  padding: 12px;
+}
+.avaliable {
+  gap: 8px;
+}
+.unAvaliable {
+  gap: 8px;
+}
+.avaliableContent {
+  user-select: none;
+  cursor: pointer;
+  display: flex;
+  padding: 4px 8px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  border: 1px solid var(--gray-1);
+  background-color: var(--white);
+  box-shadow: none;
+  @include font-small-console;
+  color: var(--black);
+}
+.avaliableContentSelected {
+  user-select: none;
+  cursor: pointer;
+  display: flex;
+  padding: 4px 8px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  border: 1px solid var(--dark-1);
+  background: var(--gray-3);
+  /* shadow-sm */
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  @include font-small-console;
+  color: var(--black);
+}
+.selectItem {
+  width: 100% !important;
+  height: 32px;
+  border-radius: 4px !important;
+  font-size: 14px !important;
+}
+.loadingWrap {
+  position: absolute;
+  left: -1px;
+  right: -1px;
+  top: -1px;
+  bottom: -1px;
+  background-color: var(--gray-2);
+  border-radius: 6px;
+  display: flex;
+  img {
+    width: 36px;
+    height: 36px;
+    margin: auto;
+  }
+}
+.cascader {
+  :global(.ant-cascader:focus-visible) {
+    border: 1px solid var(--dark-1) !important;
+    box-shadow: none !important;
+    outline: none !important;
+  }
+
+  :global(.ant-select-focused:focus-visible) {
+    border: 1px solid var(--dark-1) !important;
+    box-shadow: none !important;
+  }
+  :global(.ant-select-open:focus-visible) {
+    border: 1px solid var(--dark-1) !important;
+    box-shadow: none !important;
+  }
+
+  :global(.ant-select-selector) {
+    box-shadow: none !important;
+    border-radius: 4px;
+  }
+}
+.inputContainer {
+  input {
+    height: 32px !important;
+  }
+}

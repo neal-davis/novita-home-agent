@@ -1,0 +1,9 @@
+{
+  "_comment": "Captured /v3/stripe/promotion from prod (global marketing-layout endpoint, not affiliate business data). All-empty/zero, no PII. Kept so the global layout that wraps /affiliate-new gets a deterministic 200.",
+  "couponId": "",
+  "percentOff": 0,
+  "amountOff": "0",
+  "redeemBy": "0",
+  "valid": false,
+  "activityName": ""
+}

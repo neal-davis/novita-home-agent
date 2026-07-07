@@ -1,0 +1,71 @@
+{
+  "_comment": "De-PII'd /v1/billing/voucher/list. 4 synthetic vouchers (< DEFAULT_DISPLAY_ROWS=5) so the Voucher Details table renders all 4 rows and shows no 'View all' button. Statuses: 1 valid + 2 used + 1 expired. grantTo replaced with synthetic id. balance/originalValue are raw points (/10000 for display).",
+  "data": [
+    {
+      "id": "9001",
+      "voucherTemplate": "1",
+      "name": "E2E Valid Voucher",
+      "effectDate": "1735689600",
+      "expiryDate": "1767225599",
+      "balance": "2500000",
+      "originalValue": "5000000",
+      "status": "valid",
+      "grantor": "",
+      "grantTime": "0",
+      "grantTo": "100001",
+      "businessTypes": ["all"],
+      "account": "",
+      "consumptionType": ""
+    },
+    {
+      "id": "9002",
+      "voucherTemplate": "2",
+      "name": "E2E Used Voucher A",
+      "effectDate": "1730419200",
+      "expiryDate": "1761955199",
+      "balance": "0",
+      "originalValue": "1000000",
+      "status": "used",
+      "grantor": "",
+      "grantTime": "0",
+      "grantTo": "100001",
+      "businessTypes": ["all"],
+      "account": "",
+      "consumptionType": ""
+    },
+    {
+      "id": "9003",
+      "voucherTemplate": "2",
+      "name": "E2E Used Voucher B",
+      "effectDate": "1727740800",
+      "expiryDate": "1759276799",
+      "balance": "0",
+      "originalValue": "2000000",
+      "status": "used",
+      "grantor": "",
+      "grantTime": "0",
+      "grantTo": "100001",
+      "businessTypes": ["gpu_instance"],
+      "account": "",
+      "consumptionType": ""
+    },
+    {
+      "id": "9004",
+      "voucherTemplate": "3",
+      "name": "E2E Expired Voucher",
+      "effectDate": "1704067200",
+      "expiryDate": "1719791999",
+      "balance": "0",
+      "originalValue": "2000000",
+      "status": "expired",
+      "grantor": "",
+      "grantTime": "0",
+      "grantTo": "100001",
+      "businessTypes": ["model_api"],
+      "account": "",
+      "consumptionType": ""
+    }
+  ],
+  "total": 4,
+  "totalBalance": "2500000"
+}

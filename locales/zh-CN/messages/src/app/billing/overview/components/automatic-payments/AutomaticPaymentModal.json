@@ -1,0 +1,14 @@
+{
+  "and": "和 $",
+  "autoRecharge": "自动充值",
+  "autoRechargeIsNotGuaranteedIf": "自动充值并非保证一定成功。如果付款尝试失败且您的余额达到 0，您的服务可能会中断。请确保您的付款方式有效并定期检查余额，或启用",
+  "autoTopUpIsNotGuaranteed": "自动充值并非保证成功。如果付款尝试失败且您的余额达到 0，您的服务可能会中断。请确保您的付款方式有效并定期检查余额，或启用",
+  "automaticPayments": "自动付款",
+  "bringCreditBackUpTo": "将余额恢复至",
+  "cancel": "取消",
+  "enterAnIntegerAmountBetween": "请输入介于 $",
+  "lowBalanceAlert": "低余额提醒",
+  "saveSetting": "保存设置",
+  "toGetNotifiedInAdvance": "以提前收到通知。",
+  "whenCreditGoesBelow": "当余额低于"
+}

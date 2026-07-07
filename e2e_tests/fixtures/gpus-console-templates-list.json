@@ -1,0 +1,42 @@
+{
+  "_comment": "Synthetic private-template list for hermetic /gpus-console/templates (response of reqGetTemplates -> GET /api/v1/templates). Shape from section.tsx: { template: TemplateItem[], total }. The read-only prod capture did not reach this endpoint (loads post-login via client XHR), so rows are synthesized from the field contract consumed by the card render (item.Id/name/image/startCommand/channel/logo/createdAt/creator/uuid). 3 representative rows: two private + one community(isUsed) to exercise the channel label branch. No real PII: ids/names/uuids/images/commands are all placeholders.",
+  "template": [
+    {
+      "Id": "tmpl-aaaa1111",
+      "name": "e2e-template-pytorch",
+      "image": "docker.io/library/example-image:pytorch",
+      "startCommand": "python /workspace/start.py --port 8888",
+      "channel": "private",
+      "logo": "",
+      "isUsed": false,
+      "createdAt": "1718000000",
+      "creator": "",
+      "uuid": "00000000-0000-4000-8000-000000000001"
+    },
+    {
+      "Id": "tmpl-bbbb2222",
+      "name": "e2e-template-comfyui",
+      "image": "docker.io/library/example-image:comfyui",
+      "startCommand": "bash /workspace/run.sh",
+      "channel": "private",
+      "logo": "",
+      "isUsed": false,
+      "createdAt": "1718100000",
+      "creator": "",
+      "uuid": "00000000-0000-4000-8000-000000000001"
+    },
+    {
+      "Id": "tmpl-cccc3333",
+      "name": "e2e-template-vllm-community",
+      "image": "docker.io/library/example-image:vllm",
+      "startCommand": "python -m vllm.entrypoints.openai.api_server",
+      "channel": "community",
+      "logo": "",
+      "isUsed": true,
+      "createdAt": "1718200000",
+      "creator": "",
+      "uuid": "00000000-0000-4000-8000-000000000001"
+    }
+  ],
+  "total": 3
+}

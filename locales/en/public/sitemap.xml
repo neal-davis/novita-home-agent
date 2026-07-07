@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://novita.ai/sitemap-page.xml</loc>
+    </sitemap>
+    <sitemap>
+        <loc>https://novita.ai/sitemap-image.xml</loc>
+    </sitemap>
+    <sitemap>
+        <loc>https://novita.ai/sitemap-image-x.xml</loc>
+    </sitemap>
+    <sitemap>
+        <loc>https://novita.ai/sitemap-gpu.xml</loc>
+    </sitemap>
+    <sitemap>
+        <loc>https://novita.ai/sitemap-llm-model.xml</loc>
+    </sitemap>
+    <sitemap>
+        <loc>https://novita.ai/sitemap-multimodal-model.xml</loc>
+    </sitemap>
+    <sitemap>
+        <loc>https://novita.ai/sitemap-blog.xml</loc>
+    </sitemap>
+    <sitemap>
+        <loc>https://novita.ai/sitemap-docs.xml</loc>
+    </sitemap>
+</sitemapindex>

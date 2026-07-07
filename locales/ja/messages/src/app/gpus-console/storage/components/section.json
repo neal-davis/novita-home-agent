@@ -1,0 +1,17 @@
+{
+  "createTime": "作成日時",
+  "creator": "作成者",
+  "delete": "削除",
+  "deploy": "デプロイ",
+  "edit": "編集",
+  "gbI": "GB I",
+  "itIsHighlyAdvisableToContinually": "保存したいものは、オフサイト、ローカル、またはクラウドプロバイダーに継続的にバックアップすることを強くお勧めします。",
+  "networkVolumeIsProvidedInThe": "Network Volume は、その GPUs を使用してタスクを実行する目的で提供されており、",
+  "newNetworkVolume": "+ 新しいネットワークボリューム",
+  "notMeantToBeALong": "長期的なバックアップソリューションを意図したものではありません。",
+  "pleaseNoteThatIfYourAccount": "アカウントに未払いがあり、実行中のインスタンスがない場合、Network Volume は",
+  "released3DaysLater": "3日後に解放されますのでご注意ください。",
+  "search": "検索",
+  "storageNameIdFilter": "ストレージ名/IDフィルター",
+  "success": "成功"
+}

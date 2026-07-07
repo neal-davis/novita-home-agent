@@ -1,0 +1,12 @@
+{
+  "billingMethods": "Métodos de facturación",
+  "bySubscribingYouAuthorizeUsTo": "Al suscribirte, nos autorizas a deducir automáticamente el costo de la suscripción cada mes para renovar tu servicio hasta que lo canceles.",
+  "importantOnceYouSelectTheBilling": "Importante: Una vez que selecciones el método de facturación para tu plan actual, todos los planes anteriores cambiarán automáticamente al mismo método de facturación.",
+  "included": "incluido",
+  "paymentSuccess": "Pago realizado correctamente",
+  "plans": "Planes",
+  "price": "precio",
+  "quantities": "cantidades",
+  "submit": "Enviar",
+  "total": "Total"
+}

@@ -1,0 +1,9 @@
+{
+  "copiedToClipboard": "In die Zwischenablage kopiert!",
+  "endpoint": "Endpunkt",
+  "endpointHealth": "Endpunktstatus",
+  "endpointId": "Endpunkt-ID",
+  "modelId": "Modell-ID",
+  "openaiCompatibleBaseUrl": "OpenAI-kompatible Basis-URL",
+  "replicas": "Replikate"
+}

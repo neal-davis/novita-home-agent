@@ -1,0 +1,22 @@
+.pc_wrapper {
+  width: 100%;
+  height: 643px;
+  display: none;
+}
+
+.mobile_wrapper {
+  height: 383px;
+  width: 100%;
+}
+
+@include screen-md {
+  .mobile_wrapper {
+    display: none;
+  }
+}
+
+@include screen-md {
+  .pc_wrapper {
+    display: block;
+  }
+}

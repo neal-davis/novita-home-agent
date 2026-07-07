@@ -1,0 +1,11 @@
+{
+  "addApiKey": "API Keyを追加",
+  "apiKey": "API Key",
+  "cancel": "キャンセル",
+  "confirm": "確認",
+  "inputYourApiKey": "API Keyを入力してください",
+  "inputYourKeyName": "キー名を入力してください",
+  "keyName": "キー名",
+  "modifyApiKey": "API Keyを変更",
+  "upTo10KeysCanBe": "1アカウントにつき最大10個のキーを生成できます。"
+}

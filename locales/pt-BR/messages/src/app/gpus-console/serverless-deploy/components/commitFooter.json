@@ -1,0 +1,8 @@
+{
+  "deploy": "Implantar >",
+  "deploySuccessfully": "Implantado com sucesso",
+  "pleaseLogInFirst": "Faça login primeiro",
+  "serverlessPrice": "Preço serverless:",
+  "storagePrice": "Preço de armazenamento:",
+  "thePriceOfEachWorkerNot": "O preço é por Worker, não por GPU. Cobramos pelos workers em estado de execução/inicialização, e a cobrança é precisa até o segundo."
+}

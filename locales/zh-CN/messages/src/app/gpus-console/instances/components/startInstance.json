@@ -1,0 +1,9 @@
+{
+  "cancel": "取消",
+  "start": "启动",
+  "startInstance": "启动实例",
+  "startYourInstance": "启动您的实例。",
+  "startYourInstanceIfYouHave": "启动您的实例。如果您配置了卷，系统将检索并挂载该卷。",
+  "success": "成功",
+  "theCurrentMachinePriceFor": "当前机器价格："
+}

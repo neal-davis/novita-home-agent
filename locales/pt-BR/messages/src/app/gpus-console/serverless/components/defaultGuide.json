@@ -1,0 +1,9 @@
+{
+  "builtForLightweightScenariosWithFast": "Criado para cenários leves com implantação rápida, uso elástico e múltiplas cargas de trabalho.",
+  "deployNow": "Implantar agora",
+  "learnMore": "Saiba mais",
+  "multipleMixedResourceTypesWithOne": "Vários tipos de recursos mistos com implantação em um clique e escalonamento automático—escolha",
+  "needToDeployCloudResources": "Precisa implantar recursos na nuvem?",
+  "serverless": "Sem servidor",
+  "serverlessReady": "PRONTO PARA SEM SERVIDOR"
+}

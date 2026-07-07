@@ -1,0 +1,28 @@
+.start_link {
+  display: block;
+  margin-bottom: 12px;
+  font-size: 15px;
+  flex: 0 0 22px;
+  color: var(--brand-0);
+}
+
+.dl_btn {
+  height: 48px !important;
+  max-width: 150px;
+}
+
+@media screen and (max-width: 500px) {
+  .dl_btn {
+    max-width: 100%;
+  }
+}
+
+.btn_group .gen_btn {
+  flex: 1;
+}
+.btn_group .cancel_btn {
+  flex: 1;
+}
+.btn_group .dl_btn {
+  flex: 1;
+}

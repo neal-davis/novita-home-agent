@@ -1,0 +1,12 @@
+{
+  "billingMethods": "Modes de facturation",
+  "bySubscribingYouAuthorizeUsTo": "En vous abonnant, vous nous autorisez à prélever automatiquement le coût de l’abonnement chaque mois afin de renouveler votre service jusqu’à ce que vous l’annuliez.",
+  "importantOnceYouSelectTheBilling": "Important : une fois que vous avez sélectionné le mode de facturation pour votre forfait actuel, tous les forfaits précédents passeront automatiquement au même mode de facturation.",
+  "included": "inclus",
+  "paymentSuccess": "Paiement réussi",
+  "plans": "Forfaits",
+  "price": "prix",
+  "quantities": "quantités",
+  "submit": "Envoyer",
+  "total": "Total"
+}

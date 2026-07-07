@@ -1,0 +1,8 @@
+{
+  "cancel": "Annuler",
+  "edit": "Modifier",
+  "instanceType": "Type d’instance",
+  "numberOfGpus": "Nombre de GPUs",
+  "pleaseSelectAnInstance": "Veuillez sélectionner une instance",
+  "save": "Enregistrer"
+}

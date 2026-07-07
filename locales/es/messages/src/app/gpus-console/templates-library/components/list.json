@@ -1,0 +1,18 @@
+{
+  "allTemplates": "Todas las plantillas",
+  "createTemplate": "Crear plantilla",
+  "deployPreConfiguredEnvironmentsOrCreate": "Implementa entornos preconfigurados o crea los tuyos propios.",
+  "favoriteSuccessfully": "Añadido a favoritos correctamente",
+  "loginFailurePleaseLogInAgain": "Error de inicio de sesión, inicia sesión de nuevo",
+  "myCreations": "Mis creaciones",
+  "myFavorites": "Mis favoritos",
+  "noResultsFound": "No se encontraron resultados",
+  "official": "Oficial",
+  "pleaseLogInFirst": "Inicia sesión primero",
+  "recommendedForYou": "🔥 Recomendado para ti",
+  "searchTemplates": "Buscar plantillas...",
+  "success": "éxito",
+  "templatesLibrary": "Biblioteca de plantillas",
+  "trySearchingForSomethingElseOr": "Prueba a buscar otra cosa o crea tu propia plantilla.",
+  "unfavoriteSuccessfully": "Eliminado de favoritos correctamente"
+}

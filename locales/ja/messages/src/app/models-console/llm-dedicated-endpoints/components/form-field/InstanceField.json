@@ -1,0 +1,7 @@
+{
+  "instanceType": "インスタンスタイプ",
+  "insufficientGpuResourcesPleaseRetryAfter": "GPU リソースが不足しています。しばらくしてから再試行してください。",
+  "selectGpu": "GPU を選択",
+  "thereIsCurrentlyNoRecommendedGpu": "現在、推奨される GPU 構成はありません。",
+  "xGpu": "X GPU $"
+}

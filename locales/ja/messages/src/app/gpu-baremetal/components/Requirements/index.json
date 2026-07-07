@@ -1,0 +1,17 @@
+{
+  "companyName": "会社名",
+  "companyNameIsRequired": "会社名は必須です",
+  "confirm": "確認",
+  "email": "メールアドレス",
+  "emailIsRequired": "メールアドレスは必須です",
+  "inOrderToEnableUsTo": "お客様と連絡を取れるようにするため、メールアドレスを入力してください。",
+  "informationSubmittedSuccessfully": "情報が正常に送信されました",
+  "inputCompanyName": "会社名を入力",
+  "inputEmail": "メールアドレスを入力",
+  "inputName": "名前を入力",
+  "invalidEmailFormat": "メールアドレスの形式が無効です",
+  "name": "名前",
+  "nameIsRequired": "名前は必須です",
+  "submitRequirements": "要件を送信",
+  "submitting": "送信中..."
+}

@@ -1,0 +1,10 @@
+{
+  "decrementCodingPlanDoesNotSupport": "Le plan de codage avec décrémentation ne prend pas en charge la mise à niveau de l’abonnement",
+  "loginExpiredPleaseLoginAgain": "Connexion expirée, veuillez vous reconnecter",
+  "modelAccess": "Accès au modèle",
+  "monthly": "mensuel",
+  "pleaseLoginFirst": "Veuillez d’abord vous connecter",
+  "subscribe": "S’abonner",
+  "subscriptionFailedThePurchasedCodingPlan": "Échec de l’abonnement, le plan de codage acheté est supérieur ou égal à ce niveau",
+  "yourPlan": "Votre plan"
+}

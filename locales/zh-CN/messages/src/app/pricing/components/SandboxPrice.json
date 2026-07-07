@@ -1,0 +1,12 @@
+{
+  "cpu": "CPU",
+  "free": "免费",
+  "integrationGuide": "集成指南",
+  "memory": "内存",
+  "message512Mib": "512 MiB",
+  "storage": "存储",
+  "unitPrice": "单价",
+  "validValuesMultiplesOf512Mib": "有效值：512 MiB 的倍数，范围从 512 MiB 到 8192 MiB",
+  "vcpus": "vCPU",
+  "xCpu": "X CPU"
+}

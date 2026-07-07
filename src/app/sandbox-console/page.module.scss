@@ -1,0 +1,85 @@
+.layout_container {
+  padding: 16px;
+  height: 100%;
+  background-color: var(--gray-3);
+  min-width: 1200px;
+  overflow-x: auto;
+}
+
+.filter_label {
+  @include font-small-console-medium;
+  color: var(--dark-1);
+  margin-bottom: var(--spacing-console-text);
+}
+.input {
+  border: 1px solid var(--gray-1);
+  &:focus {
+    border: 1px solid var(--dark-1);
+  }
+  &.target {
+    border: 1px solid var(--dark-1);
+  }
+}
+
+.cycle_toggle_group {
+  padding: 4px;
+  background-color: var(--white);
+  border: 1px solid var(--gray-1);
+  border-radius: 6px;
+
+  button {
+    height: 26px;
+    font-weight: 400;
+    border-radius: 4px;
+
+    &:hover {
+      background-color: var(--gray-3);
+    }
+  }
+
+  [data-state="on"] {
+    background-color: var(--gray-3);
+  }
+}
+
+.expandedIcon {
+  cursor: pointer;
+  display: flex;
+  width: 18px;
+  height: 18px;
+  padding: 1px;
+  justify-content: center;
+  align-items: center;
+  gap: -1px;
+  border-radius: 18px;
+  border: 1px solid var(--gray-1);
+  background: var(--gray-3);
+  /* shadow-sm */
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+  // rotate: 180deg;
+}
+.expandIcon {
+  cursor: pointer;
+  display: flex;
+  width: 18px;
+  height: 18px;
+  padding: 1px;
+  justify-content: center;
+  align-items: center;
+  gap: -1px;
+  border-radius: 18px;
+  border: 1px solid var(--gray-1);
+  background: var(--white);
+  /* shadow-sm */
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+}
+.expandIcon:hover {
+  background-color: var(--gray-3) !important;
+  // content: url("/gpu-instance/instances/icon-chevron-down.svg");
+}
+
+@media screen and (max-width: 1200px) {
+  .layout_container {
+    min-width: 100%;
+  }
+}

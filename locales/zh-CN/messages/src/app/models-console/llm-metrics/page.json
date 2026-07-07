@@ -1,0 +1,19 @@
+{
+  "averageTokenCountPerRequest": "每次请求的平均 Token 数",
+  "endToEndE2eLatency": "端到端 (E2E) 延迟",
+  "isSet": "已设置。",
+  "loading": "正在加载...",
+  "message10S": "10 秒",
+  "message1Min": "1 分钟",
+  "message30S": "30 秒",
+  "message5S": "5 秒",
+  "noLlmApiCalls": "无 LLM API 调用",
+  "off": "关闭",
+  "requestPerMinuteRpm": "每分钟请求数 (RPM)",
+  "requestSuccessRate": "请求成功率",
+  "streamTrue": "stream=true",
+  "theAverageTimeTakenToGenerate": "生成一个输出 Token 所需的平均时间，仅在请求参数",
+  "theTimeRequiredToProcessThe": "处理提示词并生成第一个输出 Token 所需的时间，仅在请求参数",
+  "timePerOutputTokenTpot": "每个输出 Token 的时间 (TPOT)",
+  "timeToFirstTokenTtft": "首个 Token 响应时间 (TTFT)"
+}

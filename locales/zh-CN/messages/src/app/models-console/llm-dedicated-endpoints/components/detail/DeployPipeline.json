@@ -1,0 +1,8 @@
+{
+  "deploymentPipeline": "部署流水线",
+  "engineStartup": "引擎启动",
+  "modelImagePull": "模型和镜像拉取",
+  "resourceScheduling": "资源调度",
+  "running": "运行中",
+  "waiting": "等待中..."
+}

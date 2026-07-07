@@ -1,0 +1,9 @@
+{
+  "cacheRead": "Leitura de cache",
+  "cacheWrite1h": "Gravação de cache (1h)",
+  "cacheWrite5m": "Gravação de cache (5m)",
+  "context": "Contexto",
+  "input": "Entrada",
+  "maxOutput": "Saída máxima",
+  "output": "Saída"
+}

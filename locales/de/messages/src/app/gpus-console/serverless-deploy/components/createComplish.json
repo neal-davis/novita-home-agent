@@ -1,0 +1,7 @@
+{
+  "deployServerless": "Serverless bereitstellen",
+  "deployed": "Bereitgestellt",
+  "myEndpoints": "Meine Endpunkte",
+  "redirectingToMyEndpoints": "Weiterleitung zu Meine Endpunkte ......",
+  "yourEndpointIsBeingCreatedUsing": "Ihr Endpunkt wird mit der von Ihnen ausgewählten Konfiguration erstellt. Er ist in Kürze bereit – Sie können ihn in der Konsole anzeigen."
+}

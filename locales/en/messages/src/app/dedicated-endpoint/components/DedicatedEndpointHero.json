@@ -1,0 +1,23 @@
+{
+  "billingPreview": "Billing preview",
+  "chooseTheRightDeploymentModelFor": "Choose the right deployment model for your workload",
+  "dedicatedEndpoint": "DEDICATED ENDPOINT",
+  "dedicatedEndpoints": "Dedicated Endpoints",
+  "deployModelsOnDedicatedGpusPer": "Deploy models on dedicated GPUs. Per-second billing on running replicas only, affordable GPU options starting at $0.61/hr, and inference issues are on us.",
+  "deploymentOptions": "Deployment options",
+  "gpusForEveryBudget": "GPUs for every budget",
+  "inferenceBreaksThatsOnUs": "Inference breaks? That's on us.",
+  "message0000608S": "$0.000608/s",
+  "message3Replicas40902h15m42s": "3 replicas 4090 × 2h 15m 42s running",
+  "message8142s": "8,142s",
+  "notEveryWorkloadNeedsAnH200": "Not every workload needs an H200. Choose from RTX 4090, RTX 5090, H100 — match the GPU to your model size and your budget.",
+  "oomCudaErrorsModelLoadingFailures": "OOM, CUDA errors, model loading failures — our team diagnoses and resolves. You get a clear explanation, not a cryptic stack trace.",
+  "payOnlyForWhatsRunning": "Pay only for what's running",
+  "perSecondBillingOnActiveReplicas": "Per-second billing on active replicas. Scale to zero, pay zero. No charges for idle endpoints, no minimum commitments.",
+  "recommendedForProduction": "Recommended for production",
+  "runYourModels": "Run Your Models,",
+  "seePrice": "See Price",
+  "serverlessVsDedicated": "Serverless vs Dedicated",
+  "startDeploying": "Start Deploying",
+  "weHandleTheRest": "We Handle the Rest"
+}

@@ -1,0 +1,11 @@
+{
+  "members": "メンバー",
+  "myBudget": "マイ予算",
+  "refresh": "更新",
+  "searchMember": "メンバーを検索",
+  "teamAccountRequired": "チームアカウントが必要です",
+  "teamInfo": "チーム情報",
+  "teamMemberBudgets": "チームメンバーの予算",
+  "thisFeatureIsOnlyAvailableFor": "この機能はチームアカウントでのみ利用できます。利用するには、チームに参加するか作成してください。",
+  "upgradeToTeamAccount": "チームアカウントにアップグレード"
+}

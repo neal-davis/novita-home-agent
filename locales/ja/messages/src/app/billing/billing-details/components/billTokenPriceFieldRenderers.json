@@ -1,0 +1,12 @@
+{
+  "audio": "音声:",
+  "cachedReadsInput": "キャッシュ済み（読み取り）入力",
+  "cachedWrites1hInput": "キャッシュ済み（書き込み:1h）入力",
+  "cachedWrites5mInput": "キャッシュ済み（書き込み:5m）入力",
+  "image": "画像:",
+  "output": "出力",
+  "text-0a328f": "テキスト:",
+  "text-c3328c": "テキスト",
+  "uncachedInput": "非キャッシュ入力",
+  "video": "動画:"
+}

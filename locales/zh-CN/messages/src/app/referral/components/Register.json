@@ -1,0 +1,11 @@
+{
+  "connectGithub": "连接 GitHub",
+  "createAnAccount": "创建账户",
+  "enterInviteCode": "输入邀请码",
+  "howToEarn": "如何获取",
+  "invalidInvitationCode": "邀请码无效",
+  "registerViaEmail": "通过电子邮件注册",
+  "toStartReceivingVouchersConnectAnd": "要开始接收代金券，请连接并验证你的 GitHub 账户",
+  "verifyYourGithubAccount": "验证你的 GitHub 账户",
+  "youreCurrentlyUsingATeamAccount": "你当前正在使用团队账户。只有团队所有者才能验证该账户。"
+}

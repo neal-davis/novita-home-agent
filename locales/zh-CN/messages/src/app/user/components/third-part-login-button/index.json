@@ -1,0 +1,6 @@
+{
+  "authorizing": "正在授权...",
+  "loginWithGithub": "使用 GitHub 登录",
+  "loginWithGoogle": "使用 Google 登录",
+  "loginWithHuggingFace": "使用 Hugging Face 登录"
+}

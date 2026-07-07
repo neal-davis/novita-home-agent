@@ -1,0 +1,15 @@
+{
+  "brushSize": "Taille du pinceau",
+  "cancel": "Annuler",
+  "clear": "effacer",
+  "download": "Télécharger",
+  "drag": "faire glisser",
+  "draw": "dessiner",
+  "estimatedCost": "Coût estimé :",
+  "generate": "Générer",
+  "hideChanges": "Masquer les modifications",
+  "redo": "refaire",
+  "scale": "Échelle",
+  "showChanges": "Afficher les modifications",
+  "undo": "annuler"
+}

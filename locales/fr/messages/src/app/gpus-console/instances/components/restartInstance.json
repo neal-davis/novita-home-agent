@@ -1,0 +1,7 @@
+{
+  "cancel": "Annuler",
+  "restart": "Redémarrer",
+  "restartInstance": "Redémarrer l’instance",
+  "success": "succès",
+  "youWillRestartTheRunningInstance": "Vous allez redémarrer l’instance en cours d’exécution, veuillez confirmer si vous souhaitez continuer."
+}

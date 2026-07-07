@@ -1,0 +1,10 @@
+{
+  "cacheRead": "Cache Read",
+  "cacheWrite1h": "Cache Write(1h)",
+  "cacheWrite5m": "Cache Write(5m)",
+  "inputLength": "Input length",
+  "inputPriceMTokens": "Input price (M tokens)",
+  "outputLength": "Output length",
+  "outputPriceMTokens": "Output Price (M tokens)",
+  "tieredPricing": "Tiered pricing"
+}

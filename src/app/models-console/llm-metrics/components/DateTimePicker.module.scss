@@ -1,0 +1,19 @@
+.tag_container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 20px;
+
+  button {
+    height: 30px;
+    width: 60px;
+  }
+}
+
+.sub_title {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--black);
+  width: 100%;
+}

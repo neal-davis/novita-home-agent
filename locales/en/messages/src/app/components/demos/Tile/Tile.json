@@ -1,0 +1,12 @@
+{
+  "cancel": "Cancel",
+  "descriptionOfTheTileThatYou": "Description of the tile that you want to avoid generating",
+  "descriptionOfTheTileYouWant": "Description of the tile you want to generate",
+  "download": "Download",
+  "generate": "Generate",
+  "heigh": "Heigh",
+  "negativePrompt": "Negative Prompt",
+  "prompt": "Prompt",
+  "promptIsEmpty": "Prompt is empty",
+  "width": "Width"
+}

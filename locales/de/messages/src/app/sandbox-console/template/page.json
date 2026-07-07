@@ -1,0 +1,17 @@
+{
+  "all": "Alle",
+  "automaticallyAdjustedToTheNearestValid-261322": "Automatisch auf den nächstgültigen Wert angepasst (CPU muss eine Ganzzahl sein, Minimum ist 1)",
+  "automaticallyAdjustedToTheNearestValid-df2cec": "Automatisch auf den nächstgültigen Wert angepasst (nur Vielfache von 512 MiB werden unterstützt, Minimum ist 512 MiB)",
+  "clickToCopy": "Zum Kopieren klicken",
+  "core": "Kern",
+  "cores": "Kerne",
+  "cpuCores": "CPU-Kerne",
+  "findATemplate": "Vorlage suchen",
+  "memory": "Arbeitsspeicher",
+  "mib": "MiB",
+  "private": "Privat",
+  "public": "Öffentlich",
+  "template": "Vorlage",
+  "thisTemplateIsProvidedByNovita": "Diese Vorlage wird von Novita AI bereitgestellt und steht standardmäßig allen Nutzern zur Verfügung.",
+  "visibility": "Sichtbarkeit"
+}

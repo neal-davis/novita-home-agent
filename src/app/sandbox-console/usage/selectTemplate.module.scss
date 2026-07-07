@@ -1,0 +1,53 @@
+.name {
+  // color: var(--black);
+  // font-size: 14px;
+  // font-style: normal;
+  // font-weight: 400;
+  // line-height: 14px;
+  color: var(--dark-2);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+
+  margin-bottom: 2px;
+  text-align: left;
+}
+.item_name {
+  // color: var(--black);
+  // font-size: 12px;
+  // font-style: normal;
+  // font-weight: 400;
+  // line-height: 12px;
+
+  color: var(--dark-2);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+
+  margin-bottom: 2px;
+  text-align: left;
+}
+.item_id {
+  // color: var(--dark-2);
+  // font-size: 10px;
+  // font-style: normal;
+  // font-weight: 400;
+  // line-height: 10px;
+
+  
+  color: var(--dark-1);
+  @include font-subtle;
+  text-align: left;
+}
+.id {
+  // color: var(--dark-2);
+  // font-size: 12px;
+  // font-style: normal;
+  // font-weight: 400;
+  // line-height: 12px;
+  // text-align: left;
+  color: var(--black);
+  @include font-subtle;
+}

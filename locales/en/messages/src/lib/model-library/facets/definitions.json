@@ -1,0 +1,16 @@
+{
+  "aiSearch": "AI Search",
+  "audio": "Audio",
+  "embedding": "Embedding",
+  "features": "Features",
+  "image": "Image",
+  "jsonSchema": "JSON schema",
+  "longContext": "Long context",
+  "modality": "Modality",
+  "provider": "Provider",
+  "reasoning": "Reasoning",
+  "reranker": "Reranker",
+  "toolCalling": "Tool calling",
+  "video": "Video",
+  "vision": "Vision"
+}

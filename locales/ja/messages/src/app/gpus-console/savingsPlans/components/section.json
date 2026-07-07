@@ -1,0 +1,16 @@
+{
+  "captionTable": "キャプションテーブル",
+  "expireTime": "有効期限",
+  "filterByGpuType": "GPUタイプでフィルター",
+  "gpuTypes": "GPUタイプ",
+  "instanceId": "インスタンスID",
+  "instanceName": "インスタンス名",
+  "region": "リージョン",
+  "savingsPlanId": "Savings Plan ID",
+  "savingsPlans": "Savings Plans",
+  "search": "検索",
+  "toExplore": "探索する",
+  "totalCommitment": "合計コミットメント",
+  "utilization": "使用率",
+  "whatAreSavingsPlans": "Savings Plansとは何ですか？"
+}

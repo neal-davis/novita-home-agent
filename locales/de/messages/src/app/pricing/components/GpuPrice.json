@@ -1,0 +1,12 @@
+{
+  "billingMethod": "Abrechnungsmethode",
+  "getStarted": "Loslegen",
+  "message1x": "1x",
+  "message1xGpu": "1x GPU",
+  "message8xGpu": "8x GPU",
+  "onDemand": "On-Demand",
+  "pricing": "Preise",
+  "specification": "Spezifikation",
+  "spot": "Spot",
+  "spotInstanceInfo": "Informationen zu Spot-Instanzen"
+}

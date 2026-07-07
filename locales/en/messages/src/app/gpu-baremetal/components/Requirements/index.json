@@ -1,0 +1,17 @@
+{
+  "companyName": "Company Name",
+  "companyNameIsRequired": "Company name is required",
+  "confirm": "Confirm",
+  "email": "Email",
+  "emailIsRequired": "Email is required",
+  "inOrderToEnableUsTo": "In order to enable us to establish communication withyou, please enter an email address.",
+  "informationSubmittedSuccessfully": "Information submitted successfully",
+  "inputCompanyName": "Input company name",
+  "inputEmail": "Input email",
+  "inputName": "Input name",
+  "invalidEmailFormat": "Invalid email format",
+  "name": "Name",
+  "nameIsRequired": "Name is required",
+  "submitRequirements": "Submit requirements",
+  "submitting": "Submitting..."
+}

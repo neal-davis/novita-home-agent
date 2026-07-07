@@ -1,0 +1,9 @@
+{
+  "allStatus": "Tous les statuts",
+  "failed": "Échec",
+  "newEndpoint": "Nouveau point de terminaison",
+  "running": "En cours d’exécution",
+  "searchByEndpointOrModelName": "Rechercher par point de terminaison ou nom de modèle...",
+  "sleeping": "En veille",
+  "terminated": "Terminé"
+}

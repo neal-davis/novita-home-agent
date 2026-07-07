@@ -1,0 +1,14 @@
+.playground_wrapper {
+  min-width: 1270px;
+}
+
+.main {
+  flex: 1;
+  min-height: 0;
+  overflow: hidden;
+
+  .divider {
+    height: 2px;
+    background-color: var(--gray-3);
+  }
+}

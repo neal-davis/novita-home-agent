@@ -1,0 +1,14 @@
+{
+  "agentSandbox": "Agent-Sandbox",
+  "billing": "Abrechnung",
+  "blog": "Blog",
+  "console": "Konsole",
+  "docs": "Dokumentation",
+  "gpuBareMetal": "GPU-Bare-Metal",
+  "gpuBaremetal": "GPU Bare Metal",
+  "gpuInstance": "GPU-Instanz",
+  "gpus": "GPUs",
+  "modelApis": "Modell-APIs",
+  "myModels": "Meine Modelle",
+  "pricing": "Preise"
+}

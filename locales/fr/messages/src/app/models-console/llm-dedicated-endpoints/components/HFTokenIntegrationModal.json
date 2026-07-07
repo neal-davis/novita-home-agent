@@ -1,0 +1,9 @@
+{
+  "cancel": "Annuler",
+  "huggingFaceAccessToken": "Jeton d’accès Hugging Face",
+  "save": "Enregistrer",
+  "submitRequirements": "Soumettre les exigences",
+  "thisLink": "ce lien",
+  "toConnectYourHuggingFaceAccount": "Pour connecter votre compte Hugging Face, vous devez enregistrer votre jeton d’accès Hugging Face. Vous pouvez générer un jeton d’accès sur Hugging Face en suivant",
+  "yourHuggingFaceAccessToken": "Votre jeton d’accès Hugging Face"
+}

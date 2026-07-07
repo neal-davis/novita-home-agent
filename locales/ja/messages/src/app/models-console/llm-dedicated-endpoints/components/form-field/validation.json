@@ -1,0 +1,12 @@
+{
+  "huggingFaceModelRepositoryNameIs": "Hugging Face モデルリポジトリ名は必須です",
+  "maxReplicasMustNotExceed10": "最大レプリカ数は10を超えてはなりません",
+  "minReplicasMustBeAtLeast": "最小レプリカ数は0以上である必要があります",
+  "mustBeAtLeast1": "1以上である必要があります",
+  "nameMustBeAtLeast3": "名前は3文字以上である必要があります",
+  "nameMustNotExceed63Characters": "名前は63文字を超えてはなりません",
+  "nameMustStartWithALowercase": "名前は小文字で始まり、小文字、数字、ハイフンのみを含める必要があります",
+  "scaleDownDelayMustBeAt": "スケールダウンの遅延は300秒以上である必要があります",
+  "scaleDownWindowMustBeAt": "スケールダウンウィンドウは60秒以上である必要があります",
+  "stableWindowMustBeAtLeast": "安定ウィンドウは60秒以上である必要があります"
+}

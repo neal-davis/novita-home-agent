@@ -1,0 +1,17 @@
+{
+  "cancel": "Cancel",
+  "chooseMotionVideo": "Choose motion video:",
+  "forOptimalResultsEnsureTheImage": "For optimal results, ensure the image includes:",
+  "generate": "Generate",
+  "heigh": "Heigh",
+  "message1ACleanBackground": "1. a clean background",
+  "message2TheUpperHalfOfA": "2. the upper half of a person's body",
+  "orChooseFromPresetImages": "Or choose from preset images:",
+  "queueing": "Queueing...",
+  "seed": "Seed",
+  "steps": "Steps",
+  "thisTaskMayTakeSomeTime": "This task may take some time (a few minutes), please be patient.",
+  "uploadBaseImage": "Upload base image",
+  "uploadMotionVideo": "Upload motion video",
+  "width": "Width"
+}

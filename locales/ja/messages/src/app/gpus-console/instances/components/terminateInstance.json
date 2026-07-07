@@ -1,0 +1,9 @@
+{
+  "cancel": "キャンセル",
+  "deleteYourInstance": "インスタンスを削除します。",
+  "success": "成功",
+  "terminateInstance": "インスタンスを終了",
+  "thisActionWillRemoveYourPod": "この操作により、ポッド構成、および関連する非ネットワークボリュームとデータが削除されます。",
+  "thisIsIrreversibleDoYouWant": "この操作は元に戻せません！続行しますか？",
+  "yes": "はい"
+}

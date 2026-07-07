@@ -1,0 +1,10 @@
+{
+  "coFounderAndCeo": "Co-Founder and CEO",
+  "coFounderChiefScientist": "Co-Founder & Chief Scientist",
+  "coFounderCto": "Co-Founder & CTO",
+  "headOfPartnerships": "Head of Partnerships",
+  "iAppreciateHowFastNovitaAi": "I appreciate how fast Novita AI moves to deploy newly released models. Their team is often the first to get stable, production ready inference support online – often on Day One. That speed is critical for the whole open-source AI community.",
+  "novitaHasBeenAHugeHelp": "Novita has been a huge help for us at Fish Audio. Their reliable GPU infrastructure allows us focus on developing and improving our text-to-speech models instead of dealing with hardware headaches. Their support and performance have made it much easier to push our work forward.",
+  "novitasModelApiWasSuperSimple": "Novita's Model API was super simple to integrate, and it's been great in powering our AI-driven flashcards and quizzes. The platform takes care of the heavy lifting, so we can focus on building better learning tools for our users without worrying about infrastructure or scaling issues.",
+  "workingWithNovitaAiHasBeen": "Working with Novita AI has been a fantastic experience for Kilo. Their inference platform helps us deliver fast and reliable AI coding workflows across multiple LLMs, with strong real-world performance for agentic workflows. And the team has been remarkably easy to work with! They are always optimizing based on the latest models and technology—a perfect partner for Kilo Code."
+}

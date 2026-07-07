@@ -1,0 +1,15 @@
+{
+  "applyTheFollowingBudgetSettings": "Apply the following budget settings?",
+  "budgetLimit": "Budget Limit",
+  "budgetSettings": "Budget Settings",
+  "budgetSettingsSavedSuccessfully": "Budget settings saved successfully",
+  "budgetType": "Budget Type",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "confirmBudgetSettings": "Confirm Budget Settings",
+  "enterAmount": "Enter amount",
+  "member": "Member",
+  "save": "Save",
+  "saving": "Saving...",
+  "unlimited": "Unlimited"
+}

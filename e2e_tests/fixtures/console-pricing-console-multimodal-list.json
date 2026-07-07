@@ -1,0 +1,149 @@
+{
+  "configs": [
+    {
+      "fusionConfig": {
+        "name": "fish-audio-s2-pro-text-to-speech",
+        "displayName": "Fish Audio S2 Pro Text to Speech",
+        "series": "",
+        "modelFamily": "",
+        "description": "Fish Audio S2 Pro text-to-speech model converts text into natural speech with support for reference voices, sampling controls, chunking, audio formats, and prosody controls.",
+        "labels": [],
+        "examples": "[]",
+        "markdown": "",
+        "rank": 999999,
+        "modelReleasedAt": "0",
+        "platformReleaseAt": "1779521840"
+      },
+      "modelConfig": {
+        "config": {
+          "name": "fish-audio-s2-pro-text-to-speech",
+          "openapiSchema": "{\"openapi\": \"3.0.0\", \"info\": {\"title\": \"mock-model\", \"version\": \"1.0.0\"}, \"paths\": {\"/v3/example-endpoint\": {\"post\": {\"summary\": \"mock\"}}}}",
+          "category": "audio_gen",
+          "billingExpr": "(sku * int(body.text.size()) + 500000) / 1000000 > 1 ? (sku * int(body.text.size()) + 500000) / 1000000 : 1",
+          "async": false,
+          "priceConfig": "{\"table\": {\"priceUnit\": \"1M characters\"}, \"fieldMapping\": {}}",
+          "providerBillingExpr": "",
+          "billingFactorMappers": "[]"
+        },
+        "skuMappings": [
+          {
+            "skuCode": "FISH_AUDIO_S2_PRO_TEXT_TO_SPEECH",
+            "celExpr": "true"
+          }
+        ]
+      }
+    },
+    {
+      "fusionConfig": {
+        "name": "kling-v3.0-4k-i2v",
+        "displayName": "Kling v3.0 4K Image-to-Video",
+        "series": "Kling",
+        "modelFamily": "",
+        "description": "Kling v3.0 4K Image-to-Video generates native 4K ultra-high-definition videos from a first-frame image with cinematic quality, smooth motion, precise prompt adherence, and optional synchronized audio generation. Supports end-frame guidance, multi-shot composition, and flexible 3-15 second durations.",
+        "labels": [],
+        "examples": "[]",
+        "markdown": "",
+        "rank": 999999,
+        "modelReleasedAt": "0",
+        "platformReleaseAt": "1777455170"
+      },
+      "modelConfig": {
+        "config": {
+          "name": "kling-v3.0-4k-i2v",
+          "openapiSchema": "{\"openapi\": \"3.0.0\", \"info\": {\"title\": \"mock-model\", \"version\": \"1.0.0\"}, \"paths\": {\"/v3/example-endpoint\": {\"post\": {\"summary\": \"mock\"}}}}",
+          "category": "video_gen",
+          "billingExpr": "sku * int(body.duration)",
+          "async": true,
+          "priceConfig": "{\"table\": {\"rowMode\": \"per-sku\", \"priceUnit\": \"s\", \"columnValueDerivers\": {\"mode\": \"(ctx) => (ctx.params.sound ? 'Audio' : 'No Audio')\"}}, \"fieldMapping\": {}}",
+          "providerBillingExpr": "sku * int(billing_factors.video_duration)",
+          "billingFactorMappers": "[{\"one_to_one\":{\"source\":\"body.duration\",\"target\":\"video_duration\"}}]"
+        },
+        "skuMappings": [
+          {
+            "skuCode": "KLING_V30_4K_I2V_NA",
+            "celExpr": "!has(body.sound) || body.sound == false"
+          },
+          {
+            "skuCode": "KLING_V30_4K_I2V_A",
+            "celExpr": "has(body.sound) && body.sound == true"
+          }
+        ]
+      }
+    },
+    {
+      "fusionConfig": {
+        "name": "kling-v3.0-4k-t2v",
+        "displayName": "Kling v3.0 4K Text-to-Video",
+        "series": "Kling",
+        "modelFamily": "",
+        "description": "Kling v3.0 4K Text-to-Video generates native 4K ultra-high-definition videos from text prompts with cinematic quality, smooth motion, precise prompt adherence, and optional synchronized audio generation. Supports 3-15 second durations and multiple aspect ratios.",
+        "labels": [],
+        "examples": "[]",
+        "markdown": "",
+        "rank": 999999,
+        "modelReleasedAt": "0",
+        "platformReleaseAt": "1777455153"
+      },
+      "modelConfig": {
+        "config": {
+          "name": "kling-v3.0-4k-t2v",
+          "openapiSchema": "{\"openapi\": \"3.0.0\", \"info\": {\"title\": \"mock-model\", \"version\": \"1.0.0\"}, \"paths\": {\"/v3/example-endpoint\": {\"post\": {\"summary\": \"mock\"}}}}",
+          "category": "video_gen",
+          "billingExpr": "sku * int(body.duration)",
+          "async": true,
+          "priceConfig": "{\"table\": {\"rowMode\": \"per-sku\", \"priceUnit\": \"s\", \"columnValueDerivers\": {\"mode\": \"(ctx) => (ctx.params.sound ? 'Audio' : 'No Audio')\"}}, \"fieldMapping\": {}}",
+          "providerBillingExpr": "sku * int(billing_factors.video_duration)",
+          "billingFactorMappers": "[{\"one_to_one\":{\"source\":\"body.duration\",\"target\":\"video_duration\"}}]"
+        },
+        "skuMappings": [
+          {
+            "skuCode": "KLING_V30_4K_T2V_NA",
+            "celExpr": "!has(body.sound) || body.sound == false"
+          },
+          {
+            "skuCode": "KLING_V30_4K_T2V_A",
+            "celExpr": "has(body.sound) && body.sound == true"
+          }
+        ]
+      }
+    },
+    {
+      "fusionConfig": {
+        "name": "wan2.7-videoedit",
+        "displayName": "Wan 2.7 Video Editing",
+        "series": "Wan",
+        "modelFamily": "",
+        "description": "Wan 2.7 Video Editing model with multimodal input support (text/image/video). Capable of instruction-based video editing and video style transfer. Supports 720P and 1080P resolutions, duration 2~10 seconds, billed per second. Output includes audio by default.",
+        "labels": [],
+        "examples": "[]",
+        "markdown": "",
+        "rank": 999999,
+        "modelReleasedAt": "0",
+        "platformReleaseAt": "1777016355"
+      },
+      "modelConfig": {
+        "config": {
+          "name": "wan2.7-videoedit",
+          "openapiSchema": "{\"openapi\": \"3.0.0\", \"info\": {\"title\": \"mock-model\", \"version\": \"1.0.0\"}, \"paths\": {\"/v3/example-endpoint\": {\"post\": {\"summary\": \"mock\"}}}}",
+          "category": "video_gen",
+          "billingExpr": "sku * (has(body.duration) && int(body.duration) > 0 ? int(body.duration) : 10)",
+          "async": true,
+          "priceConfig": "{\"table\": {\"rowMode\": \"per-sku\", \"priceUnit\": \"s\", \"columnValueDerivers\": {\"duration\": \"() => '-'\"}}, \"fieldMapping\": {}}",
+          "providerBillingExpr": "",
+          "billingFactorMappers": "[{\"cel_expression_setter\":{\"field\":\"video_duration\",\"expression\":\"has(object.body.duration) && int(object.body.duration) > 0 ? int(object.body.duration) : 10\"}}]"
+        },
+        "skuMappings": [
+          {
+            "skuCode": "WAN2_7_VIDEOEDIT_720P",
+            "celExpr": "has(body.resolution) && body.resolution == \"720P\""
+          },
+          {
+            "skuCode": "WAN2_7_VIDEOEDIT_1080P",
+            "celExpr": "!has(body.resolution) || body.resolution == \"1080P\""
+          }
+        ]
+      }
+    }
+  ],
+  "total": 4
+}

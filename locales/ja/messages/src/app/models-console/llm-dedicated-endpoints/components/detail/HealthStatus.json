@@ -1,0 +1,21 @@
+{
+  "allSystemsOperational": "すべてのシステムが正常に稼働中",
+  "autoscalingInProgress": "オートスケーリングを実行中...",
+  "deploying": "デプロイ中",
+  "deploymentFailedCheckLogsOrRedeploy": "デプロイに失敗しました。ログを確認するか、再デプロイしてください。",
+  "endpointIsShuttingDown": "エンドポイントをシャットダウン中...",
+  "endpointTerminatedRedeployToRestart": "エンドポイントは終了しました。再起動するには再デプロイしてください。",
+  "failed": "失敗",
+  "health": "ヘルス",
+  "healthy": "正常",
+  "initialDeploymentInProgress": "初回デプロイを実行中...",
+  "pending": "保留中",
+  "rolling": "ローリング",
+  "rollingUpdateInProgress": "ローリングアップデートを実行中...",
+  "scaleToZeroActiveWillWake": "Scale-to-Zero が有効です。最初のリクエストで起動します。",
+  "scaling": "スケーリング中",
+  "sleeping": "スリープ中",
+  "terminated": "終了済み",
+  "terminating": "終了中",
+  "waitingForResources": "リソースを待機中..."
+}

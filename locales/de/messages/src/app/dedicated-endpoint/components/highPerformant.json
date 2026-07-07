@@ -1,0 +1,6 @@
+{
+  "createANewEndpoint": "Einen neuen Endpunkt erstellen",
+  "deployAvailableModelsAndLoraAdapters": "· Verfügbare Modelle und LoRA-Adapter auf anpassbaren GPU-Endpunkten mit stundenbasierter Abrechnung bereitstellen.",
+  "highCostPerformance": "Hohes Preis-Leistungs-Verhältnis",
+  "lowerPricesNoHardRateLimits": "· Niedrigere Preise, keine harten Rate-Limits, günstiger bei hoher Auslastung, benutzerdefinierte Basismodelle und mehrere LoRAs, vorhersagbare Leistung bleibt unbeeinträchtigt."
+}

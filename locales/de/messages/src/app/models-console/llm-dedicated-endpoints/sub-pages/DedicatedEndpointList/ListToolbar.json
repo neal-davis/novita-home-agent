@@ -1,0 +1,9 @@
+{
+  "allStatus": "Alle Status",
+  "failed": "Fehlgeschlagen",
+  "newEndpoint": "Neuer Endpunkt",
+  "running": "Läuft",
+  "searchByEndpointOrModelName": "Nach Endpunkt oder Modellname suchen...",
+  "sleeping": "Im Ruhezustand",
+  "terminated": "Beendet"
+}

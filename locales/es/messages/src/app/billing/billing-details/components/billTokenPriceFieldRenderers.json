@@ -1,0 +1,12 @@
+{
+  "audio": "Audio:",
+  "cachedReadsInput": "Entrada almacenada en caché (lecturas)",
+  "cachedWrites1hInput": "Entrada almacenada en caché (escrituras:1 h)",
+  "cachedWrites5mInput": "Entrada almacenada en caché (escrituras:5 min)",
+  "image": "Imagen:",
+  "output": "Salida",
+  "text-0a328f": "Texto:",
+  "text-c3328c": "Texto",
+  "uncachedInput": "Entrada no almacenada en caché",
+  "video": "Video:"
+}

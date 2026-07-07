@@ -1,0 +1,9 @@
+{
+  "copiedToClipboard": "クリップボードにコピーしました！",
+  "endpoint": "エンドポイント",
+  "endpointHealth": "エンドポイントの健全性",
+  "endpointId": "エンドポイント ID",
+  "modelId": "モデル ID",
+  "openaiCompatibleBaseUrl": "OpenAI 互換ベース URL",
+  "replicas": "レプリカ"
+}

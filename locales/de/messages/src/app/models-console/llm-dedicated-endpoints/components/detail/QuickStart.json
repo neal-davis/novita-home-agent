@@ -1,0 +1,9 @@
+{
+  "apiKey": "API-Schlüssel",
+  "endpointUrl": "Endpoint-URL",
+  "manageApiKeys": "API-Schlüssel verwalten",
+  "python": "Python",
+  "quickStart": "Schnellstart",
+  "shell": "Shell",
+  "typescript": "TypeScript"
+}

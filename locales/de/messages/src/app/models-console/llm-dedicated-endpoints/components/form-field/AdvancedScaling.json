@@ -1,0 +1,9 @@
+{
+  "advancedScalingOptions": "Erweiterte Skalierungsoptionen",
+  "optional": "(optional)",
+  "scaleDownWindow": "Herunterskalierungsfenster",
+  "seconds": "Sekunden",
+  "stableWindow": "Stabilitätsfenster",
+  "timeInSecondsBeforeScalingDown": "Zeit in Sekunden, bevor Replikate herunterskaliert werden.",
+  "timeInSecondsBeforeScalingUp": "Zeit in Sekunden, bevor Replikate hochskaliert werden."
+}

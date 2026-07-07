@@ -1,0 +1,31 @@
+{
+  "models": [
+    {
+      "modelId": "model-glm",
+      "modelName": "zai-org/glm-4.6",
+      "requests": "80000",
+      "inputTokens": "30000000",
+      "cacheTokens": "3000000",
+      "outputTokens": "8000000",
+      "cost": "9876500"
+    },
+    {
+      "modelId": "model-kimi",
+      "modelName": "moonshotai/kimi-k2",
+      "requests": "30000",
+      "inputTokens": "12000000",
+      "cacheTokens": "1500000",
+      "outputTokens": "3000000",
+      "cost": "4321000"
+    },
+    {
+      "modelId": "model-deepseek",
+      "modelName": "deepseek/deepseek-v3",
+      "requests": "15000",
+      "inputTokens": "3000000",
+      "cacheTokens": "500000",
+      "outputTokens": "1000000",
+      "cost": "1234560"
+    }
+  ]
+}

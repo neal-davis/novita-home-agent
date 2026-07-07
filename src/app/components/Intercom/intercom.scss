@@ -1,0 +1,53 @@
+body.novita-llm-playground {
+  .intercom-lightweight-app .intercom-launcher-temp-wrapper {
+    transition: right 0.2s ease-out;
+    position: fixed;
+    bottom: 20px;
+    right: -80px;
+    z-index: 2147483000;
+    width: 48px;
+    height: 48px;
+
+    .intercom-launcher {
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      z-index: 1;
+
+      &:hover {
+        transform: scale(1) !important;
+      }
+      &:active {
+        transform: scale(1) !important;
+      }
+    }
+  }
+
+  .intercom-lightweight-app .intercom-launcher-temp-wrapper,
+  #intercom-container .intercom-app div[class^="intercom-with-namespace-"] {
+    right: -80px;
+
+    &:hover {
+      transform: scale(1) !important;
+    }
+    &:active {
+      transform: scale(1) !important;
+    }
+    .close-btn {
+      position: absolute;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      right: 0px;
+      top: 0px;
+      width: 16px;
+      height: 16px;
+      background-color: rgba(0, 0, 0, 0.5);
+      border-radius: 50%;
+      cursor: pointer;
+      z-index: 2;
+      color: #fff;
+      font-size: 12px;
+    }
+  }
+}

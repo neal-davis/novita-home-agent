@@ -1,0 +1,15 @@
+{
+  "by": "由",
+  "changeHistory": "变更历史",
+  "noChangeHistoryYet": "暂无变更历史",
+  "records": "条记录)",
+  "showAll": "显示全部 (",
+  "showLess": "收起",
+  "textVarBrand1": "text-[var(--brand-1)]",
+  "textVarCyan2": "text-[var(--cyan-2)]",
+  "textVarDark2": "text-[var(--dark-2)]",
+  "textVarPurple1": "text-[var(--purple-1)]",
+  "textVarRed1": "text-[var(--red-1)]",
+  "textVarYellow1": "text-[var(--yellow-1)]",
+  "utc": "UTC"
+}

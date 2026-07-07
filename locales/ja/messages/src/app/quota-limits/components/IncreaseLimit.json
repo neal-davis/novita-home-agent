@@ -1,0 +1,16 @@
+{
+  "cancel": "キャンセル",
+  "contactEmail": "連絡先メールアドレス",
+  "currentLimit": "現在の上限",
+  "increaseLimit": "上限を引き上げる",
+  "limitMetric": "上限指標",
+  "pleaseEnterAPositiveIntegerValue": "正の整数値を入力してください",
+  "pleaseEnterAValidEmailAddress": "有効なメールアドレスを入力してください",
+  "pleaseEnterTheReasonForYour": "審査プロセスを迅速化するため、クォータ申請の理由を入力してください",
+  "quotaIncreaseRequestSubmitted": "クォータ引き上げリクエストが送信されました",
+  "reasonForRequest": "リクエストの理由",
+  "requestRateLimitIncrease": "レート制限の引き上げをリクエスト",
+  "requestedRateLimit": "希望するレート制限",
+  "resourceService": "リソース/サービス",
+  "submit": "送信"
+}

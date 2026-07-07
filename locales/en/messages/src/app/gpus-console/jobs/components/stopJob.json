@@ -1,0 +1,11 @@
+{
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "confirmToTerminateJob": "Confirm to Terminate Job?",
+  "ifYouConfirmTerminateTheJob": "If you confirm terminate, the job will be deleted. You can go to",
+  "instanceManagement": "Instance Management",
+  "jobId": "(Job ID:",
+  "success": "success",
+  "terminateJob": "Terminate Job",
+  "toRecreateTheJob": "to recreate the job!"
+}

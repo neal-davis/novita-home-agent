@@ -1,0 +1,17 @@
+{
+  "agentNativeCliForEveryModel": "适用于每个模型的 Agent 原生 CLI",
+  "builtWithNovitaAi": "使用 Novita AI 构建",
+  "compareMultipleModelsSideBySide": "并排比较多个模型",
+  "deployHermesAgent": "部署 Hermes Agent",
+  "deployPaddleocrVl15": "部署 PaddleOCR-VL-1.5",
+  "hostClawdbotOpenclaw": "托管 Clawdbot (OpenClaw)",
+  "inMinutesWithNovitaSandboxTemplate": "使用 Novita Sandbox Template，在几分钟内完成",
+  "next": "下一页",
+  "novitaAiXCliAnything": "Novita AI x CLI-Anything",
+  "novitaclaw": "NovitaClaw",
+  "onNovitaGpuCompleteGuide": "在 Novita GPU 上：完整指南",
+  "onePrompt": "一个提示词",
+  "previous": "上一页",
+  "runOpenclawInTheCloudWith": "使用一条命令在云端运行 OpenClaw",
+  "withNovitaSandboxTemplateCompleteGuide": "使用 Novita Sandbox Template：完整指南"
+}

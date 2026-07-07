@@ -1,0 +1,7 @@
+{
+  "catalog": "目录",
+  "chat": "聊天",
+  "deployPopularOpenSourceModels": "部署热门开源模型",
+  "oneClickDeployTheMostPopular": "一键部署最热门的 LLMs，或使用你自己的 Hugging Face 模型。",
+  "reasoning": "推理"
+}

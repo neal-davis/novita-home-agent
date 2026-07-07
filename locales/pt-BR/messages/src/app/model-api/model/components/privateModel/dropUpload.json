@@ -1,0 +1,9 @@
+{
+  "clickOrDragFileToThis": "Clique ou arraste o arquivo para esta área para fazer upload",
+  "modelNameCanOnlyContainLetters": "O nome do modelo só pode conter letras, números e sublinhados, e o comprimento não deve exceder 100",
+  "pleaseAddKeyFirst": "Adicione a chave primeiro",
+  "pleaseEnterModelNameFirst": "Insira o nome do modelo primeiro",
+  "sha256ComputationFailedPleaseCheckIf": "Falha no cálculo SHA256. Verifique se a versão do seu navegador é compatível com as funções crypto e btoa, ou entre em contato conosco para resolver problemas de upload do modelo.",
+  "supportForASingleOrBulk": "Suporte para upload único ou em lote. É estritamente proibido fazer upload de dados da empresa ou outros arquivos proibidos.",
+  "uploadFailed": "Falha no upload"
+}

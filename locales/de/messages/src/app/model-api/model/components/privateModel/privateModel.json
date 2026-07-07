@@ -1,0 +1,18 @@
+{
+  "accessOurListOfPublicModels": "auf unsere Liste öffentlicher Modelle zugreifen",
+  "creditBalance": "Guthaben",
+  "featuredApis": "Empfohlene APIs",
+  "ifYouHaveAnyQuestionsPlease": "Wenn Sie Fragen haben, wenden Sie sich bitte über den Discord-Kanal an unseren Kundenservice oder unser technisches Team:",
+  "informationalNotes": "Hinweise",
+  "joinOurDiscordToGetIt": "Treten Sie unserem Discord bei, um es zu erhalten!",
+  "logInAndRequestPrivateModel": "Melden Sie sich an und beantragen Sie Berechtigungen für private Modelle oder wenn Sie möchten",
+  "manageYourPrivateModels": "Ihre privaten Modelle verwalten",
+  "modelLibrary": "Modellbibliothek",
+  "modelList": "Modellliste",
+  "playground": "Playground",
+  "pleaseBePatientWhileWeCheck": "Bitte haben Sie etwas Geduld, während wir Ihre Berechtigungen prüfen...",
+  "uploadModel": "Modell hochladen",
+  "youDontHavePermissionToUpload": "Sie haben keine Berechtigung, Modelle hochzuladen,",
+  "youMustHaveAtLeastOne": "Sie müssen mindestens einen Schlüssel haben, um Modelle hochzuladen!",
+  "youNeedToLoginToAccess": "Sie müssen sich anmelden, um auf diese Seite zuzugreifen!"
+}

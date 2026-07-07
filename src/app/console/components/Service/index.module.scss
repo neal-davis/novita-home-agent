@@ -1,0 +1,45 @@
+.service {
+  display: block;
+  padding: 16px;
+  min-width: 180px;
+  flex: 1;
+  border-radius: 4px;
+  border: 1px solid var(--gray-3);
+  background: var(--gray-3);
+
+  &:hover {
+    background: var(--white);
+    border: 1px solid var(--dark-1);
+  }
+
+  .desc {
+    @include font-body-medium;
+    color: var(--black);
+
+    & > span {
+      display: inline-block;
+      @include font-subtle;
+      color: var(--dark-2);
+    }
+  }
+}
+
+.goLink {
+  padding: 12px 0;
+  color: var(--black);
+  border-radius: 4px;
+  cursor: pointer;
+
+  &:hover {
+    color: var(--brand-0);
+  }
+
+  span:first-child {
+    @include font-link;
+  }
+
+  span:last-child {
+    @include font-subtle;
+    text-decoration: none;
+  }
+}

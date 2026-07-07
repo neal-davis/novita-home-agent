@@ -1,0 +1,58 @@
+.on_demand_models {
+  margin-top: 8px;
+  padding: 16px;
+  border-radius: 6px;
+  border: 1px solid var(--gray-2);
+  background-color: var(--white);
+
+  .title_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .title {
+      @include font-subtle-medium;
+      color: var(--dark-1);
+    }
+
+    .extra {
+      @include font-small-console;
+      color: var(--dark-1);
+    }
+  }
+
+  .models {
+    margin-top: 12px;
+  }
+
+  .model_card {
+    flex: 1;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background-color: var(--gray-3);
+    cursor: pointer;
+
+    .modelName {
+      margin-top: 8px;
+      @include font-subtle-medium;
+      color: var(--dark-1);
+    }
+
+    .label {
+      display: flex;
+      margin-top: 12px;
+      flex-direction: row;
+      flex-wrap: wrap;
+      gap: 4px;
+
+      span {
+        display: inline-block;
+        padding: 0 6px;
+        @include font-small-console;
+        color: var(--dark-1);
+        background-color: var(--white);
+        border-radius: 4px;
+      }
+    }
+  }
+}

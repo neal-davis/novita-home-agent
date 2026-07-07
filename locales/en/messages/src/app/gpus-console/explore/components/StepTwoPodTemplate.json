@@ -1,0 +1,13 @@
+{
+  "capacityHasExceededTheLimitPlease": "Capacity has exceeded the limit, please contact",
+  "containerDisk": "Container Disk",
+  "createVolume": "+ Create Volume",
+  "free": "free",
+  "gb": "GB",
+  "networkMountPath": "Network Mount Path",
+  "networkVolume": "Network Volume",
+  "podTemplate": "Pod Template",
+  "support": "support",
+  "updateTemplateNow": "Update Template Now",
+  "yourTemplateCurrentlyIncludesVolumeDisk": "Your template currently includes Volume Disk mounting, which is no longer supported (Container Disk has been expanded). Please update your template to remove Volume Disk mounting configurations and store data on the Container Disk."
+}

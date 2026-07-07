@@ -1,0 +1,7 @@
+{
+  "deployServerless": "部署无服务器",
+  "deployed": "已部署",
+  "myEndpoints": "我的端点",
+  "redirectingToMyEndpoints": "正在重定向到我的端点 ......",
+  "yourEndpointIsBeingCreatedUsing": "正在使用您选择的设置创建端点。它很快就会准备就绪——请在控制台中查看。"
+}

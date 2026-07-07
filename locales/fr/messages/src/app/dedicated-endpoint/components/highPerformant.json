@@ -1,0 +1,6 @@
+{
+  "createANewEndpoint": "Créer un nouveau point de terminaison",
+  "deployAvailableModelsAndLoraAdapters": "· Déployez les modèles disponibles et les adaptateurs LoRA sur des points de terminaison GPU personnalisables avec une facturation à l’heure.",
+  "highCostPerformance": "Excellent rapport coût-performance",
+  "lowerPricesNoHardRateLimits": "· Prix plus bas, aucune limite de débit stricte, plus économique en cas d’utilisation élevée, modèles de base personnalisés et plusieurs LoRAs, performances prévisibles non affectées."
+}

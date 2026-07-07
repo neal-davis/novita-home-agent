@@ -1,0 +1,7 @@
+{
+  "catalog": "Catalog",
+  "chat": "Chat",
+  "deployPopularOpenSourceModels": "Deploy Popular Open-Source Models",
+  "oneClickDeployTheMostPopular": "One-click deploy the most popular LLMs, or bring your own Hugging Face model.",
+  "reasoning": "Reasoning"
+}

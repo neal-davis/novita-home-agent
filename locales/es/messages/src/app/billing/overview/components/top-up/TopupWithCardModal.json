@@ -1,0 +1,18 @@
+{
+  "a9GstAppliesToPayments": "Se aplica un GST del 9% a los pagos de Singapur.",
+  "accountInformation": "Información de la cuenta",
+  "amount": "Importe",
+  "cancel": "Cancelar",
+  "confirmPayment": "Confirmar pago",
+  "description": "Descripción",
+  "novitaAiCredit": "Crédito de Novita AI",
+  "paymentAmount": "Importe del pago",
+  "paymentMethod": "Método de pago",
+  "recharging": "Recargando...",
+  "redirecting": "Redirigiendo...",
+  "stripeCheckout": "Stripe Checkout",
+  "teamId": "ID del equipo:",
+  "theCreditTopUpOf": "La recarga de crédito de $",
+  "topUpCredit": "Recargar crédito",
+  "wasSuccessful": "se realizó correctamente."
+}

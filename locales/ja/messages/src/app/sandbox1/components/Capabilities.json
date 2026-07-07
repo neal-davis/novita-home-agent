@@ -1,0 +1,17 @@
+{
+  "allowAgentsToAccessExternalApis": "エージェントが必要に応じて外部 APIs やオンラインデータにアクセスできるようにします。",
+  "automateWebNavigationFormFillingAnd": "サンドボックス内でのウェブナビゲーション、フォーム入力、データ抽出を自動化します。",
+  "browserUse": "ブラウザ利用",
+  "codeExecution": "コード実行",
+  "computerUse": "コンピューター利用",
+  "controlFullDesktopEnvironmentsForTyping": "入力、クリック、スクロール、スクリーンショット、その他の GUI 操作のために、フルデスクトップ環境を制御します。",
+  "coreRuntimeCapabilities": "コアランタイム機能",
+  "everythingAgentsNeedToExecuteCode": "エージェントがコードを実行し、システムとやり取りし、実際のワークフロー全体で制御を維持するために必要なすべてを提供します。",
+  "externalApis": "外部 APIs",
+  "liveSessionView": "ライブセッションビュー",
+  "pauseAndResumeLongRunningAgent": "長時間実行されるエージェントタスクを、状態を失うことなく一時停止および再開します。",
+  "persistentSessions": "永続セッション",
+  "runPythonJavascriptCAndOther": "安全なサンドボックス内で Python、JavaScript、C++、その他の言語を実行します。",
+  "sandboxCapabilities": "サンドボックス機能",
+  "viewAndStreamSandboxSessionsWith": "インタラクティブな監視とデバッグのために、VNC を使用してサンドボックスセッションを表示およびストリーミングします。"
+}

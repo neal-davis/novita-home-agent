@@ -1,0 +1,216 @@
+.hero {
+  position: relative;
+  display: flex;
+  padding-left: 24px;
+  padding-right: 24px;
+  height: 650px;
+  align-items: center;
+  justify-content: center;
+  background: #1f1f1f;
+
+  @include screen-md {
+    padding-left: 0;
+    padding-right: 0;
+    height: 600px;
+  }
+
+  .decoration_top_right {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .decoration_bottom_left {
+    position: absolute;
+    bottom: -128px;
+    left: 0;
+    z-index: 1;
+    pointer-events: none;
+    display: none;
+
+    @include screen-md {
+      display: block;
+    }
+
+    @media (max-width: 1200px) {
+      left: -102px;
+      bottom: -64px;
+    }
+  }
+
+  .content {
+    position: relative;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    max-width: 1200px;
+    width: 100%;
+
+    .top_label {
+      margin-bottom: 14px;
+      @include font-link;
+      color: var(--white);
+      cursor: text;
+      text-underline-offset: 2px;
+    }
+
+    .label {
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 40px;
+
+      @include screen-md {
+        flex-direction: row;
+        gap: 0;
+        margin-bottom: 60px;
+      }
+
+      .badge {
+        position: relative;
+        z-index: 1;
+        padding: 4px 8px;
+        height: 32px;
+        color: var(--white);
+        font-size: 14px;
+        line-height: 24px;
+        font-family: var(--font-tt-mono);
+        font-weight: 400;
+        border-radius: 4px;
+        border: 1px solid #2133ff;
+        background:
+          linear-gradient(129deg, #23c1ff -18.06%, #9e18dc 133.18%),
+          linear-gradient(
+            120deg,
+            #09bfdf 6.54%,
+            #5323af 56.3%,
+            #b426a3 106.11%
+          ),
+          #23d57c;
+
+        @include screen-md {
+          padding: 6px 10px;
+          height: 38px;
+          @include font-h5;
+        }
+      }
+
+      .date {
+        margin-left: 0;
+        padding: 0 12px;
+        height: 32px;
+        font-size: 14px;
+        line-height: 32px;
+        color: var(--white);
+        border-radius: 8px;
+        border: 1px solid var(--dark-2);
+        background: rgba(255, 255, 255, 0.1);
+        box-shadow: 0 0 9.366px 0 rgba(26, 26, 26, 0.74);
+
+        @include screen-md {
+          margin-left: -8px;
+          padding: 0 8px 0 16px;
+          height: 38px;
+          @include font-body;
+          line-height: 38px;
+        }
+      }
+    }
+
+    .title {
+      color: var(--white);
+      margin-bottom: 20px;
+      font-size: 36px;
+      line-height: 48px;
+      font-weight: 400;
+      font-family: var(--font-tt-mono);
+
+      @include screen-md {
+        margin-bottom: 30px;
+        font-size: 80px;
+        line-height: 88px;
+      }
+    }
+
+    .subtitle {
+      @include font-body;
+      color: var(--white);
+      margin-bottom: 48px;
+
+      @include screen-md {
+        margin-bottom: 108px;
+      }
+
+      .highlight {
+        position: relative;
+        text-decoration: none;
+
+        &::after {
+          content: "";
+          position: absolute;
+          left: 0;
+          right: 0;
+          bottom: -6px;
+          height: 4px;
+          background-color: var(--brand-0);
+          border-radius: 2px;
+        }
+      }
+    }
+
+    .buttons {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+
+      @include screen-md {
+        flex-direction: row;
+        align-items: flex-start;
+        width: auto;
+      }
+
+      .button_with_label {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+
+        @include screen-md {
+          width: auto;
+        }
+
+        button,
+        a {
+          width: 100%;
+
+          @include screen-md {
+            width: auto;
+          }
+        }
+      }
+
+      > button,
+      > a {
+        width: 100%;
+
+        @include screen-md {
+          width: auto;
+        }
+      }
+
+      .limited_time_offer {
+        margin-top: 8px;
+        @include font-small-console;
+        color: var(--gray-1);
+      }
+    }
+  }
+}

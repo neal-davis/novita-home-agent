@@ -1,0 +1,8 @@
+{
+  "cancel": "Cancelar",
+  "edit": "Editar",
+  "instanceType": "Tipo de instancia",
+  "numberOfGpus": "Número de GPUs",
+  "pleaseSelectAnInstance": "Seleccione una instancia",
+  "save": "Guardar"
+}

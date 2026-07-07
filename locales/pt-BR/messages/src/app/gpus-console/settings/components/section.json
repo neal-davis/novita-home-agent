@@ -1,0 +1,19 @@
+{
+  "action": "Ação",
+  "addCredential-e41f30": "+ Adicionar credencial",
+  "addCredential-efd6c2": "Adicionar credencial",
+  "addingPublicKeysToYourAccount": "Adicionar chaves públicas à sua conta permitirá o acesso às instâncias usando a opção básica de acesso ao terminal por meio da chave privada associada. Você pode adicionar várias chaves públicas separando-as com uma nova linha.",
+  "captionTable": "tabela de legendas",
+  "changePassword": "Alterar senha",
+  "containerRegistryAuth": "Autenticação do registro de contêineres",
+  "deleteRegistryAuth": "Excluir autenticação do registro",
+  "name": "Nome",
+  "preferSingleNuma": "Preferir Single-Numa",
+  "singleNuma": "Single-Numa",
+  "sshPublicKey": "Chave pública SSH",
+  "sshPublicKeys": "Chaves públicas SSH",
+  "success": "sucesso",
+  "thisPolicyWouldAllowResourceAllocation": "Esta política permitiria a alocação de recursos de diferentes nós NUMA somente se nunca houvesse outra maneira de satisfazer essa solicitação de alocação.",
+  "updatePublicKey": "Atualizar chave pública",
+  "youCanRegisterYourContainerRegistry": "Você pode registrar suas credenciais do registro de contêineres aqui para extrair imagens privadas de vários registros de contêineres. Esteja ciente de que atualmente oferecemos suporte apenas a credenciais do tipo docker login. Você pode adicionar suas credenciais a um modelo registrando a credencial aqui e, em seguida, selecionando-a no menu suspenso ao editar ou criar seu modelo."
+}

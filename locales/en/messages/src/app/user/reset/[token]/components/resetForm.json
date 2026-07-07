@@ -1,0 +1,8 @@
+{
+  "confirm": "Confirm",
+  "invalidEmailAddress": "Invalid email address.",
+  "password": "Password",
+  "passwordConfirmation": "Password Confirmation",
+  "passwordResetSuccessfully": "Password reset successfully.",
+  "resetPassword": "Reset Password"
+}

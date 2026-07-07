@@ -1,0 +1,12 @@
+{
+  "addCredential": "Add Credential",
+  "cancel": "Cancel",
+  "createNewTemplate": "Create New Template",
+  "editTemplate": "Edit Template",
+  "entrypointLengthCannotExceed2047Characters": "Entrypoint length cannot exceed 2047 characters",
+  "keyCanNotBeEmpty": "Key can not be empty",
+  "publicTemplatesCannotHaveLocalVolumes": "Public templates cannot have local volumes.",
+  "saveTemplate": "Save Template",
+  "success": "success",
+  "theMaxNumberOfHttpPorts": "The max number of http ports is 10"
+}

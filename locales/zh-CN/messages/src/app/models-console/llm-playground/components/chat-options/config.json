@@ -1,0 +1,8 @@
+{
+  "default": "默认",
+  "jsonObject": "json_object",
+  "modelConfiguration": "模型配置",
+  "responseFormat": "响应格式",
+  "systemPrompt": "系统提示词",
+  "text": "文本"
+}

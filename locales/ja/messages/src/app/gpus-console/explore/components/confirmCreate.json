@@ -1,0 +1,9 @@
+{
+  "cancel": "キャンセル",
+  "confirm": "確認",
+  "confirmCreate": "作成を確認",
+  "createA": "作成する",
+  "subscriptionInstance": "サブスクリプションインスタンス",
+  "theInstanceIsNotRefundableAnd": ", このインスタンスは返金不可で、リリースできません。運用中に問題が発生した場合は、「移行」をクリックすると他の GPUs にシームレスに切り替えられます。支払いを確認しますか？",
+  "youNeedToPayUpfront": ", 前払いが必要です"
+}

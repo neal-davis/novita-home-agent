@@ -1,0 +1,17 @@
+{
+  "companyName": "公司名称",
+  "companyNameIsRequired": "公司名称为必填项",
+  "confirm": "确认",
+  "email": "电子邮箱",
+  "emailIsRequired": "电子邮箱为必填项",
+  "inOrderToEnableUsTo": "为了便于我们与您建立联系，请输入电子邮箱地址。",
+  "informationSubmittedSuccessfully": "信息提交成功",
+  "inputCompanyName": "输入公司名称",
+  "inputEmail": "输入电子邮箱",
+  "inputName": "输入姓名",
+  "invalidEmailFormat": "电子邮箱格式无效",
+  "name": "姓名",
+  "nameIsRequired": "姓名为必填项",
+  "submitRequirements": "提交需求",
+  "submitting": "提交中..."
+}

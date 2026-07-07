@@ -1,0 +1,93 @@
+.case_wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.video_pipe {
+  display: block;
+  width: 180px;
+  height: 100px;
+  flex: 0 0 180px;
+  background-image: url(/product/novita-pipe.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.video_wrapper {
+  flex: 1;
+  max-width: 1000px;
+  position: relative;
+}
+
+.video_el {
+  width: 100%;
+}
+
+.clips_wrapper {
+  position: absolute;
+  display: flex;
+  flex-wrap: wrap;
+  bottom: 0;
+  transform: translateY(100%);
+  padding-top: 20px;
+}
+.clip_cover {
+  width: 100px;
+  cursor: pointer;
+  position: relative;
+
+  &:hover {
+    &::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(255, 255, 255, 0.3);
+      z-index: 10;
+    }
+  }
+}
+.clip_cover_active {
+  &::after {
+    content: "";
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    box-shadow: inset 0px 0px 0px 4px var(--primary-color);
+    z-index: 11;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .case_wrapper {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .video_pipe {
+    width: 100px;
+    height: 150px;
+    flex: 0 0 150px;
+    background-image: url(/product/novita-pipe_vertical.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+  }
+  .video_wrapper {
+    flex: auto;
+    max-width: 600px;
+  }
+
+  .clips_wrapper {
+    position: relative;
+    transform: none;
+  }
+}

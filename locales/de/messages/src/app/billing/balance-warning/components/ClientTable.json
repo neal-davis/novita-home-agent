@@ -1,0 +1,20 @@
+{
+  "addAlerts": "Warnmeldungen hinzufügen",
+  "alias": "Alias",
+  "areYouSureYouWantTo": "Sind Sie sicher, dass Sie diese Warnmeldung löschen möchten?",
+  "confirm": "Bestätigen",
+  "confirmationOfOperation": "Bestätigung des Vorgangs",
+  "deleteSuccessfully": "Erfolgreich gelöscht",
+  "edit": "Bearbeiten",
+  "email": "E-Mail",
+  "informationalNotes": "Informationshinweise",
+  "loadingTeamMembers": "Teammitglieder werden geladen...",
+  "members": "Mitglieder",
+  "notificationMethod": "Benachrichtigungsmethode",
+  "operation": "Vorgang",
+  "remove": "Entfernen",
+  "status": "Status",
+  "success": "Erfolg",
+  "warningAmount": "Warnbetrag",
+  "whenYourAccountBalanceFallsBelow": "Wenn Ihr Kontostand unter den von Ihnen festgelegten Warnschwellenwert fällt, erhalten Sie eine E-Mail-Benachrichtigung, um einen unterbrechungsfreien Betrieb des Dienstes sicherzustellen. Benachrichtigungen werden höchstens einmal pro Kalendertag (00:00-24:00, UTC+0) gesendet, bis der Kontostand den angegebenen Schwellenwert überschreitet."
+}

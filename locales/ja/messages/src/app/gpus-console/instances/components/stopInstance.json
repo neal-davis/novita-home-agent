@@ -1,0 +1,10 @@
+{
+  "areYouSureYouWantTo": "インスタンスを停止してもよろしいですか？",
+  "cancel": "キャンセル",
+  "forSuspendedInstancesDataWillBe": "停止中のインスタンスについては、データは次の期間保持されます：",
+  "stop": "停止",
+  "stopInstance": "インスタンスを停止",
+  "stopYourInstanceYouCanStart": "インスタンスを停止します。後でインスタンスを起動できます。",
+  "success": "成功",
+  "whenTheInstanceIsStoppedIf": "インスタンスが停止している間に、別のユーザーがこのノードをプリエンプトした場合、インスタンスを通常どおり再起動することはできませんが、他のノードへの移行はサポートされています。"
+}

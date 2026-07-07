@@ -1,0 +1,13 @@
+{
+  "accountSettings": "Account Settings",
+  "apiKeys": "API Keys",
+  "balance": "Balance",
+  "billing": "Billing",
+  "dedicatedEndpoints": "Dedicated Endpoints",
+  "emailCopied": "Email copied",
+  "home": "Home",
+  "logOut": "Log Out",
+  "quotasLimits": "Quotas & Limits",
+  "userId": "User ID",
+  "userIdCopied": "User ID copied"
+}

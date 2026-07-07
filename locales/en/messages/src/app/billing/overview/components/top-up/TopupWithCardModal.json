@@ -1,0 +1,17 @@
+{
+  "a9GstAppliesToPayments": "A 9% GST applies to payments from Singapore.",
+  "accountInformation": "Account Information",
+  "amount": "Amount",
+  "cancel": "Cancel",
+  "description": "Description",
+  "novitaAiCredit": "Novita AI credit",
+  "paymentAmount": "Payment amount",
+  "paymentMethod": "Payment method",
+  "recharging": "Recharging...",
+  "redirecting": "Redirecting...",
+  "stripeCheckout": "Stripe Checkout",
+  "teamId": "Team ID:",
+  "theCreditTopUpOf": "The credit top-up of $",
+  "topUpCredit": "Top-Up Credit",
+  "wasSuccessful": "was successful."
+}

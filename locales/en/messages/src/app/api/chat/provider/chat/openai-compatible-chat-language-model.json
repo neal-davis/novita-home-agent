@@ -1,0 +1,4 @@
+{
+  "expectedFunctionNameToBeA": "Expected 'function.name' to be a string.",
+  "expectedIdToBeAString": "Expected 'id' to be a string."
+}

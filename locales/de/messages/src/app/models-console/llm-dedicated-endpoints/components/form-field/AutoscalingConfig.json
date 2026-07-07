@@ -1,0 +1,15 @@
+{
+  "autoscaling": "Automatische Skalierung",
+  "autoscalingHandlesHighlyVariableTrafficWhile": "Die automatische Skalierung bewältigt stark schwankenden Datenverkehr und minimiert gleichzeitig die Ausgaben für ungenutzte Rechenressourcen.",
+  "max": "~ Max.:",
+  "min": "Min.:",
+  "min300s": "Min.: 300s",
+  "numberOfReplicas": "Anzahl der Replikate:",
+  "off": "Aus",
+  "on": "Ein",
+  "replicaRange": "Replikatbereich:",
+  "scaleDownDelay": "Verzögerung beim Herunterskalieren:",
+  "scaleToZeroIsEnabled": "Scale-to-Zero ist aktiviert",
+  "sec": "Sek.",
+  "yourEndpointHasADefaultMinimum": "Ihr Endpunkt hat standardmäßig mindestens 1 Replikat und wird bei Inaktivität automatisch in den Ruhezustand versetzt. Die Kaltstartzeit hängt von der Größe Ihres Modells ab und beträgt in der Regel einige Minuten."
+}

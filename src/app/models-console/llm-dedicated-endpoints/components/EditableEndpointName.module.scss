@@ -1,0 +1,14 @@
+.endpoint_name {
+  @include font-h5;
+  color: var(--dark-1);
+
+  button {
+    font-size: 14px;
+    padding: 2px 8px;
+    border-radius: 4px;
+
+    &:hover {
+      background-color: var(--gray-3);
+    }
+  }
+}

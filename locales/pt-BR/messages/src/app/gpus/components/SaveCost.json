@@ -1,0 +1,14 @@
+{
+  "and": "e",
+  "cutGpuCostsBy": "Reduza os custos de GPU em",
+  "message1HourAdvanceReclaimNotice": "aviso de recuperação com 1 hora de antecedência",
+  "message1HourGuaranteedRunTime": "tempo de execução garantido de 1 hora",
+  "reduceYourCloudExpensesByUp": "Reduza suas despesas com a nuvem em até 50% sem comprometer o desempenho.",
+  "reliableSavingsWithSpotPricing": "Economia confiável com preços Spot",
+  "saveUpTo50OnCosts": "Economize até 50% nos custos",
+  "seePricing": "Ver preços",
+  "soYouAlwaysHaveTimeTo": ", para que você sempre tenha tempo de se ajustar sem perder o progresso.",
+  "spotInstanceInfo": "Informações da Instância Spot",
+  "upTo50": "até 50%",
+  "whileKeepingWorkflowsPredictableEverySpot": "mantendo os fluxos de trabalho previsíveis. Cada Instância Spot vem com um"
+}

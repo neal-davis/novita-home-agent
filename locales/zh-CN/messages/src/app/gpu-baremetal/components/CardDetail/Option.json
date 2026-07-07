@@ -1,0 +1,12 @@
+{
+  "duration": "时长",
+  "eachNodeConsistsOf": "每个节点包含",
+  "gpus": "GPUs。",
+  "gpusForExampleRequesting": "GPUs。例如，请求",
+  "monthS": "月",
+  "nodeQuantity": "节点数量",
+  "nodesWillGiveYouAccessTo": "个节点将使你能够访问",
+  "option": "选项",
+  "pleaseEnterTheNumberOfMachines": "请输入机器数量",
+  "yearS": "年"
+}

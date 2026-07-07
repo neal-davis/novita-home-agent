@@ -1,0 +1,19 @@
+{
+  "action": "Acción",
+  "addCredential-e41f30": "+ Añadir credencial",
+  "addCredential-efd6c2": "Añadir credencial",
+  "addingPublicKeysToYourAccount": "Añadir claves públicas a tu cuenta permitirá acceder a las instancias mediante la opción de acceso básico por terminal a través de la clave privada asociada. Puedes añadir varias claves públicas separándolas con una nueva línea.",
+  "captionTable": "tabla de subtítulos",
+  "changePassword": "Cambiar contraseña",
+  "containerRegistryAuth": "Autenticación del registro de contenedores",
+  "deleteRegistryAuth": "Eliminar autenticación del registro",
+  "name": "Nombre",
+  "preferSingleNuma": "Preferir NUMA único",
+  "singleNuma": "NUMA único",
+  "sshPublicKey": "Clave pública SSH",
+  "sshPublicKeys": "Claves públicas SSH",
+  "success": "éxito",
+  "thisPolicyWouldAllowResourceAllocation": "Esta política permitiría la asignación de recursos desde diferentes nodos NUMA solo si nunca hubiera otra forma de satisfacer esa solicitud de asignación.",
+  "updatePublicKey": "Actualizar clave pública",
+  "youCanRegisterYourContainerRegistry": "Puedes registrar aquí las credenciales de tu registro de contenedores para extraer imágenes privadas de varios registros de contenedores. Ten en cuenta que actualmente solo admitimos credenciales de tipo docker login. Puedes añadir tus credenciales a una plantilla registrando la credencial aquí y seleccionándola después en el menú desplegable al editar o crear tu plantilla."
+}

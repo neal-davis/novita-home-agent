@@ -1,0 +1,37 @@
+{
+  "_comment": "Synthetic GPU product specs for /api/v1/serverless/(auth/)market/specs, consumed by ServerlessProvider (Context.tsx getEndpointSpecs). Injected so the page's product lookup resolves cleanly (GPU CONFIG renders) without unguarded .map throwing on the {code:0,data:{}} fallback. Synthetic placeholder data only.",
+  "specs": [
+    {
+      "id": "prod-e2e-a100",
+      "gpu_size": "80GB",
+      "gpu_name": "A100 80GB",
+      "models": "",
+      "price": 2000000,
+      "discount": 0,
+      "clusterIDs": ["cluster-e2e-a"],
+      "cpuNum": 8,
+      "memory": 64,
+      "max_cuda": "12.4",
+      "vram": 80,
+      "vcpu": 8,
+      "ram": 64,
+      "level": 1
+    },
+    {
+      "id": "prod-e2e-l40s",
+      "gpu_size": "48GB",
+      "gpu_name": "L40S",
+      "models": "",
+      "price": 1000000,
+      "discount": 0,
+      "clusterIDs": ["cluster-e2e-b"],
+      "cpuNum": 8,
+      "memory": 64,
+      "max_cuda": "12.4",
+      "vram": 48,
+      "vcpu": 8,
+      "ram": 64,
+      "level": 1
+    }
+  ]
+}

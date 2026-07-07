@@ -1,0 +1,15 @@
+{
+  "autoscaling": "自动扩缩容",
+  "autoscalingHandlesHighlyVariableTrafficWhile": "自动扩缩容可处理高度变化的流量，同时最大限度减少闲置计算资源的支出。",
+  "max": "~ 最大值：",
+  "min": "最小值：",
+  "min300s": "最小值：300秒",
+  "numberOfReplicas": "副本数量：",
+  "off": "关闭",
+  "on": "开启",
+  "replicaRange": "副本范围：",
+  "scaleDownDelay": "缩容延迟：",
+  "scaleToZeroIsEnabled": "已启用缩容到零",
+  "sec": "秒",
+  "yourEndpointHasADefaultMinimum": "您的端点默认最少有 1 个副本，并会在空闲时自动休眠。冷启动时间取决于您的模型大小，通常需要几分钟。"
+}

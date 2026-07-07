@@ -1,0 +1,8 @@
+{
+  "cancel": "Abbrechen",
+  "cancellationMayStillIncurCharges": "Bei einer Stornierung können dennoch Gebühren anfallen",
+  "cancellingWillStopFurtherProcessingBut": "Durch das Abbrechen wird die weitere Verarbeitung gestoppt. Wenn die Aufgabe jedoch bereits in die Generierungsphase eingetreten ist, können dennoch die vollen Gebühren anfallen. Bitte bestätigen Sie, bevor Sie abbrechen.",
+  "confirm": "Bestätigen",
+  "generating": "Wird generiert...",
+  "submittingTask": "Aufgabe wird übermittelt..."
+}

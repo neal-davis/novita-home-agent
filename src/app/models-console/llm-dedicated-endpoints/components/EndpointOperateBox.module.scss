@@ -1,0 +1,11 @@
+.dropdown_menu_item {
+  padding: 2px 4px;
+  @include font-subtle;
+  color: var(--red-1);
+  cursor: pointer;
+
+  &:hover {
+    color: var(--red-3);
+    background-color: var(--white);
+  }
+}

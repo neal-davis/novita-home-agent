@@ -1,0 +1,111 @@
+{
+  "_comment": "Synthetic raw /api/v1/endpoints response for hermetic /gpus-console/serverless. The prod read-only capture only returned /v3/stripe/promotion (account had no endpoints), so this is hand-built to match the raw API shape that convertEndpoint() in src/api/gpu-instance/serverless.ts transforms. All ids/urls/names are synthetic placeholders — no real tenant data.",
+  "endpoints": [
+    {
+      "id": "ep-e2e000000000001",
+      "name": "e2e-serving-endpoint",
+      "appName": "e2e-app-serving",
+      "creator": "e2e-user@example.com",
+      "uuid": "00000000-0000-4000-8000-000000000001",
+      "createdAt": "1718000000",
+      "type": "sync",
+      "url": "https://e2e-app-serving.example-novita.test/run",
+      "state": { "state": "serving", "error": "" },
+      "clusterID": "cluster-e2e-a",
+      "clusterIDs": ["cluster-e2e-a"],
+      "healthy": {
+        "failureThreshold": 3,
+        "initialDelay": 5,
+        "path": "/health",
+        "period": 10,
+        "successThreshold": 1,
+        "timeout": 5
+      },
+      "envs": [{ "key": "MODEL", "value": "demo" }],
+      "products": [{ "id": "prod-e2e-a100", "name": "A100 80GB" }],
+      "image": {
+        "authId": "",
+        "command": "python app.py",
+        "image": "registry.example.test/e2e/serving:latest"
+      },
+      "ports": [{ "port": 8080 }],
+      "policy": { "type": "queue", "value": 4 },
+      "rootfsSize": 20,
+      "volumeMounts": [],
+      "workers": [
+        {
+          "id": "wk-e2e000000000001",
+          "state": { "state": "running" },
+          "log": "",
+          "metrics": "",
+          "healthy": true
+        },
+        {
+          "id": "wk-e2e000000000002",
+          "state": { "state": "running" },
+          "log": "",
+          "metrics": "",
+          "healthy": true
+        }
+      ],
+      "workerConfig": {
+        "minNum": 1,
+        "maxNum": 3,
+        "freeTimeout": 60,
+        "maxConcurrent": 1,
+        "requestTimeout": 120,
+        "gpuNum": 1,
+        "cudaVersion": "12.1"
+      },
+      "logs": "",
+      "log": "",
+      "metrics": ""
+    },
+    {
+      "id": "ep-e2e000000000002",
+      "name": "e2e-stopped-endpoint",
+      "appName": "e2e-app-stopped",
+      "creator": "e2e-user@example.com",
+      "uuid": "00000000-0000-4000-8000-000000000001",
+      "createdAt": "1718500000",
+      "type": "async",
+      "url": "https://e2e-app-stopped.example-novita.test/run",
+      "state": { "state": "stopped", "error": "" },
+      "clusterID": "cluster-e2e-b",
+      "clusterIDs": ["cluster-e2e-b"],
+      "healthy": {
+        "failureThreshold": 3,
+        "initialDelay": 5,
+        "path": "/",
+        "period": 10,
+        "successThreshold": 1,
+        "timeout": 5
+      },
+      "envs": [],
+      "products": [{ "id": "prod-e2e-l40s", "name": "L40S" }],
+      "image": {
+        "authId": "",
+        "command": "",
+        "image": "registry.example.test/e2e/stopped:latest"
+      },
+      "ports": [{ "port": 80 }],
+      "policy": { "type": "concurrency", "value": 2 },
+      "rootfsSize": 30,
+      "volumeMounts": [],
+      "workers": [],
+      "workerConfig": {
+        "minNum": 0,
+        "maxNum": 2,
+        "freeTimeout": 30,
+        "maxConcurrent": 1,
+        "requestTimeout": 90,
+        "gpuNum": 2,
+        "cudaVersion": "12.2"
+      },
+      "logs": "",
+      "log": "",
+      "metrics": ""
+    }
+  ],
+  "total": 2
+}

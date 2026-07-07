@@ -1,0 +1,7 @@
+{
+  "application": "应用",
+  "deployed": "已部署",
+  "myInstances": "我的实例",
+  "redirectingToMyInstances": "正在重定向到我的实例 ......",
+  "yourApplicationIsBeingCreatedUsing": "正在使用你选择的配置创建你的应用。很快就会准备就绪——可在控制台中查看。"
+}

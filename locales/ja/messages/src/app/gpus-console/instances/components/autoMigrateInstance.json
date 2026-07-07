@@ -1,0 +1,15 @@
+{
+  "automaticInstanceMigration": "インスタンスの自動移行",
+  "automaticMigration": "自動移行",
+  "automaticallyMigratesTheInstanceToA": "ハードウェア障害時に、インスタンスを正常なノードへ自動的に移行します。インスタンス ID、ポートマッピングアドレス、データは変更されず、短時間のダウンタイムのみ発生します。",
+  "cancel": "キャンセル",
+  "confirm": "確認",
+  "ifNoActionIsTakenThe": "操作が行われない場合、サービスの継続性を維持するためにシステムが自動移行を実行します。",
+  "ifTheSystemDiskIsIncluded": "システムディスクが含まれる場合、ダウンタイムはそのサイズによって異なります（通常は数分〜10分以上）。",
+  "migrateSystemDisk": "システムディスクを移行",
+  "success": "成功",
+  "supportIsAvailableDuringMigrationIf": "必要に応じて、移行中にサポートを利用できます。",
+  "theFollowingRegionsDontSupportThis": "次のリージョンはこの機能をサポートしていません:",
+  "usCa03UsCaNas": "US-CA-03/US-CA-NAS-01/US-02/US-CA-02",
+  "youllBeNotifiedOfFaultsAnd": "障害が通知され、7日以内に手動で移行する必要があります。"
+}

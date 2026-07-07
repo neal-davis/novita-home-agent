@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  height: 24px;
+  padding: 2px 8px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+  border-radius: 4px;
+}
+
+.state {
+  display: inline-flex;
+  height: 24px;
+  padding: 2px 8px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 4px;
+  background: var(--brand-2);
+  color: var(--black);
+}

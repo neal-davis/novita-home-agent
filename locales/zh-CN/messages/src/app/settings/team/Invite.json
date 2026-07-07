@@ -1,0 +1,23 @@
+{
+  "account": "账户",
+  "assignAccessPermissionsToMembersBy": "通过选择角色为成员分配访问权限。每位新成员的预算默认不受限制。如果需要调整，请前往“Budgets”页面。",
+  "budget": "预算",
+  "cancel": "取消",
+  "changeTheBudgetOnTheBudgets": "受邀者加入您的团队后，可在“预算”页面更改预算。",
+  "close": "关闭",
+  "invitationEmailsHaveBeenSentYou": "邀请邮件已发送！您也可以直接与团队成员分享以下邀请链接。这些链接将保留在成员列表中，方便日后查看。",
+  "invitationEmailsSentSuccessfully": "邀请邮件发送成功！",
+  "invitationFailed": "邀请失败",
+  "inviteLink": "邀请链接",
+  "inviteLinkCopied": "邀请链接已复制",
+  "inviteMembers-2aadfa": "+ 邀请成员",
+  "inviteMembers-4ee562": "+ 邀请成员",
+  "inviteMembersToYourTeam": "邀请成员加入您的团队",
+  "inviteSelectAntSelectArrowRight": ".invite-select .ant-select-arrow { right: 18px !important; }",
+  "role": "角色",
+  "selectARole": "选择角色",
+  "separateMultipleEmailsWithCommas": "用逗号分隔多个电子邮件地址",
+  "status": "状态",
+  "unlimited": "无限制",
+  "viewPermissionDetails": "查看权限详情"
+}

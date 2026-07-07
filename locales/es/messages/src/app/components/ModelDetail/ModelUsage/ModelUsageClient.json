@@ -1,0 +1,11 @@
+{
+  "apiUsage": "Uso de la API",
+  "applications": "Aplicaciones",
+  "chat": "Chat",
+  "completion": "Completado",
+  "emptyContent": "Contenido vacío",
+  "howToUse": "Cómo usar",
+  "modelCard": "Ficha del modelo",
+  "prompting": "Creación de prompts",
+  "useTheFollowingCodeExamplesTo": "Usa los siguientes ejemplos de código para integrarte con nuestra API:"
+}

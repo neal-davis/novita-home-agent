@@ -1,0 +1,8 @@
+{
+  "setTeamNameFailed": "Festlegen des Teamnamens fehlgeschlagen",
+  "team": "Team",
+  "teamInformation": "Teaminformationen",
+  "teamMember": "Teammitglied",
+  "teamOwnerUuid": "UUID des Teambesitzers",
+  "teamOwnerUuidCopied": "UUID des Teambesitzers kopiert"
+}

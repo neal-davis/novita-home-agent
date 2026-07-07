@@ -1,0 +1,66 @@
+.container {
+  margin-top: var(--header-height);
+
+  .trusted_by_section {
+    background-color: var(--black);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+
+    @include screen-md {
+      padding-top: 80px;
+      padding-bottom: 80px;
+    }
+
+    .section_title {
+      font-size: 24px;
+      line-height: 32px;
+      font-weight: 600;
+      color: var(--white);
+
+      @include screen-md {
+        @include font-h3;
+      }
+    }
+
+    .section_description {
+      margin-top: 12px;
+      font-size: 14px;
+      line-height: 20px;
+      font-weight: 400;
+      color: var(--gray-2);
+
+      @include screen-md {
+        margin-top: 16px;
+        @include font-p;
+      }
+    }
+
+    .partners_container {
+      margin: 48px 0 0;
+      width: 100%;
+
+      :global {
+        .swiper {
+          max-width: 850px;
+
+          &::before {
+            background: linear-gradient(
+              to right,
+              rgba(0, 0, 0, 1),
+              rgba(0, 0, 0, 0)
+            );
+          }
+
+          &::after {
+            background: linear-gradient(
+              to left,
+              rgba(0, 0, 0, 1),
+              rgba(0, 0, 0, 0)
+            );
+          }
+        }
+      }
+    }
+  }
+}

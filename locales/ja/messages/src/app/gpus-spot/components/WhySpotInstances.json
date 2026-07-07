@@ -1,0 +1,12 @@
+{
+  "advanceNotice": "事前通知",
+  "builtInProtection": "組み込み保護",
+  "combineWithOnDemandOrReserved": "コストと安定性の適切なバランスを実現するために、オンデマンドまたは予約済みインスタンスと組み合わせる",
+  "flexibleDeployment": "柔軟なデプロイメント",
+  "guaranteed1HourInitialRuntime": "初回実行時間1時間を保証",
+  "message1HourTerminationAlertsViaApi": "API、メール、またはコンソールによる1時間前の終了アラート",
+  "payHalfTheOnDemandRate": "オンデマンド料金の半額を支払う",
+  "runWorkloadsAtAFractionOf": "信頼性を犠牲にすることなく、わずかなコストでワークロードを実行",
+  "saveUpTo50": "最大50%節約",
+  "whySpotInstances": "スポットインスタンスを選ぶ理由"
+}

@@ -1,0 +1,21 @@
+{
+  "agentSandbox": "智能体沙盒",
+  "anyBillingDataViewedBeforeThis": "在此时间之前查看的任何账单数据仅供参考，不应用于对账。",
+  "billingRecordsAreGeneratedAtAn": "账单记录按小时间隔生成。作为例外，存储服务按日计费，记录在 00:00 UTC 生成。",
+  "billingSummariesAggregatedByApiKey-51443b": "按 API Key 汇总的账单摘要目前仅支持自 2026 年起的账单数据。",
+  "billingSummariesAggregatedByApiKey-e50926": "按 API Key 汇总的账单摘要目前仅支持 LLM 和图像/视频产品。",
+  "byApiKey": "按 API Key",
+  "byCreator": "按创建者",
+  "chargesAreGenerallyCalculatedAndDeducted": "费用通常按小时计算并扣除。如果每小时使用费用低于 $0.0001，则按最低费用 $0.0001 收取。",
+  "forProductsBilledOnAFixed": "对于按固定期限计费的产品，账单按月生成。当月的最终账单将在次月 1 日 06:00 UTC 后提供。",
+  "gpuInstance": "GPU 实例",
+  "gpuInstances": "GPU 实例",
+  "gpuServerless": "GPU Serverless",
+  "imageDedicatedEndpoint": "图像专用端点",
+  "imageVideo": "图像/视频",
+  "llmDedicatedEndpoints": "LLM 专用端点",
+  "llmServerlessEndpoints": "LLM Serverless 端点",
+  "multiDimensionalSummaryBillsDisplayOther": "多维度汇总账单会显示除计费模式维度之外的其他汇总维度。",
+  "storage": "存储",
+  "summary": "摘要"
+}

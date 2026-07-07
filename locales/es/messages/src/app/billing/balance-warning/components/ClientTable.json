@@ -1,0 +1,20 @@
+{
+  "addAlerts": "Agregar alertas",
+  "alias": "Alias",
+  "areYouSureYouWantTo": "¿Seguro que quieres eliminar esta alerta?",
+  "confirm": "Confirmar",
+  "confirmationOfOperation": "Confirmación de la operación",
+  "deleteSuccessfully": "Eliminado correctamente",
+  "edit": "Editar",
+  "email": "Correo electrónico",
+  "informationalNotes": "Notas informativas",
+  "loadingTeamMembers": "Cargando miembros del equipo...",
+  "members": "Miembros",
+  "notificationMethod": "Método de notificación",
+  "operation": "Operación",
+  "remove": "Eliminar",
+  "status": "Estado",
+  "success": "éxito",
+  "warningAmount": "Importe de advertencia",
+  "whenYourAccountBalanceFallsBelow": "Cuando el saldo de tu cuenta caiga por debajo del umbral de advertencia que estableciste, recibirás una notificación por correo electrónico para garantizar el funcionamiento ininterrumpido del servicio. Las notificaciones se enviarán como máximo una vez por día natural (00:00-24:00, UTC+0) hasta que el saldo de la cuenta supere el umbral especificado."
+}

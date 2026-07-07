@@ -1,0 +1,8 @@
+{
+  "buildAndScaleProductionAppsOn": "最適化されたモデル上で本番アプリを構築・スケール。",
+  "deployGpuInstance": "GPUインスタンスをデプロイ",
+  "exploreModelApls": "モデルAPlsを探索",
+  "exploreProducts": "製品を見る",
+  "launchAiAgentSandbox": "AIエージェントサンドボックスを起動",
+  "theRuntimeInfrastructureForSecureScalable": "安全でスケーラブルなAIエージェントのためのランタイムインフラストラクチャ。"
+}

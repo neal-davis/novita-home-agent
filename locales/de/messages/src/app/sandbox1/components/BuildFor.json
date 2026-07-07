@@ -1,0 +1,18 @@
+{
+  "aiPoweredCiCd": "KI-gestützte CI/CD",
+  "browserAutomation": "Browser-Automatisierung",
+  "builtForAiNativeWorkloads": "Entwickelt für KI-native Workloads",
+  "codingAgents": "Coding-Agenten",
+  "computerUse": "Computernutzung",
+  "enableAgentsToInteractWithFull": "Ermöglichen Sie Agenten die Interaktion mit vollständigen Desktop-Umgebungen für GUI-basierte Workflows und menschenähnliche Aktionen.",
+  "evaluationsRl": "Evaluierungen & RL",
+  "fromAgentExecutionToEvalsAnd": "Von der Agentenausführung bis zu Evaluierungen und RL",
+  "keepMultiStepAgentTasksRunning": "Halten Sie mehrstufige Agentenaufgaben über längere Sitzungen hinweg am Laufen, ohne den Ausführungsfluss zu unterbrechen.",
+  "learnMore": "Mehr erfahren",
+  "longRunningWorkflows": "Lang laufende Workflows",
+  "powerAgentsThatBrowseTheWeb": "Betreiben Sie Agenten, die im Web surfen, mehrstufige Aufgaben erledigen und strukturierte Ergebnisse extrahieren.",
+  "runAgentsThatWriteExecuteAnd": "Führen Sie Agenten aus, die Code schreiben, ausführen und iterativ verbessern – in isolierten Sandbox-Umgebungen.",
+  "runCodeReviewTestGenerationAnd": "Führen Sie Code-Reviews, Testgenerierung und Validierungs-Workflows in isolierten Sandboxes über Ihre CI/CD-Pipelines hinweg aus.",
+  "runRepeatableEvaluationAndReinforcementLearning": "Führen Sie wiederholbare Evaluierungs- und Reinforcement-Learning-Workloads in kontrollierten Umgebungen für Tests, Training und iterative Optimierung aus.",
+  "supportTheFullRangeOfAi": "Unterstützen Sie die gesamte Bandbreite KI-nativer Workloads&mdash;von Coding-Agenten und Browser-Automatisierung bis hin zu Evaluierungen, Reinforcement-Learning-Umgebungen und lang laufenden Workflows."
+}

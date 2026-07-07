@@ -1,0 +1,8 @@
+{
+  "model": "モデル",
+  "prompt": "プロンプト",
+  "seed": "シード",
+  "showcase": "ショーケース",
+  "steps": "ステップ",
+  "widthHeight": "幅 * 高さ"
+}

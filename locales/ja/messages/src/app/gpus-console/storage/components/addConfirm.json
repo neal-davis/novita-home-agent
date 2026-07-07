@@ -1,0 +1,8 @@
+{
+  "cancel": "キャンセル",
+  "close": "閉じる",
+  "confirm": "確認",
+  "confirmCreation": "作成を確認",
+  "networkVolumeIsBilledAt": "ネットワークボリュームは $ で請求されます",
+  "yourNetworkVolumeWillBeReleased": "ネットワークボリュームは3日後に解放されます。"
+}

@@ -1,0 +1,6 @@
+{
+  "enablingThisFeatureAcceleratesModelOutput": "L’activation de cette fonctionnalité accélère la vitesse de sortie du modèle dans les scénarios de codage de plus de 30 % (130 % des performances de référence)",
+  "maximumNumberOfConcurrentRequestsThat": "Nombre maximal de requêtes simultanées pouvant être traitées par une seule réplique. Le backend recommande une valeur optimale en fonction du modèle et de la configuration GPU.",
+  "modelContextLengthIfUnspecifiedWill": "Longueur du contexte du modèle. Si elle n’est pas spécifiée, elle sera automatiquement déduite de la configuration du modèle.",
+  "theModelsMaximumContextLengthDefaults": "Longueur maximale du contexte du modèle. La valeur par défaut est None (utilisera à la place la valeur du config.json du modèle)."
+}

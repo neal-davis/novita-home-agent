@@ -1,0 +1,13 @@
+{
+  "actions": "Acciones",
+  "apiKeyName": "Nombre de la clave API",
+  "budget": "Presupuesto",
+  "budgetType": "Tipo de presupuesto",
+  "edit": "Editar",
+  "loading": "Cargando...",
+  "member": "Miembro",
+  "noApiKeyBudgets": "No hay presupuestos de clave API",
+  "resetAt": "Se restablece el",
+  "status": "Estado",
+  "usage": "Uso"
+}

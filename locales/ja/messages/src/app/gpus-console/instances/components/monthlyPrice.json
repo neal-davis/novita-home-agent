@@ -1,0 +1,8 @@
+{
+  "billingItems": "請求項目",
+  "gpuFee": "GPU料金",
+  "storageFeeBeyondFreeQuota": "ストレージ料金（無料枠超過分）",
+  "total": "合計",
+  "unitPrice": "単価",
+  "usage": "使用量"
+}

@@ -1,0 +1,6 @@
+{
+  "applyForAccess": "Demander l'accès",
+  "novitaAi": "Novita AI |",
+  "voiceCloningInstantApiCreateCloned": "Clonage vocal - API instantanée - Créez instantanément des voix clonées à partir de n'importe quel locuteur",
+  "voiceCloningInstantApiIsAn": "L'API instantanée de clonage vocal est un service de clonage vocal par AI qui permet de générer des voix synthétiques clonées à partir de n'importe quel locuteur, avec seulement quelques minutes d'audio de référence. Notre API analyse un échantillon de parole pour extraire les caractéristiques uniques de la qualité vocale, de l'accent, de la prononciation et de l'intonation d'un locuteur. Grâce à ces données, nos modèles vocaux peuvent synthétiser une nouvelle parole imitant le locuteur source avec un naturel proche de celui d'un humain."
+}

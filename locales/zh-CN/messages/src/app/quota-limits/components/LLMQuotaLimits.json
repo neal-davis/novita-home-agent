@@ -1,0 +1,12 @@
+{
+  "currentTier": "当前层级",
+  "endpointType": "端点类型",
+  "here": "此处",
+  "increaseLimit": "提高限制",
+  "learnMore": "了解更多",
+  "limitAdjustable": "限制可调整",
+  "limitQuotaMetric": "限制/​配额指标",
+  "searchService": "搜索服务",
+  "toUnlockQuotaLimitsForHigher": "以解锁更高层级的配额限制。",
+  "topUp": "充值"
+}

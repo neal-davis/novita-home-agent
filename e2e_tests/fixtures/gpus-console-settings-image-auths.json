@@ -1,0 +1,9 @@
+{
+  "_comment": "De-PII'd /api/v1/gpu/image/repository/auths for hermetic /gpus-console/settings. Section reads res.data → Container Registry Auth table rows (renders row.id + row.name, plus a delete button per row when delete permission granted). 3 synthetic rows; no real registry credentials.",
+  "code": 0,
+  "data": [
+    { "id": "e2e-auth-0001", "name": "e2e-registry-alpha" },
+    { "id": "e2e-auth-0002", "name": "e2e-registry-beta" },
+    { "id": "e2e-auth-0003", "name": "e2e-registry-gamma" }
+  ]
+}

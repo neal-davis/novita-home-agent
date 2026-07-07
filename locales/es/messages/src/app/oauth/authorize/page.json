@@ -1,0 +1,9 @@
+{
+  "applicationInformationError": "Error de información de la aplicación",
+  "isRequestingAccessToYourNovita": "solicita acceso a tu cuenta de Novita asociada con el correo electrónico",
+  "missingRequiredParametersAuthorizationCannotBe": "Faltan parámetros obligatorios, no se puede completar la autorización",
+  "permissionsNotice": "Aviso de permisos:",
+  "requestParameterError": "Error en los parámetros de la solicitud",
+  "selectTheTeamAccountYouWish": "Selecciona la cuenta de equipo a la que deseas autorizar el acceso:",
+  "unableToGetApplicationInformationPlease": "No se puede obtener la información de la aplicación, ponte en contacto con el proveedor de la aplicación"
+}

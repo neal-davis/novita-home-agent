@@ -1,0 +1,18 @@
+{
+  "asOfTheDeprecationDateThese": "À compter de la date de dépréciation, ces APIs ne seront plus accessibles. Nous vous encourageons vivement à mettre à jour vos applications et workflows afin d’éviter toute interruption potentielle.",
+  "buildGenAiProductsSeamlessly": "Créez des produits d’IA générative en toute simplicité",
+  "buildWithModelApis": "Créez avec les APIs de modèles",
+  "cutCostsByUpTo50": "Réduisez les coûts jusqu’à 50 %",
+  "december312024": "31 décembre 2024",
+  "deployWithGpuInstance": "Déployez avec une instance GPU",
+  "deprecatedApis": "APIs obsolètes :",
+  "ifYouAreCurrentlyUsingThese": "Si vous utilisez actuellement ces APIs et avez besoin d’aide pour passer à des solutions alternatives, notre équipe d’assistance est disponible pour vous guider tout au long du processus.",
+  "ifYoureBrowsingAroundJustLook": "Si vous êtes simplement en train de parcourir, jetez un œil à celui-ci que nous avons sélectionné pour vous !",
+  "impact": "Impact :",
+  "launchAgentSandbox": "Lancez Agent Sandbox",
+  "lowUsageApiProductDeprecationPlan": "Plan de dépréciation des produits API à faible utilisation",
+  "nextSteps": "Prochaines étapes :",
+  "scaleWithServerless": "Passez à l’échelle avec Serverless",
+  "scaleWithoutManagingGpuInfrastructure": "Passez à l’échelle sans gérer l’infrastructure GPU",
+  "theRuntimeInfrastructureForSecureScalable": "L’infrastructure d’exécution pour des agents IA sécurisés et évolutifs"
+}

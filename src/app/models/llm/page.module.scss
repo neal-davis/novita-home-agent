@@ -1,0 +1,10 @@
+.main {
+  margin-top: var(--header-height);
+  padding-top: 90px;
+  padding-bottom: 90px;
+
+  .title {
+    @include font-h1;
+    color: var(--dark-1);
+  }
+}

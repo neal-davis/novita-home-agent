@@ -1,0 +1,12 @@
+{
+  "huggingFaceModelRepositoryNameIs": "Hugging Face model repository name is required",
+  "maxReplicasMustNotExceed10": "Max replicas must not exceed 10",
+  "minReplicasMustBeAtLeast": "Min replicas must be at least 0",
+  "mustBeAtLeast1": "Must be at least 1",
+  "nameMustBeAtLeast3": "Name must be at least 3 characters",
+  "nameMustNotExceed63Characters": "Name must not exceed 63 characters",
+  "nameMustStartWithALowercase": "Name must start with a lowercase letter and contain only lowercase letters, numbers, and hyphens",
+  "scaleDownDelayMustBeAt": "Scale-down delay must be at least 300 seconds",
+  "scaleDownWindowMustBeAt": "Scale down window must be at least 60 seconds",
+  "stableWindowMustBeAtLeast": "Stable window must be at least 60 seconds"
+}

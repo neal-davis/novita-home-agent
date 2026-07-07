@@ -1,0 +1,18 @@
+{
+  "affiliateDashboard": "Tableau de bord d’affiliation",
+  "email": "E-mail",
+  "initialLoginCredentials": "Identifiants de connexion initiaux",
+  "initialPassword": "Mot de passe initial",
+  "notAvailableYet": "Pas encore disponible",
+  "openDashboard": "Ouvrir le tableau de bord",
+  "referralLink": "Lien de parrainage",
+  "retry": "Réessayer",
+  "shareThisLinkToEarn10": "Partagez ce lien pour gagner 10 % de commission sur les dépenses de chaque personne parrainée",
+  "startEarningCommissionsWithYourPersonalized": "Commencez à gagner des commissions avec vos outils d’affiliation personnalisés",
+  "trackYourReferralsEarningsAndPayout": "Suivez vos parrainages, vos gains et votre historique de paiements",
+  "unableToLoadAffiliateCredentialsPlease": "Impossible de charger les identifiants d’affiliation. Veuillez réessayer plus tard.",
+  "useTheseToAccessYourAffiliate": "Utilisez-les pour accéder à votre tableau de bord d’affiliation pour la première fois",
+  "weRecommendChangingYourPasswordAfter": "Nous vous recommandons de modifier votre mot de passe après votre première connexion.",
+  "yourAffiliateCredentials": "Vos identifiants d’affiliation",
+  "yourReferralLink": "Votre lien de parrainage"
+}

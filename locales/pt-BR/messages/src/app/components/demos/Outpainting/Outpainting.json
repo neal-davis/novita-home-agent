@@ -1,0 +1,8 @@
+{
+  "back": "Voltar",
+  "cancel": "Cancelar",
+  "download": "Baixar",
+  "generate": "Gerar",
+  "theCenterOfTheCropShould": "O centro do recorte não deve ficar fora da imagem",
+  "theWidthAndHeightOfThe": "A largura e a altura do recorte devem estar entre 256 e 1024."
+}

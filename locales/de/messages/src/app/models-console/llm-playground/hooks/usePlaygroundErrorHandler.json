@@ -1,0 +1,7 @@
+{
+  "anUnexpectedErrorOccurredPleaseCheck": "Ein unerwarteter Fehler ist aufgetreten. Bitte überprüfen Sie Ihren API key und versuchen Sie es erneut.",
+  "failedToAuthenticatePleaseCheckYour": "Authentifizierung fehlgeschlagen. Bitte überprüfen Sie Ihren API key und versuchen Sie es erneut.",
+  "modelNotAvailableNowPleaseTry": "Das Modell ist derzeit nicht verfügbar, bitte versuchen Sie es später erneut.",
+  "notEnoughBalancePleaseTopUp": "Nicht genügend Guthaben, bitte laden Sie es auf, um die Nutzung fortzusetzen.",
+  "topUp": "Guthaben aufladen"
+}

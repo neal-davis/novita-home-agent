@@ -1,0 +1,9 @@
+{
+  "cancel": "キャンセル",
+  "huggingFaceAccessToken": "Hugging Face アクセストークン",
+  "save": "保存",
+  "submitRequirements": "要件を送信",
+  "thisLink": "このリンク",
+  "toConnectYourHuggingFaceAccount": "Hugging Face アカウントを接続するには、Hugging Face アクセストークンを登録する必要があります。Hugging Face でアクセストークンを生成するには、次のリンクを参照してください",
+  "yourHuggingFaceAccessToken": "あなたの Hugging Face アクセストークン"
+}

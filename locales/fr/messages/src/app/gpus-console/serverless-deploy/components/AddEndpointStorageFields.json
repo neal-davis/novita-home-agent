@@ -1,0 +1,19 @@
+{
+  "addEnvironmentVariable": "+ Ajouter une variable d’environnement",
+  "containerDisk": "Disque du conteneur",
+  "createNetworkVolume": "Créer un volume réseau",
+  "enterHealthCheckPath": "Saisissez le chemin de vérification de l’état",
+  "enterNetworkVolumeMountPath": "Saisissez le chemin de montage du volume réseau",
+  "enterVolumeMountPath": "Saisissez le chemin de montage du volume",
+  "environmentVariables": "Variables d’environnement",
+  "healthCheckPath": "Chemin de vérification de l’état",
+  "networkVolume": "Volume réseau",
+  "networkVolumeMountPath": "Chemin de montage du volume réseau",
+  "otherConfiguration": "Autre configuration",
+  "region": "Région",
+  "selectNetworkVolume": "Sélectionner le volume réseau",
+  "selectRegion": "Sélectionner la région",
+  "storageConfiguration": "Configuration du stockage",
+  "volumeDisk": "Disque du volume",
+  "volumeMountPath": "Chemin de montage du volume"
+}

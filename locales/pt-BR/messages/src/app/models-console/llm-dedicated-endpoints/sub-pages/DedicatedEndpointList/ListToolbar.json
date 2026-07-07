@@ -1,0 +1,9 @@
+{
+  "allStatus": "Todos os status",
+  "failed": "Com falha",
+  "newEndpoint": "Novo endpoint",
+  "running": "Em execução",
+  "searchByEndpointOrModelName": "Pesquisar por endpoint ou nome do modelo...",
+  "sleeping": "Em repouso",
+  "terminated": "Encerrado"
+}

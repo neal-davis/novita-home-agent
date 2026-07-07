@@ -1,0 +1,15 @@
+{
+  "extraKnownMarketplaces": {
+    "cloudplatform-skills": {
+      "source": {
+        "source": "git",
+        "url": "git@gitlab.paigod.work:ai-cloud-public/skills.git",
+        "ref": "feat/frontend-engineering"
+      },
+      "autoUpdate": true
+    }
+  },
+  "enabledPlugins": {
+    "cloudplatform-skills@cloudplatform-skills": true
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "cancel": "取消",
+  "cancelingStillIncursFullCharges": "取消仍会产生全额费用",
+  "cancelingTheTaskWillStopFurther": "取消任务将停止后续处理，但一旦生成开始，您仍需支付全额费用。请在继续之前确认您确实要取消。",
+  "confirm": "确认",
+  "processing": "处理中..."
+}

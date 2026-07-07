@@ -1,0 +1,15 @@
+{
+  "cancel": "キャンセル",
+  "descriptionOfTheNewObjectYou": "画像に追加したい新しいオブジェクトの説明",
+  "descriptionOfTheObjectInThe": "置き換えたい画像内のオブジェクトの説明",
+  "download": "ダウンロード",
+  "generate": "生成",
+  "hideChanges": "変更を非表示",
+  "negativePrompt": "ネガティブプロンプト",
+  "objectPrompt": "オブジェクトプロンプト",
+  "pleaseEnterTheDescriptionOfThe-3a6d5f": "生成したい新しいオブジェクトの説明を入力してください",
+  "pleaseEnterTheDescriptionOfThe-550816": "置き換えたいオブジェクトの説明を入力してください",
+  "replacePrompt": "置換プロンプト",
+  "showChanges": "変更を表示",
+  "whatYouWantToAvoidGenerating": "生成を避けたいもの..."
+}

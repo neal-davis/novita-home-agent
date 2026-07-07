@@ -1,0 +1,13 @@
+{
+  "accountSettings": "アカウント設定",
+  "apiKeys": "APIキー",
+  "balance": "残高",
+  "billing": "請求",
+  "dedicatedEndpoints": "専用エンドポイント",
+  "emailCopied": "メールアドレスをコピーしました",
+  "home": "ホーム",
+  "logOut": "ログアウト",
+  "quotasLimits": "クォータと制限",
+  "userId": "ユーザーID",
+  "userIdCopied": "ユーザーIDをコピーしました"
+}

@@ -1,0 +1,12 @@
+{
+  "addEnvironmentVariable": "+ Umgebungsvariable hinzufügen",
+  "configuration": "Konfiguration",
+  "containerImage": "Container-Image",
+  "containerStartCommand": "Container-Startbefehl",
+  "entrypoint": "Einstiegspunkt",
+  "environmentVariables": "Umgebungsvariablen",
+  "exposeHttpPortsMax10": "HTTP-Ports freigeben (max. 10)",
+  "exposeTcpPorts": "TCP-Ports freigeben",
+  "key": "Schlüssel",
+  "value": "Wert"
+}

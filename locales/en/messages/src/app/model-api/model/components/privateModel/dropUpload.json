@@ -1,0 +1,9 @@
+{
+  "clickOrDragFileToThis": "Click or drag file to this area to upload",
+  "modelNameCanOnlyContainLetters": "Model name can only contain letters, numbers, and underscores, and the length does not exceed 100",
+  "pleaseAddKeyFirst": "Please add key first",
+  "pleaseEnterModelNameFirst": "Please enter model name first",
+  "sha256ComputationFailedPleaseCheckIf": "SHA256 computation failed, Please check if your browser version supports crypto and btoa functions, or you can contact us to resolve model upload issues.",
+  "supportForASingleOrBulk": "Support for a single or bulk upload. Strictly prohibited from uploading company data or other banned files.",
+  "uploadFailed": "Upload failed"
+}

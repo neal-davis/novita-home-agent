@@ -1,0 +1,18 @@
+{
+  "cancel": "Abbrechen",
+  "containerDiskExpansionCurrent": "Container-Datenträgererweiterung (aktuell",
+  "editInstance": "Instanz bearbeiten",
+  "enterYourContainerDiskExpandSize": "Geben Sie die Erweiterungsgröße Ihres Container-Datenträgers ein",
+  "expand": "Erweitern:",
+  "exposeHttpPortsMax10": "HTTP-Ports freigeben (max. 10)",
+  "exposeTcpPorts": "TCP-Ports freigeben",
+  "gb-4d1316": "GB)",
+  "gb-505a44": "GB",
+  "pleaseEnterAValidSizeAnd": "Bitte geben Sie eine gültige Größe ein, die nicht kleiner als 0 GB sein darf",
+  "pleaseEnterAValidSizeCurrent": "Bitte geben Sie eine gültige Größe ein; die aktuelle Größe nach der Erweiterung darf nicht größer sein als",
+  "save": "Speichern",
+  "subscriptionInstanceExpansionRequiresPrepaymentOf": "Die Erweiterung einer Abonnement-Instanz erfordert die Vorauszahlung der Speichererweiterungsgebühr für die verbleibende Laufzeit der Abonnement-Instanz.",
+  "success": "Erfolg",
+  "theCurrentInstanceHasBeenShut": "Die aktuelle Instanz wurde heruntergefahren. Wenn die Instanz ausgeführt wird, können Sie die Kapazität des Systemdatenträgers anpassen.",
+  "youCanEditWhileTheInstance": "Sie können die Instanz bearbeiten, während sie ausgeführt wird; Sie verlieren keine Daten."
+}

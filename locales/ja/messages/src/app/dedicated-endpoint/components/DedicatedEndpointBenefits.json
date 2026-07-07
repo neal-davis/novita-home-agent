@@ -1,0 +1,5 @@
+{
+  "dedicatedEndpointsPairIsolatedInfrastructureWith": "専用エンドポイントは、隔離されたインフラストラクチャとカスタムモデルのサポートを組み合わせ、チームがマネージド GPU 容量上でレイテンシに敏感なアプリケーションをリリースできるようにします。",
+  "message03Benefits": "03 — メリット",
+  "recommendedForProduction": "本番環境に推奨"
+}

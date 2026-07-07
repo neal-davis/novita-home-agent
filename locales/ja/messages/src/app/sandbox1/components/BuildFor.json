@@ -1,0 +1,18 @@
+{
+  "aiPoweredCiCd": "AI搭載のCI/CD",
+  "browserAutomation": "ブラウザ自動化",
+  "builtForAiNativeWorkloads": "AIネイティブなワークロード向けに構築",
+  "codingAgents": "コーディングエージェント",
+  "computerUse": "コンピューター操作",
+  "enableAgentsToInteractWithFull": "GUIベースのワークフローと人間のような操作のために、エージェントが完全なデスクトップ環境とやり取りできるようにします。",
+  "evaluationsRl": "評価とRL",
+  "fromAgentExecutionToEvalsAnd": "エージェントの実行から評価とRLまで",
+  "keepMultiStepAgentTasksRunning": "実行フローを中断することなく、複数ステップのエージェントタスクを長時間のセッションにわたって実行し続けます。",
+  "learnMore": "詳細を見る",
+  "longRunningWorkflows": "長時間実行ワークフロー",
+  "powerAgentsThatBrowseTheWeb": "Webを閲覧し、複数ステップのタスクを完了し、構造化された結果を抽出するエージェントを強化します。",
+  "runAgentsThatWriteExecuteAnd": "分離されたサンドボックス環境で、コードの作成、実行、反復を行うエージェントを実行します。",
+  "runCodeReviewTestGenerationAnd": "CI/CDパイプライン全体の分離されたサンドボックスで、コードレビュー、テスト生成、検証ワークフローを実行します。",
+  "runRepeatableEvaluationAndReinforcementLearning": "テスト、トレーニング、反復的な最適化のために、管理された環境で再現可能な評価と強化学習ワークロードを実行します。",
+  "supportTheFullRangeOfAi": "コーディングエージェントやブラウザ自動化から、評価、強化学習環境、長時間実行ワークフローまで、AIネイティブなワークロードの全範囲をサポートします。"
+}

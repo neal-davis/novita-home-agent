@@ -1,0 +1,12 @@
+{
+  "advanceNotice": "Advance Notice",
+  "builtInProtection": "Built-in Protection",
+  "combineWithOnDemandOrReserved": "Combine with on-demand or reserved instances for the right balance of cost and stability",
+  "flexibleDeployment": "Flexible Deployment",
+  "guaranteed1HourInitialRuntime": "Guaranteed 1-hour initial runtime",
+  "message1HourTerminationAlertsViaApi": "1-hour termination alerts via API, email, or console",
+  "payHalfTheOnDemandRate": "Pay half the on-demand rate",
+  "runWorkloadsAtAFractionOf": "Run workloads at a fraction of the cost—without sacrificing reliability",
+  "saveUpTo50": "Save Up to 50%",
+  "whySpotInstances": "Why Spot Instances"
+}

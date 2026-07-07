@@ -1,0 +1,8 @@
+{
+  "createEndpoint": "エンドポイントを作成",
+  "dedicatedEndpoints": "専用エンドポイント",
+  "huggingFace": "Hugging Face",
+  "learnMore": "詳細を見る",
+  "quicklyDeployYourOwnModelFrom": "独自のモデルを以下からすばやくデプロイできます：",
+  "repository": "リポジトリ。"
+}

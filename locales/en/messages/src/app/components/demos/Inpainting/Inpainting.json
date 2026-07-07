@@ -1,0 +1,19 @@
+{
+  "advanced": "Advanced",
+  "cancel": "Cancel",
+  "clear": "clear",
+  "download": "Download",
+  "drag": "drag",
+  "draw": "draw",
+  "essential": "Essential",
+  "estimatedCost": "Estimated cost:",
+  "generate": "Generate",
+  "hideChanges": "Hide changes",
+  "inpaintingFullRes": "Inpainting Full Res",
+  "inpaintingMaskInvert": "Inpainting Mask Invert",
+  "model": "Model",
+  "redo": "redo",
+  "sdVaeModel": "SD_VAE Model",
+  "showChanges": "Show changes",
+  "undo": "undo"
+}

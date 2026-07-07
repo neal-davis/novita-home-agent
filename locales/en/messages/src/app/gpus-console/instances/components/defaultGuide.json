@@ -1,0 +1,9 @@
+{
+  "deployNow": "Deploy Now",
+  "forHighComputeElasticMixedWorkloads": "For high-compute, elastic mixed workloads, use",
+  "gpuInstances": "GPU Instances",
+  "idealForHighComputeElasticMixed": "Ideal for high-compute, elastic mixed workloads ranging from AI training to rendering.",
+  "instance": "Instance",
+  "learnMore": "Learn More",
+  "needToDeployCloudResources": "Need to deploy cloud resources?"
+}

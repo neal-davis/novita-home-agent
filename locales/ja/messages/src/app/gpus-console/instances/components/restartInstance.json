@@ -1,0 +1,7 @@
+{
+  "cancel": "キャンセル",
+  "restart": "再起動",
+  "restartInstance": "インスタンスを再起動",
+  "success": "成功",
+  "youWillRestartTheRunningInstance": "実行中のインスタンスを再起動します。続行するか確認してください。"
+}

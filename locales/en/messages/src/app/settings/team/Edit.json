@@ -1,0 +1,8 @@
+{
+  "assignAccessPermissionsToMembersBy": "Assign access permissions to members by selecting roles. The budget for each new member is unlimited by default. If you need to adjust it, please go to the \"Budgets\" page.",
+  "cancel": "Cancel",
+  "edit": "Edit",
+  "failedToUpdateRole": "Failed to update role",
+  "save": "Save",
+  "viewPermissionDetails": "View permission details"
+}

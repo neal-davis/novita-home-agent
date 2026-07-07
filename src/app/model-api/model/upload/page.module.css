@@ -1,0 +1,21 @@
+.page_container {
+  padding-top: 120px;
+}
+.inner {
+  max-width: 1240px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.title {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+.c_title {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .inner {
+    padding: 20px;
+  }
+}

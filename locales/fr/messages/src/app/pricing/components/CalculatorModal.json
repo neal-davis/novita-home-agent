@@ -1,0 +1,23 @@
+{
+  "apiName": "Nom de l'API",
+  "duration": "Durée",
+  "frames": "Images",
+  "height": "Hauteur",
+  "message1080p": "1080P",
+  "message10s": "10s",
+  "message5s": "5s",
+  "message6s": "6s",
+  "message720p": "720P",
+  "message768p": "768P",
+  "mode": "Mode",
+  "model": "Modèle",
+  "pricingCalculator": "Calculateur de prix",
+  "professional": "Professionnel",
+  "resolution": "Résolution",
+  "scale": "Échelle",
+  "standard": "Standard",
+  "steps": "Étapes",
+  "svd": "SVD",
+  "svdXt": "SVD-XT",
+  "width": "Largeur"
+}

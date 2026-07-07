@@ -1,0 +1,7 @@
+{
+  "authorizationSuccessful": "授权成功！",
+  "goToAgentSandboxConsole": "-> 前往 Agent Sandbox 控制台",
+  "invalidRedirectLink": "无效的重定向链接",
+  "redirectingToYourAuthorizedApplicationPlease": "正在重定向到您已授权的应用程序，请稍候...",
+  "theRedirectLinkIsInvalidOr": "重定向链接无效或已过期"
+}

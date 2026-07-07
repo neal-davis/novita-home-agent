@@ -1,0 +1,12 @@
+{
+  "basedOnSdxl10Visit": "basado en SDXL 1.0. Visita el",
+  "cancel": "Cancelar",
+  "download": "Descargar",
+  "forAccessToMoreModelsAnd": "para acceder a más modelos y funciones.",
+  "generate": "Generar",
+  "generateAiImagesWith": "Genera imágenes de IA con",
+  "novitaAiImg": "imagen de Novita AI",
+  "playground": "Zona de pruebas",
+  "stableDiffusionApi": "API de Stable Diffusion",
+  "tryTextToImage": "Prueba texto a imagen"
+}

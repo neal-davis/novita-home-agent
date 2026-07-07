@@ -1,0 +1,3 @@
+{
+  "indicatesWhetherTheEndpointIsPublic": "Indicates whether the endpoint is public (shared infrastructure) or dedicated (exclusive resources). Rate limits and billing vary by type."
+}

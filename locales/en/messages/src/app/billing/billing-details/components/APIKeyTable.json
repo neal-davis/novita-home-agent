@@ -1,0 +1,17 @@
+{
+  "all": "All",
+  "day": "Day",
+  "export": "Export",
+  "groupBy": "Group By",
+  "imageVideoSearch": "Image/Video/Search",
+  "modelName": "Model Name",
+  "month": "Month",
+  "noData": "No Data!",
+  "productType": "Product Type",
+  "selectCategory": "Select Category",
+  "theQueryTimeRangeCannotBe": "The query time range cannot be earlier than 2026-01-01",
+  "theQueryTimeRangeCannotExceed": "The query time range cannot exceed 31 days",
+  "theStartTimeCannotBeLater": "The start time cannot be later than the end time",
+  "timeRange": "Time Range",
+  "week": "Week"
+}

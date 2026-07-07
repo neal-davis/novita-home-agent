@@ -1,0 +1,46 @@
+.card_container {
+  max-width: 512px;
+  height: 357px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  background-color: var(--white);
+  border-radius: 8px;
+  position: relative;
+  .topBar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 8px;
+    border-radius: 8px 8px 0 0;
+  }
+  .top {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    align-items: center;
+    .left {
+      width: 52px;
+      height: 52px;
+    }
+    .right {
+      @include font-small-console;
+      color: var(--gray-1);
+    }
+  }
+  .bottom {
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    .top {
+      @include font-body;
+      color: var(--dark-1);
+    }
+    .bottom {
+      @include font-link;
+      color: var(--black);
+    }
+  }
+}

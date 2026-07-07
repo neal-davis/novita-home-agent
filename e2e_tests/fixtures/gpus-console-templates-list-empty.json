@@ -1,0 +1,5 @@
+{
+  "_comment": "Empty private-template list for hermetic /gpus-console/templates empty-state assertion (reqGetTemplates -> GET /api/v1/templates returns no rows). Shape from section.tsx: templateList.template.length === 0 -> <DataEmpty />. No PII.",
+  "template": [],
+  "total": 0
+}

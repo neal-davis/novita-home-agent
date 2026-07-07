@@ -1,0 +1,6 @@
+{
+  "accessJupyterNotebooksPreConfiguredWith-3fb4e0": "直接通过浏览器访问预配置了 TensorFlow、PyTorch、cuDNN、CUDA、TensorRT、Llama 3 和 Stable Diffusion 的 Jupyter 笔记本。",
+  "accessJupyterNotebooksPreConfiguredWith-c641dc": "直接通过浏览器访问预配置了 TensorFlow、PyTorch、cuDNN、CUDA、TensorRT、Llama3 和 Stable Diffusion 的 Jupyter 笔记本。",
+  "startNow": "立即开始",
+  "streamlinedAiDeployment": "简化的 AI 部署"
+}

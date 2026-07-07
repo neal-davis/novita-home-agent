@@ -1,0 +1,9 @@
+{
+  "deployNow": "立即部署",
+  "forHighComputeElasticMixedWorkloads": "对于高计算、弹性混合工作负载，请使用",
+  "gpuInstances": "GPU 实例",
+  "idealForHighComputeElasticMixed": "非常适合从 AI 训练到渲染的高计算、弹性混合工作负载。",
+  "instance": "实例",
+  "learnMore": "了解更多",
+  "needToDeployCloudResources": "需要部署云资源？"
+}

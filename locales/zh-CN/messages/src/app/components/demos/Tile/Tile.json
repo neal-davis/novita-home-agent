@@ -1,0 +1,12 @@
+{
+  "cancel": "取消",
+  "descriptionOfTheTileThatYou": "描述你想要避免生成的图块",
+  "descriptionOfTheTileYouWant": "描述你想要生成的图块",
+  "download": "下载",
+  "generate": "生成",
+  "heigh": "高度",
+  "negativePrompt": "负面提示词",
+  "prompt": "提示词",
+  "promptIsEmpty": "提示词为空",
+  "width": "宽度"
+}

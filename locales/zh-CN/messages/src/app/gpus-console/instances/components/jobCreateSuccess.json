@@ -1,0 +1,7 @@
+{
+  "aJobHasBeenCreatedJob": "已创建作业。作业 ID：",
+  "close": "关闭",
+  "jobCreatedSuccess": "作业创建成功",
+  "toJobs": "前往 [作业]",
+  "youCanViewAndManageYour": "。你可以在 [控制台 - 作业] 中查看和管理你的作业。作业完成后，你将能够在你的图像仓库中查看已保存的图像。"
+}

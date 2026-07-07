@@ -1,0 +1,8 @@
+{
+  "copyLink": "リンクをコピー",
+  "copyTemplate": "テンプレートをコピー",
+  "favoriteSuccessfully": "お気に入りに追加しました",
+  "loginFailurePleaseLogInAgain": "ログインに失敗しました。もう一度ログインしてください",
+  "pleaseLogInFirst": "まずログインしてください",
+  "unfavoriteSuccessfully": "お気に入りから削除しました"
+}

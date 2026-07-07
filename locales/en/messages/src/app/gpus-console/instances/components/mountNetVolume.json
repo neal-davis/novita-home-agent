@@ -1,0 +1,22 @@
+{
+  "aSingleInstanceCanMountUp": "A single instance can mount up to 30 cloud storage volumes.",
+  "addMount": "Add Mount",
+  "applyingTheseChangesWillRestartThe": "Applying these changes will restart the current instance immediately.",
+  "beforeDetachingAVolumeEnsureIt": "Before detaching a volume, ensure it has been unmounted inside the instance to avoid losing unsaved data.",
+  "cancel": "Cancel",
+  "cloudStorageMountsWillBeChanged": "Cloud storage mounts will be changed to",
+  "confirm": "Confirm",
+  "maximum30MountsAllowedPleaseUnmount": "Maximum 30 mounts allowed. Please unmount some storage first",
+  "mountCloudStorage": "Mount Cloud Storage",
+  "mountPath": "Mount Path",
+  "mountingNotes": "Mounting Notes",
+  "pleaseEnterADifferentCloudStorage": "Please enter a different cloud storage mount path",
+  "pleaseEnterAValidCloudStorage": "Please enter a valid cloud storage mount path",
+  "pleaseMakeSureYouveUnmountedThe": "Please make sure you've unmounted the extra volume-submitting this change will restart the instance.",
+  "pleaseSelectADifferentCloudStorage": "Please select a different cloud storage",
+  "pleaseSelectTheCloudStorageTo": "Please select the cloud storage to mount",
+  "storageInstance": "Storage Instance",
+  "success": "success",
+  "thereIsNoChangeInThe": "There is no change in the existing cloud storage data, please confirm",
+  "tips": "Tips"
+}

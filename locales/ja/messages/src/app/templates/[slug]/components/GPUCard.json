@@ -1,0 +1,6 @@
+{
+  "deploy": "デプロイ",
+  "gpuHot": "GPU 人気",
+  "onDemand": "オンデマンド",
+  "oneClickDeployment": "ワンクリックデプロイ"
+}

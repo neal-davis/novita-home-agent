@@ -1,0 +1,69 @@
+.topup_modal {
+  .dialog_title {
+    @include font-body-medium;
+    color: var(--dark-1);
+  }
+
+  .team_info {
+    font-size: 14px;
+    margin-bottom: 2em;
+
+    p {
+      margin: 10px 0;
+    }
+
+    .team_name {
+      font-weight: 600;
+      color: var(--black);
+    }
+
+    .team_id {
+      color: var(--dark-3);
+    }
+  }
+
+  .row_info_title {
+    @include font-subtle;
+    color: var(--black);
+  }
+
+  .row_info_content {
+    margin-top: 8px;
+    padding: 8px 12px;
+    background-color: var(--gray-3);
+    border-radius: 4px;
+
+    .row_info_content_title {
+      @include font-subtle-medium;
+      color: var(--black);
+    }
+
+    .row_info_content_value {
+      margin-top: 8px;
+      @include font-subtle;
+      color: var(--dark-1);
+    }
+
+    .row_info_moneny {
+      margin-left: 8px;
+      @include font-h6;
+      color: var(--brand-1);
+    }
+  }
+
+  .wrapper_2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+
+    p {
+      color: var(--black);
+      font-size: 14px;
+    }
+  }
+
+  .footer {
+    text-align: right;
+    margin-top: 24px;
+  }
+}

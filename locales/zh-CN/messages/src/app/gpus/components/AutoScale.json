@@ -1,0 +1,5 @@
+{
+  "autoScaleWithServerlessGpus": "使用无服务器 GPUs 自动扩展",
+  "novitasServerlessGpuPlatformAutomaticallyScales": "Novita 的无服务器 GPU 平台会根据您的工作负载需求自动扩展。仅按实际消耗的资源计费。",
+  "startNow": "立即开始"
+}

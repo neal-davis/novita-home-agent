@@ -1,0 +1,21 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "storageId": "e2e-storage-1111",
+      "storageName": "e2e-volume-a",
+      "storageSize": 50,
+      "clusterId": "us-ca-7",
+      "clusterName": "US-CA-7",
+      "price": "500"
+    },
+    {
+      "storageId": "e2e-storage-2222",
+      "storageName": "e2e-volume-b",
+      "storageSize": 100,
+      "clusterId": "eu-is-1",
+      "clusterName": "EU-IS-1",
+      "price": "500"
+    }
+  ]
+}

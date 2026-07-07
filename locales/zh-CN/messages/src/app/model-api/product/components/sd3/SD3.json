@@ -1,0 +1,11 @@
+{
+  "cancel": "取消",
+  "download": "下载",
+  "generate": "生成",
+  "imagePrompt": "图像提示词",
+  "negativePrompt": "负面提示词",
+  "seed": "种子",
+  "selectAnExample": "选择一个示例",
+  "strength": "强度",
+  "tryAnExample": "试用一个示例"
+}

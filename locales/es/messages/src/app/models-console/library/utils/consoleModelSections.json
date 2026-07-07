@@ -1,0 +1,8 @@
+{
+  "audio": "Audio",
+  "embedding": "Embedding",
+  "image": "Imagen",
+  "reranker": "Reordenador",
+  "video": "Video",
+  "vision": "Visión"
+}

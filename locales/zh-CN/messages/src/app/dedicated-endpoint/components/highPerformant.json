@@ -1,0 +1,6 @@
+{
+  "createANewEndpoint": "创建新端点",
+  "deployAvailableModelsAndLoraAdapters": "· 在可自定义的 GPU 端点上部署可用模型和 LoRA 适配器，并按小时计费。",
+  "highCostPerformance": "高性价比",
+  "lowerPricesNoHardRateLimits": "· 更低价格、无硬性速率限制、高利用率下成本更低、自定义基础模型和多个 LoRA、可预测的性能不受影响。"
+}

@@ -1,0 +1,12 @@
+{
+  "cpu": "CPU",
+  "free": "無料",
+  "integrationGuide": "統合ガイド",
+  "memory": "メモリ",
+  "message512Mib": "512 MiB",
+  "storage": "ストレージ",
+  "unitPrice": "単価",
+  "validValuesMultiplesOf512Mib": "有効な値: 512 MiB から 8192 MiB までの 512 MiB の倍数",
+  "vcpus": "vCPUs",
+  "xCpu": "X CPU"
+}

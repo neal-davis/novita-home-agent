@@ -1,0 +1,48 @@
+.code {
+  position: relative;
+
+  .codeContent {
+    overflow-y: auto;
+    max-height: calc(100vh - 64px - 24px - 48px);
+
+    pre {
+      min-height: 0;
+      max-height: 100% !important;
+      overflow: visible !important; // 让滚动由外层容器控制
+    }
+
+    code {
+      display: block;
+    }
+  }
+
+  &:hover {
+    .copyBtn {
+      visibility: visible;
+    }
+  }
+
+  pre {
+    border: none !important;
+  }
+}
+
+.description {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.link {
+  color: var(--brand-0);
+}
+
+.copy {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+
+  .copyBtn {
+    border: none;
+    visibility: hidden;
+  }
+}

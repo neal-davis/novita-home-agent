@@ -1,0 +1,18 @@
+{
+  "aiPoweredCiCd": "AI-Powered CI/CD",
+  "browserAutomation": "Browser Automation",
+  "builtForAiNativeWorkloads": "Built for AI-native workloads",
+  "codingAgents": "Coding Agents",
+  "computerUse": "Computer Use",
+  "enableAgentsToInteractWithFull": "Enable agents to interact with full desktop environments for GUI-based workflows and human-like actions.",
+  "evaluationsRl": "Evaluations & RL",
+  "fromAgentExecutionToEvalsAnd": "From agent execution to evals and RL",
+  "keepMultiStepAgentTasksRunning": "Keep multi-step agent tasks running across extended sessions without breaking execution flow.",
+  "learnMore": "Learn more",
+  "longRunningWorkflows": "Long-running Workflows",
+  "powerAgentsThatBrowseTheWeb": "Power agents that browse the web, complete multi-step tasks, and extract structured results.",
+  "runAgentsThatWriteExecuteAnd": "Run agents that write, execute, and iterate on code in isolated sandbox environments.",
+  "runCodeReviewTestGenerationAnd": "Run code review, test generation, and validation workflows in isolated sandboxes across your CI/CD pipelines.",
+  "runRepeatableEvaluationAndReinforcementLearning": "Run repeatable evaluation and reinforcement learning workloads in controlled environments for testing, training, and iterative optimization.",
+  "supportTheFullRangeOfAi": "Support the full range of AI-native workloads—from coding agents and browser automation to evaluations, reinforcement learning environments, and long-running workflows."
+}

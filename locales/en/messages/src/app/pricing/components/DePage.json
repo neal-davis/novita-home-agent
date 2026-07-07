@@ -1,0 +1,16 @@
+{
+  "autoscalingTrafficSpikeHandling": "Autoscaling & traffic spike handling",
+  "contactSales": "Contact Sales",
+  "createEndpoint": "Create Endpoint",
+  "dedicatedEndpoints": "Dedicated Endpoints",
+  "deployModelsOnIsolatedGpusWith": "Deploy models on isolated GPUs with guaranteed performance. Per-second billing, scale-to-zero support.",
+  "guaranteedPerformanceNoSharing": "Guaranteed performance (no sharing)",
+  "imageEndpoints": "Image Endpoints",
+  "perSecondBillingOnRunningReplicas": "Per-second billing on running replicas only. Scale to zero, pay zero.",
+  "perfectForDevelopersAndStartupsScaling": "Perfect for developers and startups scaling their AI applications.",
+  "popular": "Popular",
+  "priceGpuHour": "PRICE / GPU-HOUR",
+  "sandboxCapabilities": "SANDBOX CAPABILITIES",
+  "subscriptionPlansForDedicatedImageGeneration": "Subscription plans for dedicated image generation endpoints.",
+  "supportForCustomModels": "Support for custom models"
+}

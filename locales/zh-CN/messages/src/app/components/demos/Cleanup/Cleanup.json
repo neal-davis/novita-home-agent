@@ -1,0 +1,15 @@
+{
+  "brushSize": "画笔大小",
+  "cancel": "取消",
+  "clear": "清除",
+  "download": "下载",
+  "drag": "拖动",
+  "draw": "绘制",
+  "estimatedCost": "预估费用：",
+  "generate": "生成",
+  "hideChanges": "隐藏更改",
+  "redo": "重做",
+  "scale": "缩放",
+  "showChanges": "显示更改",
+  "undo": "撤销"
+}

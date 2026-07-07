@@ -1,0 +1,10 @@
+{
+  "bookmarkThisTemplate": "Diese Vorlage als Lesezeichen speichern",
+  "favorite": "Favorit",
+  "favoriteSuccessfully": "Erfolgreich zu den Favoriten hinzugefügt",
+  "loginFailurePleaseLogInAgain": "Anmeldung fehlgeschlagen, bitte melden Sie sich erneut an",
+  "pleaseLogInFirst": "Bitte melden Sie sich zuerst an",
+  "unbookmarkThisTemplate": "Lesezeichen für diese Vorlage entfernen",
+  "unfavorite": "Aus Favoriten entfernen",
+  "unfavoriteSuccessfully": "Erfolgreich aus den Favoriten entfernt"
+}

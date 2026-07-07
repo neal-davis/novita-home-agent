@@ -1,0 +1,11 @@
+{
+  "day": "Day",
+  "endpointsId": "Endpoints ID",
+  "export": "Export",
+  "groupBy": "Group By",
+  "hour": "Hour",
+  "month": "Month",
+  "noData": "No Data!",
+  "timeRange": "Time Range",
+  "week": "Week"
+}

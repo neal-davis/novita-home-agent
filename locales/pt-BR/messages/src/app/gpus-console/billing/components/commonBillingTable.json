@@ -1,0 +1,22 @@
+{
+  "all": "Todos",
+  "amountShouldPay": "Valor a pagar",
+  "billingPeriod": "Período de cobrança",
+  "captionTable": "tabela de legendas",
+  "cashPaid": "Valor pago em dinheiro",
+  "instance": "Instância",
+  "localStorage": "Armazenamento local",
+  "networkStorage": "Armazenamento em rede",
+  "onDemand": "Sob demanda",
+  "prepaid": "Pré-pago",
+  "prepaidByDay": "Pré-pago por dia",
+  "prepaidByMonth": "Pré-pago por mês",
+  "prepaidByWeek": "Pré-pago por semana",
+  "prepaidByYear": "Pré-pago por ano",
+  "pricingModel": "Modelo de precificação",
+  "product": "Produto",
+  "productName": "Nome do produto",
+  "productType": "Tipo de produto",
+  "search": "pesquisar",
+  "voucherDeduction": "Dedução do voucher"
+}

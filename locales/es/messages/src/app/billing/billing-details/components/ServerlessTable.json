@@ -1,0 +1,15 @@
+{
+  "day": "Día",
+  "endpoint": "Punto de conexión",
+  "export": "Exportar",
+  "forEachEndpointUsageDurationIs": "Para cada punto de conexión, la duración de uso se calcula en función del tiempo total de GPU consumido por todos los trabajadores asociados. Específicamente, la duración de uso de cada trabajador se determina mediante (número de GPUs) * (tiempo en segundos), y la duración total de uso del punto de conexión es la suma del uso de GPU de todos los trabajadores dentro del período de facturación.",
+  "gpuType": "Tipo de GPU",
+  "groupBy": "Agrupar por",
+  "hour": "Hora",
+  "month": "Mes",
+  "noData": "¡No hay datos!",
+  "seconds": "(segundos)",
+  "timeRange": "Intervalo de tiempo",
+  "usageDuration": "Duración de uso",
+  "week": "Semana"
+}

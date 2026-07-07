@@ -1,0 +1,56 @@
+.date_button {
+  &:hover {
+    background-color: var(--white);
+  }
+
+  .date_input {
+    padding: 4px 0;
+    width: 86px;
+    text-align: center;
+    border: none;
+    outline: none;
+    color: var(--dark-1);
+
+    &::placeholder {
+      color: var(--dark-3);
+    }
+  }
+
+  .empty_date_tips {
+    display: block;
+    flex: 1 1 0;
+    min-width: 0;
+    margin-left: 10px;
+    text-align: center;
+    color: var(--red-2);
+  }
+}
+
+.date_button_active {
+  border-color: var(--black);
+}
+
+.date_button_warning {
+  border-color: var(--red-2);
+
+  .calendar_icon {
+    color: var(--red-2);
+  }
+}
+
+.date_footer {
+  padding: 6px 14px;
+  border-top: 1px solid var(--gray-2);
+
+  & > span {
+    @include font-small-console;
+    margin-right: 20px;
+    color: var(--dark-1);
+    letter-spacing: 0 !important;
+    cursor: pointer;
+
+    &:hover {
+      color: var(--brand-0);
+    }
+  }
+}

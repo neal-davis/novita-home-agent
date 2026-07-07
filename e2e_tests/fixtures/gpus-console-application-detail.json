@@ -1,0 +1,19 @@
+{
+  "recommendCard": { "gpuName": "RTX 4090", "gpuNum": 1 },
+  "product": {
+    "productId": "prod-e2e-4090",
+    "gpuMemory": 24,
+    "freeStorage": 50,
+    "instancePrice": { "price": 50000, "discount": 40000 },
+    "instanceSpotPrice": { "price": 50000, "discount": 20000 },
+    "storagePrice": { "price": 2000, "discount": 1000 },
+    "monthlyPrice": [
+      { "month": 1, "price": 250000000, "pricePrecision": 1 },
+      { "month": 3, "price": 700000000, "pricePrecision": 1 }
+    ]
+  },
+  "clusters": [
+    { "clusterId": "cl-us-1", "clusterName": "US-East" },
+    { "clusterId": "cl-eu-1", "clusterName": "EU-West" }
+  ]
+}

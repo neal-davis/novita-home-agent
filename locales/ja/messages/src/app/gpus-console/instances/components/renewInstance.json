@@ -1,0 +1,20 @@
+{
+  "autoRenew": "自動更新",
+  "cancel": "キャンセル",
+  "confirm": "確認",
+  "confirmCurrentOperation": "現在の操作を確認しますか？",
+  "currentExpirationTime": "現在の有効期限",
+  "details": "詳細",
+  "expirationTimeAfterRenewal": "更新後の有効期限",
+  "gpuFee": "GPU料金",
+  "instanceId": "インスタンスID",
+  "off": "% オフ",
+  "processing": "処理中",
+  "renewSubscriptionInstance": "サブスクリプションインスタンスを更新",
+  "renewalDuration": "更新期間",
+  "settlementAmount": "決済金額",
+  "storageFee": "ストレージ料金",
+  "switchToSubscription": "サブスクリプションに切り替え",
+  "unitPrice": "単価",
+  "weWillAttemptCharge3Days": "有効期限の3日前に請求を試みます"
+}

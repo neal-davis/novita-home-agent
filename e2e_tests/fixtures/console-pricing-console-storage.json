@@ -1,0 +1,7 @@
+{
+  "localStoragePrice": "500",
+  "networkStoragePrice": "200",
+  "pricePrecision": 10,
+  "localStorageFreeSize": 0,
+  "rootfsStorageFreeSize": 60
+}

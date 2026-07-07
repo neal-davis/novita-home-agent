@@ -1,0 +1,13 @@
+{
+  "actions": "Actions",
+  "apiKeyName": "API Key Name",
+  "budget": "Budget",
+  "budgetType": "Budget Type",
+  "edit": "Edit",
+  "loading": "Loading...",
+  "member": "Member",
+  "noApiKeyBudgets": "No API Key budgets",
+  "resetAt": "Reset at",
+  "status": "Status",
+  "usage": "Usage"
+}

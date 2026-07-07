@@ -1,0 +1,15 @@
+{
+  "captionTable": "caption table",
+  "expireTime": "EXPIRE TIME",
+  "filterByGpuType": "Filter by GPU Type",
+  "gpuTypes": "GPU TYPES",
+  "instanceId": "INSTANCE ID",
+  "instanceName": "INSTANCE NAME",
+  "region": "REGION",
+  "savingsPlanId": "SAVINGS PLAN ID",
+  "savingsPlans": "Savings Plans",
+  "toExplore": "To Explore",
+  "totalCommitment": "TOTAL COMMITMENT",
+  "utilization": "UTILIZATION",
+  "whatAreSavingsPlans": "What are savings plans?"
+}

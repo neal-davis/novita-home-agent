@@ -1,0 +1,22 @@
+{
+  "afterMigrationInstanceDetailsEG": "Après la migration, les détails de l’instance (par ex., ID, IP sortante) restent inchangés. L’image sera stockée en toute sécurité dans",
+  "afterMigrationYourInstanceInformationWill": "Après la migration, les informations de votre instance resteront inchangées (telles que l’ID de l’instance et l’IP de sortie).",
+  "backUpYourData": "sauvegarder vos données",
+  "cancel": "Annuler",
+  "confirm": "Confirmer",
+  "cudaVersionIsIncompatible": "La version de CUDA est incompatible",
+  "howeverLocalDataOnTheNode": "Cependant, les données locales sur le nœud ne seront pas conservées.",
+  "iUnderstandThatCurrentDataWill": "Je comprends que les données actuelles ne seront pas conservées après la migration, et j’ai effectué une sauvegarde.",
+  "ifSelectedTheContainerDiskWill": "Si cette option est sélectionnée, le disque du conteneur sera transformé en image et migré avec l’instance. La nouvelle image inclut les données du disque du conteneur et est prête à l’emploi.",
+  "inAdvanceToPreventLossInstance": "à l’avance afin d’éviter toute perte. La tâche de migration de l’instance ne peut pas être interrompue.",
+  "instanceMigration": "Migration d'instance",
+  "migrateData": "Migrer les données",
+  "noResourcesAvailablePleaseTryAgain": "Aucune ressource disponible, veuillez réessayer plus tard ou contacter le service client !",
+  "please": "Veuillez",
+  "pleaseConfirmThatYouHaveBacked": "Veuillez confirmer que vous avez sauvegardé vos données.",
+  "success": "succès",
+  "theMigrationTaskCannotBeCanceled": "La tâche de migration ne peut pas être annulée une fois démarrée.",
+  "theNovitaOfficialRepo": "le dépôt officiel de Novita.",
+  "toEnsureDataSafety": "Pour garantir la sécurité des données,",
+  "weRecommendBackingUpYourData": "nous vous recommandons de sauvegarder vos données à l’avance."
+}

@@ -1,0 +1,11 @@
+{
+  "addApiKey": "Add API Key",
+  "apiKey": "API Key",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "inputYourApiKey": "Input your API Key",
+  "inputYourKeyName": "Input your key name",
+  "keyName": "Key Name",
+  "modifyApiKey": "Modify API Key",
+  "upTo10KeysCanBe": "Up to 10 keys can be generated per account."
+}

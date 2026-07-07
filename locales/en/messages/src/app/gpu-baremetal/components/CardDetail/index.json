@@ -1,0 +1,10 @@
+{
+  "duration": "Duration",
+  "estimatedTotalCost": "Estimated total cost",
+  "gpuQuantity": "GPU quantity",
+  "monthS": "Month(s)",
+  "price": "Price",
+  "submitRequirements": "Submit requirements",
+  "totalCost": "Total cost",
+  "yearS": "Year(s)"
+}

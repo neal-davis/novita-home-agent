@@ -1,0 +1,12 @@
+{
+  "baaiBgeRerankerBase": "BAAI/bge-reranker-base",
+  "baaiBgeRerankerV2": "BAAI/bge-reranker-v2",
+  "cacheRead": "缓存读取",
+  "cacheWrite": "缓存写入",
+  "input": "输入",
+  "output": "输出",
+  "reranker": "重排序器",
+  "textCacheRead": "文本 · 缓存读取",
+  "textInput": "文本 · 输入",
+  "textOutput": "文本 · 输出"
+}

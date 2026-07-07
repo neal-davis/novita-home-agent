@@ -1,0 +1,18 @@
+{
+  "accessOurListOfPublicModels": "公開モデルのリストにアクセス",
+  "creditBalance": "クレジット残高",
+  "featuredApis": "注目の APIs",
+  "ifYouHaveAnyQuestionsPlease": "ご不明な点がございましたら、Discordチャンネルを通じてカスタマーサービスまたは技術チームまでお問い合わせください：",
+  "informationalNotes": "情報メモ",
+  "joinOurDiscordToGetIt": "入手するには、私たちのDiscordに参加してください！",
+  "logInAndRequestPrivateModel": "ログインしてプライベートモデルの権限をリクエストする、または",
+  "manageYourPrivateModels": "プライベートモデルを管理",
+  "modelLibrary": "モデルライブラリ",
+  "modelList": "モデル一覧",
+  "playground": "プレイグラウンド",
+  "pleaseBePatientWhileWeCheck": "権限を確認しています。しばらくお待ちください...",
+  "uploadModel": "モデルをアップロード",
+  "youDontHavePermissionToUpload": "モデルをアップロードする権限がありません。",
+  "youMustHaveAtLeastOne": "モデルをアップロードするには、少なくとも1つのキーが必要です！",
+  "youNeedToLoginToAccess": "このページにアクセスするにはログインが必要です！"
+}

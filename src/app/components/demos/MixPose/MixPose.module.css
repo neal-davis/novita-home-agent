@@ -1,0 +1,39 @@
+.dragger_wrapper {
+  display: flex;
+  flex-direction: row;
+  column-gap: 16px;
+}
+.dragger {
+  min-height: 180px;
+}
+
+.preview_img_wrapper {
+  flex: 1;
+  margin-bottom: 20px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.preview_img_container {
+  position: relative;
+  max-width: 100%;
+  /* height: 100%; */
+  overflow: hidden;
+}
+
+.preview_img {
+  top: 0;
+  left: 0;
+  width: auto;
+  height: 100%;
+  object-fit: contain;
+}
+
+.preview_img_result {
+  top: 0;
+  left: 0;
+  z-index: 1;
+}

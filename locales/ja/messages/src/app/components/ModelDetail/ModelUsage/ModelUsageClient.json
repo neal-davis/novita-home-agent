@@ -1,0 +1,11 @@
+{
+  "apiUsage": "API 使用状況",
+  "applications": "アプリケーション",
+  "chat": "チャット",
+  "completion": "補完",
+  "emptyContent": "空のコンテンツ",
+  "howToUse": "使用方法",
+  "modelCard": "モデルカード",
+  "prompting": "プロンプト作成",
+  "useTheFollowingCodeExamplesTo": "以下のコード例を使用して、当社の API と統合してください:"
+}

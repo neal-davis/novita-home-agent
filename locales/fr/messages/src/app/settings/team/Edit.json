@@ -1,0 +1,8 @@
+{
+  "assignAccessPermissionsToMembersBy": "Attribuez des autorisations d’accès aux membres en sélectionnant des rôles. Le budget de chaque nouveau membre est illimité par défaut. Si vous devez l’ajuster, veuillez vous rendre sur la page « Budgets ».",
+  "cancel": "Annuler",
+  "edit": "Modifier",
+  "failedToUpdateRole": "Échec de la mise à jour du rôle",
+  "save": "Enregistrer",
+  "viewPermissionDetails": "Voir les détails des autorisations"
+}

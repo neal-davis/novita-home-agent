@@ -1,0 +1,23 @@
+{
+  "apiName": "API 名称",
+  "duration": "时长",
+  "frames": "帧数",
+  "height": "高度",
+  "message1080p": "1080P",
+  "message10s": "10秒",
+  "message5s": "5秒",
+  "message6s": "6秒",
+  "message720p": "720P",
+  "message768p": "768P",
+  "mode": "模式",
+  "model": "模型",
+  "pricingCalculator": "价格计算器",
+  "professional": "专业版",
+  "resolution": "分辨率",
+  "scale": "缩放",
+  "standard": "标准版",
+  "steps": "步数",
+  "svd": "SVD",
+  "svdXt": "SVD-XT",
+  "width": "宽度"
+}

@@ -1,0 +1,12 @@
+{
+  "billingMethods": "請求方法",
+  "bySubscribingYouAuthorizeUsTo": "登録することにより、お客様がキャンセルするまで、サービスを更新するために毎月サブスクリプション料金を自動的に差し引くことを当社に許可したものとみなされます。",
+  "importantOnceYouSelectTheBilling": "重要：現在のプランの請求方法を選択すると、以前のすべてのプランも自動的に同じ請求方法に切り替わります。",
+  "included": "含まれる",
+  "paymentSuccess": "支払い成功",
+  "plans": "プラン",
+  "price": "価格",
+  "quantities": "数量",
+  "submit": "送信",
+  "total": "合計"
+}

@@ -1,0 +1,12 @@
+{
+  "cancel": "キャンセル",
+  "descriptionOfTheTileThatYou": "生成を避けたいタイルの説明",
+  "descriptionOfTheTileYouWant": "生成したいタイルの説明",
+  "download": "ダウンロード",
+  "generate": "生成",
+  "heigh": "高さ",
+  "negativePrompt": "ネガティブプロンプト",
+  "prompt": "プロンプト",
+  "promptIsEmpty": "プロンプトが空です",
+  "width": "幅"
+}

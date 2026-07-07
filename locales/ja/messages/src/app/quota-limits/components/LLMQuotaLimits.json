@@ -1,0 +1,12 @@
+{
+  "currentTier": "現在のティア",
+  "endpointType": "エンドポイントタイプ",
+  "here": "こちら",
+  "increaseLimit": "上限を引き上げる",
+  "learnMore": "詳細を見る",
+  "limitAdjustable": "上限の調整可否",
+  "limitQuotaMetric": "上限/​クォータ指標",
+  "searchService": "サービスを検索",
+  "toUnlockQuotaLimitsForHigher": "より高いティアのクォータ上限を解除するには。",
+  "topUp": "チャージ"
+}

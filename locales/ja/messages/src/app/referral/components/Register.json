@@ -1,0 +1,11 @@
+{
+  "connectGithub": "GitHubを接続",
+  "createAnAccount": "アカウントを作成",
+  "enterInviteCode": "招待コードを入力",
+  "howToEarn": "獲得方法",
+  "invalidInvitationCode": "無効な招待コード",
+  "registerViaEmail": "メールで登録",
+  "toStartReceivingVouchersConnectAnd": "バウチャーの受け取りを開始するには、GitHubアカウントを接続して認証してください",
+  "verifyYourGithubAccount": "GitHubアカウントを認証",
+  "youreCurrentlyUsingATeamAccount": "現在、チームアカウントを使用しています。アカウントを認証できるのはチームオーナーのみです。"
+}

@@ -1,0 +1,10 @@
+{
+  "cancel": "Annuler",
+  "dedicatedEndpointsResources": "Ressources des points de terminaison dédiés",
+  "learnMore": "En savoir plus",
+  "operationFailed": "Échec de l’opération",
+  "playground": "Espace de test",
+  "pleaseNoteThatThisWillShare": "Veuillez noter que cela partagera vos ressources de points de terminaison dédiés avec d’autres générations et pourra affecter leurs performances.",
+  "useDedicatedEndpointsResources": "Utiliser les ressources des points de terminaison dédiés",
+  "yourCurrentPayAsYouGo": "Votre forfait actuel de paiement à l’utilisation n&apos;inclut pas l’accès aux ressources Entreprise. Passez à une offre supérieure pour débloquer ces fonctionnalités."
+}

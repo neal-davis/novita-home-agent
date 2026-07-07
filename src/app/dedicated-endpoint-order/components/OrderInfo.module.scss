@@ -1,0 +1,85 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 20px 0;
+}
+
+.wrapper .no_payment_method {
+  color: var(--red-2);
+  font-size: var(--body-font-size);
+}
+
+.included_info {
+  width: 382px;
+  background-color: var(--brand-2);
+  padding: 24px;
+  border-radius: 8px;
+  flex-shrink: 0;
+  min-height: 378px;
+
+  .included {
+    @include font-h4;
+    margin-bottom: 16px;
+  }
+
+  .list_func {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    .list_item {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+
+      .text {
+        line-height: 24px;
+      }
+    }
+  }
+}
+
+.payment_info {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 0 24px 24px;
+  gap: 24px;
+
+  .plan_name {
+    @include font-h4;
+  }
+
+  .label {
+    @include font-subtle;
+    color: var(--dark-2);
+  }
+
+  .price_content {
+    display: flex;
+    align-items: center;
+    @include font-h4;
+  }
+
+  .quantity_content {
+    @include font-h5;
+  }
+
+  .price > span {
+    @include font-h6;
+    color: var(--dark-2);
+    padding-left: 0.5em;
+  }
+}
+
+.error_text {
+  display: flex;
+  gap: 8px;
+  .icon {
+  }
+  .content {
+    @include font-small-console;
+    color: var(--red-2);
+  }
+}

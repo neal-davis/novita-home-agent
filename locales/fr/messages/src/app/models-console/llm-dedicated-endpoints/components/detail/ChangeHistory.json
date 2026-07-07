@@ -1,0 +1,15 @@
+{
+  "by": "par",
+  "changeHistory": "Historique des modifications",
+  "noChangeHistoryYet": "Aucun historique des modifications pour le moment",
+  "records": "enregistrements)",
+  "showAll": "Tout afficher (",
+  "showLess": "Afficher moins",
+  "textVarBrand1": "text-[var(--brand-1)]",
+  "textVarCyan2": "text-[var(--cyan-2)]",
+  "textVarDark2": "text-[var(--dark-2)]",
+  "textVarPurple1": "text-[var(--purple-1)]",
+  "textVarRed1": "text-[var(--red-1)]",
+  "textVarYellow1": "text-[var(--yellow-1)]",
+  "utc": "UTC"
+}

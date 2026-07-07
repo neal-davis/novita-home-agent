@@ -1,0 +1,11 @@
+{
+  "amount": "Importe",
+  "applicable": "Aplicable",
+  "cancel": "Cancelar",
+  "gotIt": "Entendido",
+  "redeem": "Canjear",
+  "validUntil": "Válido hasta",
+  "voucherCode": "Código de cupón",
+  "voucherCodeRedeem": "Canje de código de cupón",
+  "voucherRedeemedSuccessfully": "¡Cupón canjeado correctamente!"
+}

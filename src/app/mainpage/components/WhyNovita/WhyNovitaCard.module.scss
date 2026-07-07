@@ -1,0 +1,36 @@
+.card_container {
+  width: 330px;
+  max-width: 330px;
+  padding: 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  background-color: var(--gray-3);
+  .top {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    align-items: center;
+    .left {
+      width: 12px;
+      height: 12px;
+    }
+    .right {
+      @include font-h5;
+      color: var(--brand-0);
+    }
+  }
+  .bottom {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    .top {
+      @include font-h5;
+      color: var(--dark-1);
+    }
+    .bottom {
+      @include font-subtle;
+      color: var(--dark-1);
+    }
+  }
+}

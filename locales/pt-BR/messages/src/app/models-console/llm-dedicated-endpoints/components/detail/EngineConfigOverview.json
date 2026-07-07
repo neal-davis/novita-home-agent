@@ -1,0 +1,10 @@
+{
+  "autoscaling": "Escalonamento automático",
+  "endpointId": "ID do endpoint",
+  "engine": "Mecanismo",
+  "engineConfiguration": "Configuração do mecanismo",
+  "lora": "LoRA",
+  "loraAdapters": "Adaptadores LoRA",
+  "modelId": "ID do modelo",
+  "readOnly": "Somente leitura"
+}

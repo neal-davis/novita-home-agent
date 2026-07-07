@@ -1,0 +1,114 @@
+.container {
+  padding: 134px 0 100px 0;
+}
+.subContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0;
+  /* background: #FFFFFF; */
+  box-shadow: 0px 4px 20px 0px rgba(21, 34, 50, 0.1);
+  border-radius: var(--radius-dialog);
+}
+.selectedTabTxt {
+  font-weight: 500;
+  font-size: 14px;
+  color: #ffffff;
+  line-height: 14px;
+  text-align: center;
+  font-style: normal;
+}
+.unSelectedTabTxt {
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--black);
+  line-height: 14px;
+  text-align: left;
+  font-style: normal;
+}
+.section {
+  /* width: 552px; */
+  /* height: 750px; */
+  height: 50%;
+  width: 100%;
+  color: var(--black);
+  background: var(--white);
+  box-shadow: 0px 4px 20px 0px rgba(21, 34, 50, 0.1);
+  border-radius: var(--radius-dialog);
+  padding: var(--spacing-console-24);
+}
+.title {
+  color: var(--black);
+  margin-bottom: var(--spacing-console-24);
+  @include font-h6;
+}
+.desc {
+  font-size: 16px;
+  color: #514f6e;
+  line-height: 16px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.mainSection {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 504px;
+  height: 50%;
+  max-height: 1216px;
+  padding: 24px 32px;
+}
+.subtitle {
+  font-size: 12px;
+  color: #514f6e;
+  line-height: 12px;
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+.modal {
+  padding: 0;
+  width: min(890px, calc(100vw - 48px)) !important;
+  max-width: calc(100vw - 48px) !important;
+}
+.logContent {
+  margin-top: 36px;
+  min-height: min(56vh, 560px);
+}
+.line {
+  position: absolute;
+  top: 71px;
+  border-bottom: 1px solid var(--gray-2);
+  width: 100%;
+  height: 1px;
+}
+.closeBtn {
+  background: var(--white) !important;
+  width: 124px;
+  height: 32px;
+  float: right;
+  border: 1px solid var(--dark-1) !important;
+  box-shadow: none !important;
+  text-transform: none !important;
+}
+.closeBtn:hover {
+  background-color: var(--gray-3) !important;
+}
+.closeBtnTxt {
+  color: var(--dark-1);
+  @include font-subtle;
+}
+
+@media screen and (max-width: 1000px) {
+  .container {
+    padding: 86px 0 100px 0;
+  }
+  .title {
+    font-size: 24px;
+  }
+  .desc {
+    font-size: 14px;
+  }
+  .wrap {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

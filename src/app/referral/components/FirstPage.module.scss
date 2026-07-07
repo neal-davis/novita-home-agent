@@ -1,0 +1,65 @@
+.firstPage {
+  padding-top: 40px;
+  padding-bottom: 30px;
+  background-color: var(--white);
+
+  .mainInfo {
+    display: flex;
+    padding-bottom: 30px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+
+    .title {
+      max-width: 350px;
+      @include font-h1;
+      color: var(--black);
+    }
+
+    .sub_title {
+      margin-top: 24px;
+      @include font-h4;
+      color: var(--dark-1);
+    }
+
+    .description {
+      margin-top: 32px;
+      max-width: 350px;
+      @include font-p;
+      color: var(--dark-2);
+    }
+  }
+
+  .sub_account_tip {
+    display: inline-block;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    padding: 4px 8px;
+    background-color: var(--gray-3);
+    border-radius: 4px;
+    @include font-body;
+    color: var(--dark-2);
+  }
+}
+
+@include screen-lg {
+  .firstPage {
+    padding-top: 60px;
+    padding-bottom: 50px;
+
+    .mainInfo {
+      justify-content: space-between;
+    }
+  }
+}
+
+@include screen-xl {
+  .firstPage {
+    .mainInfo {
+      justify-content: start;
+      gap: 180px;
+    }
+  }
+}

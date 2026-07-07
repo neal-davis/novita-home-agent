@@ -1,0 +1,13 @@
+{
+  "capacityHasExceededTheLimitPlease": "容量已超出限制，请联系",
+  "containerDisk": "容器磁盘",
+  "createVolume": "+ 创建卷",
+  "free": "免费",
+  "gb": "GB",
+  "networkMountPath": "网络挂载路径",
+  "networkVolume": "网络卷",
+  "podTemplate": "Pod 模板",
+  "support": "支持",
+  "updateTemplateNow": "立即更新模板",
+  "yourTemplateCurrentlyIncludesVolumeDisk": "您的模板当前包含卷磁盘挂载，该功能已不再受支持（容器磁盘已扩容）。请更新您的模板，移除卷磁盘挂载配置，并将数据存储在容器磁盘上。"
+}

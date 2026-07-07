@@ -1,0 +1,40 @@
+.page_container {
+  display: block;
+  width: 100%;
+  position: relative;
+  padding: var(--spacing-console-body-padding);
+  box-sizing: border-box;
+  height: 100%;
+  overflow-y: auto;
+  background-color: var(--gray-3);
+}
+.page_container .sub_title {
+  font-size: 22px;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: 22px;
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+
+.dashboard_content {
+  flex: 1;
+  overflow: hidden;
+}
+
+.dashboard_title {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  position: relative;
+  font-size: 32px;
+  color: var(--dark-1);
+  font-weight: 600;
+  gap: 10px;
+}
+
+@media screen and (max-width: 600px) {
+  .page_container {
+    padding: 20px;
+  }
+}

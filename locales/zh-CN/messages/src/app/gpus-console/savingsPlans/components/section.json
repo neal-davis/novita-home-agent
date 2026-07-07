@@ -1,0 +1,16 @@
+{
+  "captionTable": "标题表格",
+  "expireTime": "到期时间",
+  "filterByGpuType": "按 GPU 类型筛选",
+  "gpuTypes": "GPU 类型",
+  "instanceId": "实例 ID",
+  "instanceName": "实例名称",
+  "region": "区域",
+  "savingsPlanId": "节省计划 ID",
+  "savingsPlans": "节省计划",
+  "search": "搜索",
+  "toExplore": "去探索",
+  "totalCommitment": "总承诺",
+  "utilization": "使用率",
+  "whatAreSavingsPlans": "什么是节省计划？"
+}

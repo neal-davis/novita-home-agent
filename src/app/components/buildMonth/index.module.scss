@@ -1,0 +1,40 @@
+.smallTag {
+  border-radius: 2px;
+  border: 0.5px solid #2133ff;
+  background:
+    linear-gradient(129deg, #23c1ff -18.06%, #9e18dc 133.18%),
+    linear-gradient(120deg, #09bfdf 6.54%, #5323af 56.3%, #b426a3 106.11%),
+    #23d57c;
+}
+
+.smallTagTxt {
+  color: var(--white);
+  text-align: center;
+  leading-trim: both;
+  text-edge: cap;
+  font-family: var(--font-miletus);
+  font-size: 7px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 7px; /* 171.429% */
+  letter-spacing: 0.35px;
+}
+
+.commonTag {
+  display: flex;
+  height: 20px;
+  padding: 0 6px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 1px 4px;
+  background:
+    linear-gradient(129deg, #23c1ff -18.06%, #9e18dc 133.18%),
+    linear-gradient(120deg, #09bfdf 6.54%, #5323af 56.3%, #b426a3 106.11%),
+    #23d57c;
+}
+
+.commonTagTxt {
+  color: var(--white);
+  @include font-small-console;
+}

@@ -1,0 +1,155 @@
+.md_docs {
+  color: var(--dark-2);
+
+  h1 {
+    margin: 20px 0 16px;
+    @include font-h4;
+    color: var(--black);
+  }
+  h2 {
+    margin: 20px 0 16px;
+    @include font-h5;
+    color: var(--black);
+  }
+  h3 {
+    margin: 20px 0 16px;
+    @include font-h5;
+    color: var(--black);
+  }
+  h4 {
+    margin: 16px 0 12px;
+    font-size: 16px;
+    line-height: 20px;
+    color: var(--black);
+    font-weight: 600;
+  }
+  h5 {
+    margin: 16px 0 12px;
+    font-size: 14px;
+    line-height: 18px;
+    color: var(--black);
+    font-weight: 600;
+  }
+  h6 {
+    margin: 16px 0 12px;
+    font-size: 12px;
+    line-height: 16px;
+    color: var(--black);
+    font-weight: 600;
+  }
+  p {
+    margin: 10px 0;
+    @include font-h6;
+    font-size: 16px;
+  }
+  ul {
+    margin: 12px 0;
+    list-style: disc;
+    margin-left: 24px;
+    @include font-body;
+    & > li {
+      line-height: 180%;
+      & > ul {
+        list-style: circle;
+      }
+    }
+  }
+  pre > div {
+    margin: 16px 0 !important;
+  }
+  a {
+    color: var(--brand-0);
+  }
+  strong {
+    color: var(--dark-2);
+  }
+  table {
+    margin: 16px 0;
+
+    thead {
+      border-top: 1px solid var(--gray-2);
+      background-color: var(--gray-3);
+    }
+    tr {
+      border-bottom: 1px solid var(--gray-2);
+      border-left: 1px solid var(--gray-2);
+    }
+    th,
+    td {
+      padding: 6px 12px;
+      border-right: 1px solid var(--gray-2);
+    }
+  }
+  .inline_code {
+    display: inline-block;
+    padding: 1px 5px;
+    border-radius: 4px;
+    background-color: var(--gray-3);
+    border: 1px solid var(--gray-3);
+  }
+
+  pre > div {
+    background-color: var(--gray-3) !important;
+  }
+
+  /* avoid margin collapse */
+  & > *:first-child {
+    margin-top: 0;
+  }
+
+  & > *:last-child {
+    margin-bottom: 0;
+  }
+
+  .code_box {
+    position: relative;
+
+    & > div {
+      background-color: var(--gray-3) !important;
+      border: 1px solid var(--gray-3) !important;
+    }
+
+    .copy_btn {
+      position: absolute;
+      right: 12px;
+      top: 12px;
+    }
+
+    .success {
+      color: var(--green-2);
+
+      &:hover {
+        color: var(--green-2);
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .md_docs {
+    h1 {
+      font-size: 20px;
+    }
+    h2 {
+      font-size: 18px;
+    }
+    h3 {
+      font-size: 16px;
+    }
+    h4 {
+      font-size: 14px;
+    }
+    h5 {
+      font-size: 13px;
+    }
+    h6 {
+      font-size: 12px;
+    }
+    p {
+      font-size: 14px;
+    }
+    pre code {
+      font-size: 14px;
+    }
+  }
+}

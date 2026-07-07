@@ -1,0 +1,15 @@
+{
+  "allowAgentsToAccessExternalApis": "Allow agents to access external APIs and online data as needed.",
+  "automateWebNavigationFormFillingAnd": "Automate web navigation, form filling, and content scraping.",
+  "browserUse": "Browser Use",
+  "codeExecution": "Code Execution",
+  "computerUse": "Computer Use",
+  "controlFullGuiEnvironmentsInputText": "Control full GUI environments: input text, scroll pages, take screenshots, and more.",
+  "enableAgentsToInteractWithGui": "Enable agents to interact with GUI and stream task execution via VNC.",
+  "networkAccess": "Network Access",
+  "pauseAndResumeLongRunningAgent": "Pause and resume long-running agent tasks without losing progress.",
+  "runPythonJavascriptCAndOther": "Run Python, JavaScript, C++, and other languages in a secure sandbox.",
+  "sandboxCapabilities": "Sandbox Capabilities",
+  "sessionPersistence": "Session Persistence",
+  "visualOutput": "Visual Output"
+}

@@ -1,0 +1,8 @@
+{
+  "engine": "ENGINE",
+  "instanceConfiguration": "Instanzkonfiguration",
+  "lora": "LoRA",
+  "loraAdapters": "LoRA-Adapter",
+  "model": "MODELL",
+  "readOnly": "Schreibgeschützt"
+}

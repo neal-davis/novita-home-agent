@@ -1,0 +1,10 @@
+{
+  "apiBaseUrl": "API Base URL",
+  "checkTheFullListOfSupported": "Check the full list of supported models",
+  "getApiKey": "Get API Key",
+  "here": "here",
+  "integrateLlama3ApiWithYour": "Integrate Llama 3 API with Your Application",
+  "orUseTheModelsApiTo": "or use the Models API to get all available models.",
+  "supportedModels": "Supported Models",
+  "weProvideCompatibilityWithTheOpenai": "We provide compatibility with the OpenAI API standard, allowing for easier integration into your existing applications."
+}

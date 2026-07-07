@@ -1,0 +1,13 @@
+.tabs_list {
+  padding-top: 10px;
+  padding-bottom: 7px;
+  border-bottom: 1px solid var(--gray-2);
+
+  button {
+    @include font-subtle-medium;
+
+    &[aria-selected="true"] {
+      @include font-subtle-medium;
+    }
+  }
+}

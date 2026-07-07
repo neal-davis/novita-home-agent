@@ -1,0 +1,5 @@
+{
+  "logOut": "退出登录",
+  "pleaseLogOutAndLogIn": "请退出登录，并使用收到邀请的邮箱登录。如果尚未注册，请使用受邀邮箱注册以继续。",
+  "unauthorizedAccount": "未授权账户"
+}

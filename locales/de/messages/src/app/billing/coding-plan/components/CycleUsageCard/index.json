@@ -1,0 +1,20 @@
+{
+  "autoRenewal": "automatische Verlängerung",
+  "autoRenewalYourCodingPlanPackage": "automatische Verlängerung, Ihr Coding-Tarifpaket läuft ab am",
+  "cancel": "Abbrechen",
+  "cancelSubscription": "Abonnement kündigen",
+  "changePlan": "Tarif ändern",
+  "confirm": "Bestätigen",
+  "cycleUsage": "Nutzung im Zyklus",
+  "day": "Tag",
+  "ifYouConfirmCancelYour": "Wenn Sie die Kündigung Ihres",
+  "no": "Nein",
+  "notice": "Hinweis",
+  "of": "von",
+  "processing": "Wird verarbeitet...",
+  "restartAutoRenewal": "Automatische Verlängerung erneut starten",
+  "tokens": "Tokens",
+  "until": "Bis",
+  "used": "% genutzt",
+  "warning": "Warnung"
+}

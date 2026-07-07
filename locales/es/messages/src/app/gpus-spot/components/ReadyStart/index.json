@@ -1,0 +1,7 @@
+{
+  "deploySpotInstance": "Implementar instancia Spot",
+  "message1HourAdvanceNotice": "Aviso con 1 hora de antelación",
+  "message1HourGuaranteedRuntime": "Tiempo de ejecución garantizado de 1 hora",
+  "startAtHalfTheCost": "Empieza por la mitad del costo",
+  "upTo50LowerCost": "Hasta un 50% menos de costo"
+}

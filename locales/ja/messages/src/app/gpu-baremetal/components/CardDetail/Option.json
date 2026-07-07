@@ -1,0 +1,12 @@
+{
+  "duration": "期間",
+  "eachNodeConsistsOf": "各ノードの構成:",
+  "gpus": "GPUs。",
+  "gpusForExampleRequesting": "GPUs。たとえば、リクエストすると",
+  "monthS": "か月",
+  "nodeQuantity": "ノード数",
+  "nodesWillGiveYouAccessTo": "ノードでアクセスできるのは",
+  "option": "オプション",
+  "pleaseEnterTheNumberOfMachines": "マシンの数を入力してください",
+  "yearS": "年"
+}

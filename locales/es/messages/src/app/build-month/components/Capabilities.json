@@ -1,0 +1,15 @@
+{
+  "allowAgentsToAccessExternalApis": "Permite que los agentes accedan a APIs externas y datos en línea según sea necesario.",
+  "automateWebNavigationFormFillingAnd": "Automatiza la navegación web, el llenado de formularios y la extracción de contenido.",
+  "browserUse": "Uso del navegador",
+  "codeExecution": "Ejecución de código",
+  "computerUse": "Uso del ordenador",
+  "controlFullGuiEnvironmentsInputText": "Controla entornos GUI completos: introduce texto, desplaza páginas, toma capturas de pantalla y más.",
+  "enableAgentsToInteractWithGui": "Permite que los agentes interactúen con la GUI y transmitan la ejecución de tareas mediante VNC.",
+  "networkAccess": "Acceso a la red",
+  "pauseAndResumeLongRunningAgent": "Pausa y reanuda tareas de agentes de larga duración sin perder el progreso.",
+  "runPythonJavascriptCAndOther": "Ejecuta Python, JavaScript, C++ y otros lenguajes en un entorno aislado seguro.",
+  "sandboxCapabilities": "Capacidades del entorno de pruebas",
+  "sessionPersistence": "Persistencia de sesión",
+  "visualOutput": "Salida visual"
+}

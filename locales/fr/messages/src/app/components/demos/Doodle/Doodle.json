@@ -1,0 +1,12 @@
+{
+  "back": "Retour",
+  "cancel": "Annuler",
+  "clear": "effacer",
+  "download": "Télécharger",
+  "generate": "Générer",
+  "prompt": "Prompt",
+  "promptIsEmpty": "Le prompt est vide",
+  "redo": "rétablir",
+  "similarity": "Similarité",
+  "undo": "annuler"
+}

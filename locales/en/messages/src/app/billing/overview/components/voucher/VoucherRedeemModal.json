@@ -1,0 +1,11 @@
+{
+  "amount": "Amount",
+  "applicable": "Applicable",
+  "cancel": "Cancel",
+  "gotIt": "Got it",
+  "redeem": "Redeem",
+  "validUntil": "Valid Until",
+  "voucherCode": "Voucher Code",
+  "voucherCodeRedeem": "Voucher Code Redeem",
+  "voucherRedeemedSuccessfully": "Voucher Redeemed Successfully!"
+}

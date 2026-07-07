@@ -1,0 +1,10 @@
+{
+  "bookACall": "通話を予約",
+  "concurrentInstances": "同時実行インスタンス",
+  "contactSales": "営業に問い合わせる",
+  "deploymentRegion": "デプロイリージョン",
+  "enterprise": "エンタープライズ",
+  "forAdvancedWorkloadsRequiringLargeMemory": "大容量メモリ、より高い vCPU、またはカスタムデプロイ先を必要とする高度なワークロード向け。",
+  "maxVcpusPerSandbox": "サンドボックスあたりの最大 vCPU 数",
+  "uptimeSla": "稼働率 SLA"
+}

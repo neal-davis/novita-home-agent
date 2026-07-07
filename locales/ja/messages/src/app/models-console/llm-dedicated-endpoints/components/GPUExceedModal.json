@@ -1,0 +1,6 @@
+{
+  "contactUs": "お問い合わせ",
+  "inUse": "使用中:",
+  "pleaseReduceYourRequestOrContact": "リクエストを減らすか、GPU 容量の追加についてお問い合わせください。",
+  "youveExceededYourGpuQuota": "GPU クォータを超過しました。"
+}

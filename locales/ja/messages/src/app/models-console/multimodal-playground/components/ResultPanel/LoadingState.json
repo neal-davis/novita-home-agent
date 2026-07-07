@@ -1,0 +1,8 @@
+{
+  "cancel": "キャンセル",
+  "cancellationMayStillIncurCharges": "キャンセルしても料金が発生する場合があります",
+  "cancellingWillStopFurtherProcessingBut": "キャンセルすると以降の処理は停止されますが、タスクがすでに生成フェーズに入っている場合は、全額の料金が発生する場合があります。キャンセルする前に確認してください。",
+  "confirm": "確認",
+  "generating": "生成中...",
+  "submittingTask": "タスクを送信中..."
+}

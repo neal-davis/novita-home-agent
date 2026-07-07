@@ -1,0 +1,10 @@
+{
+  "apiBaseUrl": "API ベース URL",
+  "checkTheFullListOfSupported": "サポートされているモデルの完全なリストを確認する",
+  "getApiKey": "API Key を取得",
+  "here": "こちら",
+  "integrateLlama3ApiWithYour": "Llama 3 API をアプリケーションに統合",
+  "orUseTheModelsApiTo": "または、Models API を使用して利用可能なすべてのモデルを取得します。",
+  "supportedModels": "対応モデル",
+  "weProvideCompatibilityWithTheOpenai": "OpenAI API 標準との互換性を提供しているため、既存のアプリケーションにより簡単に統合できます。"
+}

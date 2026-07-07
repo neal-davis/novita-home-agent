@@ -1,0 +1,13 @@
+{
+  "apisAutomation": "APIs 与自动化",
+  "checkAvailability": "查看可用性",
+  "exploreApiDocs": "浏览 API 文档",
+  "getPricing": "获取价格",
+  "gpuCapacityByModel": "按模型划分的 GPU 容量",
+  "handleInterruptions": "处理中断",
+  "launchInstances": "启动实例",
+  "manageSpotInstancesProgrammaticallyWithFull": "通过完整的 API 支持以编程方式管理 Spot 实例",
+  "provisionSpotWithBillingTypeSpot": "使用 billing_type=spot 预配 Spot",
+  "realTimeSpotRates": "实时 Spot 费率",
+  "subscribeToTerminationEventsViaApi": "通过 API 或电子邮件订阅终止事件"
+}

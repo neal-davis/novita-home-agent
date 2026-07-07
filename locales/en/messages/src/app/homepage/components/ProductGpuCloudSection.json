@@ -1,0 +1,10 @@
+{
+  "dedicatedPhysicalGpuClustersForLarge": "Dedicated physical GPU clusters for large-scale inference, training runs, and enterprise deployments that can't compromise on throughput. When you need the hardware to yourself, this is it.",
+  "deployModelsRunInferenceTrainFrom": "Deploy models, run inference, train from scratch, on dedicated GPU instances you fully control. Predictable performance. No shared resources. No surprises.",
+  "fullControlGpuMachinesYoursIn": "Full-control GPU machines. Yours in seconds.",
+  "getStarted": "Get Started",
+  "gpuCloud": "GPU CLOUD",
+  "maximumPerformanceZeroAbstractionOverhead": "Maximum performance. Zero abstraction overhead.",
+  "noInstancesToProvisionNoIdle": "No instances to provision. No idle compute to pay for. Novita allocates GPU resources automatically, scales up under load, scales to zero when you're done. You pay for execution, nothing else.",
+  "submitAJobWeHandleThe": "Submit a job. We handle the rest."
+}

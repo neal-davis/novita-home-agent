@@ -1,0 +1,21 @@
+{
+  "productList": [
+    {
+      "name": "Pro",
+      "price": 199,
+      "discount_price": 149,
+      "func_list": [
+        "Dedicated GPU instance",
+        "Priority scheduling",
+        "99.9% uptime SLA",
+        "24/7 technical support"
+      ]
+    },
+    {
+      "name": "Standard",
+      "price": 99,
+      "discount_price": 0,
+      "func_list": ["Shared GPU pool", "Standard scheduling", "Email support"]
+    }
+  ]
+}

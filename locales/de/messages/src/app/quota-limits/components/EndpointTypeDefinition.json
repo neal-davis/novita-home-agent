@@ -1,0 +1,3 @@
+{
+  "indicatesWhetherTheEndpointIsPublic": "Gibt an, ob der Endpunkt öffentlich (gemeinsam genutzte Infrastruktur) oder dediziert (exklusive Ressourcen) ist. Ratenlimits und Abrechnung variieren je nach Typ."
+}

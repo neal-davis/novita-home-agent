@@ -1,0 +1,16 @@
+{
+  "amountShouldPay": "Montant à payer",
+  "billingPeriod": "Période de facturation",
+  "captionTable": "tableau des légendes",
+  "cashPaid": "Montant payé",
+  "duration": "Durée",
+  "endpointId-a11c3a": "ID d’endpoint",
+  "endpointId-b72156": "ID du point de terminaison",
+  "export": "Exporter",
+  "gpuType": "Type de GPU",
+  "gpusWorker": "GPUs/travailleur",
+  "priceUnitS": "Prix(unité :/s)",
+  "search": "rechercher",
+  "voucherDeduction": "Déduction du bon",
+  "workId": "ID de travail"
+}

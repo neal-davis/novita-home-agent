@@ -1,0 +1,7 @@
+{
+  "anUnexpectedErrorOccurredPleaseCheck": "Se produjo un error inesperado. Comprueba tu clave API e inténtalo de nuevo.",
+  "failedToAuthenticatePleaseCheckYour": "No se pudo autenticar. Comprueba tu clave API e inténtalo de nuevo.",
+  "modelNotAvailableNowPleaseTry": "El modelo no está disponible en este momento. Inténtalo de nuevo más tarde.",
+  "notEnoughBalancePleaseTopUp": "Saldo insuficiente. Añade saldo para continuar usando el servicio.",
+  "topUp": "Añadir saldo"
+}

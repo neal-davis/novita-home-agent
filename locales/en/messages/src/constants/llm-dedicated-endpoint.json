@@ -1,0 +1,6 @@
+{
+  "enablingThisFeatureAcceleratesModelOutput": "Enabling this feature accelerates model output speed in coding scenarios by 30%+ (130% of baseline performance)",
+  "maximumNumberOfConcurrentRequestsThat": "Maximum number of concurrent requests that can be processed by a single replica. Backend recommends optimal value based on model and GPU configuration.",
+  "modelContextLengthIfUnspecifiedWill": "Model context length. If unspecified, will be automatically derived from the model config.",
+  "theModelsMaximumContextLengthDefaults": "The model's maximum context length. Defaults to None (will use the value from the model's config.json instead)."
+}

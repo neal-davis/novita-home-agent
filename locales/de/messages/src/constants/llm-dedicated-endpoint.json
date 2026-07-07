@@ -1,0 +1,6 @@
+{
+  "enablingThisFeatureAcceleratesModelOutput": "Durch Aktivieren dieser Funktion wird die Ausgabegeschwindigkeit des Modells in Coding-Szenarien um 30 % + beschleunigt (130 % der Basisleistung)",
+  "maximumNumberOfConcurrentRequestsThat": "Maximale Anzahl gleichzeitiger Anfragen, die von einer einzelnen Replik verarbeitet werden können. Das Backend empfiehlt basierend auf Modell- und GPU-Konfiguration den optimalen Wert.",
+  "modelContextLengthIfUnspecifiedWill": "Kontextlänge des Modells. Falls nicht angegeben, wird sie automatisch aus der Modellkonfiguration abgeleitet.",
+  "theModelsMaximumContextLengthDefaults": "Die maximale Kontextlänge des Modells. Standardwert ist None (stattdessen wird der Wert aus der config.json des Modells verwendet)."
+}

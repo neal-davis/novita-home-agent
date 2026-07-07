@@ -1,0 +1,22 @@
+{
+  "configuration": "設定",
+  "configurationInformation": "設定情報",
+  "containerDisk": "コンテナディスク :",
+  "containerEntrypoint": "コンテナエントリーポイント :",
+  "containerImage": "コンテナイメージ :",
+  "containerStartCommand": "コンテナ開始コマンド :",
+  "environmentVariables": "環境変数：",
+  "exposeHttpPorts": "HTTP ポートを公開 :",
+  "exposeTcpPorts": "TCP ポートを公開 :",
+  "gb": "GB",
+  "key": "キー",
+  "localMount": "ローカルマウント :",
+  "no": "いいえ",
+  "noResultsFound": "結果が見つかりません",
+  "readme": "README",
+  "updatesComingSoonTryExploringFor": "アップデートは近日公開予定です！他の項目を探してみてください",
+  "value": "値",
+  "volumeDisk": "ボリュームディスク :",
+  "volumeMountPath": "ボリュームマウントパス :",
+  "yes": "はい"
+}

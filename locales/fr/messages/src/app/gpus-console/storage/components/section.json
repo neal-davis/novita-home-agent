@@ -1,0 +1,17 @@
+{
+  "createTime": "Heure de création",
+  "creator": "Créateur",
+  "delete": "Supprimer",
+  "deploy": "Déployer",
+  "edit": "Modifier",
+  "gbI": "Go I",
+  "itIsHighlyAdvisableToContinually": "Il est fortement recommandé de sauvegarder régulièrement tout ce que vous souhaitez conserver, localement hors site ou auprès d’un fournisseur cloud.",
+  "networkVolumeIsProvidedInThe": "Le volume réseau est fourni dans le but d’exécuter des tâches à l’aide de ses GPUs et n’est",
+  "newNetworkVolume": "+ Nouveau volume réseau",
+  "notMeantToBeALong": "pas destiné à servir de solution de sauvegarde à long terme.",
+  "pleaseNoteThatIfYourAccount": "Veuillez noter que si votre compte est en retard de paiement et qu’aucune instance n’est en cours d’exécution, votre volume réseau sera",
+  "released3DaysLater": "libéré 3 jours plus tard.",
+  "search": "rechercher",
+  "storageNameIdFilter": "Filtre par nom/ID de stockage",
+  "success": "succès"
+}

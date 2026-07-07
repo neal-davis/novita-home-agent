@@ -1,0 +1,10 @@
+{
+  "commitment": "承诺期",
+  "message50OffInterruptible": "50% 优惠，可中断",
+  "onDemand": "按需",
+  "payAOneTimeFixedFee": "支付一次性固定费用，以长期承诺预留稳定的专用资源。",
+  "payAsYouGoWithCosts": "按量付费，费用基于实际使用时长。",
+  "spot": "Spot",
+  "spotInstancesOfferLowPricesBut": "Spot 实例价格低廉，但可能随时被中断。",
+  "subscription": "订阅"
+}

@@ -1,0 +1,21 @@
+{
+  "addAlert": "Añadir alerta",
+  "balanceAlertsAreTriggeredBasedOn": "Las alertas de saldo se activan en función de tu crédito disponible, que incluye el saldo de tu cuenta y el límite de crédito restante.",
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
+  "editAlert": "Editar alerta",
+  "email": "Correo electrónico",
+  "enableStatus": "Estado de activación",
+  "enterAmount": "Introduce el importe",
+  "inbox": "Bandeja de entrada",
+  "notificationMembers": "Miembros de notificación",
+  "notificationMethod": "Método de notificación",
+  "pleaseEnterTheWarningAmount": "Introduce el importe de advertencia",
+  "pleaseSelectAtLeastOneNotification": "Selecciona al menos un método de notificación",
+  "selectMethods": "Seleccionar métodos",
+  "theMaximumPostpaidAmountApprovedBased": "El importe máximo pospago aprobado según el perfil crediticio de tu cuenta, que te permite consumir primero y pagar después.",
+  "theWarningAmountMustBeBetween": "El importe de advertencia debe estar entre $1 y $10,000,000, y el intervalo entre importes con un estado de advertencia activo debe ser de al menos $5.",
+  "thresholdMustBeAnInteger": "El umbral debe ser un número entero",
+  "thresholdMustBeBetween1And": "El umbral debe estar entre 1 y 10000000",
+  "warningAmount": "Importe de advertencia"
+}

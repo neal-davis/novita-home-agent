@@ -1,0 +1,13 @@
+{
+  "duration": "时长",
+  "leaveBlankForRandom": "留空则随机",
+  "message1080p": "1080P",
+  "message10s": "10s",
+  "message15s": "15s",
+  "message5s": "5s",
+  "message720p": "720P",
+  "prompt": "提示词",
+  "resolution": "分辨率",
+  "seed": "种子",
+  "showcase": "展示"
+}

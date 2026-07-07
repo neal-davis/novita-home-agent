@@ -1,0 +1,16 @@
+.form_label {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  min-width: 0;
+  flex-wrap: wrap;
+  font-size: 14px;
+  color: var(--dark1);
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: 0;
+}
+
+.label_text {
+  margin-right: 10px;
+}

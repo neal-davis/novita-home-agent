@@ -1,0 +1,10 @@
+{
+  "autoscaling": "Automatische Skalierung",
+  "endpointId": "Endpunkt-ID",
+  "engine": "Engine",
+  "engineConfiguration": "Engine-Konfiguration",
+  "lora": "LoRA",
+  "loraAdapters": "LoRA-Adapter",
+  "modelId": "Modell-ID",
+  "readOnly": "Schreibgeschützt"
+}

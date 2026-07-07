@@ -1,0 +1,25 @@
+.template_table_container {
+  :global {
+    .scrollBar_container {
+      padding-bottom: 8px;
+    }
+
+    .scrollBar_container::-webkit-scrollbar {
+      width: 4px;
+      height: 4px;
+    }
+
+    .scrollBar_container::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .scrollBar_container::-webkit-scrollbar-thumb {
+      background: var(--gray-1);
+      border-radius: 2px;
+    }
+
+    .scrollBar_container::-webkit-scrollbar-corner {
+      background: var(--gray-1);
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "apiExampleComV1ChatCompletions": "api.example.com/v1/chat/completions",
+  "chooseYourGpu": "Choisissez votre GPU",
+  "deploy": "Déployer",
+  "deployIn3Steps": "Déployer en 3 étapes",
+  "endpoint": "Point de terminaison",
+  "everythingYouNeedToDeployScale": "Tout ce dont vous avez besoin pour déployer, faire évoluer et gérer l’inférence IA en production.",
+  "live": "En direct",
+  "pickYourModel": "Choisissez votre modèle",
+  "post": "POST",
+  "replicas": "Répliques",
+  "search50kModelsFromHuggingFace": "Recherchez parmi plus de 50 000 modèles sur Hugging Face, ou collez l’URL de votre dépôt privé.",
+  "searchModelsEGQwen25": "Rechercher des modèles... p. ex. Qwen2.5-7B",
+  "seeTheRecommendedGpuForYour": "Consultez le GPU recommandé pour votre modèle. Choisissez celui qui correspond à votre budget.",
+  "workflow": "Workflow",
+  "yourEndpointIsLiveInMinutes": "Votre point de terminaison est en ligne en quelques minutes. URL compatible OpenAI prête à l’emploi."
+}

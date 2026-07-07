@@ -1,0 +1,9 @@
+{
+  "cancel": "Cancel",
+  "deleteYourInstance": "Delete your instance.",
+  "success": "success",
+  "terminateInstance": "Terminate Instance",
+  "thisActionWillRemoveYourPod": "This action will remove your pod configuration as well as any non-network volumes and data associated with it.",
+  "thisIsIrreversibleDoYouWant": "This is irreversible! Do you want to proceed?",
+  "yes": "Yes"
+}

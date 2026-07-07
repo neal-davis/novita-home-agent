@@ -1,0 +1,67 @@
+.topup_container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 9px 16px;
+  background-color: var(--gray-3);
+  border: 1px solid var(--gray-2);
+  border-radius: 6px;
+}
+
+.topup_label {
+  @include font-menu-medium;
+  color: var(--black);
+}
+
+.topup_input_wrapper {
+  position: relative;
+  flex: 1;
+  min-width: 200px;
+}
+
+.currency_symbol {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  @include font-subtle-medium;
+  transform: translateY(-50%);
+  color: var(--black);
+  pointer-events: none;
+  z-index: 1;
+}
+
+.topup_input {
+  width: 100%;
+  height: 32px;
+  padding-left: 32px;
+  font-size: 16px;
+  background-color: var(--white);
+
+  &::-webkit-outer-spin-button,
+  &::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+  }
+}
+
+.topup_button {
+  height: 32px;
+  padding: 0 16px;
+}
+
+@media screen and (max-width: 768px) {
+  .topup_container {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 16px;
+  }
+
+  .topup_input_wrapper {
+    width: 100%;
+  }
+
+  .topup_button {
+    width: 100%;
+  }
+}

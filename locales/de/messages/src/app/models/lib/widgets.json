@@ -1,0 +1,21 @@
+{
+  "clipSkip": "Clip Skip",
+  "enterYourPromptHere": "Geben Sie hier Ihren Prompt ein",
+  "guidanceScale": "Guidance Scale",
+  "height2562048": "Höhe (256~2048)",
+  "imageNum": "Anzahl Bilder",
+  "initialImage": "Ausgangsbild",
+  "lora": "LoRA",
+  "loraModel": "LoRA-Modell",
+  "loraWeight": "LoRA-Gewichtung",
+  "model": "Modell",
+  "negativePrompt-b4dbac": "Negativer Prompt",
+  "negativePrompt-e08352": "Negativer Prompt",
+  "prompt": "Prompt",
+  "sampler": "Sampler",
+  "seed": "Seed",
+  "steps": "Schritte",
+  "strength": "Stärke",
+  "uploadImage": "Bild hochladen",
+  "width2562048": "Breite (256~2048)"
+}

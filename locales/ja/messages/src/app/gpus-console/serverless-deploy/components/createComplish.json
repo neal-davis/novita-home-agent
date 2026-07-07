@@ -1,0 +1,7 @@
+{
+  "deployServerless": "サーバーレスをデプロイ",
+  "deployed": "デプロイ済み",
+  "myEndpoints": "マイエンドポイント",
+  "redirectingToMyEndpoints": "マイエンドポイントにリダイレクトしています......",
+  "yourEndpointIsBeingCreatedUsing": "選択した設定を使用してエンドポイントを作成しています。まもなく準備が完了します—コンソールで確認できます。"
+}

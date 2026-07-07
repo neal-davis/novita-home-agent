@@ -1,0 +1,12 @@
+{
+  "cancel": "Cancelar",
+  "descriptionOfTheTileThatYou": "Descripción del mosaico que quieres evitar generar",
+  "descriptionOfTheTileYouWant": "Descripción del mosaico que quieres generar",
+  "download": "Descargar",
+  "generate": "Generar",
+  "heigh": "Altura",
+  "negativePrompt": "Prompt negativo",
+  "prompt": "Prompt",
+  "promptIsEmpty": "El prompt está vacío",
+  "width": "Anchura"
+}

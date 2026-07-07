@@ -1,0 +1,16 @@
+{
+  "afterProtectionEndsInstanceMayBe": "Nach Ablauf des Schutzes kann die Instanz zurückgefordert werden",
+  "forcedTermination": "Erzwungene Beendigung",
+  "instanceEntersRunningState": "Die Instanz wechselt in den Status „Wird ausgeführt“",
+  "instanceIsStoppedAndReleasedAutomatically": "Die Instanz wird automatisch gestoppt und freigegeben",
+  "interruptionWindow": "Unterbrechungsfenster",
+  "launch": "Start",
+  "message1HourGuaranteedRuntimeThenInterruptible": "1 Stunde garantierte Laufzeit, danach unterbrechbar mit 1 Stunde Vorankündigung vor automatischer Rückforderung. Spot nutzt freie Kapazitäten – kostengünstig, jederzeit rückforderbar.",
+  "message1HourProtection": "1-Stunden-Schutz",
+  "noInterruptionsDuringThisPeriod": "Keine Unterbrechungen während dieses Zeitraums",
+  "note": "Hinweis:",
+  "sent1HourInAdvance": "1 Stunde im Voraus gesendet",
+  "spotInstanceLifecycle": "Lebenszyklus der Spot-Instanz",
+  "terminationNotice": "Kündigungsbenachrichtigung",
+  "workloadsShouldBeInterruptionTolerantUse": "Workloads sollten unterbrechungstolerant sein. Verwenden Sie Checkpointing oder Backups, um Datenverlust zu vermeiden."
+}

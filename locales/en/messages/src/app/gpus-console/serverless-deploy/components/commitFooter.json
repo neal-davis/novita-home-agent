@@ -1,0 +1,8 @@
+{
+  "deploy": "Deploy >",
+  "deploySuccessfully": "Deploy successfully",
+  "pleaseLogInFirst": "Please log in first",
+  "serverlessPrice": "Serverless Price:",
+  "storagePrice": "Storage price:",
+  "thePriceOfEachWorkerNot": "The price of each Worker, not per GPU. We charge for workers in running/starting state, and the billing is accurate to the second."
+}

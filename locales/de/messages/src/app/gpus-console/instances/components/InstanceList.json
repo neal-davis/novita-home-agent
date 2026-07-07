@@ -1,0 +1,17 @@
+{
+  "billing": "Abrechnung",
+  "containerDisk": "Container-Datenträger",
+  "createTime": "Erstellungszeit",
+  "creator": "Ersteller",
+  "dataCenter": "Rechenzentrum",
+  "disk": "Datenträger",
+  "editInstanceName": "Instanznamen bearbeiten",
+  "expirationTime": "Ablaufzeit",
+  "gb": "GB",
+  "gpu": "GPU:",
+  "gpuId": "GPU-ID",
+  "id": "ID:",
+  "localVolumePath": "Lokaler Volume-Pfad",
+  "networkVolume": "Netzwerk-Volume",
+  "template": "Vorlage"
+}

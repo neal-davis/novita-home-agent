@@ -1,0 +1,9 @@
+{
+  "copy": "复制",
+  "linkCopiedSuccessfully": "链接已成功复制",
+  "shareLink": "分享链接",
+  "shareLinkFailed": "分享链接失败",
+  "shareLinkToReproducePlaygroundExample": "分享链接以复现 Playground 示例",
+  "validFor30Days": "有效期为 30 天",
+  "validIndefinitely": "永久有效"
+}

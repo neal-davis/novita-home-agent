@@ -1,0 +1,16 @@
+{
+  "captionTable": "título de la tabla",
+  "expireTime": "HORA DE VENCIMIENTO",
+  "filterByGpuType": "Filtrar por tipo de GPU",
+  "gpuTypes": "TIPOS DE GPU",
+  "instanceId": "ID DE INSTANCIA",
+  "instanceName": "NOMBRE DE INSTANCIA",
+  "region": "REGIÓN",
+  "savingsPlanId": "ID DEL PLAN DE AHORRO",
+  "savingsPlans": "Planes de ahorro",
+  "search": "buscar",
+  "toExplore": "Explorar",
+  "totalCommitment": "COMPROMISO TOTAL",
+  "utilization": "UTILIZACIÓN",
+  "whatAreSavingsPlans": "¿Qué son los planes de ahorro?"
+}

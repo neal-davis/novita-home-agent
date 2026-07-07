@@ -1,0 +1,22 @@
+{
+  "all": "Todo",
+  "amountShouldPay": "Importe a pagar",
+  "billingPeriod": "Período de facturación",
+  "captionTable": "tabla de subtítulos",
+  "cashPaid": "Efectivo pagado",
+  "instance": "Instancia",
+  "localStorage": "Almacenamiento local",
+  "networkStorage": "Almacenamiento en red",
+  "onDemand": "Bajo demanda",
+  "prepaid": "Prepago",
+  "prepaidByDay": "Prepago por día",
+  "prepaidByMonth": "Prepago por mes",
+  "prepaidByWeek": "Prepago por semana",
+  "prepaidByYear": "Prepago por año",
+  "pricingModel": "Modelo de precios",
+  "product": "Producto",
+  "productName": "Nombre del producto",
+  "productType": "Tipo de producto",
+  "search": "buscar",
+  "voucherDeduction": "Deducción de cupón"
+}

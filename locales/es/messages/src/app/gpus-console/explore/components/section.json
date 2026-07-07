@@ -1,0 +1,19 @@
+{
+  "balanceIsNotEnough": "El saldo no es suficiente.",
+  "cudaVersionIsIncompatible": "La versión de CUDA no es compatible",
+  "deploy": "Implementar",
+  "entrypointLengthCannotExceed2047Characters": "La longitud del punto de entrada no puede superar los 2047 caracteres",
+  "environmentVariablesKeyCanNotBe": "La clave de las variables de entorno no puede estar vacía.",
+  "httpportFieldMustHaveLessThan": "El campo HttpPort debe tener 10 elementos o menos.",
+  "insufficientResources": "Recursos insuficientes",
+  "loginFailurePleaseLogInAgain": "Error de inicio de sesión, inicia sesión de nuevo",
+  "noAvailableSpotInstancesInThis": "No hay instancias Spot disponibles en esta región. Prueba con On-Demand en su lugar.",
+  "pleaseEnterValidImage": "Introduce una imagen válida",
+  "pleaseEnterValidNetworkMountPath": "Introduce una ruta de montaje de red válida.",
+  "pleaseEnterValidVolumeMountPath": "Introduce una ruta de montaje de volumen válida.",
+  "pleaseInputValidVolumeDiskSize": "Introduce un tamaño de disco de volumen válido",
+  "pleaseLogInFirst": "Inicia sesión primero",
+  "pleaseSelectAProductWithStock": "Selecciona un producto con stock.",
+  "success": "correcto",
+  "theVolumeMountPathAndNetwork": "La ruta de montaje del volumen y la ruta de montaje de red no pueden ser la misma."
+}

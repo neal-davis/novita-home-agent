@@ -1,0 +1,18 @@
+{
+  "all": "Tous",
+  "applicableProducts": "Produits applicables",
+  "balanceTotal": "Solde / Total",
+  "collapse": "Réduire",
+  "effectDate": "Date d’effet",
+  "expirationDate": "Date d’expiration",
+  "expired": "Expiré",
+  "status-11dc9e": "Statut :",
+  "status-bae7d5": "Statut",
+  "textVarBrand1": "text-[var(--brand-1)]",
+  "textVarDark3": "text-[var(--dark-3)]",
+  "textVarRed2": "text-[var(--red-2)]",
+  "used": "Utilisé",
+  "valid": "Valide",
+  "voucher": "Bon",
+  "voucherDetails": "Détails du bon"
+}

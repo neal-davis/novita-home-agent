@@ -1,0 +1,15 @@
+{
+  "day": "日",
+  "endpoint": "端点",
+  "export": "导出",
+  "forEachEndpointUsageDurationIs": "对于每个端点，使用时长根据其下所有工作器消耗的总 GPU 时间计算。具体而言，每个工作器的使用时长由（GPU 数量）*（时间，单位为秒）确定，端点的总使用时长是在计费周期内所有工作器 GPU 使用量的总和。",
+  "gpuType": "GPU 类型",
+  "groupBy": "分组依据",
+  "hour": "小时",
+  "month": "月",
+  "noData": "暂无数据！",
+  "seconds": "（秒）",
+  "timeRange": "时间范围",
+  "usageDuration": "使用时长",
+  "week": "周"
+}

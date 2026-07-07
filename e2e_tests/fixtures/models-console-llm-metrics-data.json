@@ -1,0 +1,12 @@
+{
+  "_comment": "Synthetic /v1/metrics/llm time-series. mockBackend matches by pathname fragment, so this same body answers every metricsType the page requests (RPM / Success Rate / token counts / latency / TTFT / TPOT). Shape per src CharWrapper.MetricsSingleResponse: { metricsType, data:[{date:unix,value}] }. data MUST be a non-empty array of {date,value} — page.tsx injectEmptyData does res.data.length / res.data[0].date / unshift, and CharWrapper handleResponse does res.data.map; a {} or missing data here throws into the error boundary (proven by mutation test). Timestamps/values are fabricated.",
+  "metricsType": "RPM",
+  "model": "meta-llama/llama-3.1-8b-instruct",
+  "data": [
+    { "date": 1718841600, "value": 12 },
+    { "date": 1718845200, "value": 18 },
+    { "date": 1718848800, "value": 9 },
+    { "date": 1718852400, "value": 25 },
+    { "date": 1718856000, "value": 14 }
+  ]
+}

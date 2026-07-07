@@ -1,0 +1,23 @@
+{
+  "account": "Konto",
+  "assignAccessPermissionsToMembersBy": "Weisen Sie Mitgliedern Zugriffsberechtigungen zu, indem Sie Rollen auswählen. Das Budget für jedes neue Mitglied ist standardmäßig unbegrenzt. Wenn Sie es anpassen müssen, gehen Sie bitte zur Seite „Budgets“.",
+  "budget": "Budget",
+  "cancel": "Abbrechen",
+  "changeTheBudgetOnTheBudgets": "Ändern Sie das Budget auf der Seite „Budgets“, nachdem eingeladene Personen Ihrem Team beigetreten sind.",
+  "close": "Schließen",
+  "invitationEmailsHaveBeenSentYou": "Einladungs-E-Mails wurden versendet! Sie können diese Einladungslinks unten auch direkt mit Ihren Teammitgliedern teilen. Die Links bleiben außerdem in der Mitgliederliste für zukünftige Referenzen zugänglich.",
+  "invitationEmailsSentSuccessfully": "Einladungs-E-Mails erfolgreich gesendet!",
+  "invitationFailed": "Einladung fehlgeschlagen",
+  "inviteLink": "Einladungslink",
+  "inviteLinkCopied": "Einladungslink kopiert",
+  "inviteMembers-2aadfa": "+ Mitglieder einladen",
+  "inviteMembers-4ee562": "+ Mitglieder einladen",
+  "inviteMembersToYourTeam": "Mitglieder in Ihr Team einladen",
+  "inviteSelectAntSelectArrowRight": ".invite-select .ant-select-arrow { right: 18px !important; }",
+  "role": "Rolle",
+  "selectARole": "Rolle auswählen",
+  "separateMultipleEmailsWithCommas": "Trennen Sie mehrere E-Mail-Adressen durch Kommas",
+  "status": "Status",
+  "unlimited": "Unbegrenzt",
+  "viewPermissionDetails": "Berechtigungsdetails anzeigen"
+}

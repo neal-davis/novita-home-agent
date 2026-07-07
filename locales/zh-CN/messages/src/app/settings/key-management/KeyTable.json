@@ -1,0 +1,11 @@
+{
+  "apiKey": "API 密钥",
+  "createdBy": "创建者",
+  "creationTime": "创建时间",
+  "deleteSuccessfully": "删除成功",
+  "expirationTime": "到期时间",
+  "keyName": "密钥名称",
+  "lastUsed": "最近使用",
+  "operation": "操作",
+  "permanentValidity": "永久有效"
+}

@@ -1,0 +1,8 @@
+{
+  "deploymentPipeline": "Pipeline de déploiement",
+  "engineStartup": "Démarrage du moteur",
+  "modelImagePull": "Récupération du modèle et de l’image",
+  "resourceScheduling": "Planification des ressources",
+  "running": "En cours d’exécution",
+  "waiting": "En attente..."
+}

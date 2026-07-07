@@ -1,0 +1,17 @@
+{
+  "cancel": "Abbrechen",
+  "confirm": "Bestätigen",
+  "day": "Tag",
+  "days": "Tage",
+  "expansionCapacity": "Erweiterungskapazität",
+  "expansionFee": "Erweiterungsgebühr",
+  "expirationTime": "Ablaufzeit",
+  "freeCapacity": "Freie Kapazität",
+  "gb": "GB",
+  "instanceId": "Instanz-ID",
+  "remainingRentalPeriod": "Verbleibende Mietdauer",
+  "settlementAmount": "Abrechnungsbetrag",
+  "storagePrice": "Speicherpreis",
+  "subscriptionInstanceExpansionBilling": "Abrechnung der Erweiterung der Abonnementinstanz",
+  "usedCapacity": "Genutzte Kapazität"
+}

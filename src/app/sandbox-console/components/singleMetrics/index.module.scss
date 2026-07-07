@@ -1,0 +1,45 @@
+.refreshMetricsBtn {
+  cursor: pointer;
+  border-radius: 4px;
+  background: var(--white);
+  margin-right: 2px;
+  width: 20px;
+  height: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  &:hover {
+    background: var(--gray-3);
+  }
+}
+.helpMetricsBtn {
+  border-radius: 4px;
+  background: var(--white);
+  width: 20px;
+  height: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.iconRefreshImg {
+  font-size: 12px;
+}
+.chart {
+  padding-top: 4px;
+  :global {
+    .recharts-legend-wrapper {
+      p {
+        font-size: var(--small-font-size) !important;
+        line-height: var(--small-line-height) !important;
+        font-weight: var(--small-font-weight) !important;
+        letter-spacing: var(--small-letter-spacing) !important;
+      }
+      width: auto !important;
+      position: absolute !important;
+      top: 6px !important;
+      left: -8px !important;
+      right: auto !important;
+      bottom: auto !important;
+    }
+  }
+}

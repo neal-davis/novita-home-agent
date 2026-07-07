@@ -1,0 +1,7 @@
+{
+  "authorizationSuccessful": "認証に成功しました！",
+  "goToAgentSandboxConsole": "-> Agent Sandbox Console に移動",
+  "invalidRedirectLink": "無効なリダイレクトリンク",
+  "redirectingToYourAuthorizedApplicationPlease": "認証済みのアプリケーションにリダイレクトしています。しばらくお待ちください...",
+  "theRedirectLinkIsInvalidOr": "リダイレクトリンクが無効であるか、有効期限が切れています"
+}

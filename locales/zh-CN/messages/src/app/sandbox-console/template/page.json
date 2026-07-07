@@ -1,0 +1,17 @@
+{
+  "all": "全部",
+  "automaticallyAdjustedToTheNearestValid-261322": "已自动调整为最接近的有效值（CPU 必须为整数，最小值为 1）",
+  "automaticallyAdjustedToTheNearestValid-df2cec": "已自动调整为最接近的有效值（仅支持 512 MiB 的倍数，最小值为 512 MiB）",
+  "clickToCopy": "点击复制",
+  "core": "核心",
+  "cores": "核心",
+  "cpuCores": "CPU 核心",
+  "findATemplate": "查找模板",
+  "memory": "内存",
+  "mib": "MiB",
+  "private": "私有",
+  "public": "公开",
+  "template": "模板",
+  "thisTemplateIsProvidedByNovita": "此模板由 Novita AI 提供，默认对所有用户可用。",
+  "visibility": "可见性"
+}

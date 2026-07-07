@@ -1,0 +1,9 @@
+{
+  "clickOrDragFileToThis": "Cliquez ou faites glisser un fichier dans cette zone pour le téléverser",
+  "modelNameCanOnlyContainLetters": "Le nom du modèle ne peut contenir que des lettres, des chiffres et des traits de soulignement, et sa longueur ne doit pas dépasser 100 caractères",
+  "pleaseAddKeyFirst": "Veuillez d’abord ajouter une clé",
+  "pleaseEnterModelNameFirst": "Veuillez d’abord saisir le nom du modèle",
+  "sha256ComputationFailedPleaseCheckIf": "Le calcul SHA256 a échoué. Veuillez vérifier si la version de votre navigateur prend en charge les fonctions crypto et btoa, ou contactez-nous pour résoudre les problèmes de téléversement du modèle.",
+  "supportForASingleOrBulk": "Prise en charge du téléversement individuel ou en masse. Il est strictement interdit de téléverser des données d’entreprise ou d’autres fichiers interdits.",
+  "uploadFailed": "Échec du téléversement"
+}

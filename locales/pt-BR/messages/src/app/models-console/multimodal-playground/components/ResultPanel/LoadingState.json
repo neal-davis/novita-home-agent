@@ -1,0 +1,8 @@
+{
+  "cancel": "Cancelar",
+  "cancellationMayStillIncurCharges": "O cancelamento ainda pode gerar cobranças",
+  "cancellingWillStopFurtherProcessingBut": "Cancelar interromperá o processamento adicional, mas, se a tarefa já tiver entrado na fase de geração, as cobranças integrais ainda poderão ser aplicadas. Confirme antes de cancelar.",
+  "confirm": "Confirmar",
+  "generating": "Gerando...",
+  "submittingTask": "Enviando tarefa..."
+}

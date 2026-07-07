@@ -1,0 +1,16 @@
+{
+  "afterProtectionEndsInstanceMayBe": "Após o fim da proteção, a instância poderá ser retomada",
+  "forcedTermination": "Encerramento forçado",
+  "instanceEntersRunningState": "A instância entra no estado em execução",
+  "instanceIsStoppedAndReleasedAutomatically": "A instância é parada e liberada automaticamente",
+  "interruptionWindow": "Janela de interrupção",
+  "launch": "Inicialização",
+  "message1HourGuaranteedRuntimeThenInterruptible": "Tempo de execução garantido de 1 hora; depois, interrompível com aviso de 1 hora antes da recuperação automática. O Spot usa capacidade ociosa — baixo custo, pode ser recuperado a qualquer momento.",
+  "message1HourProtection": "Proteção de 1 hora",
+  "noInterruptionsDuringThisPeriod": "Sem interrupções durante este período",
+  "note": "Observação:",
+  "sent1HourInAdvance": "Enviado com 1 hora de antecedência",
+  "spotInstanceLifecycle": "Ciclo de vida da instância Spot",
+  "terminationNotice": "Aviso de encerramento",
+  "workloadsShouldBeInterruptionTolerantUse": "As cargas de trabalho devem tolerar interrupções. Use checkpointing ou backups para evitar perda de dados."
+}

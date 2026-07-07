@@ -1,0 +1,11 @@
+{
+  "addApiKey": "添加 API 密钥",
+  "apiKey": "API 密钥",
+  "cancel": "取消",
+  "confirm": "确认",
+  "inputYourApiKey": "输入你的 API 密钥",
+  "inputYourKeyName": "输入你的密钥名称",
+  "keyName": "密钥名称",
+  "modifyApiKey": "修改 API 密钥",
+  "upTo10KeysCanBe": "每个账户最多可生成 10 个密钥。"
+}

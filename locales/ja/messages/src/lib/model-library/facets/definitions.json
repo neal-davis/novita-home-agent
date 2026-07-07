@@ -1,0 +1,15 @@
+{
+  "audio": "音声",
+  "embedding": "埋め込み",
+  "features": "機能",
+  "image": "画像",
+  "jsonSchema": "JSONスキーマ",
+  "longContext": "長いコンテキスト",
+  "modality": "モダリティ",
+  "provider": "プロバイダー",
+  "reasoning": "推論",
+  "reranker": "リランカー",
+  "toolCalling": "ツール呼び出し",
+  "video": "動画",
+  "vision": "ビジョン"
+}

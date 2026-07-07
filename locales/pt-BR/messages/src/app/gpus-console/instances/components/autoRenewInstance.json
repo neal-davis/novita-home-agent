@@ -1,0 +1,19 @@
+{
+  "autoRenew": "Renovação automática",
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
+  "confirmCurrentOperation": "Confirmar a operação atual?",
+  "currentExpirationTime": "Data de expiração atual",
+  "details": "Detalhes",
+  "estimatedRenewalAmount": "Valor estimado da renovação",
+  "gpuFee": "Taxa de GPU",
+  "instanceId": "ID da instância",
+  "manageAutoRenew": "Gerenciar renovação automática",
+  "nextRenewalTime": "Próxima data de renovação",
+  "off": "% OFF",
+  "processing": "Processando",
+  "renewalDuration": "Duração da renovação",
+  "storageFee": "Taxa de armazenamento",
+  "unitPrice": "Preço unitário",
+  "weWillAttemptCharge3Days": "Tentaremos realizar a cobrança 3 dias antes da expiração"
+}

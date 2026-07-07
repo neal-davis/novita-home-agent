@@ -1,0 +1,11 @@
+{
+  "cfgScale": "CFG 比例",
+  "modelName": "模型名称",
+  "negativePrompt": "反向提示词",
+  "prompt": "提示词",
+  "size": "尺寸",
+  "stableDiffusion": "Stable Diffusion",
+  "steps": "步数",
+  "type": "类型",
+  "w": "宽:"
+}

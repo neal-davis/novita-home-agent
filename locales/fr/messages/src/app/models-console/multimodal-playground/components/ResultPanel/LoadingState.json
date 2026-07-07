@@ -1,0 +1,8 @@
+{
+  "cancel": "Annuler",
+  "cancellationMayStillIncurCharges": "L’annulation peut tout de même entraîner des frais",
+  "cancellingWillStopFurtherProcessingBut": "L’annulation interrompra tout traitement ultérieur, mais si la tâche est déjà entrée dans la phase de génération, des frais complets peuvent tout de même s’appliquer. Veuillez confirmer avant d’annuler.",
+  "confirm": "Confirmer",
+  "generating": "Génération...",
+  "submittingTask": "Soumission de la tâche..."
+}

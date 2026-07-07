@@ -1,0 +1,17 @@
+{
+  "allowAgentsToAccessExternalApis": "允许智能体按需访问外部 APIs 和在线数据。",
+  "automateWebNavigationFormFillingAnd": "在沙盒内自动执行网页导航、表单填写和数据提取。",
+  "browserUse": "浏览器使用",
+  "codeExecution": "代码执行",
+  "computerUse": "计算机使用",
+  "controlFullDesktopEnvironmentsForTyping": "控制完整的桌面环境，以进行输入、点击、滚动、截图和其他 GUI 操作。",
+  "coreRuntimeCapabilities": "核心运行时能力",
+  "everythingAgentsNeedToExecuteCode": "为智能体提供执行代码、与系统交互并在真实工作流中保持掌控所需的一切。",
+  "externalApis": "外部 APIs",
+  "liveSessionView": "实时会话视图",
+  "pauseAndResumeLongRunningAgent": "暂停和恢复长时间运行的智能体任务，且不丢失状态。",
+  "persistentSessions": "持久会话",
+  "runPythonJavascriptCAndOther": "在安全沙盒中运行 Python、JavaScript、C++ 及其他语言。",
+  "sandboxCapabilities": "沙盒能力",
+  "viewAndStreamSandboxSessionsWith": "使用 VNC 查看和流式传输沙盒会话，以进行交互式监控和调试。"
+}

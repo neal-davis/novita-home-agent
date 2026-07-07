@@ -1,0 +1,15 @@
+{
+  "automaticInstanceMigration": "Migration automatique d’instance",
+  "automaticMigration": "Migration automatique",
+  "automaticallyMigratesTheInstanceToA": "Migre automatiquement l’instance vers un nœud sain en cas de défaillance matérielle. L’ID de l’instance, l’adresse de mappage des ports et les données restent inchangés, avec seulement une brève interruption.",
+  "cancel": "Annuler",
+  "confirm": "Confirmer",
+  "ifNoActionIsTakenThe": "Si aucune action n’est effectuée, le système migrera automatiquement afin de maintenir la continuité du service.",
+  "ifTheSystemDiskIsIncluded": "Si le disque système est inclus, le temps d’arrêt dépend de sa taille (généralement de quelques minutes à environ 10 minutes ou plus).",
+  "migrateSystemDisk": "Migrer le disque système",
+  "success": "succès",
+  "supportIsAvailableDuringMigrationIf": "L’assistance est disponible pendant la migration si nécessaire.",
+  "theFollowingRegionsDontSupportThis": "Les régions suivantes ne prennent pas en charge cette fonctionnalité :",
+  "usCa03UsCaNas": "US-CA-03/US-CA-NAS-01/US-02/US-CA-02",
+  "youllBeNotifiedOfFaultsAnd": "Vous serez informé des défaillances et devrez effectuer la migration manuellement dans un délai de 7 jours."
+}

@@ -1,0 +1,8 @@
+{
+  "model": "Model",
+  "prompt": "Prompt",
+  "seed": "Seed",
+  "showcase": "Showcase",
+  "steps": "Steps",
+  "widthHeight": "Width * Height"
+}

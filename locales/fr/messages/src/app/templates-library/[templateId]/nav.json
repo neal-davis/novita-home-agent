@@ -1,0 +1,15 @@
+{
+  "applicatioin": "Application",
+  "deployInstance": "Déployer une instance",
+  "deployServerless": "Déployer sans serveur",
+  "imagePrewarm": "Préchargement d’image",
+  "instances": "Instances",
+  "jobs": "Tâches",
+  "myEndpoints": "Mes points de terminaison",
+  "myInstances": "Mes instances",
+  "networkVolume": "Volume réseau",
+  "other": "Autre",
+  "serverless": "Sans serveur",
+  "settings": "Paramètres",
+  "templatesLibrary": "Bibliothèque de modèles"
+}

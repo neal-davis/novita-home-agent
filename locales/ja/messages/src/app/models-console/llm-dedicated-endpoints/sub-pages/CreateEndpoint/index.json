@@ -1,0 +1,12 @@
+{
+  "autoscalingConfiguration": "オートスケーリング設定",
+  "availableGpuTypesAndQuantitiesDepend": "利用可能なGPUタイプと数量は、選択したモデルによって異なります。",
+  "endpointName": "エンドポイント名",
+  "engineConfiguration": "エンジン設定",
+  "gpuConfiguration": "GPU設定",
+  "loadingModelConfiguration": "モデル設定を読み込んでいます...",
+  "lowercaseLettersNumbersAndHyphensMust": "小文字、数字、ハイフン。文字で始める必要があります（3～63文字）。",
+  "model": "モデル",
+  "pleaseEnterTheEndpointName": "エンドポイント名を入力してください...",
+  "pleaseSelectAModelFirstTo": "利用可能なGPUオプションを表示するには、まずモデルを選択してください。"
+}

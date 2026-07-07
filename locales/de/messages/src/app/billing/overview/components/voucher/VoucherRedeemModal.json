@@ -1,0 +1,11 @@
+{
+  "amount": "Betrag",
+  "applicable": "Anwendbar",
+  "cancel": "Abbrechen",
+  "gotIt": "Verstanden",
+  "redeem": "Einlösen",
+  "validUntil": "Gültig bis",
+  "voucherCode": "Gutscheincode",
+  "voucherCodeRedeem": "Gutscheincode einlösen",
+  "voucherRedeemedSuccessfully": "Gutschein erfolgreich eingelöst!"
+}

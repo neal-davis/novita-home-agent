@@ -1,0 +1,17 @@
+{
+  "cancel": "Cancel",
+  "containerDiskExpansionCurrent": "Container Disk Expansion (Current",
+  "editInstance": "Edit Instance",
+  "expand": "Expand:",
+  "exposeHttpPortsMax10": "Expose HTTP Ports (Max 10)",
+  "exposeTcpPorts": "Expose TCP Ports",
+  "gb-4d1316": "GB)",
+  "gb-505a44": "GB",
+  "pleaseEnterAValidSizeAnd": "Please enter a valid size and can not be smaller than 0 GB",
+  "pleaseEnterAValidSizeCurrent": "Please enter a valid size, current size after expanding can not be greater than",
+  "save": "Save",
+  "subscriptionInstanceExpansionRequiresPrepaymentOf": "Subscription Instance expansion requires prepayment of the expansion storage fee for the remaining period of the Subscription Instance.",
+  "success": "Success",
+  "theCurrentInstanceHasBeenShut": "The current instance has been shut down. When the instance is running, you can adjust the system disk capacity.",
+  "youCanEditWhileTheInstance": "You can edit while the instance is running ,you won't lose data."
+}

@@ -1,0 +1,18 @@
+{
+  "billedPerSecondForRunningReplicas": "Facturación por segundo solo para réplicas en ejecución",
+  "costEstimation": "Estimación de costos",
+  "createEndpoint": "Crear endpoint",
+  "creating": "Creando...",
+  "estMonthlyIf1Replica": "EST. MENSUAL (SI 1 RÉPLICA)",
+  "estMonthlyIf1ReplicaAlways": "EST. MENSUAL (SI 1 RÉPLICA SIEMPRE ACTIVA)",
+  "gpuType": "Tipo de GPU",
+  "gpuUnitPrice": "Precio unitario de GPU",
+  "hourlyMaxReplicas": "Por hora (réplicas máx.)",
+  "hourlyMinReplicas": "Por hora (réplicas mín.)",
+  "max": "Máx:",
+  "min": "Mín:",
+  "replica": "réplica",
+  "replicasMin": "Réplicas (mín.)",
+  "selectAGpuToSeeCost": "Selecciona una GPU para ver el costo",
+  "selectGpu": "Seleccionar GPU"
+}

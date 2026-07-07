@@ -1,0 +1,28 @@
+.package_list_container {
+  display: grid;
+  gap: 12px;
+}
+
+.terms_text {
+  // background-color: var(--gray-3);
+  border-radius: 8px;
+  padding: 12px;
+  height: auto;
+  font-family: var(--font-tt-mono);
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  color: var(--dark-1);
+
+  span {
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-underline-offset: 2px;
+  }
+
+  &:hover {
+    color: var(--dark-2);
+    background-color: var(--gray-3);
+  }
+}

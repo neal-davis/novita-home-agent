@@ -1,0 +1,6 @@
+{
+  "legacyLlmCard": "Tarjeta LLM heredada",
+  "multimodalCardTestModel": "Modelo de prueba de tarjeta multimodal",
+  "multimodalNonTextOnlyCard": "Tarjeta multimodal no solo de texto",
+  "tieredLlmCard": "Tarjeta LLM por niveles"
+}

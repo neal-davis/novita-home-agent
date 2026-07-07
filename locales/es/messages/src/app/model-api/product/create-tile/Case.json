@@ -1,0 +1,10 @@
+{
+  "generatesImagesWith": "Genera imágenes con",
+  "playground": "área de pruebas",
+  "stableDiffusionApi": "API de Stable Diffusion",
+  "thatCanBeUsedAsRepeating": "que se pueden usar como mosaicos repetidos para crear patrones uniformes para telas, fondos de pantalla y texturas. Usa una herramienta de creación de patrones como",
+  "this": "esta",
+  "toAccessMoreFeatures": "para acceder a más funciones.",
+  "toSeeTheRepeatedTilesVisit": "para ver los mosaicos repetidos. Visita el",
+  "tryCreateTileApiDemo": "Prueba la demo de la API de creación de mosaicos"
+}

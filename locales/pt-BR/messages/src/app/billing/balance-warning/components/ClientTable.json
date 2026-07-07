@@ -1,0 +1,20 @@
+{
+  "addAlerts": "Adicionar alertas",
+  "alias": "Alias",
+  "areYouSureYouWantTo": "Tem certeza de que deseja excluir este alerta?",
+  "confirm": "Confirmar",
+  "confirmationOfOperation": "Confirmação da operação",
+  "deleteSuccessfully": "Excluído com sucesso",
+  "edit": "Editar",
+  "email": "Email",
+  "informationalNotes": "Notas informativas",
+  "loadingTeamMembers": "Carregando membros da equipe...",
+  "members": "Membros",
+  "notificationMethod": "Método de notificação",
+  "operation": "Operação",
+  "remove": "Remover",
+  "status": "Status",
+  "success": "sucesso",
+  "warningAmount": "Valor de alerta",
+  "whenYourAccountBalanceFallsBelow": "Quando o saldo da sua conta ficar abaixo do limite de alerta definido, você receberá uma notificação por email para garantir a operação ininterrupta do serviço. As notificações serão enviadas no máximo uma vez por dia corrido (00:00-24:00, UTC+0) até que o saldo da conta exceda o limite especificado."
+}

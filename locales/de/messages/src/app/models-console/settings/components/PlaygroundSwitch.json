@@ -1,0 +1,10 @@
+{
+  "cancel": "Abbrechen",
+  "dedicatedEndpointsResources": "Ressourcen für dedizierte Endpoints",
+  "learnMore": "Mehr erfahren",
+  "operationFailed": "Vorgang fehlgeschlagen",
+  "playground": "Playground",
+  "pleaseNoteThatThisWillShare": "Bitte beachten Sie, dass dadurch Ihre Ressourcen für dedizierte Endpoints mit anderen Generierungen geteilt werden und deren Leistung beeinträchtigt werden kann.",
+  "useDedicatedEndpointsResources": "Ressourcen für dedizierte Endpoints verwenden",
+  "yourCurrentPayAsYouGo": "Ihr aktueller Pay-As-You-Go-Tarif umfasst keinen Zugriff auf Enterprise-Ressourcen. Führen Sie ein Upgrade durch, um diese Funktionen freizuschalten."
+}

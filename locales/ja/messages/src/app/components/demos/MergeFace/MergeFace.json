@@ -1,0 +1,13 @@
+{
+  "baseImage": "ベース画像",
+  "cancel": "キャンセル",
+  "chooseBaseImage": "ベース画像を選択",
+  "chooseFaceImage": "顔画像を選択",
+  "download": "ダウンロード",
+  "estimatedCost": "推定コスト:",
+  "faceImage": "顔画像",
+  "generate": "生成",
+  "tipsTheDifferenceOfBaseImage": "ヒント：ベース画像と顔画像の違い",
+  "uploadBaseImage": "ベース画像をアップロード",
+  "uploadFaceImage": "顔画像をアップロード"
+}

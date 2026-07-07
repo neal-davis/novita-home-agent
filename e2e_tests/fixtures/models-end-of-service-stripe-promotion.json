@@ -1,0 +1,9 @@
+{
+  "_comment": "De-PII'd capture of /v3/stripe/promotion observed while loading /models/end-of-service. Source: .claude/tasks/20260621-batchD-marketing-deep/verify/models-end-of-service-captured.json. This is the only backend call the route makes — it is fired by the shared navbar/checkout promo context, NOT by the EndOfService page body (which is fully static, no XHR). The real payload already carried no PII (empty coupon, valid:false). Injected so the hermetic run is deterministic regardless of any global promo call.",
+  "couponId": "",
+  "percentOff": 0,
+  "amountOff": "0",
+  "redeemBy": "0",
+  "valid": false,
+  "activityName": ""
+}

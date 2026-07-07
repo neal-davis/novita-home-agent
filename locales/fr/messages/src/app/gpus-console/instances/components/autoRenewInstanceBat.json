@@ -1,0 +1,14 @@
+{
+  "autoRenew": "Renouvellement automatique",
+  "bulkAutoRenew": "Renouvellement automatique groupé",
+  "cancel": "Annuler",
+  "confirm": "Confirmer",
+  "confirmCurrentOperation": "Confirmer l’opération en cours ?",
+  "instancesDifferentExpirationDatesAreSupported": "instances. Différentes dates d’expiration sont prises en charge. Le système renouvellera automatiquement chaque instance en fonction de sa date d’expiration respective.",
+  "month": "mois",
+  "months": "mois",
+  "processing": "Traitement en cours",
+  "renewalDuration": "Durée de renouvellement",
+  "scopeThisOperationWillApplyTo": "Portée : cette opération s’appliquera à",
+  "warningFailedPaymentsDueToLow": "Avertissement : les paiements échoués en raison d’un solde insuffisant sont réessayés quotidiennement. Si le problème n’est pas résolu à la date d’échéance, la facturation passera au paiement à l’utilisation"
+}

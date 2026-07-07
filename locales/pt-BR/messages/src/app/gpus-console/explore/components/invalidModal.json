@@ -1,0 +1,6 @@
+{
+  "cancel": "Cancelar",
+  "updateTemplateNow": "Atualizar modelo agora",
+  "volumeDiskMounting": "Montagem de Volume Disk",
+  "yourTemplateCurrentlyIncludesVolumeDisk": "Seu modelo atualmente inclui a montagem de Volume Disk, que não é mais compatível (Container Disk foi expandido). Atualize seu modelo para remover as configurações de montagem de Volume Disk e armazenar os dados no Container Disk."
+}

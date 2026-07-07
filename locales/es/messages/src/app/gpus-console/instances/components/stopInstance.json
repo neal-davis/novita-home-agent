@@ -1,0 +1,10 @@
+{
+  "areYouSureYouWantTo": "¿Seguro que quieres detener tu instancia?",
+  "cancel": "Cancelar",
+  "forSuspendedInstancesDataWillBe": "Para las instancias suspendidas, los datos se conservarán durante",
+  "stop": "Detener",
+  "stopInstance": "Detener instancia",
+  "stopYourInstanceYouCanStart": "Detén tu instancia. Puedes iniciar la instancia más tarde.",
+  "success": "éxito",
+  "whenTheInstanceIsStoppedIf": "Cuando la instancia se detenga, si otro usuario se apropia de este nodo, tu instancia no podrá reiniciarse normalmente, pero se admite la migración a otros nodos."
+}

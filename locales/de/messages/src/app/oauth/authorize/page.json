@@ -1,0 +1,9 @@
+{
+  "applicationInformationError": "Fehler bei den Anwendungsinformationen",
+  "isRequestingAccessToYourNovita": "fordert Zugriff auf Ihr Novita-Konto an, das mit der E-Mail-Adresse verknüpft ist",
+  "missingRequiredParametersAuthorizationCannotBe": "Erforderliche Parameter fehlen, die Autorisierung kann nicht abgeschlossen werden",
+  "permissionsNotice": "Hinweis zu Berechtigungen:",
+  "requestParameterError": "Fehler bei den Anfrageparametern",
+  "selectTheTeamAccountYouWish": "Wählen Sie das Teamkonto aus, für das Sie den Zugriff autorisieren möchten:",
+  "unableToGetApplicationInformationPlease": "Anwendungsinformationen können nicht abgerufen werden. Bitte wenden Sie sich an den Anwendungsanbieter"
+}

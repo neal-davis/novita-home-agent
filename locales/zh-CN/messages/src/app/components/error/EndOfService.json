@@ -1,0 +1,18 @@
+{
+  "asOfTheDeprecationDateThese": "自弃用日期起，这些 API 将不再可访问。我们强烈建议您更新应用程序和工作流，以防止任何潜在中断。",
+  "buildGenAiProductsSeamlessly": "无缝构建 Gen AI 产品",
+  "buildWithModelApis": "使用模型 API 构建",
+  "cutCostsByUpTo50": "成本降低高达 50%",
+  "december312024": "2024 年 12 月 31 日",
+  "deployWithGpuInstance": "使用 GPU 实例部署",
+  "deprecatedApis": "已弃用的 API：",
+  "ifYouAreCurrentlyUsingThese": "如果您目前正在使用这些 API，并且需要协助迁移到替代解决方案，我们的支持团队可为您提供全流程指导。",
+  "ifYoureBrowsingAroundJustLook": "如果您只是随便浏览，不妨看看我们为您精选的这一项！",
+  "impact": "影响：",
+  "launchAgentSandbox": "启动 Agent Sandbox",
+  "lowUsageApiProductDeprecationPlan": "低使用量 API 产品弃用计划",
+  "nextSteps": "后续步骤：",
+  "scaleWithServerless": "使用 Serverless 扩展",
+  "scaleWithoutManagingGpuInfrastructure": "无需管理 GPU 基础设施即可扩展",
+  "theRuntimeInfrastructureForSecureScalable": "面向安全且可扩展 AI 智能体的运行时基础设施"
+}

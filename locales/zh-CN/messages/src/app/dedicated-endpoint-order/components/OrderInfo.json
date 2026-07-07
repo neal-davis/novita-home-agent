@@ -1,0 +1,12 @@
+{
+  "billingMethods": "计费方式",
+  "bySubscribingYouAuthorizeUsTo": "订阅即表示您授权我们每月自动扣除订阅费用，以续订您的服务，直至您取消。",
+  "importantOnceYouSelectTheBilling": "重要提示：一旦您为当前计划选择计费方式，所有之前的计划都将自动切换为相同的计费方式。",
+  "included": "已包含",
+  "paymentSuccess": "支付成功",
+  "plans": "计划",
+  "price": "价格",
+  "quantities": "数量",
+  "submit": "提交",
+  "total": "总计"
+}

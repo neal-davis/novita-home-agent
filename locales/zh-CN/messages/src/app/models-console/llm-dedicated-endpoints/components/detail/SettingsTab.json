@@ -1,0 +1,5 @@
+{
+  "mostSettingsAreLockedWhileEndpoint": "当端点处于该状态时，大多数设置会被锁定",
+  "settingsAreLockedWhileEndpointIs": "当端点处于",
+  "state": "状态时，设置会被锁定。"
+}

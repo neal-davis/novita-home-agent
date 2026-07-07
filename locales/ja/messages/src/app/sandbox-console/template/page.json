@@ -1,0 +1,17 @@
+{
+  "all": "すべて",
+  "automaticallyAdjustedToTheNearestValid-261322": "最も近い有効な値に自動調整されました（CPUは整数である必要があり、最小値は1です）",
+  "automaticallyAdjustedToTheNearestValid-df2cec": "最も近い有効な値に自動調整されました（512 MiBの倍数のみサポートされています。最小値は512 MiBです）",
+  "clickToCopy": "クリックしてコピー",
+  "core": "コア",
+  "cores": "コア",
+  "cpuCores": "CPUコア",
+  "findATemplate": "テンプレートを検索",
+  "memory": "メモリ",
+  "mib": "MiB",
+  "private": "非公開",
+  "public": "公開",
+  "template": "テンプレート",
+  "thisTemplateIsProvidedByNovita": "このテンプレートはNovita AIによって提供され、デフォルトですべてのユーザーが利用できます。",
+  "visibility": "表示設定"
+}

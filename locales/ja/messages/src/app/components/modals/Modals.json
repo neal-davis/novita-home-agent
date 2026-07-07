@@ -1,0 +1,6 @@
+{
+  "pricing": "料金",
+  "topUp": "チャージ",
+  "yourBalanceIsLow": "残高が不足しています...",
+  "yourBalanceIsLowPreventingTask": "残高が不足しているため、タスクを完了できません。続行するにはチャージしてください。"
+}

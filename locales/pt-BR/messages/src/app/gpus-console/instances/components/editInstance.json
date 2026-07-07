@@ -1,0 +1,18 @@
+{
+  "cancel": "Cancelar",
+  "containerDiskExpansionCurrent": "Expansão do disco do contêiner (Atual",
+  "editInstance": "Editar instância",
+  "enterYourContainerDiskExpandSize": "Insira o tamanho da expansão do disco do contêiner",
+  "expand": "Expandir:",
+  "exposeHttpPortsMax10": "Expor portas HTTP (máx. 10)",
+  "exposeTcpPorts": "Expor portas TCP",
+  "gb-4d1316": "GB)",
+  "gb-505a44": "GB",
+  "pleaseEnterAValidSizeAnd": "Insira um tamanho válido; não pode ser menor que 0 GB",
+  "pleaseEnterAValidSizeCurrent": "Insira um tamanho válido; o tamanho atual após a expansão não pode ser maior que",
+  "save": "Salvar",
+  "subscriptionInstanceExpansionRequiresPrepaymentOf": "A expansão da Instância de Assinatura exige o pagamento antecipado da taxa de armazenamento da expansão pelo período restante da Instância de Assinatura.",
+  "success": "Sucesso",
+  "theCurrentInstanceHasBeenShut": "A instância atual foi desligada. Quando a instância estiver em execução, você poderá ajustar a capacidade do disco do sistema.",
+  "youCanEditWhileTheInstance": "Você pode editar enquanto a instância está em execução; você não perderá dados."
+}

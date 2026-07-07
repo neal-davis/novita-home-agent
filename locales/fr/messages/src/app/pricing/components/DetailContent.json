@@ -1,0 +1,6 @@
+{
+  "agentSandbox": "Bac à sable d’agent",
+  "dedicatedEndpoints": "Points de terminaison dédiés",
+  "gpus": "GPUs",
+  "serverlessEndpoints": "Points de terminaison sans serveur"
+}

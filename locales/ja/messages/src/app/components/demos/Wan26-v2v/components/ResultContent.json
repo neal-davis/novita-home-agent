@@ -1,0 +1,6 @@
+{
+  "blockedByNsfwFilter": "NSFWフィルターによりブロックされました",
+  "queueing": "キューに入れています...",
+  "thisTaskMayTakeSomeTime": "このタスクには時間がかかる場合があります（数分程度）。しばらくお待ちください。",
+  "thisVideoWasFlaggedAndBlocked": "この動画はフラグが付けられ、ブロックされました。GPU 使用量により料金が発生する場合があります。"
+}

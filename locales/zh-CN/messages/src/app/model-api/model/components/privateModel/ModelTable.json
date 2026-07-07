@@ -1,0 +1,16 @@
+{
+  "baseModel": "基础模型",
+  "baseModelType": "基础模型类型",
+  "confirm": "确认",
+  "delete": "删除",
+  "deleteSuccess": "删除成功！",
+  "modelNameInApi": "API 中的模型名称",
+  "name": "名称",
+  "operate": "操作",
+  "pleaseSelectAModelFirst": "请先选择一个模型！",
+  "running": "运行中",
+  "status": "状态",
+  "type": "类型",
+  "unavailable": "不可用",
+  "warningThisActionCannotBeUndone": "警告：此操作无法撤销。"
+}

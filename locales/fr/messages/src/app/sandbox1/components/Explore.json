@@ -1,0 +1,20 @@
+{
+  "builtWithNovitaAi": "Conçu avec Novita AI",
+  "concurrentInstances": "Instances simultanées",
+  "contactSales": "Contacter l’équipe commerciale",
+  "contactSupport": "Contacter le support",
+  "createYourFirstAgentSandboxNow": "Créez votre premier bac à sable d’agent maintenant.",
+  "defineOnceReuseEverywhere": "Définissez une fois, réutilisez partout.",
+  "deploymentRegion": "Région de déploiement",
+  "eachSandboxHasACompletelyIsolated": "Chaque bac à sable dispose d’un système de fichiers complètement isolé.",
+  "enterprise": "Entreprise",
+  "exploreAgentSandboxAndStartBuilding": "Explorez le bac à sable d’agent et commencez à créer avec nos guides étape par étape.",
+  "fileSystem": "Système de fichiers",
+  "forAdvancedWorkloadsRequiringLargeMemory": "Pour les charges de travail avancées nécessitant une grande mémoire, davantage de vCPU ou des emplacements de déploiement personnalisés.",
+  "learnMore": "En savoir plus",
+  "maxVcpusPerSandbox": "Nombre maximal de vCPU par bac à sable",
+  "quickStart": "Démarrage rapide",
+  "readyToExploreAgentSandbox": "Prêt à explorer le bac à sable d’agent ?",
+  "template": "Modèle",
+  "uptimeSla": "SLA de disponibilité"
+}

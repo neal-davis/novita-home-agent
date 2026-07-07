@@ -1,0 +1,15 @@
+{
+  "applicatioin": "Aplicativo",
+  "deployInstance": "Implantar instância",
+  "deployServerless": "Implantar Serverless",
+  "imagePrewarm": "Pré-aquecimento de imagem",
+  "instances": "Instâncias",
+  "jobs": "Tarefas",
+  "myEndpoints": "Meus endpoints",
+  "myInstances": "Minhas instâncias",
+  "networkVolume": "Volume de rede",
+  "other": "Outros",
+  "serverless": "Serverless",
+  "settings": "Configurações",
+  "templatesLibrary": "Biblioteca de modelos"
+}

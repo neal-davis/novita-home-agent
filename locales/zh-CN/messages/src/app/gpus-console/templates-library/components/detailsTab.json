@@ -1,0 +1,22 @@
+{
+  "configuration": "配置",
+  "configurationInformation": "配置信息",
+  "containerDisk": "容器磁盘 :",
+  "containerEntrypoint": "容器入口点 :",
+  "containerImage": "容器镜像 :",
+  "containerStartCommand": "容器启动命令 :",
+  "environmentVariables": "环境变量：",
+  "exposeHttpPorts": "暴露 HTTP 端口 :",
+  "exposeTcpPorts": "暴露 TCP 端口 :",
+  "gb": "GB",
+  "key": "键",
+  "localMount": "本地挂载 :",
+  "no": "否",
+  "noResultsFound": "未找到结果",
+  "readme": "README",
+  "updatesComingSoonTryExploringFor": "更新即将推出！请尝试探索其他内容",
+  "value": "值",
+  "volumeDisk": "卷磁盘 :",
+  "volumeMountPath": "卷挂载路径 :",
+  "yes": "是"
+}

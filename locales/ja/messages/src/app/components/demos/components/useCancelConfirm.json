@@ -1,0 +1,7 @@
+{
+  "cancel": "キャンセル",
+  "cancelingStillIncursFullCharges": "キャンセルしても全額の料金が発生します",
+  "cancelingTheTaskWillStopFurther": "タスクをキャンセルすると以降の処理は停止しますが、生成が開始されている場合は全額の料金が発生します。続行する前に、本当にキャンセルするか確認してください。",
+  "confirm": "確認",
+  "processing": "処理中..."
+}

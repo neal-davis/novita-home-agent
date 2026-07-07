@@ -1,0 +1,4 @@
+{
+  "_comment": "Empty /v1/metrics/models for the no-data branch. res.models=[] -> page.tsx sets selectedModel=undefined and the model SelectTrigger is disabled showing the 'No LLM api calls' loading/empty label; no chart fetch fires. Used to assert the empty/disabled state.",
+  "models": []
+}

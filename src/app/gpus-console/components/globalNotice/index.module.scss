@@ -1,0 +1,52 @@
+.outContainer {
+  max-width: 826px !important;
+  width: 100%;
+  background: transparent !important;
+  border: none !important;
+  padding-top: 14px;
+  overflow: hidden;
+  box-shadow: none !important;
+
+  & > Button {
+    top: 30px !important;
+    right: 40px !important;
+    svg {
+      width: 16px;
+      height: 16px;
+    }
+
+    &:focus {
+      --tw-ring-offset-width: 0 !important;
+    }
+  }
+}
+
+.container {
+  max-width: 826px !important;
+  width: 100%;
+  max-height: 100% !important;
+  // overflow-y: auto !important;
+  border-radius: 8px;
+  background: linear-gradient(
+    180deg,
+    #d5ffea 0.21%,
+    #e4fff2 16.53%,
+    #fff 29.5%
+  ) !important;
+  padding: 48px 24px 24px !important;
+  border: none !important;
+  .alert {
+    border-radius: 4px;
+    border-left: 2px solid var(--brand-0);
+    background: var(--gray-3);
+    padding: 8px 19px 8px 10px;
+    display: flex;
+    gap: 8px;
+  }
+  .alertContent {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+  }
+}

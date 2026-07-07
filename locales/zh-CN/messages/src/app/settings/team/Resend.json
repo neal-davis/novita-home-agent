@@ -1,0 +1,7 @@
+{
+  "anInvitationHasAlreadyBeenSent": "邀请已发送且仍处于有效状态。再次发送将替换现有邀请。",
+  "cancel": "取消",
+  "failedToResendInvitation": "重新发送邀请失败",
+  "invitationEmailSentSuccessfully": "邀请邮件发送成功！",
+  "resendInvitation": "重新发送邀请"
+}

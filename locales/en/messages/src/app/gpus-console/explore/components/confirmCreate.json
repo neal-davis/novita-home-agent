@@ -1,0 +1,9 @@
+{
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "confirmCreate": "Confirm Create",
+  "createA": "Create a",
+  "subscriptionInstance": "Subscription Instance",
+  "theInstanceIsNotRefundableAnd": ", the instance is not refundable and cannot be released, if there is a problem during operation, you can click \"Migrate\" to seamlessly switch to other GPUs, do you confirm payment?",
+  "youNeedToPayUpfront": ", you need to pay upfront"
+}

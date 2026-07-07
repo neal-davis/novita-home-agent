@@ -1,0 +1,9 @@
+{
+  "_comment": "De-identified /v3/stripe/promotion (the one endpoint the prod read-only capture returned for this route). No active promotion. No PII.",
+  "couponId": "",
+  "percentOff": 0,
+  "amountOff": "0",
+  "redeemBy": "0",
+  "valid": false,
+  "activityName": ""
+}

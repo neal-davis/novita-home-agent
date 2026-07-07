@@ -1,0 +1,8 @@
+{
+  "audio": "オーディオ",
+  "embedding": "埋め込み",
+  "image": "画像",
+  "reranker": "リランカー",
+  "video": "動画",
+  "vision": "ビジョン"
+}

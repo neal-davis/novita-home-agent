@@ -1,0 +1,7 @@
+{
+  "anUnexpectedErrorOccurredPleaseCheck": "予期しないエラーが発生しました。APIキーを確認して、もう一度お試しください。",
+  "failedToAuthenticatePleaseCheckYour": "認証に失敗しました。APIキーを確認して、もう一度お試しください。",
+  "modelNotAvailableNowPleaseTry": "現在モデルは利用できません。後ほどもう一度お試しください。",
+  "notEnoughBalancePleaseTopUp": "残高が不足しています。チャージして引き続きご利用ください。",
+  "topUp": "チャージ"
+}

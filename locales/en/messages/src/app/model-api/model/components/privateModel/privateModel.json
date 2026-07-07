@@ -1,0 +1,18 @@
+{
+  "accessOurListOfPublicModels": "access our list of public models",
+  "creditBalance": "Credit Balance",
+  "featuredApis": "Featured APIs",
+  "ifYouHaveAnyQuestionsPlease": "If you have any questions, please contact our customer service or technical team through the Discord Channel:",
+  "informationalNotes": "Informational Notes",
+  "joinOurDiscordToGetIt": "join our discord to get it!",
+  "logInAndRequestPrivateModel": "Log in and request private model permissions or if you want to",
+  "manageYourPrivateModels": "Manage your private models",
+  "modelLibrary": "Model Library",
+  "modelList": "Model List",
+  "playground": "Playground",
+  "pleaseBePatientWhileWeCheck": "Please be patient while we check your permissions...",
+  "uploadModel": "Upload Model",
+  "youDontHavePermissionToUpload": "You don't have permission to upload models,",
+  "youMustHaveAtLeastOne": "You must have at least one key to upload models!",
+  "youNeedToLoginToAccess": "You need to login to access this page!"
+}

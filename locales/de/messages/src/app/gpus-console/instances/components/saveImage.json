@@ -1,0 +1,15 @@
+{
+  "addCredential": "Anmeldedaten hinzufügen",
+  "afterAdjustingTheInstanceYouCan": "Nach dem Anpassen der Instanz können Sie die aktualisierte Instanz als Image speichern und anschließend neue Vorlagen und Instanzen basierend auf dem neuesten Image erstellen!",
+  "cancel": "Abbrechen",
+  "containerRegistryCredentials": "Container-Registry-Anmeldedaten",
+  "imagePath": "Image-Pfad",
+  "pleaseEnterAPathConsistingOf": "Bitte geben Sie einen Pfad ein, der aus Kleinbuchstaben und Zahlen besteht, wobei jedes Segment optional ., _ oder - enthalten kann und mehrere durch / getrennte Ebenen unterstützt werden.",
+  "pleaseInputYourImageAddress": "Bitte geben Sie Ihre Image-Adresse ein",
+  "pleaseSelectCredentials": "Bitte Anmeldedaten auswählen",
+  "save": "Speichern",
+  "saveImage": "Image speichern",
+  "success": "Erfolg",
+  "theContainerRegistryCredentialsCanNot": "Die Anmeldeinformationen für die Container-Registry dürfen nicht leer sein",
+  "theImagePathCanNotBe": "Der Image-Pfad darf nicht leer sein und keine Leerzeichen enthalten"
+}

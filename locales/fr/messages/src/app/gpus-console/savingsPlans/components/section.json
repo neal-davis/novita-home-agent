@@ -1,0 +1,16 @@
+{
+  "captionTable": "tableau de légendes",
+  "expireTime": "DATE D’EXPIRATION",
+  "filterByGpuType": "Filtrer par type de GPU",
+  "gpuTypes": "TYPES DE GPU",
+  "instanceId": "ID D’INSTANCE",
+  "instanceName": "NOM DE L’INSTANCE",
+  "region": "RÉGION",
+  "savingsPlanId": "ID DU PLAN D’ÉCONOMIES",
+  "savingsPlans": "Plans d’économies",
+  "search": "rechercher",
+  "toExplore": "À explorer",
+  "totalCommitment": "ENGAGEMENT TOTAL",
+  "utilization": "UTILISATION",
+  "whatAreSavingsPlans": "Que sont les plans d’économies ?"
+}

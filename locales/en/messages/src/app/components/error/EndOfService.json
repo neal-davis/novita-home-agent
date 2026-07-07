@@ -1,0 +1,18 @@
+{
+  "asOfTheDeprecationDateThese": "As of the deprecation date, these APIs will no longer be accessible. We strongly encourage you to update your applications and workflows to prevent any potential disruptions.",
+  "buildGenAiProductsSeamlessly": "Build Gen AI products seamlessly",
+  "buildWithModelApis": "Build with Model APIs",
+  "cutCostsByUpTo50": "Cut costs by up to 50%",
+  "december312024": "December 31, 2024",
+  "deployWithGpuInstance": "Deploy with GPU Instance",
+  "deprecatedApis": "Deprecated APIs:",
+  "ifYouAreCurrentlyUsingThese": "If you are currently using these APIs and require assistance transitioning to alternative solutions, our support team is available to guide you through the process.",
+  "ifYoureBrowsingAroundJustLook": "If you're browsing around, just look at this one we've picked out for you!",
+  "impact": "Impact:",
+  "launchAgentSandbox": "Launch Agent Sandbox",
+  "lowUsageApiProductDeprecationPlan": "Low Usage API Product Deprecation Plan",
+  "nextSteps": "Next Steps:",
+  "scaleWithServerless": "Scale with Serverless",
+  "scaleWithoutManagingGpuInfrastructure": "Scale without managing GPU infrastructure",
+  "theRuntimeInfrastructureForSecureScalable": "The Runtime Infrastructure for Secure & Scalable AI Agents"
+}

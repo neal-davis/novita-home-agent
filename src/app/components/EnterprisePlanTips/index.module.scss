@@ -1,0 +1,22 @@
+.tipsModal {
+  position: absolute;
+  padding: 20px;
+  border-radius: 16px;
+  border: 1px solid var(--gray-2);
+  backdrop-filter: blur(11.6px);
+  z-index: 999;
+
+  .title {
+    margin-bottom: 8px;
+    @include font-subtle;
+    color: var(--dark-3);
+  }
+
+  .message {
+    @include font-subtle-medium;
+  }
+
+  .btnWrapper {
+    margin-top: 12px;
+  }
+}

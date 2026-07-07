@@ -1,0 +1,8 @@
+{
+  "cancel": "Cancel",
+  "cancellationMayStillIncurCharges": "Cancellation may still incur charges",
+  "cancellingWillStopFurtherProcessingBut": "Cancelling will stop further processing, but if the task has already entered the generation phase, full charges may still apply. Please confirm before cancelling.",
+  "confirm": "Confirm",
+  "generating": "Generating...",
+  "submittingTask": "Submitting task..."
+}

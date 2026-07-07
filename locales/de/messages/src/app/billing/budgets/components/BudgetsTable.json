@@ -1,0 +1,13 @@
+{
+  "actions": "Aktionen",
+  "apiKeyName": "Name des API-Schlüssels",
+  "budget": "Budget",
+  "budgetType": "Budgettyp",
+  "edit": "Bearbeiten",
+  "loading": "Wird geladen...",
+  "member": "Mitglied",
+  "noApiKeyBudgets": "Keine API-Schlüssel-Budgets",
+  "resetAt": "Zurückgesetzt am",
+  "status": "Status",
+  "usage": "Nutzung"
+}

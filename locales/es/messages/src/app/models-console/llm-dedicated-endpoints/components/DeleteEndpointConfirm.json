@@ -1,0 +1,11 @@
+{
+  "cancel": "Cancelar",
+  "close": "Cerrar",
+  "delete": "Eliminar",
+  "deleteEndpoint": "Eliminar endpoint",
+  "enterEndpointName": "Introduce el nombre del endpoint",
+  "pleaseTerminateTheEndpointBeforeDeleting": "Finaliza el endpoint antes de eliminarlo",
+  "pleaseType": "Escribe",
+  "thisActionCannotBeUndoneThis": "Esta acción no se puede deshacer. Esto eliminará permanentemente este endpoint.",
+  "toConfirm": "para confirmar"
+}

@@ -1,0 +1,19 @@
+{
+  "anthropicApi": "API Anthropic",
+  "apiAccessGuide": "Guide d’accès à l’API",
+  "apiEndpoint": "Point de terminaison API",
+  "apiKey": "Clé API",
+  "baseUrl": "URL de base",
+  "contextLength": "Longueur du contexte",
+  "info": "Infos",
+  "inputCapabilities": "Capacités d’entrée",
+  "maxOutput": "Sortie maximale",
+  "modelId": "ID du modèle",
+  "notSupported": "Non pris en charge",
+  "outputCapabilities": "Capacités de sortie",
+  "provider": "Fournisseur",
+  "quantization": "Quantification",
+  "serverless": "Sans serveur",
+  "supported": "Pris en charge",
+  "supportedFunctionality": "Fonctionnalités prises en charge"
+}

@@ -1,0 +1,105 @@
+.outContainer {
+  padding-top: 25px;
+  padding-bottom: 17px;
+  @include screen-md {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+.container {
+  padding: 25px 0;
+  background-color: var(--black);
+  // background-image: url("/homepage/readystart/left.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 433px;
+  margin-bottom: 263px;
+  @include screen-md {
+    height: 875px;
+    margin-bottom: 0;
+    padding-top: 143px;
+    padding-bottom: 143px;
+    // background-image: url("/homepage/readystart/bg.png");
+    background-color: var(--white);
+  }
+}
+.subMobileBg {
+  display: block;
+  @include screen-md {
+    display: none;
+  }
+}
+.subBg {
+  // background-image: url("/homepage/readystart/left.png");
+  background-color: var(--black);
+  width: 50%;
+  height: 643px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 107px;
+  // left: calc(50% - 496px);
+  display: none;
+  @include screen-md {
+    display: block;
+  }
+}
+.cards {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  bottom: -263px;
+  @include screen-md {
+    flex-direction: row;
+    bottom: 148px;
+  }
+  .left {
+    background-color: var(--brand-0);
+    padding: 20px;
+    color: var(--black);
+    @include font-h4-large;
+    width: 50%;
+    min-width: 300px;
+    @include screen-md {
+      padding: 40px;
+      @include font-h3;
+      margin-left: 33px;
+      width: calc(50% - 33px);
+    }
+  }
+  .right {
+    width: 50%;
+    min-width: 300px;
+    // background-color: var(--black);
+    background-image: url("/homepage/readystart/rightAll.png");
+    background-size: cover;
+    padding: 31px 59px 21px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 19px;
+    @include screen-md {
+      padding: 49px 174px 56px 80px;
+    }
+
+    // background-image: url("/homepage/readyStart/right.png");
+    // // background-size: cover;
+    // background-position: right;
+    // background-repeat: no-repeat;
+    .top {
+      color: var(--white);
+      @include font-body;
+    }
+    .bottom {
+      flex-direction: column;
+      gap: 20px;
+      display: flex;
+      @include screen-md {
+        flex-direction: row;
+        flex-wrap: wrap;
+      }
+    }
+  }
+}

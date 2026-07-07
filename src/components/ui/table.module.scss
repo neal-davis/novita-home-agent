@@ -1,0 +1,24 @@
+.table_loading {
+  overflow-y: hidden;
+
+  table {
+    min-height: 120px;
+  }
+
+  tbody {
+    tr > td {
+      opacity: 0.1;
+      border-color: var(--gray-3);
+    }
+
+    .spinner > td {
+      opacity: 1;
+    }
+  }
+}
+
+.table_body {
+  tr:hover {
+    background-color: var(--gray-3);
+  }
+}

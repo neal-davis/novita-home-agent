@@ -1,0 +1,7 @@
+{
+  "cacheReadInput": "Cache-Eingabe (Lesen)",
+  "cacheWrite5mInput": "Cache-Eingabe (Schreiben:5m)",
+  "cacheWrites1hInput": "Cache-Eingabe (Schreibvorgänge:1h)",
+  "output": "Ausgabe",
+  "uncachedInput": "Nicht zwischengespeicherte Eingabe"
+}

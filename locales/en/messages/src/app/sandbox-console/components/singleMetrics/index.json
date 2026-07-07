@@ -1,0 +1,12 @@
+{
+  "averageCpuUtilization": "Average CPU Utilization:",
+  "ifThereAreMultiplePausesOnly": "If there are multiple Pauses, only the data query before",
+  "mb": "MB",
+  "memoryUtilizationAvg": "Memory Utilization Avg:",
+  "memoryUtilizationMax": "Memory Utilization Max:",
+  "metrics": "Metrics",
+  "peakCpuUtilization": "Peak CPU Utilization:",
+  "secondsAgo": "Seconds ago",
+  "supportsQueryingDataFromThe72": "Supports querying data from the 72 hours before the Pause.",
+  "theMostRecentPauseIsDisplayed": "the most recent Pause is displayed."
+}

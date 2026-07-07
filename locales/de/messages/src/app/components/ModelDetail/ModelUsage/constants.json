@@ -1,0 +1,7 @@
+{
+  "go": "Go",
+  "java": "Java",
+  "python": "Python",
+  "shell": "Shell",
+  "typescript": "TypeScript"
+}

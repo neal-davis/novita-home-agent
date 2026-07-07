@@ -1,0 +1,21 @@
+{
+  "agentSandbox": "Agent-Sandbox",
+  "anyBillingDataViewedBeforeThis": "Alle vor diesem Zeitpunkt angezeigten Abrechnungsdaten dienen nur als Referenz und sollten nicht für den Abgleich verwendet werden.",
+  "billingRecordsAreGeneratedAtAn": "Abrechnungsdatensätze werden in stündlichen Intervallen erstellt. Als Ausnahme werden Speicherdienste täglich abgerechnet, wobei die Datensätze um 00:00 UTC erstellt werden.",
+  "billingSummariesAggregatedByApiKey-51443b": "Nach API-Schlüssel aggregierte Abrechnungsübersichten unterstützen derzeit nur Abrechnungsdaten ab 2026.",
+  "billingSummariesAggregatedByApiKey-e50926": "Nach API-Schlüssel aggregierte Abrechnungsübersichten unterstützen derzeit nur LLM- und Bild-/Videoprodukte.",
+  "byApiKey": "Nach API-Schlüssel",
+  "byCreator": "Nach Ersteller",
+  "chargesAreGenerallyCalculatedAndDeducted": "Gebühren werden in der Regel stündlich berechnet und abgezogen. Eine Mindestgebühr von 0,0001 $ fällt an, wenn die stündlichen Nutzungsgebühren unter diesem Betrag liegen.",
+  "forProductsBilledOnAFixed": "Für Produkte, die auf Basis der Festlaufzeit-Abrechnung abgerechnet werden, werden Abrechnungen in einem monatlichen Zyklus erstellt. Die endgültige Abrechnung für den aktuellen Monat ist nach 06:00 UTC am 1. des Folgemonats verfügbar.",
+  "gpuInstance": "GPU-Instanz",
+  "gpuInstances": "GPU-Instanzen",
+  "gpuServerless": "GPU Serverless",
+  "imageDedicatedEndpoint": "Dedizierter Bild-Endpunkt",
+  "imageVideo": "Bild/Video",
+  "llmDedicatedEndpoints": "Dedizierte LLM-Endpunkte",
+  "llmServerlessEndpoints": "LLM Serverless Endpoints",
+  "multiDimensionalSummaryBillsDisplayOther": "Mehrdimensionale zusammengefasste Rechnungen zeigen andere Zusammenfassungsdimensionen mit Ausnahme der Dimension des Abrechnungsmodus an.",
+  "storage": "Speicher",
+  "summary": "Zusammenfassung"
+}

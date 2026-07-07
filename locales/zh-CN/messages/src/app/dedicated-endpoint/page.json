@@ -1,0 +1,4 @@
+{
+  "dedicatedAiInferenceEndpointsWithPredictable": "专用 AI 推理端点，具备可预测的延迟、支持自定义模型，并在 Novita AI 上提供托管部署。",
+  "dedicatedEndpointsNovitaAi": "专用端点 | Novita AI"
+}

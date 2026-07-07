@@ -1,0 +1,4 @@
+{
+  "_comment": "Empty /v1/billing/bill/list ({bills:[]}) for the /billing/details landing that /gpus-console/billing 308-redirects to. getBillList returns {bills:Bill[]} at the TOP level (request() does NOT unwrap .data). The default 'summary' tab's SummaryTable reads res.bills then billList.length; the mockBackend fallback {code:0,data:{}} leaves res.bills undefined and crashes the error boundary, so this correctly-shaped empty payload is required. Empty => SummaryTable renders its NoData empty state (deterministic, not date-range dependent). No PII.",
+  "bills": []
+}

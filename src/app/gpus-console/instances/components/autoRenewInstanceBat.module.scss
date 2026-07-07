@@ -1,0 +1,334 @@
+.container {
+  padding: 134px 0 100px 0;
+}
+.subContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0;
+  /* background: #ffffff; */
+  box-shadow: 0px 4px 20px 0px rgba(21, 34, 50, 0.1);
+  border-radius: 12px;
+}
+.section {
+  color: var(--black);
+  background: var(--white);
+  box-shadow: 0px 4px 20px 0px rgba(21, 34, 50, 0.1);
+  border-radius: var(--radius-dialog);
+  padding: 25px 24px 24px 24px;
+  width: 100%;
+}
+.title {
+  font-weight: bold;
+  font-size: 16px;
+  color: var(--dark-1);
+  line-height: 16px;
+  text-align: left;
+  font-style: normal;
+}
+.desc {
+  font-size: 16px;
+  /* color: #514f6e; */
+  line-height: 16px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.tooltip {
+  max-width: none !important;
+}
+.mainSection {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 504px;
+  height: 608px;
+  padding: 24px 32px;
+}
+.subtitle {
+  font-size: 12px;
+  /* color: #514f6e; */
+  line-height: 12px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.line {
+  position: absolute;
+  top: 56px;
+  border-bottom: 1px solid var(--gray-1);
+  width: 100%;
+  height: 1px;
+}
+.subtitle {
+  margin-top: 41px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: left;
+  font-style: normal;
+}
+.imageUrl {
+  width: 100%;
+  display: inline-block;
+  margin-right: 24px;
+}
+.dockerImageNameTxt {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  margin-bottom: 12px;
+  font-style: normal;
+}
+.dockerImageNameInput {
+  color: var(--dark-1);
+  width: 100%;
+  height: 48px;
+  border: 1px solid var(--gray-1);
+  border-radius: 8px;
+  padding: 19px 20px;
+}
+
+.localMountRefCred {
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+.localMountTxt {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  font-style: normal;
+}
+
+.containerRefCred {
+  width: 100%;
+  display: inline-block;
+  margin-top: 20px;
+}
+.containerRefCredTxt {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  margin-bottom: 12px;
+  font-style: normal;
+}
+.containerRefCredSelect {
+  color: var(--dark-1);
+  width: 100%;
+  height: 48px;
+  border-radius: 8px;
+}
+.startCommand {
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  margin-bottom: 12px;
+  font-style: normal;
+}
+.startCommandInput {
+  color: var(--dark-1);
+  width: 100%;
+}
+.envVarTxt {
+  padding: 0;
+  position: relative;
+  float: left;
+  color: var(--dark-1);
+}
+.envItem {
+  width: calc(50% - 12px);
+  display: inline-block;
+  margin-right: 24px;
+}
+.envKeyTxt {
+  margin-top: 15px;
+  margin-bottom: 12px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  font-style: normal;
+}
+.envKeyInput {
+  color: var(--dark-1);
+  width: 100%;
+  height: 48px;
+  border: 1px solid var(--gray-1);
+  border-radius: 8px;
+  padding: 19px 20px;
+}
+.envValueTxt {
+  margin-top: 15px;
+  margin-bottom: 12px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  font-style: normal;
+}
+.envValueInput {
+  color: var(--dark-1) !important;
+  width: calc(100% - 60px);
+  height: 48px !important;
+  border: 1px solid var(--gray-1) !important;
+  border-radius: 8px !important;
+  margin-right: 12px;
+  padding: 19px 20px;
+}
+.removeEnvBtn {
+  width: 48px;
+  height: 48px;
+  border-radius: 8px !important;
+  border: 1px solid var(--gray-1) !important;
+  min-width: 10px !important;
+}
+.addEnvBtn {
+  border: 1px solid var(--brand-0) !important;
+  margin-top: 20px !important;
+  height: 48px !important;
+  text-transform: none !important;
+}
+.addEnvBtnTxt {
+  font-size: 14px;
+  color: var(--brand-0);
+  line-height: 14px;
+  font-weight: 500;
+}
+.isSaveDataTxt {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: left;
+  font-style: normal;
+}
+.saveDataDescPrefixTxt {
+  font-weight: 400;
+  font-size: 14px;
+  color: #514f6e;
+  line-height: 20px;
+  text-align: left;
+  margin-left: 20px;
+  font-style: normal;
+}
+.upgradeDisabledBtn {
+  cursor: not-allowed !important;
+  height: 32px;
+  min-width: 124px !important;
+  float: right;
+  text-transform: none !important;
+  box-shadow: none !important;
+  background-color: var(--gray-3) !important;
+  border: 1px solid #d9dbe9 !important;
+}
+.upgradeOperatingBtn {
+  display: inline-block;
+  width: 31px;
+  height: 32px;
+  margin-top: -5px;
+  margin-bottom: -5px;
+}
+.upgradeDisabledBtnTxt {
+  color: #808191;
+  @include font-subtle;
+}
+.upgradeBtn {
+  background: var(--dark-1) !important;
+  height: 32px;
+  min-width: 124px !important;
+  float: right;
+  text-transform: none !important;
+  box-shadow: none !important;
+}
+.upgradeBtn:hover {
+  background: var(--dark-2) !important;
+}
+.upgradeBtnTxt {
+  color: var(--white) !important;
+  @include font-subtle;
+}
+.cancelBtn {
+  background: var(--white) !important;
+  margin-right: var(--spacing-button) !important;
+  width: 124px;
+  height: 32px;
+  float: right;
+  border: 1px solid var(--dark-1) !important;
+  box-shadow: none !important;
+  text-transform: none !important;
+}
+.cancelBtn:hover {
+  background-color: var(--gray-3) !important;
+}
+.cancelBtnTxt {
+  color: var(--dark-1);
+  @include font-subtle;
+}
+
+.inputContainer {
+  width: 100%;
+  display: inline-block;
+  margin-right: 24px;
+}
+.imgTips {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: left;
+  margin-bottom: 16px;
+  font-style: normal;
+  opacity: 0.5;
+}
+.imgPathTxt {
+  font-weight: 400;
+  line-height: 12px;
+  text-align: left;
+  margin-bottom: 12px;
+  font-style: normal;
+}
+.imgPathInput {
+  color: var(--dark-1);
+  width: 100%;
+  height: 48px;
+  border: 1px solid var(--gray-1);
+  border-radius: 8px;
+  padding: 19px 20px;
+  font-size: 14px;
+}
+
+@media screen and (max-width: 1000px) {
+  .container {
+    padding: 86px 0 100px 0;
+  }
+  .title {
+    font-size: 24px;
+  }
+  .desc {
+    font-size: 14px;
+  }
+  .wrap {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+.confirmOkBtn {
+  background: var(--dark-1) !important;
+  color: var(--white) !important;
+  box-shadow: none !important;
+}
+.confirmOkBtn:hover {
+  background: var(--dark-2) !important;
+}
+.confirmCancelBtn {
+  background: var(--white) !important;
+  border: 1px solid var(--gray-1) !important;
+  box-shadow: none !important;
+  color: var(--dark-1) !important;
+}
+.confirmCancelBtn:hover {
+  background: var(--gray-2) !important;
+}

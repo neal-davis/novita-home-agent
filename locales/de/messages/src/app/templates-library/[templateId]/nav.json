@@ -1,0 +1,15 @@
+{
+  "applicatioin": "Anwendung",
+  "deployInstance": "Instanz bereitstellen",
+  "deployServerless": "Serverless bereitstellen",
+  "imagePrewarm": "Image-Vorwärmung",
+  "instances": "Instanzen",
+  "jobs": "Jobs",
+  "myEndpoints": "Meine Endpunkte",
+  "myInstances": "Meine Instanzen",
+  "networkVolume": "Netzwerkvolume",
+  "other": "Andere",
+  "serverless": "Serverless",
+  "settings": "Einstellungen",
+  "templatesLibrary": "Vorlagenbibliothek"
+}

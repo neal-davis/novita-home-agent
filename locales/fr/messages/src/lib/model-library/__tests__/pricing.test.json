@@ -1,0 +1,12 @@
+{
+  "baaiBgeRerankerBase": "BAAI/bge-reranker-base",
+  "baaiBgeRerankerV2": "BAAI/bge-reranker-v2",
+  "cacheRead": "Lecture du cache",
+  "cacheWrite": "Écriture du cache",
+  "input": "Entrée",
+  "output": "Sortie",
+  "reranker": "réordonnanceur",
+  "textCacheRead": "Texte · Lecture du cache",
+  "textInput": "Texte · Entrée",
+  "textOutput": "Texte · Sortie"
+}

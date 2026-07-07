@@ -1,0 +1,8 @@
+{
+  "billingItems": "Billing items",
+  "gpuFee": "GPU fee",
+  "storageFeeBeyondFreeQuota": "Storage fee (beyond free quota)",
+  "total": "Total",
+  "unitPrice": "Unit price",
+  "usage": "Usage"
+}

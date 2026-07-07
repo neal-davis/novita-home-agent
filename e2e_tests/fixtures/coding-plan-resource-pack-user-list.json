@@ -1,0 +1,5 @@
+{
+  "_comment": "Empty current-resource-pack list for hermetic /coding-plan (client getResourcePackUserList -> reads .data and calls .findLast). MUST be an array under data; an object {} crashes PlanList.judgeReBuy (allValidInstances.findLast is not a function). Empty => user has no active pack => all tiers are first-buy.",
+  "code": 0,
+  "data": []
+}

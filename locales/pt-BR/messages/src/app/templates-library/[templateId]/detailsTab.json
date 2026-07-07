@@ -1,0 +1,22 @@
+{
+  "configuration": "Configuração",
+  "configurationInformation": "Informações de configuração",
+  "containerDisk": "Disco do contêiner :",
+  "containerEntrypoint": "Ponto de entrada do contêiner :",
+  "containerImage": "Imagem do contêiner :",
+  "containerStartCommand": "Comando de inicialização do contêiner :",
+  "environmentVariables": "Variáveis de ambiente：",
+  "exposeHttpPorts": "Expor portas HTTP :",
+  "exposeTcpPorts": "Expor portas TCP :",
+  "gb": "GB",
+  "key": "Chave",
+  "localMount": "Montagem local :",
+  "no": "Não",
+  "noResultsFound": "Nenhum resultado encontrado",
+  "readme": "README",
+  "updatesComingSoonTryExploringFor": "Atualizações em breve! Tente explorar outra coisa",
+  "value": "Valor",
+  "volumeDisk": "Disco do volume :",
+  "volumeMountPath": "Caminho de montagem do volume :",
+  "yes": "Sim"
+}

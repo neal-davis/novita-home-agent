@@ -1,0 +1,26 @@
+{
+  "_comment": "De-PII'd /v2/user/key. AccountSummary reads res.keys (array) and renders keys.length as the 'All keys' count. Exactly 3 synthetic keys => deterministic count '3'. No real API key secrets/prefixes are included; values are obvious placeholders.",
+  "keys": [
+    {
+      "stringId": "key-e2e-0001",
+      "name": "e2e-key-alpha",
+      "createTime": "1700000000",
+      "expireTime": "0",
+      "lastUsedTime": "0"
+    },
+    {
+      "stringId": "key-e2e-0002",
+      "name": "e2e-key-beta",
+      "createTime": "1700000000",
+      "expireTime": "0",
+      "lastUsedTime": "0"
+    },
+    {
+      "stringId": "key-e2e-0003",
+      "name": "e2e-key-gamma",
+      "createTime": "1700000000",
+      "expireTime": "0",
+      "lastUsedTime": "0"
+    }
+  ]
+}

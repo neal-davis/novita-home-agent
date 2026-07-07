@@ -1,0 +1,11 @@
+{
+  "cfgScale": "Cfgスケール",
+  "modelName": "モデル名",
+  "negativePrompt": "ネガティブプロンプト",
+  "prompt": "プロンプト",
+  "size": "サイズ",
+  "stableDiffusion": "Stable Diffusion",
+  "steps": "ステップ数",
+  "type": "タイプ",
+  "w": "W:"
+}

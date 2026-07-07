@@ -1,0 +1,11 @@
+{
+  "addControlnetUnit": "ControlNet-Einheit hinzufügen",
+  "controlnet": "ControlNet",
+  "end": "Ende",
+  "guidance": "Steuerung:",
+  "image": "Bild",
+  "model": "Modell",
+  "preprocessor": "Präprozessor",
+  "start": "Start",
+  "strength": "Stärke:"
+}

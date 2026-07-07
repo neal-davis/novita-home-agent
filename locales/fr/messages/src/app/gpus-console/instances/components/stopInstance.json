@@ -1,0 +1,10 @@
+{
+  "areYouSureYouWantTo": "Êtes-vous sûr de vouloir arrêter votre instance ?",
+  "cancel": "Annuler",
+  "forSuspendedInstancesDataWillBe": "Pour les instances suspendues, les données seront conservées pendant",
+  "stop": "Arrêter",
+  "stopInstance": "Arrêter l’instance",
+  "stopYourInstanceYouCanStart": "Arrêtez votre instance. Vous pourrez la démarrer plus tard.",
+  "success": "succès",
+  "whenTheInstanceIsStoppedIf": "Lorsque l’instance est arrêtée, si un autre utilisateur préempte ce nœud, votre instance ne pourra pas être redémarrée normalement, mais la migration vers d’autres nœuds est prise en charge."
+}

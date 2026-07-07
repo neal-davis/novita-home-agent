@@ -1,0 +1,23 @@
+{
+  "account": "Cuenta",
+  "assignAccessPermissionsToMembersBy": "Asigna permisos de acceso a los miembros seleccionando roles. El presupuesto de cada nuevo miembro es ilimitado de forma predeterminada. Si necesitas ajustarlo, ve a la página \"Presupuestos\".",
+  "budget": "Presupuesto",
+  "cancel": "Cancelar",
+  "changeTheBudgetOnTheBudgets": "Cambia el presupuesto en la página \"Presupuestos\" después de que los invitados se unan a tu equipo.",
+  "close": "Cerrar",
+  "invitationEmailsHaveBeenSentYou": "¡Se han enviado los correos electrónicos de invitación! También puedes compartir directamente con los miembros de tu equipo estos enlaces de invitación que aparecen a continuación. Y los enlaces seguirán estando accesibles en la lista de miembros para futuras consultas.",
+  "invitationEmailsSentSuccessfully": "¡Correos electrónicos de invitación enviados correctamente!",
+  "invitationFailed": "Error al enviar la invitación",
+  "inviteLink": "Enlace de invitación",
+  "inviteLinkCopied": "Enlace de invitación copiado",
+  "inviteMembers-2aadfa": "+ Invitar miembros",
+  "inviteMembers-4ee562": "+ Invitar miembros",
+  "inviteMembersToYourTeam": "Invita miembros a tu equipo",
+  "inviteSelectAntSelectArrowRight": ".invite-select .ant-select-arrow { right: 18px !important; }",
+  "role": "Rol",
+  "selectARole": "Selecciona un rol",
+  "separateMultipleEmailsWithCommas": "Separa varios correos electrónicos con comas",
+  "status": "Estado",
+  "unlimited": "Ilimitado",
+  "viewPermissionDetails": "Ver detalles de permisos"
+}

@@ -1,0 +1,9 @@
+{
+  "apiKey": "Clé API",
+  "endpointUrl": "URL du point de terminaison",
+  "manageApiKeys": "Gérer les clés API",
+  "python": "Python",
+  "quickStart": "Démarrage rapide",
+  "shell": "Shell",
+  "typescript": "Typescript"
+}

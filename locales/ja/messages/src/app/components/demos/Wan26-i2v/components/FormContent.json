@@ -1,0 +1,13 @@
+{
+  "duration": "期間",
+  "leaveBlankForRandom": "ランダムにする場合は空欄のままにしてください",
+  "message1080p": "1080P",
+  "message10s": "10秒",
+  "message15s": "15秒",
+  "message5s": "5秒",
+  "message720p": "720P",
+  "prompt": "プロンプト",
+  "resolution": "解像度",
+  "seed": "シード",
+  "showcase": "ショーケース"
+}

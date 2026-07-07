@@ -1,0 +1,11 @@
+{
+  "createYourFirstAgentSandboxNow": "今すぐ最初のエージェントサンドボックスを作成しましょう。",
+  "defineOnceReuseEverywhere": "一度定義すれば、どこでも再利用できます。",
+  "eachSandboxHasACompletelyIsolated": "各サンドボックスには、完全に隔離されたファイルシステムがあります。",
+  "exploreAgentSandboxAndStartBuilding": "Agent Sandbox を探索し、ステップバイステップのガイドに従って構築を始めましょう。",
+  "filesystem": "ファイルシステム",
+  "learnMore": "詳細を見る",
+  "quickstart": "クイックスタート",
+  "readyToExploreAgentSandbox": "Agent Sandbox を探索する準備はできましたか？",
+  "template": "テンプレート"
+}

@@ -1,0 +1,6 @@
+{
+  "applyForAccess": "申请访问权限",
+  "novitaAi": "Novita AI |",
+  "voiceCloningInstantApiCreateCloned": "语音克隆 - 即时 API - 立即从任何说话者创建克隆语音",
+  "voiceCloningInstantApiIsAn": "语音克隆即时 API 是一项 AI 语音克隆服务，只需几分钟的参考音频，即可生成从任何说话者克隆而来的合成语音。我们的 API 会分析语音样本，以提取说话者音质、口音、发音和语调的独特特征。借助这些数据，我们的语音模型可以合成新的语音，以接近人类的自然度模仿源说话者。"
+}

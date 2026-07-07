@@ -1,0 +1,10 @@
+{
+  "a100": "A100",
+  "default1HourProtection1Hour": "默认 1 小时保护，提前 1 小时终止通知，完全兼容传统 Spot 工作流。最适合可容忍中断的工作负载",
+  "deploySpotInstance": "部署 Spot 实例",
+  "gpuTypesAvailable": "可用 GPU 类型：",
+  "h100": "H100",
+  "spotGpuInstances": "Spot GPU 实例",
+  "upTo50OffRtx4090": "最高 50% 折扣 – RTX 4090 低至 $0.18/小时",
+  "viewPricing": "查看定价"
+}

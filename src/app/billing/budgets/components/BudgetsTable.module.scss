@@ -1,0 +1,237 @@
+@import "@/styles/mixins";
+
+.budgets_table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.expandable_row {
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+
+  &:hover {
+    background-color: var(--gray-4);
+  }
+}
+
+.expanded_row {
+  background-color: var(--gray-4);
+}
+
+.expand_icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-radius: var(--radius-4-small);
+  transition: all 0.2s ease;
+
+  &:hover {
+    background-color: var(--gray-2);
+  }
+
+  &.expanded {
+    transform: rotate(90deg);
+  }
+}
+
+.api_keys_container {
+  background-color: var(--gray-4);
+  padding: var(--space-12) 0;
+  border-bottom: var(--stroke-border-1) solid var(--gray-2);
+}
+
+.api_keys_table {
+  width: 100%;
+  table-layout: fixed;
+
+  th,
+  td {
+    // Match parent table column widths
+    &.col_name {
+      width: 25%;
+      padding-left: var(--space-24);
+    }
+    &.col_status {
+      width: 12%;
+    }
+    &.col_budget_type {
+      width: 15%;
+    }
+    &.col_budget {
+      width: 12%;
+    }
+    &.col_usage {
+      width: 26%;
+    }
+    &.col_actions {
+      width: 10%;
+      text-align: right;
+      padding-right: var(--space-16);
+    }
+  }
+
+  th {
+    @include font-table-head;
+    color: var(--dark-2);
+    background-color: var(--gray-3);
+    padding: var(--space-8) var(--space-12);
+    text-align: left;
+  }
+
+  td {
+    @include font-table-item;
+    color: var(--dark-2);
+    padding: var(--space-12);
+    border-bottom: var(--stroke-border-1) solid var(--gray-2);
+    background-color: var(--white);
+  }
+
+  tr:last-child td {
+    border-bottom: none;
+  }
+}
+
+.progress_bar_container {
+  width: 100%;
+  max-width: 120px;
+  height: 6px;
+  background-color: var(--gray-2);
+  border-radius: var(--radius-999-round);
+  overflow: hidden;
+}
+
+.progress_bar {
+  height: 100%;
+  border-radius: var(--radius-999-round);
+  transition: width 0.3s ease;
+
+  &.normal {
+    background-color: var(--brand-0);
+  }
+
+  &.warning {
+    background-color: var(--yellow-2);
+  }
+
+  &.danger {
+    background-color: var(--red-2);
+  }
+}
+
+.usage_cell {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.usage_text {
+  @include font-table-item;
+  color: var(--dark-2);
+}
+
+.reset_time {
+  @include font-small-console;
+  color: var(--dark-3);
+}
+
+.status_badge {
+  display: inline-flex;
+  padding: var(--space-2) var(--space-8);
+  border-radius: var(--radius-999-round);
+  @include font-small-console;
+
+  // Active status
+  &.active {
+    background-color: var(--green-6);
+    color: var(--green-1);
+  }
+
+  // Invite Pending status
+  &.invite_pending {
+    background-color: var(--yellow-6);
+    color: var(--yellow-1);
+  }
+
+  // Invite Canceled status
+  &.invite_canceled {
+    background-color: var(--gray-3);
+    color: var(--dark-3);
+  }
+
+  // Invite Expired status
+  &.invite_expired {
+    background-color: var(--gray-3);
+    color: var(--dark-3);
+  }
+
+  // Left Team status
+  &.left_team {
+    background-color: var(--red-6);
+    color: var(--red-1);
+  }
+}
+
+.role_badge {
+  display: inline-flex;
+  padding: var(--space-2) var(--space-8);
+  border-radius: var(--radius-4-small);
+  @include font-small-console;
+  margin-left: var(--space-8);
+
+  &.owner {
+    background-color: rgba(202, 246, 224, 0.3);
+    color: var(--brand-1);
+  }
+
+  &.admin {
+    background-color: var(--blue-5);
+    color: var(--blue-0);
+  }
+
+  &.default {
+    background-color: var(--gray-3);
+    color: var(--dark-2);
+  }
+}
+
+.budget_type_badge {
+  display: inline-flex;
+  padding: var(--space-2) var(--space-8);
+  border-radius: var(--radius-4-small);
+  @include font-small-console;
+
+  &.admin {
+    background-color: var(--blue-5);
+    color: var(--blue-0);
+  }
+
+  &.default {
+    background-color: var(--gray-3);
+    color: var(--dark-2);
+  }
+}
+
+.edit_button {
+  color: var(--brand-1);
+  text-decoration: underline;
+  cursor: pointer;
+  background: none;
+  border: none;
+  @include font-table-item;
+
+  &:hover {
+    color: var(--brand-0);
+  }
+}
+
+.edit_button_disabled {
+  color: var(--dark-3);
+  cursor: not-allowed;
+  opacity: 0.5;
+
+  &:hover {
+    color: var(--dark-3);
+  }
+}

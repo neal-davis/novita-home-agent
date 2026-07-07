@@ -1,0 +1,9 @@
+{
+  "_comment": "De-PII'd /v3/stripe/promotion for hermetic /coding-plan. No active promotion (valid:false) — deterministic baseline so pricing renders un-discounted catalog values.",
+  "couponId": "",
+  "percentOff": 0,
+  "amountOff": "0",
+  "redeemBy": "0",
+  "valid": false,
+  "activityName": ""
+}

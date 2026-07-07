@@ -1,0 +1,22 @@
+{
+  "analyseCorrelationMatrix": "Analyser · matrice de corrélation",
+  "billing": "facturation",
+  "clickElementFormFieldLocated": "Cliquer sur l’élément · champ de formulaire localisé",
+  "enterDataFormPopulated": "Saisir les données · formulaire rempli",
+  "generateReportMarkdownOutput": "Générer un rapport · sortie markdown",
+  "identifyBugNullPointerLine84": "Identifier le bug · pointeur nul ligne 84",
+  "initEnvironmentEpisode1248": "Initialiser l’environnement · épisode 1,248",
+  "isolation": "isolation",
+  "loadDataset24mRowsIngested": "Charger le jeu de données · 2,4 M lignes ingérées",
+  "openBrowserNagivateToTarget": "Ouvrir le navigateur · naviguer vers la cible",
+  "readCodebaseSrcApiRoutesPy": "Lire la base de code · src/api/routes.py",
+  "resetNextEpisodeQueued": "Réinitialiser · prochain épisode en file d’attente",
+  "reward24StateUpdated": "Récompense · +2,4 · état mis à jour",
+  "runTestSuitePytest": "Exécuter la suite de tests · pytest",
+  "startup": "démarrage",
+  "status": "statut",
+  "stepActionSampledFromPolicy": "Étape · action échantillonnée à partir de la stratégie",
+  "submitAwaitConfirmation": "Soumettre · attendre la confirmation",
+  "transformCleanNormalize": "Transformer · nettoyer + normaliser",
+  "writeFixPatchApplied": "Écrire le correctif · patch appliqué"
+}

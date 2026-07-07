@@ -1,0 +1,7 @@
+{
+  "anUnexpectedErrorOccurredPleaseCheck": "Une erreur inattendue s’est produite. Veuillez vérifier votre clé API et réessayer.",
+  "failedToAuthenticatePleaseCheckYour": "Échec de l’authentification. Veuillez vérifier votre clé API et réessayer.",
+  "modelNotAvailableNowPleaseTry": "Le modèle n’est pas disponible pour le moment, veuillez réessayer plus tard.",
+  "notEnoughBalancePleaseTopUp": "Solde insuffisant, veuillez recharger votre compte pour continuer à utiliser le service.",
+  "topUp": "Recharger"
+}

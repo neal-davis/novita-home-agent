@@ -1,0 +1,9 @@
+{
+  "_comment": "De-identified /v3/stripe/promotion (the one endpoint the prod read-only capture returned for this route; polled by shared layout). No active promotion, no PII. Injected so the shared layout component gets a stable promotion shape instead of the generic fallback.",
+  "couponId": "",
+  "percentOff": 0,
+  "amountOff": "0",
+  "redeemBy": "0",
+  "valid": false,
+  "activityName": ""
+}

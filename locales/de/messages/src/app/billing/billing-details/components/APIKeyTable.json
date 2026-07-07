@@ -1,0 +1,17 @@
+{
+  "all": "Alle",
+  "day": "Tag",
+  "export": "Export",
+  "groupBy": "Gruppieren nach",
+  "imageVideo": "Bild/Video",
+  "modelName": "Modellname",
+  "month": "Monat",
+  "noData": "Keine Daten!",
+  "productType": "Produkttyp",
+  "selectCategory": "Kategorie auswählen",
+  "theQueryTimeRangeCannotBe": "Der Abfragezeitraum darf nicht vor dem 2026-01-01 liegen",
+  "theQueryTimeRangeCannotExceed": "Der Abfragezeitraum darf 31 Tage nicht überschreiten",
+  "theStartTimeCannotBeLater": "Die Startzeit darf nicht später als die Endzeit sein",
+  "timeRange": "Zeitraum",
+  "week": "Woche"
+}

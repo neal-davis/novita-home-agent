@@ -1,0 +1,9 @@
+{
+  "copiedToClipboard": "Copiado para a área de transferência!",
+  "endpoint": "Endpoint",
+  "endpointHealth": "Integridade do endpoint",
+  "endpointId": "ID do endpoint",
+  "modelId": "ID do modelo",
+  "openaiCompatibleBaseUrl": "URL base compatível com OpenAI",
+  "replicas": "Réplicas"
+}

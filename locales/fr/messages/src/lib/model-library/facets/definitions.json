@@ -1,0 +1,15 @@
+{
+  "audio": "Audio",
+  "embedding": "Intégration vectorielle",
+  "features": "Fonctionnalités",
+  "image": "Image",
+  "jsonSchema": "Schéma JSON",
+  "longContext": "Contexte long",
+  "modality": "Modalité",
+  "provider": "Fournisseur",
+  "reasoning": "Raisonnement",
+  "reranker": "Réordonnanceur",
+  "toolCalling": "Appel d’outils",
+  "video": "Vidéo",
+  "vision": "Vision"
+}

@@ -1,0 +1,10 @@
+{
+  "cachedReads": "キャッシュ読み取り",
+  "cachedWrites1h": "キャッシュ書き込み（1時間）",
+  "cachedWrites5m": "キャッシュ書き込み（5分）",
+  "inputLength": "入力長",
+  "inputPriceMTokens": "入力価格（100万トークン）",
+  "outputLength": "出力長",
+  "outputPriceMTokens": "出力価格（100万トークン）",
+  "tieredPricing": "段階的価格設定"
+}

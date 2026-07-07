@@ -1,0 +1,11 @@
+{
+  "cancel": "Annuler",
+  "confirm": "Confirmer",
+  "confirmToTerminateJob": "Confirmer la fin de la tâche ?",
+  "ifYouConfirmTerminateTheJob": "Si vous confirmez la fin, la tâche sera supprimée. Vous pouvez aller dans",
+  "instanceManagement": "Gestion des instances",
+  "jobId": "(ID de tâche :",
+  "success": "succès",
+  "terminateJob": "Terminer la tâche",
+  "toRecreateTheJob": "pour recréer la tâche !"
+}

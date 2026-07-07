@@ -1,0 +1,12 @@
+{
+  "duration": "时长",
+  "enableImageUpload": "启用图片上传",
+  "enablePromptExpansion": "启用提示词扩展",
+  "message1080p": "1080P",
+  "message10s": "10秒",
+  "message6s": "6秒",
+  "message768p": "768P",
+  "prompt": "提示词",
+  "resolution": "分辨率",
+  "showcase": "展示"
+}

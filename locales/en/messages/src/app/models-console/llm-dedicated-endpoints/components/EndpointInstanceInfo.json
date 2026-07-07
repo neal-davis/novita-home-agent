@@ -1,0 +1,8 @@
+{
+  "cancel": "Cancel",
+  "edit": "Edit",
+  "instanceType": "Instance type",
+  "numberOfGpus": "Number of GPUs",
+  "pleaseSelectAnInstance": "Please select an instance",
+  "save": "Save"
+}

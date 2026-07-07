@@ -1,0 +1,305 @@
+name: E2E
+
+# hermetic e2e（mock 后端，无 secrets）。浏览器 + 系统依赖来自官方 Playwright 容器
+# （mcr.microsoft.com/playwright:v<ver>-jammy，tag 必须与 @playwright/test 版本对齐）——
+# 不再在 runner 上现装浏览器（曾因 Playwright CDN stall 反复卡死，见 git history 一串 ci(e2e) 修复）。
+#
+# 分片（sharding）加速：208 用例切成 N 片并行——每片一台独立 runner，自建 + 自启 app +
+# 只跑自己那 1/N 用例（Playwright --shard=i/N），墙钟 ≈ build + 测试时间/N。
+# 各片产出 blob 分片报告，最后 merge job 合并成单一 HTML/JSON + 覆盖率 + PR 评论。
+# 为什么不在单机加 worker：单机 app server 是共享瓶颈，10 worker 抢同一批 CPU 只会更慢更 flaky；
+# 真正的水平扩展是多机分片（每片独享 runner + 独享 app server）。
+#   - 每片各自 build：完全复用单机时已验证的 build+start 步骤（最稳），代价是 build 计算量 ×N（并行，
+#     不影响墙钟，只多耗 runner 分钟）。想省这份计算量可改成「build 一次 + 传 .next/standalone 产物」。
+#   - 调分片数：只改下方 strategy.matrix.shard 数组；--shard 的 /N 用 strategy.job-total 自动对齐。
+#
+# 跑什么随触发分流（避免每个 PR 都全量巡检 139 路由）：
+#   - pull_request：deep 行为门禁全跑；全站 @sweep 仅在 serverImpact（中间件 / next.config /
+#     根 layout / 被多路由引用的共享文件）时附带，否则交给 nightly / push:main 兜底。
+#   - push:main / schedule(nightly) / 手动：deep + 全量 sweep（发布安全网）。
+#
+# 真机 smoke / prod sweep 需 token，不在 PR CI 跑（见 playwright.smoke/sweep 配置）。
+#
+# ⚠ 分支保护的 required status check 认 job 的 display name：保持要求 **"E2E hermetic"**（下方 merge
+#   job 的 name，做汇总 + 门禁，任一分片失败它就红）即可，无需改 branch protection。
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 18 * * *" # 每日 18:00 UTC 全量回归（含全站 sweep），兜环境/依赖漂移
+  workflow_dispatch: {}
+
+concurrency:
+  group: e2e-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pull-requests: write # 给 PR 贴覆盖率/结果评论（失败感知）
+
+jobs:
+  # ① 决定本次跑 deep-only 还是 deep + 全量 sweep——**单点决策**，输出给所有分片，保证各片
+  #    用例选择一致（否则某片跑 sweep 某片不跑，合并出来的报告自相矛盾）。
+  #    diff-routes.mjs 只用 Node 内置 + 直接 shell git，无需 npm ci，所以这步很轻。
+  scope:
+    name: Decide sweep scope
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      run_sweep: ${{ steps.scope.outputs.run_sweep }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0 # diff-routes 判 serverImpact 需 merge-base(origin/main, HEAD)，浅克隆不够
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24.x
+
+      # 非 PR（push/schedule/手动）一律全量 sweep；PR 仅当 serverImpact 才附带，否则只 deep。
+      # diff 检测失败 → fail-safe 跑 sweep（宁可多跑，不漏回归）。
+      - name: Decide sweep scope
+        id: scope
+        run: |
+          if [ "${{ github.event_name }}" != "pull_request" ]; then
+            echo "run_sweep=true" >> "$GITHUB_OUTPUT"
+            echo "事件 ${{ github.event_name }} → deep + 全量 sweep"
+            exit 0
+          fi
+          node scripts/agent/diff-routes.mjs --json --base "origin/${{ github.base_ref }}" > /tmp/diff.json 2>/dev/null || echo '{}' > /tmp/diff.json
+          SI=$(node -e 'try{process.stdout.write(String(JSON.parse(require("fs").readFileSync("/tmp/diff.json","utf8")).serverImpact===true))}catch{process.stdout.write("true")}')
+          if [ "$SI" = "true" ]; then
+            echo "run_sweep=true" >> "$GITHUB_OUTPUT"
+            echo "PR 触及共享/全局代码（serverImpact）→ deep + 全量 sweep"
+          else
+            echo "run_sweep=false" >> "$GITHUB_OUTPUT"
+            echo "PR 仅局部改动 → 只跑 deep（全站 sweep 交给 nightly / push:main 兜底）"
+          fi
+
+  # ② 分片跑：每片独立 runner，自建 + 自启 app + 跑自己那 1/N 用例，产出 blob 分片报告。
+  shard:
+    name: E2E shard
+    needs: scope
+    runs-on: ubuntu-latest
+    # 官方 Playwright 容器：chromium/firefox/webkit + headless-shell 与系统依赖全部预装。
+    # ⚠ tag 必须与 package.json 的 @playwright/test 版本一致（当前 1.55.0）；升级 Playwright 时同步改本 tag，
+    # 否则浏览器 build 号与 npm 包对不上、报 "browser not found"。
+    container:
+      image: mcr.microsoft.com/playwright:v1.55.0-jammy
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false # 一片挂不取消其它片——要收齐全部分片结果再汇总/门禁
+      matrix:
+        shard: [1, 2, 3, 4] # 调分片数只改这里；--shard 的 /N 用 strategy.job-total 自动对齐
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0 # 路由 catalog / spec 扫描用；与单机时保持一致
+
+      # 容器自带 Node 20，但本仓库 engines 要求 24.x——叠装 24 对齐本地/CI 行为。
+      # 浏览器在 /ms-playwright（镜像 ENV 已指向），与 Node 版本无关，不受影响。
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24.x
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      # build:test 无 prebuild 钩子——显式先编 i18n（与 predev/prebuild 一致），否则构建缺资源。
+      # NODE_OPTIONS 抬堆上限：这个大应用（139 路由 + PWA + i18n）next build 超过 Node 默认 ~2GB 堆
+      # 会 OOM（实测 CI: Reached heap limit, 2030MB FATAL）。ubuntu-latest 内存充足，给 6GB。
+      - name: Build test app
+        env:
+          NODE_OPTIONS: --max-old-space-size=6144
+        run: |
+          npm run i18n:scan
+          npm run i18n:compile
+          npm run build:test
+
+      - name: Generate route catalog
+        run: node scripts/agent/route-catalog.mjs --out e2e_tests/route-catalog.generated.json
+
+      # 启动 standalone 服务 + 跑本片用例，**合并在同一步**：
+      #  ① 容器里后台进程不保证跨 step 存活（host runner 靠孤儿进程残留而过，容器更干净）；
+      #  ② Next standalone 的 server.js 读 process.env.HOSTNAME——Docker 容器把 HOSTNAME 设成
+      #     容器ID，不显式覆盖会绑到容器ID、localhost:3000 被 refuse（首次容器化跑全员
+      #     ERR_CONNECTION_REFUSED 的根因）。故 HOSTNAME=0.0.0.0 强制绑全网卡、PORT=3000。
+      # 就绪等待是 fatal：服务起不来直接失败 + tail 日志，不静默 fall-through 让上百用例全 refused 误导排查。
+      #
+      # 重试：依赖 playwright.config 里的 retries=2（flaky 自动重试）。分片 + blob 下不再叠 job 级
+      # --last-failed —— 那会让二次产出的 blob 只含失败子集，合并时丢掉本片已通过的用例。
+      # 跑哪些：run_sweep=true → 全跑（deep + @sweep）；false → --grep-invert=@sweep（只 deep）。
+      # worker 数保持单机时的 4（每片在自己 runner 上的并发度），加速来自「多机分片」而非单机堆 worker。
+      - name: Start app + run shard
+        env:
+          E2E_BASE_URL: http://localhost:3000
+          HOSTNAME: 0.0.0.0
+          PORT: "3000"
+        run: |
+          npm run start > /tmp/app.log 2>&1 &
+          APP_PID=$!
+          ready=0
+          for i in $(seq 1 90); do
+            if curl -sf http://localhost:3000 >/dev/null 2>&1; then ready=1; echo "✓ app ready after $((i * 2))s"; break; fi
+            if ! kill -0 "$APP_PID" 2>/dev/null; then echo "✗ app 进程提前退出："; tail -80 /tmp/app.log; exit 1; fi
+            sleep 2
+          done
+          if [ "$ready" != "1" ]; then echo "✗ app 180s 内未就绪："; tail -80 /tmp/app.log; exit 1; fi
+
+          if [ "${{ needs.scope.outputs.run_sweep }}" = "true" ]; then GREP=""; else GREP="--grep-invert=@sweep"; fi
+          npx playwright test \
+            --shard=${{ matrix.shard }}/${{ strategy.job-total }} \
+            --reporter=blob \
+            --workers=4 \
+            $GREP
+
+      # blob 分片报告：即使本片有用例失败也要上传（if: always），否则合并报告里看不到失败详情。
+      # 分片时 Playwright 会把 blob 文件名带上分片序号（report-<i>.zip），merge-multiple 展平不冲突。
+      - name: Upload blob report
+        if: always()
+        uses: actions/upload-artifact@v5
+        with:
+          name: blob-report-${{ matrix.shard }}
+          path: blob-report/
+          retention-days: 7
+          if-no-files-found: ignore
+
+  # ③ 汇总 + 门禁：合并各分片 blob → 单一 HTML/JSON 报告 + 覆盖率 + PR 评论；任一分片失败本 job 红。
+  #    name 固定为 "E2E hermetic"——分支保护的 required check 认这个名，沿用即可不必改配置。
+  #    不需要浏览器（merge-reports / 覆盖率脚本都是纯 Node），故跑在普通 ubuntu，省 2GB 容器拉取。
+  merge:
+    name: E2E hermetic
+    needs: [scope, shard]
+    if: ${{ !cancelled() }} # 有分片失败也要出报告 + 走门禁；仅整体被取消时跳过
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24.x
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci # merge-reports / route-catalog / coverage 需要 @playwright/test 及脚本依赖
+
+      - name: Download blob reports
+        uses: actions/download-artifact@v5
+        with:
+          path: all-blob-reports
+          pattern: blob-report-*
+          merge-multiple: true
+
+      # 合并 blob → HTML（playwright-report/）+ JSON（e2e-results.json，供 PR 评论统计）。
+      # 极端情况：所有分片在跑测试前就挂了 → 零 blob → 跳过合并，写空 stats 桩让评论步骤不崩。
+      - name: Merge sharded reports
+        env:
+          PLAYWRIGHT_JSON_OUTPUT_NAME: e2e-results.json
+        run: |
+          shopt -s nullglob
+          blobs=(all-blob-reports/*.zip)
+          if [ ${#blobs[@]} -eq 0 ]; then
+            echo "⚠ 没有任何 blob 分片报告（分片可能在跑测试前就挂了）——跳过合并"
+            echo '{"stats":{"expected":0,"unexpected":0,"flaky":0,"skipped":0}}' > e2e-results.json
+          else
+            npx playwright merge-reports --reporter=html,json ./all-blob-reports
+          fi
+
+      # 覆盖率口径是静态的（扫 catalog + spec 源码里的 goto），不依赖测试结果——自己再生成一次 catalog。
+      - name: Coverage report
+        run: |
+          node scripts/agent/route-catalog.mjs --out e2e_tests/route-catalog.generated.json
+          node scripts/agent/e2e-coverage.mjs --out e2e-coverage.md
+
+      - name: Upload Playwright HTML report
+        if: always()
+        uses: actions/upload-artifact@v5
+        with:
+          name: playwright-report
+          path: playwright-report/
+          retention-days: 14
+          if-no-files-found: ignore
+
+      - name: Upload coverage report
+        if: always()
+        uses: actions/upload-artifact@v5
+        with:
+          name: e2e-coverage
+          path: e2e-coverage.md
+          retention-days: 14
+          if-no-files-found: ignore
+
+      # 失败感知：无论成败都在 PR 写/更新一条评论（结果统计 + 覆盖率 + 报告位置）+ 写 job summary
+      - name: PR comment + job summary
+        if: always()
+        uses: actions/github-script@v8
+        env:
+          RUN_SWEEP: ${{ needs.scope.outputs.run_sweep }}
+        with:
+          script: |
+            const fs = require('fs');
+            const read = (p, d='') => { try { return fs.readFileSync(p,'utf8'); } catch { return d; } };
+
+            let stats = { expected:0, unexpected:0, flaky:0, skipped:0 };
+            try { stats = (JSON.parse(read('e2e-results.json','{}')).stats) || stats; } catch {}
+            const failed = stats.unexpected || 0;
+            const passed = stats.expected || 0;
+            const flaky = stats.flaky || 0;
+            const skipped = stats.skipped || 0;
+            const icon = failed === 0 ? '✅' : '❌';
+
+            const sweptFull = process.env.RUN_SWEEP === 'true';
+            const scopeLine = sweptFull
+              ? '🌐 范围：deep + 全站 sweep（全量）'
+              : '🎯 范围：仅 deep 行为门禁（本 PR 无 serverImpact；全站 sweep 由 nightly / push:main 兜底）';
+
+            const coverage = read('e2e-coverage.md', '_(coverage report missing)_');
+            const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+
+            const body = [
+              `<!-- e2e-report -->`,
+              `## ${icon} E2E 集成测试报告`,
+              ``,
+              scopeLine,
+              ``,
+              `| ✅ passed | ❌ failed | ⚠ flaky | ⊘ skipped |`,
+              `| --- | --- | --- | --- |`,
+              `| ${passed} | ${failed} | ${flaky} | ${skipped} |`,
+              ``,
+              coverage,
+              ``,
+              `---`,
+              `📦 完整 Playwright HTML 报告见本次 run 的 **Artifacts**（playwright-report）→ [run 链接](${runUrl})`,
+              flaky ? `\n⚠ 有 ${flaky} 个 flaky（重试后通过）——关注是否真不稳定。` : ``,
+            ].join('\n');
+
+            // job summary
+            await core.summary.addRaw(body).write();
+
+            // PR 评论：按 marker 更新，避免刷屏
+            if (context.payload.pull_request) {
+              const { owner, repo } = context.repo;
+              const issue_number = context.payload.pull_request.number;
+              const { data: comments } = await github.rest.issues.listComments({ owner, repo, issue_number });
+              const existing = comments.find(c => c.body && c.body.includes('<!-- e2e-report -->'));
+              if (existing) {
+                await github.rest.issues.updateComment({ owner, repo, comment_id: existing.id, body });
+              } else {
+                await github.rest.issues.createComment({ owner, repo, issue_number, body });
+              }
+            }
+
+      # 门禁：任一分片失败 → 本 job（required check "E2E hermetic"）红。放在出完报告之后，
+      # 保证失败时 PR 评论照样产出（先报告、后判定）。
+      - name: Gate on shard results
+        if: always()
+        run: |
+          if [ "${{ needs.shard.result }}" != "success" ]; then
+            echo "✗ 有分片未通过（needs.shard.result=${{ needs.shard.result }}）——见上方 PR 评论 / HTML 报告"
+            exit 1
+          fi
+          echo "✓ 全部分片通过"

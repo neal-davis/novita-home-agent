@@ -1,0 +1,11 @@
+{
+  "day": "Day",
+  "export": "Export",
+  "groupBy": "Group By",
+  "hour": "Hour",
+  "modelName": "Model Name",
+  "month": "Month",
+  "noData": "No Data!",
+  "timeRange": "Time Range",
+  "week": "Week"
+}

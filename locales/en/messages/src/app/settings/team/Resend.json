@@ -1,0 +1,7 @@
+{
+  "anInvitationHasAlreadyBeenSent": "An invitation has already been sent and is still active. Sending another will replace the existing one.",
+  "cancel": "Cancel",
+  "failedToResendInvitation": "Failed to resend invitation",
+  "invitationEmailSentSuccessfully": "Invitation email sent successfully!",
+  "resendInvitation": "Resend Invitation"
+}

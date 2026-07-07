@@ -1,0 +1,13 @@
+{
+  "apisAutomation": "APIs と自動化",
+  "checkAvailability": "空き状況を確認",
+  "exploreApiDocs": "API ドキュメントを見る",
+  "getPricing": "料金を確認",
+  "gpuCapacityByModel": "モデル別のGPU容量",
+  "handleInterruptions": "中断に対応",
+  "launchInstances": "インスタンスを起動",
+  "manageSpotInstancesProgrammaticallyWithFull": "完全な API サポートにより、スポットインスタンスをプログラムで管理",
+  "provisionSpotWithBillingTypeSpot": "billing_type=spotでSpotをプロビジョニング",
+  "realTimeSpotRates": "リアルタイムのSpot料金",
+  "subscribeToTerminationEventsViaApi": "APIまたはメールで終了イベントをサブスクライブ"
+}

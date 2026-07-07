@@ -1,0 +1,11 @@
+{
+  "action": "Action",
+  "dateRange": "Plage de dates",
+  "failedToGetAuditLogs": "Échec de la récupération des journaux d’audit",
+  "member": "Membre",
+  "resource": "Ressource",
+  "resourceGroup": "Groupe de ressources",
+  "resourceId": "ID de ressource",
+  "search": "Rechercher",
+  "timestamp": "Horodatage"
+}

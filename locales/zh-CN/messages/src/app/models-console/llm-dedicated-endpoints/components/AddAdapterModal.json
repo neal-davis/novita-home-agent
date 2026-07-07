@@ -1,0 +1,18 @@
+{
+  "adapterAlreadyExists": "适配器已存在",
+  "adapterName": "适配器名称",
+  "adapterReadyToAdd": "适配器已准备好添加。",
+  "addAdapter": "添加适配器",
+  "cancel": "取消",
+  "clickTheButtonAboveToAdd-5002cb": "点击上方按钮添加适配器。",
+  "clickTheButtonAboveToAdd-fcb6d5": "点击上方按钮添加 Hugging Face 适配器。",
+  "enterAdaptersRepositoryName": "输入适配器的仓库名称",
+  "enterHuggingFaceAdaptersRepositoryName": "输入 Hugging Face 适配器的仓库名称",
+  "gatheringAdapterInformation": "正在收集适配器信息...",
+  "loraAdapterSuccessfullyMatchedWithThe": "LoRA 适配器已成功匹配基础模型。",
+  "noAdapterAdded": "未添加适配器",
+  "optionalRouteForThisAdapterLeave": "此适配器的可选路由。留空则回退使用适配器名称。路由在端点内必须唯一。",
+  "remove": "移除",
+  "route": "路由",
+  "save": "保存"
+}

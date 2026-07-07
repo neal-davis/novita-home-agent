@@ -1,0 +1,15 @@
+{
+  "baseModel": "基础模型",
+  "baseModelType": "基础模型类型",
+  "category": "类别",
+  "enterName": "输入名称",
+  "fileUploadFailedPleaseReUpload": "文件上传失败，请重新上传！",
+  "name": "名称",
+  "nsfwNotSafeForWork": "NSFW（不适合工作场合）",
+  "pleaseAddYourKeyFirst": "请先添加您的密钥",
+  "pleaseSelect": "请选择",
+  "pleaseUploadYourModelFirst": "请先上传您的模型",
+  "submit": "提交",
+  "submitSuccess": "提交成功",
+  "type": "类型"
+}

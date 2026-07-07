@@ -1,0 +1,10 @@
+{
+  "apiCreateTraining": "API 创建训练",
+  "baseModelIsSdxl": "基础模型是 SDXL",
+  "creditCost": "积分消耗",
+  "height": "高度 -",
+  "maxTrainSteps": "最大训练步数 -",
+  "message50Off": "⏰ 50% 优惠",
+  "trainingApi": "训练 API",
+  "width": "宽度 -"
+}

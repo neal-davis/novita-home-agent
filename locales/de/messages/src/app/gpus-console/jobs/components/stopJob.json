@@ -1,0 +1,11 @@
+{
+  "cancel": "Abbrechen",
+  "confirm": "Bestätigen",
+  "confirmToTerminateJob": "Beenden des Jobs bestätigen?",
+  "ifYouConfirmTerminateTheJob": "Wenn Sie das Beenden bestätigen, wird der Job gelöscht. Sie können zu",
+  "instanceManagement": "Instanzverwaltung",
+  "jobId": "(Job-ID:",
+  "success": "Erfolg",
+  "terminateJob": "Job beenden",
+  "toRecreateTheJob": "gehen, um den Job neu zu erstellen!"
+}

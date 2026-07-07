@@ -1,0 +1,25 @@
+.wrap {
+  display: flex;
+  position: relative;
+  width: 100%;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.inner {
+  width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+  .wrap {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+  }
+  .inner {
+    width: 1640px;
+  }
+}

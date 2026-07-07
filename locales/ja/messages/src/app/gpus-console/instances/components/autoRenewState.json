@@ -1,0 +1,7 @@
+{
+  "autoRenewIsEnabledButNo": "自動更新は有効ですが、有効なお支払い方法が検出されません。更新に失敗し、従量課金制に切り替わります。お支払い方法を追加してください。",
+  "autoRenewOff": "自動更新: オフ",
+  "budgetIsInsufficient": "予算が不足しています。",
+  "lessThan3DaysLeftPlease": "残り3日未満です。お早めに更新してください。",
+  "moreThan3DaysLeftPlease": "残り3日以上あります。更新をご確認ください。"
+}

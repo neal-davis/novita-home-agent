@@ -1,0 +1,191 @@
+.container {
+  padding: 134px 0 100px 0;
+}
+.subContainer {
+  width: 100%;
+}
+.section {
+  padding-bottom: 16px;
+}
+.size18 {
+  width: 18px;
+  height: 18px;
+}
+.rowTitle {
+  color: var(--dark-3);
+  @include font-table-head;
+}
+.rowData {
+  color: var(--black);
+  @include font-table-item;
+}
+.selectItem {
+  width: 100% !important;
+  height: 48px;
+  border-radius: 8px !important;
+  font-size: 14px !important;
+  border: 1px solid rgb(217, 219, 233);
+}
+.sshKey {
+  background-color: var(--white);
+  box-shadow: none !important;
+  border: 1px solid var(--gray-2);
+  border-radius: 8px;
+  color: var(--black);
+}
+.sshKeySummary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding-right: 10px;
+}
+.summaryTitleWrap {
+  display: block;
+  margin-right: 10px;
+}
+.sshKeyTitle {
+  margin-left: 8px;
+  color: var(--black);
+  @include font-h6;
+}
+.panelBody {
+  border-top: 1px solid var(--gray-2);
+  padding: var(--spacing-console-24);
+}
+.panelGap {
+  margin-top: var(--spacing-console-16);
+}
+.imageUploadSlot {
+  margin-top: var(--spacing-console-24);
+}
+.actionGap {
+  margin-top: var(--spacing-console-16);
+}
+.credentialTableOuter {
+  padding: var(--spacing-console-16);
+}
+.tableScroll {
+  background: transparent;
+  box-shadow: none;
+}
+.table {
+  min-width: 650px;
+}
+.tableHeader {
+  border-bottom: 1px solid var(--gray-2);
+}
+.tableRow {
+  background-color: transparent;
+  border-bottom: 1px solid var(--gray-2);
+}
+.modalContent {
+  background: var(--white);
+  color: var(--black);
+  padding: var(--spacing-console-24);
+}
+.transparentModalContent {
+  background: transparent;
+  padding: 0;
+}
+.sshKeyDesc {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: var(--spacing-console-row);
+  color: var(--dark-3);
+  @include font-subtle;
+}
+.sshKeyDescTxt {
+  margin-bottom: var(--spacing-console-row);
+  color: var(--dark-2);
+  @include font-small-console;
+}
+.sshKeyInput {
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--gray-1);
+  border-radius: var(--radius-input);
+  padding: 12px 20px !important;
+  color: var(--dark-1) !important;
+  font-size: var(--subtle-font-size) !important;
+  line-height: var(--subtle-line-height) !important;
+  font-weight: var(--subtle-font-weight) !important;
+  letter-spacing: var(--subtle-letter-spacing) !important;
+}
+.sshKeyUpdateBtn {
+  background: var(--dark-1) !important;
+  height: 32px;
+  min-width: 124px !important;
+  text-transform: none !important;
+  box-shadow: none !important;
+  padding: var(--spacing-console-12);
+}
+.sshKeyUpdateBtn:hover {
+  background: var(--dark-2) !important;
+}
+.sshKeyUpdateBtnTxt {
+  color: var(--white) !important;
+  @include font-subtle;
+}
+.repositorySummary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding-right: 10px;
+}
+.repositoryDesc {
+  display: block;
+  text-align: left;
+}
+.singleNumaSummary {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.singleNumaTxt {
+  display: inline-block;
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--black);
+  line-height: 14px;
+  text-align: left;
+  font-style: normal;
+}
+
+.saveBtn {
+  background: #11142d !important;
+  float: right !important;
+  border-radius: 8px !important;
+  width: calc(50% - 9px) !important;
+  height: 48px !important;
+  text-transform: none !important;
+}
+.resetBtn {
+  float: right !important;
+  margin-right: 16px !important;
+  border-radius: 8px !important;
+  width: calc(50% - 9px) !important;
+  height: 48px !important;
+  text-transform: none;
+}
+
+@include screen-lg {
+  .saveBtn {
+    background: #11142d !important;
+    float: right !important;
+    border-radius: 8px !important;
+    width: 224px !important;
+    height: 48px !important;
+    text-transform: none !important;
+  }
+  .resetBtn {
+    float: right !important;
+    margin-right: 16px !important;
+    border-radius: 8px !important;
+    width: 224px !important;
+    height: 48px !important;
+    text-transform: none !important;
+  }
+}

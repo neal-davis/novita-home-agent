@@ -1,0 +1,14 @@
+{
+  "autoRecharge": "Auto Recharge",
+  "autoRechargeIs": "Auto Recharge is",
+  "autoRechargeSettingsHaveBeenUpdated": "Auto Recharge settings have been updated successfully",
+  "automaticallyRechargeWhenYourBalanceFalls": "Automatically recharge when your balance falls below a threshold.",
+  "failedToUpdateAutoRechargeSetting": "Failed to update Auto Recharge setting.",
+  "failedToUpdateAutoRechargeSettings": "Failed to update Auto Recharge settings",
+  "modify": "Modify",
+  "off": "OFF",
+  "on": "ON",
+  "pleaseAddAPaymentMethodFor": "Please add a payment method for Auto Recharge first.",
+  "setUp": "Set up",
+  "whenYourAvailableCreditFallsBelow": "When your Available Credit falls below your threshold, we'll charge your default card to restore your balance to that amount."
+}

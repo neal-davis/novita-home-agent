@@ -1,0 +1,8 @@
+{
+  "buildAndScaleProductionAppsOn": "基于优化模型构建并扩展生产级应用。",
+  "deployGpuInstance": "部署 GPU 实例",
+  "exploreModelApls": "探索模型 API",
+  "exploreProducts": "探索产品",
+  "launchAiAgentSandbox": "启动 AI 智能体沙盒",
+  "theRuntimeInfrastructureForSecureScalable": "面向安全且可扩展的 AI 智能体的运行时基础设施。"
+}

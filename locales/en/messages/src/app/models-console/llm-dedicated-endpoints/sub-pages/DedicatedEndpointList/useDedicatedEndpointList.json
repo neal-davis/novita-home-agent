@@ -1,0 +1,6 @@
+{
+  "endpointIsBeingRedeployed": "Endpoint is being redeployed",
+  "endpointIsWakingUp": "Endpoint is waking up",
+  "failedToRedeployEndpoint": "Failed to redeploy endpoint",
+  "failedToWakeUpEndpoint": "Failed to wake up endpoint"
+}

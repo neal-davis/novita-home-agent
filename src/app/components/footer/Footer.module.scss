@@ -1,0 +1,122 @@
+.footer {
+  position: relative;
+  background: var(--white);
+  border-top: 1px solid var(--gray-2);
+  width: 100%;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  flex-direction: column;
+  gap: 16px;
+  padding-top: 24px;
+  padding-bottom: 30px;
+
+  @include screen-sm {
+    flex-direction: row;
+    gap: 0;
+    padding-top: 65px;
+  }
+}
+
+.copyright {
+  @include font-small-console;
+  display: flex;
+  align-items: center;
+  min-height: 48px;
+  color: var(--black);
+  letter-spacing: 0.16em;
+
+  @include screen-sm {
+    padding-left: 40px;
+    border-left: 1px solid var(--gray-2);
+  }
+}
+
+.info_box {
+  flex: 1;
+  max-height: 468px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+
+  @include screen-sm {
+    flex-direction: column;
+    margin-right: 20px;
+  }
+
+  @include screen-lg {
+    max-height: 366px;
+  }
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 37px;
+
+  @include screen-sm {
+    max-width: 550px;
+  }
+  @include screen-lg {
+    max-width: 100%;
+  }
+}
+.menu_wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0;
+  border-top: 1px solid var(--gray-2);
+
+  @include screen-sm {
+    border-top: none;
+    padding-top: 0;
+    gap: 32px;
+  }
+  @include screen-lg {
+    height: 366px;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0;
+  }
+}
+.menu_row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: stretch;
+
+  @include screen-lg {
+    min-height: 366px;
+  }
+}
+
+.logo {
+  display: block;
+  margin-bottom: 20px;
+  width: 88px;
+  height: 24px;
+  background-image: url("/logo/logo.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top left;
+  user-select: none;
+
+  @media screen and (max-width: $screen-sm) {
+    background-image: url("/logo/logo_small.svg");
+  }
+}
+
+.social_wrapper {
+  column-gap: 16px;
+
+  .social_icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: var(--dark-2);
+  }
+}

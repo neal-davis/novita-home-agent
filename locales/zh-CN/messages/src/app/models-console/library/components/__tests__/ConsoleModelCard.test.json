@@ -1,0 +1,6 @@
+{
+  "legacyLlmCard": "旧版 LLM 卡片",
+  "multimodalCardTestModel": "多模态卡片测试模型",
+  "multimodalNonTextOnlyCard": "多模态非纯文本卡片",
+  "tieredLlmCard": "分层 LLM 卡片"
+}

@@ -1,0 +1,14 @@
+{
+  "application": "Aplicación",
+  "deployServerless": "Desplegar Serverless",
+  "explore": "Explorar",
+  "gpus": "GPUS",
+  "image": "Imagen",
+  "instances": "Instancias",
+  "jobs": "Trabajos",
+  "serverless": "Serverless",
+  "settings": "Configuración",
+  "storage": "Almacenamiento",
+  "templates": "Plantillas",
+  "templateslibrary": "Biblioteca de plantillas"
+}

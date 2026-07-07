@@ -1,0 +1,135 @@
+.empty_state {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 12px;
+  background-color: var(--brand-3);
+  border-radius: 8px;
+  border: 1px solid var(--brand-0);
+
+  .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    background-color: var(--brand-2);
+    border-radius: 4px;
+    flex-shrink: 0;
+  }
+
+  .title {
+    @include font-subtle-medium;
+    color: var(--black);
+  }
+
+  .description {
+    margin-top: 2px;
+    @include font-small-console;
+    color: var(--dark-2);
+  }
+}
+
+.card_item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  border-radius: 8px;
+  border: 1px solid var(--gray-2);
+  gap: 12px;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+
+  .card_label {
+    @include font-subtle-medium;
+    color: var(--black);
+    flex-shrink: 0;
+  }
+
+  .remove_btn {
+    flex-shrink: 0;
+    height: 32px;
+    padding: 0 16px;
+  }
+}
+
+.dialog_content {
+  width: 390px;
+
+  .dialog_title {
+    @include font-body-medium;
+    color: var(--dark-1);
+  }
+
+  .dialog_description {
+    margin-bottom: 12px;
+    @include font-subtle;
+    color: var(--black);
+  }
+
+  .dialog_footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+    margin-top: 20px;
+  }
+}
+
+.card_details {
+  display: flex;
+  width: 340px;
+  padding: 8px 12px;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--gray-3);
+  border: 1px solid var(--gray-2);
+  border-radius: 4px;
+
+  .card_info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+
+    .icon {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 24px;
+      height: 16px;
+      flex-shrink: 0;
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+      }
+    }
+
+    .card_number {
+      @include font-subtle-medium;
+      color: var(--black);
+    }
+  }
+
+  .card_expire {
+    @include font-small-console;
+    color: var(--dark-1);
+  }
+}
+
+.warning_message {
+  margin: 12px 0;
+  padding: 4px;
+  max-width: 340px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background-color: var(--red-7);
+  border-radius: 4px;
+
+  .warning_text {
+    @include font-small-console;
+    color: var(--dark-2);
+  }
+}

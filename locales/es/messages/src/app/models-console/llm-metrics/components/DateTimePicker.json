@@ -1,0 +1,17 @@
+{
+  "datePicker": "Selector de fecha:",
+  "endTime": "Hora de finalización:",
+  "message10m": "10M",
+  "message12h": "12H",
+  "message1d": "1D",
+  "message1h": "1H",
+  "message30m": "30M",
+  "message3d": "3D",
+  "message3h": "3H",
+  "message5m": "5M",
+  "message7d": "7D",
+  "pickADate": "Selecciona una fecha",
+  "quickSelect": "Selección rápida:",
+  "startTime": "Hora de inicio:",
+  "utc0": "UTC+0"
+}

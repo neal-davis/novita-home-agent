@@ -1,0 +1,310 @@
+"use client";
+import { reportInternalEvent } from "@/api/config";
+import {
+  AUTH_RESULT,
+  AUTH_RESULT_SUCCESS,
+  AUTH_IS_NEW_REGISTER,
+  AUTH_RESULT_FAILED,
+  AUTH_FAILED_REASON,
+} from "@/constants/auth";
+import { dataLayerPushEvent, GA_ENVENT } from "@/lib/event";
+import { useAppSelector } from "@/store";
+import { message } from "@/components/ui/standard/notify";
+import { useSearchParams } from "next/navigation";
+import { useEffect, useRef } from "react";
+const errorReasonMap = {
+  GET_TOKEN_FAILED: "Failed to obtain token",
+  FORBIDDEN: "No permissions",
+  UNAUTHORIZED: "Not recognized",
+  USER_ALREADY_EXISTS: "The user already exists",
+  INVALID_USER_OR_PASSWORD: "Username or password is incorrect",
+  INVALID_CODE: "The verification code is incorrect",
+  USER_NOT_FOUND: "The user ${0} not exists",
+  USER_PHONE_NOT_CONSIST: "The user's mobile number does not match",
+  USERNAME_FORMAT_ERROR: "The format of username is incorrect",
+  SEND_CODE_TOO_FAST: "Verification code sent too frequently",
+  INVALID_PUBLIC_KEY: "The public key format is incorrect",
+  RESOURCE_NOT_FOUND: "Resource does not exist",
+  CONFLICT: "Resource conflict",
+  VALIDATOR_PARAM: "Parameter validation error",
+  REQUEST: "Request error",
+  OPERATION_LIMIT: "Operation restriction error",
+  INSUFFICIENT_RESOURCE: "Insufficient resources",
+  CLUSTER_STATUS: "Cluster status error",
+  NODE_STATUS: "The node state is incorrect",
+  DEPENDENT_RESOURCE_STATE: "Reliance on the wrong state of the resource",
+  PREPAID_INSTANCE_NOT_SUPPORT_RELEASE:
+    "Prepaid instances do not currently support release",
+  WALLET_NOT_FOUND: "The wallet does not exist",
+  WALLET_UNSUPPORT_RECHARGE_METHOD: "The recharge method is not supported",
+  BALANCE_NOT_ENOUGH: "Insufficient balance",
+  DE_BALANCE_NOT_ENOUGH:
+    "Your account balance is insufficient to complete the transaction. Please top up your account to continue using our services or update your payment method to a valid credit card.",
+  UNSUPPORTED_BILLING_MODE: "Unsupported billing method",
+  EXPIRED_OR_BALANCE_NOT_ENOUGH: "Expired or insufficient balance",
+  SERVERLESS_PRODUCT_NOT_FOUND: "Endpoint product does not exist",
+  NETWORK_STORAGE_TOO_LARGE: "Maximum storage(${0} GB) capacity exceeded",
+  CUR_CLUSTER_NETWORK_STORAGE_NOT_SUPPORT:
+    "The current cluster does not support cloud storage",
+  MIGRATION_JOB_NOT_BREAKABLE: "The migration job can not be interrupted",
+  NETWORK_STORAGE_IN_USE: "Cloud storage in use",
+  IMAGE_NOT_FOUND: "Image does not exist",
+  CREATING_INSTANCE_NOT_SUPPORT_RENEWAL:
+    "Unable to renew during instance creation",
+  NETWORK_STORAGE_UNAVAILABLE: "The network storage is unavailable",
+  CREATE_INSTANCE_LIMIT:
+    "Your voucher and balance do not support creating more instances. Please recharge or stop the current running instances!",
+  BANNED_USER: "Your account has been banned. Please contact the administrator",
+  INVALID_COMMAND_PARAM: "The container startup command parameter is incorrect",
+  IMAGE_AUTH_IN_USE: "The current image auth is being used",
+  UNKNOWN_ERROR: "Unknown error",
+  TASK_FAILED: "Task failed.",
+  TASK_SUCCESS: "Task Success!",
+  LOW_BALANCE: "Low balance.",
+  HOST_UNAVAILABLE: "Host unavailable.",
+  AUTH_FAILED: "Auth failed.",
+  INVALID_PARAMS: "Invalid params.",
+  SAMPLER_NOT_EXIST: "Sampler not exist.",
+  TASK_TIMEOUT: "Task timeout.",
+  TASK_CANCELED: "Task canceled.",
+  NEED_LOGIN: "Need login.",
+  IMAGE_URL_OR_AUTH_ERROR: "Image URL or auth error",
+  IMAGE_TOO_LARGE: "Image size is too large, exceeds limit",
+  IMAGE_PREWARM_NUM_LIMIT: "Image prewarm number exceeds limit",
+  IMAGE_PREWARM_NO_NODES_AVAILABLE: "No available nodes for prewarm",
+  CUDA_VERSION_INCOMPATIBLE: "CUDA version is incompatible",
+  CREATE_GPU_NUM_LIMIT:
+    "You have reached the current upper limit of GPU quota for concurrent operation: ${0} GPUs. If you need to use more GPU, please contact our technical support.",
+  USER_NOT_ACTIVATED: "The user is not activated",
+  USER_ALREADY_ACTIVATED: "The user is already activated",
+  INVALID_USER_TOKEN: "The user token is invalid",
+  VERIFY_TOKEN_FAILED: "Verify token failed",
+  AUTH_UNSUPPORTED_PROVIDER: "The auth provider is unsupported",
+  INSTANCE_LOCAL_STORAGE_NOT_FOUND: "Can not find local storage",
+  ORDER_NOT_FOUND: "Can not find the order",
+  SAVING_PLAN_ALREADY_EXISTS: "Saving plan is already existed",
+  TOPUP_UNSUPPORTED_CHANNEL: "The topup channel is unsupported",
+  SEND_MSG_ERROR: "Message sending error",
+  VALIDATOR: "The parameter is not validated",
+  EMAIL_INVALID: "Please enter a valid email address.",
+  EMAIL_ILLEGAL_ERROR: "The email you provided is not supported",
+  ILLEGAL_PARAMETERS: "The parameters are illegal",
+  DB_ERROR: "There are some errors occured",
+  PASSWORD_ERROR: "Password error",
+  GENERATE_TOKEN_ERROR: "Generate token error",
+  USER_NOT_ACTIVED: "The user is not actived",
+  NOT_FOUNT: "Can not find the resource",
+  SERVICE_ERROR: "There are some errors occured",
+  SERVER_ERROR: "There are some errors occured",
+  LIMIT_EXCEEDED_ERROR: "Exceeded limit error",
+  MOBILE_PHONE_ERROR: "The phone no is not illegal",
+  VERIFICATION_CODE_EXPIRED: "The verification code is expired",
+  VERIFICATION_CODE_ERROR: "The verification code is wrong",
+  SEND_SMS_ERROR: "SMS sending error",
+  SEND_QUEUE_ERROR: "Sending queue error",
+  CLOUDFLARE_CHECK_ERROR: "Cloudflare check error",
+  STRIPE_NEW_CUSTOMER_FAILED: "Stripe create user failed",
+  STRIPE_CHECKOUT_SESSION_FAILED: "Stripe pay failed",
+  STRIPE_NEW_PAYMENT_ALREADY_EXISTS: "Stripe payment is already existed",
+  STRIPE_DETACH_PAYMENT_FAILED: "Stripe payment detach failed",
+  STRIPE_CUSTOMER_NOT_FOUND: "Stripe user is not existed",
+  STRIPE_PAYMENT_METHOD_NOT_FOUND: "Stripe payment method is not existed",
+  STRIPE_PAYMENT_INITENT_FAILED: "Stripe payment initent failed",
+  STRIPE_PAYMENT_INTENT_NOT_FOUND: "Stripe payment initent is not existed",
+  AUTO_RECHARGE_NOT_FOUND: "Auth recharge failed",
+  ENTERPRISE_PLAN_NOT_FOUND: "The enterprise plan is not existed",
+  ENTERPRISE_PLAN_SAVE_ERROR: "The enterprise plan save error",
+  SUBMISSION_HAS_EXISTS: "The submission is existed",
+  FIND_WHITE_LIST_ERROR: "Error occured when finding white list",
+  NO_PERMISSION: "There is no permission",
+  UPDATE_SUBMISSION_STATUS_ERROR: "Update submission status error",
+  UPDATE_SUBMISSION_INFO_ERROR: "Update submission info error",
+  UPDATE_SUBMISSION_List_ERROR: "Update submission list error",
+  RECORD_USER_ERROR: "EP user is not existed",
+  COUPON_NOT_EXISTS: "The coupon is not existed",
+  COUPON_USER_ERROR: "The coupon user is not existed",
+  COUPON_PLAN_ERROR: "Coupon plan error",
+  COUPON_TIME_ERROR: "The coupon time is wrong",
+  COUPON_HAS_USED: "The coupon has been used",
+  CONFIGURATION_MARSHAL_ERROR: "Configuration marshal error",
+  FIND_SUBMISSION_ERROR: "Submission error",
+  NOT_ENTERPRISE_USER: "Not enterprise user error",
+  TOO_MUCH_KEYS: "Each account can only generate a maximum of 10 keys",
+  GET_USER_FAILED: "Get current user failed",
+  MISSING_API_KEY: "The API key is missing",
+  INVALID_API_KEY: "The API key is invalid",
+  FEATURE_NOT_ALLOWED: "The feature is not allowed",
+  API_NOT_ALLOWED: "The API is not allowed",
+  MODEL_BASIC_NOT_FOUND: "Can not find the model basic",
+  GET_MODEL_FAILED: "Get model failed",
+  CREATE_MODEL_FAILED: "Create model failed",
+  MODEL_NOT_FOUND: "The model is not found",
+  INVALID_MODEL_PARAMS: "The model params is invalid",
+  MODEL_ALREADY_EXISTED: "The model is already existed",
+  FAILED_CHECK_UPLOAD_POLICY: "Failed to check upload policy",
+  CREATE_EP_CONFIG_FAILED: "Create EP config failed",
+  ANONYMOUS_ACCESS_QUOTA_EXCEEDS: "Anonymous access quota exceeds",
+  BILLING_FAILED: "Billing failed",
+  BILLING_AUTH_FAILED: "Billing auth failed",
+  BILLING_BALANCE_NOT_ENOUGH: "Billing balance is not enough",
+  LIST_BILL_ERROR: "Billing failed",
+  LIST_BILL_TOO_FAST: "Billing frequency exceeds the limit",
+  INVALID_REQUEST_BODY: "The request body is invalid",
+  IMAGE_FILE_EXCEEDS_MAX_SIZE: " The image file exceeds max size",
+  INVALID_IMAGE_FORMAT: "The image format is invalid",
+  IMAGE_EXCEEDS_MAX_RESOLUTION: "The image exceeds max resolution",
+  INTERNAL: "",
+  INVALID_IMAGE_SIZE: "The image size is invalid",
+  API_NOT_FOUND: "API not found",
+  IMAGE_NO_FACE_DETECTED: "No face detected in the image",
+  INVALID_CUSTOM_OUTPUT_PATH: "The custom output path is invalid",
+  ILLEGAL_PROMPT: "The prompt is illegal",
+  ILLEGAL_IMAGE_CONTENT: "The image content is illegal",
+  FILE_EXCEEDS_MAX_SIZE: "The file exceeds max size",
+  INVALID_AUDIO_FILE: "The audio file is invalid",
+  EXCEEDS_MAX_UPLOAD_QUOTA: "Exceeds max upload quota",
+  DELETE_MODEL_FAILED: "Delete model failed",
+  CREATE_TASK_FAILED: "Create task failed",
+  TASK_NOT_FOUND: "The task is not found",
+  GET_RESULT_FAILED: "Get result failed",
+  LIST_TASK_FAILED: "List task failed",
+  TASK_NAME_EXISTED: "The task name is existed",
+  BASE_MODEL_NOT_ALLOWD: "Base model is not allowed",
+  QUERY_TASK_STATUS_FAILED: "Query task status failed",
+  FREE_TRIAL_QUOTA_EXCEEDS: "Free trial quota exceeds",
+  EMPTY_IMAGE_CAPTION: "Empty image caption",
+  GET_QUEUE_STATUS_FAILED: "Get queue status failed",
+  BALANCE_WARNING_LIMIT:
+    "Balance warning count limit or balance warning open count limit or threshold interval is smaller than 5",
+  USER_IS_LOCKED: "User is locked",
+  PAYMENT_METHOD_LIMIT_EXCEEDED:
+    "You've reached the maximum limit for updating your credit card. The last removal attempt failed because of this limit. You can remove the card again next month.",
+  NOT_IN_TEAM: "User is not in the team",
+  ROLE_NAME_ERROR: "Role name is invalid",
+  USER_ALREADY_HAS_TEAM: "User has already created a team",
+  TEAM_NAME_ALREADY_EXISTS: "Team name already exists",
+  PERMISSION_DENIED: "Permission denied",
+  EMAILS_TOO_MANY: "Too many emails",
+  EMAILS_EMPTY: "Email list is empty",
+  INVITE_ID_EMPTY: "Invite ID is empty",
+  MEMBER_ALREADY_IN_TEAM:
+    "The user is already a team member, no need to invite again",
+  INVITE_TOKEN_PARSE_FAILED: "Invite link parsing failed",
+  INVITE_TOKEN_EXPIRED: "Invite expired",
+  INVITE_TOKEN_NOT_FOUND: "Invite not found",
+  INVITE_TOKEN_SUSPEND: "Invite suspended",
+  INVITE_TOKEN_CANCELED: "Invite canceled",
+  INVITE_RECORD_NOT_FOUND: "Invite record not found",
+  PHONES_TOO_MANY: "Too many phones",
+  PHONES_EMPTY: "Phone list is empty",
+  TEAM_MEMBER_LIMIT: "Team size limit exceeded.",
+  TEAM_COUNT_LIMIT: "Team count limit reached",
+  MAX_INVITE_PER_DAY: "Max invite per day limit reached",
+  MAX_INVITE_PER_ACCOUNT: "User has reached the limit of being invited",
+  IDENTIFY_NOT_DONE: "Identify not done, cannot perform this operation",
+  GOOGLE_ACCOUNT_NOT_SUPPORT:
+    "Your Google account is not supported. Please switch to another account.",
+  GITHUB_ACCOUNT_NOT_SUPPORT:
+    "Your Github account is not supported. Please switch to another account.",
+  RATE_LIMIT_EXCEEDED:
+    "You have exceeded the GPU instance quota. Please contact support to request an increase in your quota limit.",
+  GITHUB_ACCOUNT_ALREADY_EXISTS:
+    "Your GitHub account has already been linked to another account.",
+  PAYMENT_METHOD_ALREADY_EXISTS:
+    "Payment method updated. Please refresh the page.",
+  TEMPLATE_IS_PRIVATE: "The template is private",
+  TEMPLATE_NOT_FOUND: "This template is no longer available",
+  CLOUDFLARE_VALIDATE_ERROR: "Registration blocked for security reasons.",
+  CLOUDFLARE_RATE_LIMIT:
+    "Too many sign-ups from this domain. Please try again later.",
+  BUDGET_NOT_ENOUGH: "Insufficient account balance",
+  NOT_ENOUGH_BALANCE: "Insufficient account balance",
+  NOT_ENOUGH_BUDGET: "Insufficient budget",
+  MEMBER_BUDGET_NOT_ENOUGH: "Insufficient budget",
+  "BUDGET_LIMIT_TOO_SMALL ": "Budget cannot be set below the amount used",
+  HUGGING_FACE_TOKEN_INVALID: "The Hugging Face token is invalid",
+  REDEEM_CODE_INVALID: "Invalid redeem code",
+  REDEEM_CODE_ALREADY_REDEEMED: "This code has already been redeemed",
+  REDEEM_CODE_CAMPAIGN_NOT_STARTED: "This campaign has not started yet",
+  REDEEM_CODE_CAMPAIGN_EXPIRED: "This campaign has expired",
+  REDEEM_CODE_USER_ALREADY_REDEEMED:
+    "You have already redeemed a code for this campaign",
+  REDEEM_CODE_RATE_LIMITED: "Too many redeem attempts, please try again later",
+};
+export function useOauthEvent() {
+  const search = useSearchParams();
+  const uid = useAppSelector((state) => state.user.uid);
+  const uuid = useAppSelector((state) => state.user.uuid);
+  const authResult = search.get(AUTH_RESULT);
+  const isReg = search.get(AUTH_IS_NEW_REGISTER);
+  const failedReason = search.get(AUTH_FAILED_REASON);
+  const reportedAuthEventKeyRef = useRef("");
+  const reportedInternalLoginKeyRef = useRef("");
+
+  useEffect(() => {
+    if (authResult === AUTH_RESULT_SUCCESS) {
+      const authEventKey = `${authResult}:${isReg}`;
+      if (reportedAuthEventKeyRef.current === authEventKey) {
+        return;
+      }
+      reportedAuthEventKeyRef.current = authEventKey;
+
+      // report third party event
+      try {
+        setTimeout(() => {
+          if (isReg == "true") {
+            dataLayerPushEvent({
+              event: GA_ENVENT.SIGN_UP_SUCCESS,
+            });
+          } else {
+            dataLayerPushEvent({
+              event: GA_ENVENT.SIGN_IN_SUCCESS,
+            });
+          }
+        }, 800);
+      } catch (e) {
+        console.error("report event error", e);
+      }
+      if (isReg === "true") {
+        // is new register user
+      }
+    }
+    if (authResult === AUTH_RESULT_FAILED && failedReason) {
+      const authEventKey = `${authResult}:${failedReason}`;
+      if (reportedAuthEventKeyRef.current === authEventKey) {
+        return;
+      }
+      reportedAuthEventKeyRef.current = authEventKey;
+
+      // message
+      if (
+        errorReasonMap &&
+        errorReasonMap[failedReason as keyof typeof errorReasonMap]
+      ) {
+        message.error(
+          errorReasonMap[failedReason as keyof typeof errorReasonMap],
+        );
+      } else {
+        message.error("Auth failed");
+      }
+    }
+  }, [authResult, isReg, failedReason]);
+
+  useEffect(() => {
+    if (authResult === AUTH_RESULT_SUCCESS && uuid && uid) {
+      const internalLoginKey = `${authResult}:${uid}:${uuid}`;
+      if (reportedInternalLoginKeyRef.current === internalLoginKey) {
+        return;
+      }
+      reportedInternalLoginKeyRef.current = internalLoginKey;
+
+      // report internal event
+      setTimeout(async () => {
+        await reportInternalEvent({
+          uid: String(uid),
+          action: "LOGIN",
+        });
+      });
+    }
+  }, [authResult, uid, uuid]);
+}

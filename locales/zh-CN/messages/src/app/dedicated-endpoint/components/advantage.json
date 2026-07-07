@@ -1,0 +1,17 @@
+{
+  "billedPerTokenWithAMinimum": "按 token 计费，并设有每日最低 token 承诺量。",
+  "contactSales": "联系销售",
+  "customPricing": "自定义定价",
+  "customSlasForUptimeLatencyThroughput": "针对正常运行时间、延迟和吞吐量的自定义 SLA。",
+  "dedicatedComputeClusters": "专用计算集群",
+  "dynamicAutoScaling": "动态自动扩缩容",
+  "enterpriseGradeModelMonitoringAndServices": "企业级模型监控与服务。",
+  "enterpriseGradePerformanceInfiniteScaleAnd": "企业级性能、无限扩展和零运维",
+  "guaranteedUptimeSlas": "有保障的正常运行时间 SLA",
+  "handleTrafficSpikesInstantlyNoManual": "即时处理流量峰值，无需手动预置。",
+  "llmsEnterprise": "LLMs 企业版",
+  "message247EnterpriseSupport": "7×24 小时企业支持",
+  "payAsYouGo": "按需付费",
+  "payForYourPerformanceNotIdle": "为性能付费，而不是为空闲 GPUs 付费。",
+  "zeroSharedResourcesPhysicalIsolationFor": "零共享资源，为您的模型/数据提供物理隔离。"
+}

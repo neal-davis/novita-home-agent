@@ -1,0 +1,14 @@
+{
+  "autoscalingChangesTakeEffectWithin5": "Los cambios de escalado automático surten efecto en 5 minutos",
+  "autoscalingConfiguration": "Configuración de escalado automático",
+  "cancel": "Cancelar",
+  "disabled": "Deshabilitado",
+  "edit-530164": "Editar",
+  "edit-a15b1c": "Editar (",
+  "enabled": "Habilitado",
+  "maxReplicas": "Réplicas máximas",
+  "minReplicas": "Réplicas mínimas",
+  "save": "Guardar",
+  "scaleDownDelay": "Retraso de reducción de escala",
+  "scaleToZero": "Escalado a cero"
+}

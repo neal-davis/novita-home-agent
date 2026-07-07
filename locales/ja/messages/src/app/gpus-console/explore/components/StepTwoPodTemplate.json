@@ -1,0 +1,13 @@
+{
+  "capacityHasExceededTheLimitPlease": "容量が上限を超えました。お問い合わせください：",
+  "containerDisk": "コンテナディスク",
+  "createVolume": "+ ボリュームを作成",
+  "free": "無料",
+  "gb": "GB",
+  "networkMountPath": "ネットワークマウントパス",
+  "networkVolume": "ネットワークボリューム",
+  "podTemplate": "Pod テンプレート",
+  "support": "サポート",
+  "updateTemplateNow": "今すぐテンプレートを更新",
+  "yourTemplateCurrentlyIncludesVolumeDisk": "現在のテンプレートには Volume Disk のマウントが含まれていますが、これはサポートされなくなりました（Container Disk が拡張されました）。テンプレートを更新して Volume Disk のマウント設定を削除し、データを Container Disk に保存してください。"
+}

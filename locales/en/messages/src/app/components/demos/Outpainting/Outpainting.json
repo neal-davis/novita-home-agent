@@ -1,0 +1,8 @@
+{
+  "back": "Back",
+  "cancel": "Cancel",
+  "download": "Download",
+  "generate": "Generate",
+  "theCenterOfTheCropShould": "The center of the crop should not be outside of the image",
+  "theWidthAndHeightOfThe": "The width and height of the crop should be between 256 and 1024."
+}

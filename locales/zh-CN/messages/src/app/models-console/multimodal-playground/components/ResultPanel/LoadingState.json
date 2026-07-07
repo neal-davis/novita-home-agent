@@ -1,0 +1,8 @@
+{
+  "cancel": "取消",
+  "cancellationMayStillIncurCharges": "取消仍可能产生费用",
+  "cancellingWillStopFurtherProcessingBut": "取消将停止后续处理，但如果任务已进入生成阶段，仍可能收取全额费用。请在取消前确认。",
+  "confirm": "确认",
+  "generating": "正在生成...",
+  "submittingTask": "正在提交任务..."
+}

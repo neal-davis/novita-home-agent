@@ -1,0 +1,11 @@
+{
+  "apiImg2video": "API 图像转视频",
+  "apiImg2videoMotion": "API 图像转视频-motion",
+  "apiTxt2video": "API 文本转视频",
+  "creditCost": "积分消耗",
+  "frames": "帧数 -",
+  "maxTrainSteps": "最大训练步数 -",
+  "models": "模型 -",
+  "steps": "步数 -",
+  "videoApi": "视频 API"
+}

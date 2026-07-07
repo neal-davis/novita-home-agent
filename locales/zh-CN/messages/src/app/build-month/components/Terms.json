@@ -1,0 +1,15 @@
+{
+  "message1EligibilityScope": "1. 资格与范围",
+  "message2GpuInstanceDiscountRules": "2. GPU 实例折扣规则",
+  "message3UsageTimingBilling": "3. 使用计时与计费",
+  "message4CombiningDiscounts": "4. 折扣叠加",
+  "message5CapacityAvailabilityChanges": "5. 容量、可用性与变更",
+  "message6FairUseAbusePrevention": "6. 公平使用与滥用防范",
+  "message7PaymentChargebacksDisputes": "7. 付款、拒付与争议",
+  "message8ModificationOrSuspension": "8. 修改或暂停",
+  "message9AcceptanceOfTerms": "9. 条款接受",
+  "novitaAiMayRestrictOrRevoke": "对于存在滥用或异常活动的账户，Novita AI 可能会限制或撤销促销价格，包括但不限于：",
+  "relatedAccountsSharedBillingPaymentMethods": "关联账户（共享账单、付款方式或组织所有权）在折扣资格认定中可能会被视为单一实体。",
+  "termsRestrictions": "条款与限制",
+  "theBuildMonthPromotionPromotionIs": "Build Month 促销活动（\"Promotion\"）有效期为 2025 年 11 月 24 日至 2025 年 12 月 31 日太平洋标准时间晚上 11:59。参与即表示您同意以下条款："
+}

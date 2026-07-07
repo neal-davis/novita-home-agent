@@ -1,0 +1,9 @@
+{
+  "cacheRead": "Cache Read",
+  "cacheWrite1h": "Cache Write(1h)",
+  "cacheWrite5m": "Cache Write(5m)",
+  "context": "Context",
+  "input": "Input",
+  "maxOutput": "Max Output",
+  "output": "Output"
+}

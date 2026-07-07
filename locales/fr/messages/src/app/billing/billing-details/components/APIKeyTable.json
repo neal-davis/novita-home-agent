@@ -1,0 +1,17 @@
+{
+  "all": "Tous",
+  "day": "Jour",
+  "export": "Exporter",
+  "groupBy": "Regrouper par",
+  "imageVideo": "Image/Vidéo",
+  "modelName": "Nom du modèle",
+  "month": "Mois",
+  "noData": "Aucune donnée !",
+  "productType": "Type de produit",
+  "selectCategory": "Sélectionner une catégorie",
+  "theQueryTimeRangeCannotBe": "La plage horaire de la requête ne peut pas être antérieure au 2026-01-01",
+  "theQueryTimeRangeCannotExceed": "La plage horaire de la requête ne peut pas dépasser 31 jours",
+  "theStartTimeCannotBeLater": "L’heure de début ne peut pas être postérieure à l’heure de fin",
+  "timeRange": "Plage de temps",
+  "week": "Semaine"
+}

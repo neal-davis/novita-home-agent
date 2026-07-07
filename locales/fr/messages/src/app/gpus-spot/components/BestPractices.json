@@ -1,0 +1,12 @@
+{
+  "adoptMixedStrategies": "Adopter des stratégies mixtes",
+  "bestPractices": "Bonnes pratiques",
+  "breakJobsIntoSmallerUnitsWith": "Diviser les tâches en unités plus petites avec reprise/nouvelle tentative",
+  "designRetryableWorkloads": "Concevoir des charges de travail relançables",
+  "enableCheckpointing": "Activer les points de contrôle",
+  "noticeSpotIsBestForFlexible": "Remarque : Spot convient mieux aux charges de travail flexibles. Utilisez le mode à la demande ou réservé pour les applications critiques.",
+  "respondQuickly": "Répondre rapidement",
+  "runCriticalWorkloadsOnOnDemand": "Exécuter les charges de travail critiques à la demande, décharger les charges flexibles vers Spot",
+  "saveTrainingStateRegularlyToPersistent": "Enregistrer régulièrement l’état de l’entraînement dans un stockage persistant",
+  "useTerminationNotificationsToTriggerBackup": "Utiliser les notifications de résiliation pour déclencher une logique de sauvegarde ou d’arrêt"
+}

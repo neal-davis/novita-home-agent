@@ -1,0 +1,87 @@
+.campaign_container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 24px;
+  padding-right: 12px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.campaign_badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px 16px;
+  @include font-table-item;
+  color: var(--white);
+  border-radius: 12px;
+  border: 1px solid #2133ff;
+  background:
+    linear-gradient(129deg, #23c1ff -18.06%, #9e18dc 133.18%),
+    linear-gradient(120deg, #09bfdf 6.54%, #5323af 56.3%, #b426a3 106.11%),
+    #23d57c;
+  flex-shrink: 0;
+}
+
+.campaign_entry {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  @include font-subtle;
+  color: transparent;
+  background: linear-gradient(
+    195.58deg,
+    #09bfdf 8.79%,
+    #5323af 45.38%,
+    #b426a3 99.59%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: opacity 0.3s ease;
+  position: relative;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 1px;
+    background: linear-gradient(
+      195.58deg,
+      #09bfdf 8.79%,
+      #5323af 45.38%,
+      #b426a3 99.59%
+    );
+  }
+
+  span {
+    margin-left: 3px;
+    padding-right: 2px;
+    background: linear-gradient(
+      195.58deg,
+      #09bfdf 8.79%,
+      #5323af 45.38%,
+      #b426a3 99.59%
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: slideRecover 0.3s linear forwards;
+  }
+
+  &:hover {
+    opacity: 0.8;
+
+    span {
+      animation: slideOut 0.3s linear forwards;
+    }
+  }
+}
+
+@include slideOut;
+@include slideRecover;

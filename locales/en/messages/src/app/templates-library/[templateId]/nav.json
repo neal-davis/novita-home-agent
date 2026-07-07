@@ -1,0 +1,14 @@
+{
+  "applicatioin": "Applicatioin",
+  "deployInstance": "Deploy Instance",
+  "deployServerless": "Deploy Serverless",
+  "imagePrewarm": "Image Prewarm",
+  "instances": "Instances",
+  "jobs": "Jobs",
+  "myEndpoints": "My Endpoints",
+  "myInstances": "My Instances",
+  "networkVolume": "Network Volume",
+  "other": "Other",
+  "settings": "Settings",
+  "templatesLibrary": "Templates Library"
+}

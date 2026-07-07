@@ -1,0 +1,14 @@
+{
+  "cancel": "取消",
+  "crop": "裁剪",
+  "estimatedCost": "预估费用：",
+  "generate": "生成",
+  "model": "模型",
+  "originalResolution": "原始分辨率",
+  "resizeMode": "调整大小模式",
+  "seed": "种子",
+  "steps": "步数",
+  "svd": "SVD",
+  "svdXt": "SVD-XT",
+  "theImageResolutionShouldBeLess": "如果选择“原始分辨率”作为调整大小模式，图像分辨率应小于 576 * 1024。"
+}

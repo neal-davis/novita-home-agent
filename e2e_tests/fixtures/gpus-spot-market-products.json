@@ -1,0 +1,145 @@
+{
+  "products": [
+    {
+      "productName": "RTX 5090 32GB",
+      "productId": "5090.16c96g.os",
+      "gpuMemory": 32,
+      "cpuNum": 16,
+      "memory": 96,
+      "maxGpuNumber": 8,
+      "availableGpuNumber": 0,
+      "freeStorage": 60,
+      "freeRootFS": 60,
+      "instancePrice": {
+        "price": "73000",
+        "discount": "73000",
+        "dayPrice": "0",
+        "weekPrice": "0",
+        "monthPrice": "0"
+      },
+      "storagePrice": {
+        "price": "500",
+        "discount": "500"
+      },
+      "sortedWeight": 31,
+      "savingPlan": [],
+      "monthlyPrice": [
+        {
+          "price": "49932000",
+          "basePrice": "49932000",
+          "month": 1,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-5090-10"
+        }
+      ],
+      "gpuSpecId": "5090",
+      "gpuNum": 1,
+      "instanceSpotPrice": {
+        "price": "36500",
+        "discount": "36500",
+        "dayPrice": "0",
+        "weekPrice": "0",
+        "monthPrice": "0"
+      },
+      "billingMethods": ["onDemand", "spot"],
+      "cloudServiceType": "Center",
+      "inventoryState": "none",
+      "stock": "0",
+      "canBuy": true
+    },
+    {
+      "productName": "RTX 4090 24GB",
+      "productId": "4090.16c125g.nas",
+      "gpuMemory": 24,
+      "cpuNum": 16,
+      "memory": 125,
+      "maxGpuNumber": 8,
+      "availableGpuNumber": 0,
+      "freeStorage": 60,
+      "freeRootFS": 60,
+      "instancePrice": {
+        "price": "67000",
+        "discount": "67000",
+        "dayPrice": "0",
+        "weekPrice": "0",
+        "monthPrice": "0"
+      },
+      "storagePrice": {
+        "price": "500",
+        "discount": "500"
+      },
+      "sortedWeight": 18,
+      "savingPlan": [],
+      "monthlyPrice": [
+        {
+          "price": "43416000",
+          "basePrice": "43416000",
+          "month": 1,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-4090-10"
+        }
+      ],
+      "gpuSpecId": "4090",
+      "gpuNum": 1,
+      "instanceSpotPrice": {
+        "price": "33500",
+        "discount": "33500",
+        "dayPrice": "0",
+        "weekPrice": "0",
+        "monthPrice": "0"
+      },
+      "billingMethods": ["onDemand", "spot"],
+      "cloudServiceType": "Center",
+      "inventoryState": "none",
+      "stock": "0",
+      "canBuy": true
+    },
+    {
+      "productName": "H100 SXM 80GB",
+      "productId": "H100-80GB.16c128g",
+      "gpuMemory": 80,
+      "cpuNum": 16,
+      "memory": 128,
+      "maxGpuNumber": 8,
+      "availableGpuNumber": 0,
+      "freeStorage": 60,
+      "freeRootFS": 60,
+      "instancePrice": {
+        "price": "259000",
+        "discount": "259000",
+        "dayPrice": "0",
+        "weekPrice": "0",
+        "monthPrice": "0"
+      },
+      "storagePrice": {
+        "price": "500",
+        "discount": "500"
+      },
+      "sortedWeight": 0,
+      "savingPlan": [],
+      "monthlyPrice": [
+        {
+          "price": "177156000",
+          "basePrice": "177156000",
+          "month": 1,
+          "pricePrecision": 10,
+          "monthSpecId": "monthly-gpu_instance-H100-80GB-4"
+        }
+      ],
+      "gpuSpecId": "H100-80GB",
+      "gpuNum": 1,
+      "instanceSpotPrice": {
+        "price": "129500",
+        "discount": "129500",
+        "dayPrice": "0",
+        "weekPrice": "0",
+        "monthPrice": "0"
+      },
+      "billingMethods": ["onDemand", "spot"],
+      "cloudServiceType": "Global",
+      "inventoryState": "none",
+      "stock": "0",
+      "canBuy": true
+    }
+  ]
+}

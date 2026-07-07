@@ -1,0 +1,21 @@
+{
+  "agentSandbox": "Sandbox de Agente",
+  "baseUrl": "BASE_URL",
+  "dedicatedEndpoints": "Endpoints Dedicados",
+  "exploreAllModels": "Explorar Todos os Modelos",
+  "getStarted": "Começar",
+  "gpuCloud": "Nuvem de GPU",
+  "model": "MODELO",
+  "modelApis-10b567": "APIs DE MODELO",
+  "modelApis-8d449d": "APIs de Modelo",
+  "noInfrastructureToManage": "Nenhuma infraestrutura para gerenciar.",
+  "operational": "OPERACIONAL",
+  "privateEndpointsGuaranteedPerformanceNoNoisy": "Endpoints privados. Desempenho garantido. Sem vizinhos barulhentos.",
+  "productNavigation": "Navegação do produto",
+  "productionReadyYouCallItWe": "pronto para produção. Você chama, nós executamos. Cobrado por",
+  "run200ModelsThroughASingle": "Execute mais de 200 modelos por meio de uma única API.",
+  "serverlessModelApis": "APIs de Modelo sem Servidor",
+  "textImageAudioVideoAllServerless": "Texto, imagem, áudio, vídeo — tudo sem servidor, tudo",
+  "tokenNotTheHour": "token, não por hora.",
+  "yourModelYourComputeIsolatedResources": "Seu modelo. Sua computação. Recursos isolados significam latência consistente em qualquer throughput. Porque produção não tem orçamento para novas tentativas."
+}

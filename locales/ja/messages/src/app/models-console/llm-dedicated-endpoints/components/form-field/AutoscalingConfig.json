@@ -1,0 +1,15 @@
+{
+  "autoscaling": "オートスケーリング",
+  "autoscalingHandlesHighlyVariableTrafficWhile": "オートスケーリングは、アイドル状態のコンピューティングリソースへの支出を最小限に抑えながら、変動の大きいトラフィックに対応します。",
+  "max": "～ 最大:",
+  "min": "最小:",
+  "min300s": "最小: 300秒",
+  "numberOfReplicas": "レプリカ数:",
+  "off": "オフ",
+  "on": "オン",
+  "replicaRange": "レプリカ範囲:",
+  "scaleDownDelay": "スケールダウン遅延:",
+  "scaleToZeroIsEnabled": "Scale-to-Zero が有効です",
+  "sec": "秒",
+  "yourEndpointHasADefaultMinimum": "エンドポイントにはデフォルトで最小 1 レプリカが設定されており、アイドル時には自動的にスリープします。コールドスタート時間はモデルのサイズによって異なりますが、通常は数分かかります。"
+}

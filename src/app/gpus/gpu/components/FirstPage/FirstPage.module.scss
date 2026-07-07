@@ -1,0 +1,52 @@
+.page_wrapper {
+  padding-top: calc(var(--header-height) + 132px);
+  padding-bottom: 60px;
+  background-image: url(/gpu-instance/gpu-landingpage/bg.png);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+
+  @media screen and (max-width: 768px) {
+    padding-top: calc(var(--header-height) + 150px);
+  }
+}
+
+.title {
+  @include font-h1;
+  text-align: center;
+}
+.desc {
+  margin-top: 20px;
+  text-align: center;
+  max-width: 1150px;
+  margin-left: auto;
+  margin-right: auto;
+  @include font-h5;
+}
+
+.buttons {
+  margin-top: 42px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.firstCard {
+  text-align: center;
+  font-style: normal;
+  .bigTitle {
+    color: #000;
+    font-size: 70px;
+    font-weight: 600;
+    line-height: 58px;
+  }
+  .subTitle {
+    margin-top: 30px;
+    color: #696969;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+  }
+}

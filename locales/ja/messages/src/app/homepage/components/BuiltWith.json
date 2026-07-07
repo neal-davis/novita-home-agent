@@ -1,0 +1,17 @@
+{
+  "agentNativeCliForEveryModel": "あらゆるモデルのためのエージェントネイティブCLI",
+  "builtWithNovitaAi": "Novita AIで構築",
+  "compareMultipleModelsSideBySide": "複数のモデルを並べて比較",
+  "deployHermesAgent": "Hermes Agentをデプロイ",
+  "deployPaddleocrVl15": "PaddleOCR-VL-1.5をデプロイ",
+  "hostClawdbotOpenclaw": "Clawdbot（OpenClaw）をホスト",
+  "inMinutesWithNovitaSandboxTemplate": "Novita Sandbox Templateで数分で",
+  "next": "次へ",
+  "novitaAiXCliAnything": "Novita AI x CLI-Anything",
+  "novitaclaw": "NovitaClaw",
+  "onNovitaGpuCompleteGuide": "Novita GPUでの完全ガイド",
+  "onePrompt": "1つのプロンプト",
+  "previous": "前へ",
+  "runOpenclawInTheCloudWith": "1つのコマンドでOpenClawをクラウド上で実行",
+  "withNovitaSandboxTemplateCompleteGuide": "Novita Sandbox Templateでの完全ガイド"
+}

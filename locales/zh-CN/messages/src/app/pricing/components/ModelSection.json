@@ -1,0 +1,23 @@
+{
+  "actions": "操作",
+  "cacheRead-08ba9a": "· 缓存读取",
+  "cacheRead-e47778": "· 缓存读取",
+  "cacheWrite1h": "· 缓存写入（1 小时）",
+  "cacheWrite5m": "· 缓存写入（5 分钟）",
+  "cachedReads": "缓存读取",
+  "cachedWrites1h": "缓存写入（1 小时）",
+  "cachedWrites5m": "缓存写入（5 分钟）",
+  "context": "上下文",
+  "free": "免费",
+  "input": "输入",
+  "inputLength": "输入长度",
+  "inputPriceMtokens": "输入价格（Mtokens）",
+  "modelName": "模型名称",
+  "more": "更多",
+  "omnimodal": "全模态",
+  "output": "输出",
+  "outputLength": "输出长度",
+  "outputPriceMtokens": "输出价格（Mtokens）",
+  "showOmnimodalPricing": "显示全模态定价",
+  "showTieredPricing": "显示阶梯定价"
+}

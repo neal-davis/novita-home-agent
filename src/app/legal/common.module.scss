@@ -1,0 +1,133 @@
+.page div,
+.page p {
+  word-wrap: break-all;
+}
+
+.page a {
+  color: var(--brand-0);
+  text-decoration: underline;
+}
+
+.layout {
+  display: grid;
+  margin: 0 auto;
+  grid-template-columns: 260px 1fr;
+  grid-gap: 42px;
+  margin-top: var(--header-height);
+}
+
+.nav {
+  border-right: 1px solid var(--border);
+  padding-top: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.links {
+  list-style: none;
+  padding: 24px 0;
+  margin: 0;
+  font-size: 16px;
+  text-align: right;
+  max-width: 224px;
+}
+
+.links .link {
+  display: block;
+  padding: 12px 20px;
+}
+
+.links .active {
+  background-color: var(--gray-3);
+}
+
+.content {
+  padding-top: 48px;
+  padding-bottom: 90px;
+}
+
+.h1 {
+  display: block;
+  margin-block-end: 12px;
+  font-weight: 800;
+  font-size: 32px;
+}
+
+.h2 {
+  margin-block-start: 42px;
+  margin-block-end: 20px;
+  @include font-h4;
+  color: var(--dark-1);
+}
+
+.update_date {
+  @include font-body;
+  color: var(--dark-1);
+  margin-bottom: 32px;
+}
+.p {
+  @include font-body;
+  color: var(--dark-1);
+  margin-top: 12px;
+}
+
+.p strong {
+  color: var(--black);
+}
+
+.ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+.ol {
+  list-style-type: lower-alpha;
+}
+.no_list_style {
+  list-style-type: none;
+}
+
+.ul > li {
+  margin: 6px 0;
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+
+.ul > li strong {
+  color: var(--black);
+}
+
+@media only screen and (max-width: 800px) {
+  .layout {
+    grid-template-columns: 1fr;
+    grid-gap: 0;
+    padding: 0 24px;
+    overflow: hidden;
+  }
+  .nav {
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 12px;
+    align-items: flex-start;
+    padding-top: 24px;
+  }
+  .links {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .links {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

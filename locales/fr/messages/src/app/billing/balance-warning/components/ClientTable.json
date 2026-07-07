@@ -1,0 +1,20 @@
+{
+  "addAlerts": "Ajouter des alertes",
+  "alias": "Alias",
+  "areYouSureYouWantTo": "Êtes-vous sûr de vouloir supprimer cette alerte ?",
+  "confirm": "Confirmer",
+  "confirmationOfOperation": "Confirmation de l’opération",
+  "deleteSuccessfully": "Suppression réussie",
+  "edit": "Modifier",
+  "email": "E-mail",
+  "informationalNotes": "Notes d’information",
+  "loadingTeamMembers": "Chargement des membres de l’équipe...",
+  "members": "Membres",
+  "notificationMethod": "Méthode de notification",
+  "operation": "Opération",
+  "remove": "Supprimer",
+  "status": "Statut",
+  "success": "succès",
+  "warningAmount": "Montant d’alerte",
+  "whenYourAccountBalanceFallsBelow": "Lorsque le solde de votre compte passe sous le seuil d’alerte que vous avez défini, vous recevrez une notification par e-mail afin de garantir un fonctionnement ininterrompu du service. Les notifications seront envoyées au maximum une fois par jour calendaire (00:00-24:00, UTC+0) jusqu’à ce que le solde du compte dépasse le seuil spécifié."
+}

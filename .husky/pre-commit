@@ -1,0 +1,15 @@
+#!/usr/bin/env sh
+. "$(dirname "$0")/_/husky.sh"
+
+npx lint-staged
+
+node scripts/check-file-limit.js --staged
+
+echo "Running i18n check (verifying generated messages are up to date)..."
+if ! npm run --silent i18n:check; then
+  echo ""
+  echo "✖ Commit blocked: i18n generated files are out of date."
+  echo "  Run 'npm run i18n:scan && npm run i18n:compile', then 'git add' the"
+  echo "  regenerated message/manifest files and commit again."
+  exit 1
+fi

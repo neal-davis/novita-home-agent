@@ -1,0 +1,7 @@
+{
+  "anInvitationHasAlreadyBeenSent": "Um convite já foi enviado e ainda está ativo. Enviar outro substituirá o existente.",
+  "cancel": "Cancelar",
+  "failedToResendInvitation": "Falha ao reenviar o convite",
+  "invitationEmailSentSuccessfully": "E-mail de convite enviado com sucesso!",
+  "resendInvitation": "Reenviar convite"
+}

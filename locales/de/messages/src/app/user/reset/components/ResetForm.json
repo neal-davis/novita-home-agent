@@ -1,0 +1,10 @@
+{
+  "back": "Zurück",
+  "confirm": "Bestätigen",
+  "emailAddress": "E-Mail-Adresse",
+  "needToCreateAnAccount": "Müssen Sie ein Konto erstellen?",
+  "resetPassword": "Passwort zurücksetzen",
+  "resettingYourPasswordWillLogYou": "Durch das Zurücksetzen Ihres Passworts werden Sie von Ihrem aktuellen Konto abgemeldet",
+  "signUp": "Registrieren",
+  "weWillEmailYouInstructionsFor": "Wir senden Ihnen per E-Mail Anweisungen zum Zurücksetzen Ihres Passworts."
+}

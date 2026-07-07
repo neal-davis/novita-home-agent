@@ -1,0 +1,21 @@
+{
+  "convertDocumentToMarkdownFormat": "Dokument in Markdown-Format konvertieren",
+  "detailedImageDescription": "Detaillierte Bildbeschreibung",
+  "document": "Dokument",
+  "enterTextToLocate": "Zu lokalisierenden Text eingeben",
+  "enterTheTextToLocateIn": "Geben Sie den im Bild zu lokalisierenden Text ein...",
+  "figuresInDocument": "Abbildungen im Dokument",
+  "freeOcrWithoutLayoutDetection": "Kostenlose OCR ohne Layouterkennung",
+  "general": "Allgemein",
+  "inTheImage": "im Bild.",
+  "locateSpecificTextInImageRequires": "Bestimmten Text im Bild lokalisieren (erfordert benutzerdefinierte Eingabe)",
+  "ocrRecognitionForGeneralImages": "OCR-Erkennung für allgemeine Bilder",
+  "otherImage": "Anderes Bild",
+  "parseFiguresFromDocuments": "Abbildungen aus Dokumenten extrahieren",
+  "promptLocate": "Prompt: Lokalisieren",
+  "recognition": "Erkennung",
+  "ref-8f2130": "<|/ref|>",
+  "ref-cb1038": "<|ref|>",
+  "selectOcrMode": "OCR-Modus auswählen...",
+  "withoutLayouts": "Ohne Layouts"
+}

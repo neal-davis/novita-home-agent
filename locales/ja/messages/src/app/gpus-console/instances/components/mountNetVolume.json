@@ -1,0 +1,22 @@
+{
+  "aSingleInstanceCanMountUp": "1つのインスタンスには最大30個のクラウドストレージボリュームをマウントできます。",
+  "addMount": "マウントを追加",
+  "applyingTheseChangesWillRestartThe": "これらの変更を適用すると、現在のインスタンスが即座に再起動されます。",
+  "beforeDetachingAVolumeEnsureIt": "ボリュームをデタッチする前に、未保存のデータが失われないよう、インスタンス内でアンマウントされていることを確認してください。",
+  "cancel": "キャンセル",
+  "cloudStorageMountsWillBeChanged": "クラウドストレージのマウントは次のように変更されます",
+  "confirm": "確認",
+  "maximum30MountsAllowedPleaseUnmount": "マウントは最大30個までです。先にいくつかのストレージをアンマウントしてください",
+  "mountCloudStorage": "クラウドストレージをマウント",
+  "mountPath": "マウントパス",
+  "mountingNotes": "マウントに関する注意事項",
+  "pleaseEnterADifferentCloudStorage": "別のクラウドストレージのマウントパスを入力してください",
+  "pleaseEnterAValidCloudStorage": "有効なクラウドストレージのマウントパスを入力してください",
+  "pleaseMakeSureYouveUnmountedThe": "追加ボリュームをアンマウント済みであることを確認してください。この変更を送信すると、インスタンスが再起動されます。",
+  "pleaseSelectADifferentCloudStorage": "別のクラウドストレージを選択してください",
+  "pleaseSelectTheCloudStorageTo": "マウントするクラウドストレージを選択してください",
+  "storageInstance": "ストレージインスタンス",
+  "success": "成功",
+  "thereIsNoChangeInThe": "既存のクラウドストレージデータに変更はありません。確認してください",
+  "tips": "ヒント"
+}

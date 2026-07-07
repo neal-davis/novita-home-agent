@@ -1,0 +1,10 @@
+{
+  "featured": "精选",
+  "high": "高",
+  "low": "低",
+  "max": "最大",
+  "maxCuda": "最大 CUDA",
+  "medium": "中",
+  "onDemand": "按需",
+  "unavailable": "不可用"
+}

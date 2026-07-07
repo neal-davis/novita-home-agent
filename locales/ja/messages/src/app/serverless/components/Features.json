@@ -1,0 +1,14 @@
+{
+  "deliverFlexibleScalableComputePowerTo": "柔軟でスケーラブルなコンピューティングパワーを、AI ワークロードへ簡単に提供します。",
+  "dynamicallyAssignComputingPowerToHandle": "ビジネスクリティカルなリクエストに対応するため、コンピューティングパワーを動的に割り当てます。スケーリングの複雑さを軽減し、途切れのない運用を実現します。",
+  "easilyPullOrUploadYourPrivate": "DockerHub からプライベートイメージを簡単にプルまたはアップロードできます。インスタンスをすばやく起動し、最小限のセットアップで AI アプリケーションをすぐに稼働できます。",
+  "elasticScalingHighAvailability": "エラスティックスケーリング、高可用性",
+  "focusOnAiBuildingWellHandle": "AI の構築に集中してください。残りは私たちが対応します",
+  "handleUnpredictableWorkloadsEffortlesslyWithOur": "当社のエラスティックスケーリングと業界水準の信頼性により、予測困難なワークロードにもスムーズに対応できます。運用を高速、安全、かつ高可用に保ちます。",
+  "onlyPayForTheComputeTime": "使用したコンピューティング時間の分だけお支払い。需要に合わせたオートスケーリングにより、初期契約なしで運用コストを削減します。",
+  "payAsYouGoSaveCosts": "従量課金でコストを削減",
+  "privateImagesQuickDeployment": "プライベートイメージ、迅速なデプロイ",
+  "scaleBasedOnDemand": "需要に応じてスケール",
+  "serverlessDeploy": "サーバーレスデプロイ",
+  "serverlessFeatureBanner": "サーバーレス機能バナー"
+}

@@ -1,0 +1,17 @@
+{
+  "billedPerTokenWithAMinimum": "Billed per token with a minimum daily tokens commitment.",
+  "contactSales": "Contact Sales",
+  "customPricing": "Custom Pricing",
+  "customSlasForUptimeLatencyThroughput": "Custom SLAs for Uptime, Latency & Throughput.",
+  "dedicatedComputeClusters": "Dedicated Compute Clusters",
+  "dynamicAutoScaling": "Dynamic Auto-Scaling",
+  "enterpriseGradeModelMonitoringAndServices": "Enterprise-Grade Model Monitoring and Services.",
+  "enterpriseGradePerformanceInfiniteScaleAnd": "Enterprise-grade performance, infinite scale, and zero ops",
+  "guaranteedUptimeSlas": "Guaranteed uptime SLAs",
+  "handleTrafficSpikesInstantlyNoManual": "Handle traffic spikes instantly no manual provisioning.",
+  "llmsEnterprise": "LLMs Enterprise",
+  "message247EnterpriseSupport": "24/7 enterprise support",
+  "payAsYouGo": "Pay as you go",
+  "payForYourPerformanceNotIdle": "Pay for your performance, not idle GPUs.",
+  "zeroSharedResourcesPhysicalIsolationFor": "Zero shared resources physical isolation for your models/data."
+}

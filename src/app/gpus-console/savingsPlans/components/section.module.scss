@@ -1,0 +1,136 @@
+.container {
+  padding: 134px 0 100px 0;
+}
+.subContainer {
+  width: 100%;
+}
+.section {
+  padding-bottom: 16px;
+}
+.steps {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #0caf60;
+  border-radius: 8px;
+  height: 88px;
+  padding: 18px 59px 16px 59px;
+}
+.title {
+  font-size: 28px;
+  color: #11142d;
+  line-height: 28px;
+  font-weight: 900;
+  margin-bottom: 12px;
+}
+.desc {
+  font-size: 16px;
+  color: #514f6e;
+  line-height: 16px;
+  font-weight: 400;
+  margin-bottom: 32px;
+}
+.rowTitle {
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--dark-2);
+  line-height: 14px;
+  text-align: left;
+  font-style: normal;
+}
+.linkAction {
+  display: inline-block;
+  color: var(--brand-1);
+  cursor: pointer;
+  @include font-subtle;
+  line-height: 48px;
+}
+.helpLink {
+  margin-left: 20px;
+}
+.tableCard {
+  background-color: rgba(255, 255, 255, 0.6);
+  border: 1px solid var(--gray-2);
+  border-radius: var(--radius-form);
+}
+.tableCardHeader {
+  border-bottom: 1px solid var(--gray-2);
+  padding: var(--spacing-console-16) var(--spacing-console-24);
+}
+.tableCardTitle {
+  color: var(--dark-1);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 16px;
+}
+.tableCardBody {
+  padding: var(--spacing-console-24);
+}
+.tableContent {
+  color: var(--dark-1);
+}
+.tableScroll {
+  box-shadow: none;
+}
+.table {
+  min-width: 650px;
+}
+.tableHeader {
+  background-color: var(--gray-3);
+}
+.pagination {
+  display: flex;
+  align-items: center;
+  float: right;
+  margin-top: 15px;
+}
+.tablePagination {
+  display: inline-block;
+  border: none;
+}
+.paginationInner {
+  display: inline-block;
+  color: var(--black);
+}
+.wrap {
+  display: flex;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.filterLine {
+  margin-bottom: 20px;
+}
+
+.searchArea {
+  display: inline-block;
+  width: 234px;
+}
+
+@media screen and (max-width: 450px) {
+  .searchArea {
+    width: 100%;
+  }
+  .filterLine {
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .container {
+    padding: 86px 0 100px 0;
+  }
+  .title {
+    font-size: 24px;
+  }
+  .desc {
+    font-size: 14px;
+  }
+  .wrap {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

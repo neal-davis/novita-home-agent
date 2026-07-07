@@ -1,0 +1,10 @@
+{
+  "apiCreateTraining": "API para crear entrenamiento",
+  "baseModelIsSdxl": "El modelo base es SDXL",
+  "creditCost": "Costo en créditos",
+  "height": "Altura -",
+  "maxTrainSteps": "Pasos máximos de entrenamiento -",
+  "message50Off": "⏰ 50% DE DESCUENTO",
+  "trainingApi": "API de entrenamiento",
+  "width": "Ancho -"
+}

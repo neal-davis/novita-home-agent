@@ -1,0 +1,10 @@
+.budgets_container {
+  min-width: 1200px;
+  overflow-x: auto;
+}
+
+@media screen and (max-width: 1200px) {
+  .budgets_container {
+    min-width: 100%;
+  }
+}

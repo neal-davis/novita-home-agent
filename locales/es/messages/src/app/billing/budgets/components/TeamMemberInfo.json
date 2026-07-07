@@ -1,0 +1,13 @@
+{
+  "alias": "Alias",
+  "goToTeamSetting": "Ir a la configuración del equipo",
+  "loading": "Cargando...",
+  "membersWithBudget": "Miembros con presupuesto",
+  "role": "Rol",
+  "team": "Equipo",
+  "teamId": "ID del equipo",
+  "teamInformation": "Información del equipo",
+  "teamMemberBudgets": "Presupuestos de los miembros del equipo",
+  "totalMembers": "Total de miembros",
+  "youCanSetIndividualBudgetLimits": "Puedes establecer límites de presupuesto individuales para cada miembro del equipo para controlar su gasto total en la plataforma."
+}

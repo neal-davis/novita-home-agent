@@ -1,0 +1,12 @@
+{
+  "accountBalance": "账户余额",
+  "availableCredit": "可用额度",
+  "creditLimit": "信用额度",
+  "outstandingInvoices": "未结清发票",
+  "pendingCharges": "待处理费用",
+  "prepaidFundsInYourAccountThat": "您账户中的预付资金，会随着您进行按用量计费的购买而减少。",
+  "theMaximumPostpaidAmountApprovedBased": "根据您账户的信用状况批准的最高后付费额度，允许您先使用后付款。",
+  "totalAmountOwedUnderYourCredit": "在您的信用额度下所欠的总金额，必须在付款周期内偿还。",
+  "usageChargesThatHaveBeenIncurred": "已产生但尚未到扣款时间的使用费用。一旦账单周期到达付款时间，这些金额将自动从您的余额或信用额度中扣除。",
+  "yourAvailableCreditIsTheRemaining": "您的可用额度是指在扣除待处理费用后、达到信用额度之前仍可使用的剩余额度。"
+}

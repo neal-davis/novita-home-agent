@@ -1,0 +1,30 @@
+.link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  color: var(--brand-1);
+  cursor: pointer;
+  margin-left: 0.3em;
+  font-family: var(--font-tt-mono);
+
+  .icon {
+    display: none;
+    color: var(--black);
+  }
+
+  span {
+    margin-left: 0;
+  }
+
+  &:hover {
+    .icon {
+      display: inline-flex;
+      color: var(--black);
+
+      &:hover g {
+        stroke: var(--black);
+        opacity: 1;
+      }
+    }
+  }
+}

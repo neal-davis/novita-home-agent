@@ -1,0 +1,9 @@
+{
+  "clickOrDragFileToThis": "Haz clic o arrastra el archivo a esta área para subirlo",
+  "modelNameCanOnlyContainLetters": "El nombre del modelo solo puede contener letras, números y guiones bajos, y la longitud no debe superar los 100 caracteres",
+  "pleaseAddKeyFirst": "Añade primero la clave",
+  "pleaseEnterModelNameFirst": "Introduce primero el nombre del modelo",
+  "sha256ComputationFailedPleaseCheckIf": "Error en el cálculo de SHA256. Comprueba si la versión de tu navegador admite las funciones crypto y btoa, o ponte en contacto con nosotros para resolver los problemas de subida del modelo.",
+  "supportForASingleOrBulk": "Admite la subida individual o masiva. Está estrictamente prohibido subir datos de la empresa u otros archivos prohibidos.",
+  "uploadFailed": "Error al subir"
+}

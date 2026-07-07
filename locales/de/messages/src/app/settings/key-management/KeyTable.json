@@ -1,0 +1,11 @@
+{
+  "apiKey": "API-Schlüssel",
+  "createdBy": "Erstellt von",
+  "creationTime": "Erstellungszeit",
+  "deleteSuccessfully": "Erfolgreich gelöscht",
+  "expirationTime": "Ablaufzeit",
+  "keyName": "Schlüsselname",
+  "lastUsed": "Zuletzt verwendet",
+  "operation": "Vorgang",
+  "permanentValidity": "Dauerhafte Gültigkeit"
+}

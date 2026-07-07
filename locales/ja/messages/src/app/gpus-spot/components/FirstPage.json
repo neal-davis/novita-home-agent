@@ -1,0 +1,10 @@
+{
+  "a100": "A100",
+  "default1HourProtection1Hour": "デフォルトで1時間の保護、1時間前の終了通知、従来のSpotワークフローと完全互換。中断を許容できるワークロードに最適です",
+  "deploySpotInstance": "Spot Instanceをデプロイ",
+  "gpuTypesAvailable": "利用可能なGPUタイプ:",
+  "h100": "H100",
+  "spotGpuInstances": "Spot GPU Instances",
+  "upTo50OffRtx4090": "最大50%オフ – RTX 4090がわずか$0.18/時間から",
+  "viewPricing": "料金を見る"
+}

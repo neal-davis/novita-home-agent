@@ -1,0 +1,17 @@
+{
+  "buildGenAiProductsSeamlessly": "Gen-AI-Produkte nahtlos erstellen",
+  "buildWithModelApis": "Mit Modell-APIs entwickeln",
+  "contactUs": "Kontaktieren Sie uns",
+  "cutCostsByUpTo50": "Kosten um bis zu 50 % senken",
+  "deployWithGpuInstance": "Mit GPU-Instanz bereitstellen",
+  "discordChannel": "Discord-Kanal",
+  "error": "Fehler",
+  "goToHomePage": "Zur Startseite",
+  "ifYoureBrowsingAroundJustLook": "Wenn Sie sich nur umsehen, schauen Sie sich doch dieses an, das wir für Sie ausgewählt haben!",
+  "launchAgentSandbox": "Agent Sandbox starten",
+  "pageNotFound": "Seite nicht gefunden",
+  "refresh": "Aktualisieren",
+  "scaleWithServerless": "Mit Serverless skalieren",
+  "scaleWithoutManagingGpuInfrastructure": "Skalieren, ohne GPU-Infrastruktur zu verwalten",
+  "theRuntimeInfrastructureForSecureScalable": "Die Laufzeitinfrastruktur für sichere und skalierbare KI-Agenten"
+}

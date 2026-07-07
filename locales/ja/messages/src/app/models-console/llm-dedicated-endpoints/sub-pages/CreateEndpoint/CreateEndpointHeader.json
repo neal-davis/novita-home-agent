@@ -1,0 +1,7 @@
+{
+  "backToEndpoints": "エンドポイントに戻る",
+  "createDedicatedEndpoint": "専用エンドポイントを作成",
+  "deployAnOpenSourceModelFrom": "オープンソースモデルをデプロイ：",
+  "modelLibrary": "モデルライブラリ",
+  "orYourOwnCustomModelIn": "または、独自のカスタムモデルを数個のコマンドだけでデプロイできます。"
+}

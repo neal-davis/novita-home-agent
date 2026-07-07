@@ -1,0 +1,7 @@
+{
+  "aJobHasBeenCreatedJob": "Une tâche a été créée. ID de la tâche :",
+  "close": "Fermer",
+  "jobCreatedSuccess": "Tâche créée avec succès",
+  "toJobs": "Accéder à [Tâches]",
+  "youCanViewAndManageYour": ". Vous pouvez consulter et gérer vos tâches dans [Console - Tâches]. Une fois la tâche terminée, vous pourrez voir l’image enregistrée dans votre référentiel d’images."
+}

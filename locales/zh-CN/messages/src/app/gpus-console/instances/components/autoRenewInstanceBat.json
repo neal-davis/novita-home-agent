@@ -1,0 +1,14 @@
+{
+  "autoRenew": "自动续费",
+  "bulkAutoRenew": "批量自动续费",
+  "cancel": "取消",
+  "confirm": "确认",
+  "confirmCurrentOperation": "确认当前操作？",
+  "instancesDifferentExpirationDatesAreSupported": "实例。支持不同的到期日期。系统将根据各实例的到期日期自动续费。",
+  "month": "个月",
+  "months": "个月",
+  "processing": "处理中",
+  "renewalDuration": "续费时长",
+  "scopeThisOperationWillApplyTo": "范围：此操作将应用于",
+  "warningFailedPaymentsDueToLow": "警告：因余额不足导致的付款失败将每天重试。如果在到期日前未解决，计费将切换为按量付费"
+}

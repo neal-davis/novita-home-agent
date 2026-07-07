@@ -1,0 +1,90 @@
+.btn {
+  display: inline-block;
+  font-size: 14px;
+  padding: 0 1.4em;
+  color: #fff;
+  border-radius: 8px;
+  line-height: 40px;
+  height: 40px;
+  border: none;
+  outline: none;
+  transition: all 0.2s ease-in-out;
+  flex-shrink: 0;
+  user-select: none;
+}
+
+.primary {
+  background: var(--playground-primary-button-background-color);
+  border-width: 1px;
+  border-style: solid;
+  border-color: var(--playground-primary-button-border-color);
+}
+.primary:hover {
+  background-image: linear-gradient(246deg, #3532fb 0%, #7728fe 100%);
+  border-color: var(--playground-primary-button-border-color);
+}
+.primary:active {
+  background-image: linear-gradient(246deg, #1410ff 0%, #6308ff 100%);
+  border-color: var(--playground-primary-button-border-color);
+}
+.primary.loading {
+  background-image: linear-gradient(246deg, #2622ff7b 0%, #6c17ff7b 100%);
+  border-color: #ffffff2f;
+  color: #ffffff85;
+}
+.loading:hover {
+  background-image: linear-gradient(246deg, #2622ff7b 0%, #6c17ff7b 100%);
+  border-color: var(--playground-primary-button-border-color);
+}
+.loading:active {
+  background-image: linear-gradient(246deg, #2622ff7b 0%, #6c17ff7b 100%);
+  border-color: var(--playground-primary-button-border-color);
+}
+.primary.disabled {
+  background: #ffffff2f;
+  border-color: #ffffff2f;
+  cursor: not-allowed;
+}
+.content {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  justify-content: center;
+}
+.normal {
+  border-color: transparent;
+  border-radius: 8px;
+  position: relative;
+  background-color: rgb(22, 19, 29);
+  background-clip: padding-box;
+}
+.normal:hover {
+  background-color: rgb(31, 27, 38);
+}
+/* .normal:active {
+  background-color: rgb(var(--background-end-rgb-gpu));
+} */
+.normal::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: -1;
+  margin: -2px;
+  border-radius: inherit;
+  background: linear-gradient(to right, #ffc876, #79fff7, #9f53ff, #ff98e2);
+}
+.text {
+  background: linear-gradient(246deg, #3532fb 0%, #6c17ff 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.text:hover {
+  background: linear-gradient(246deg, #3532fb 0%, #7728fe 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}

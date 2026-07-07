@@ -1,0 +1,6 @@
+{
+  "applyForAccess": "アクセスを申請",
+  "novitaAi": "Novita AI |",
+  "voiceCloningInstantApiCreateCloned": "音声クローニング - Instant API - あらゆる話者のクローン音声を瞬時に作成",
+  "voiceCloningInstantApiIsAn": "音声クローニング Instant API は、数分間の参照音声だけで、あらゆる話者からクローンされた合成音声を生成できる AI 音声クローニングサービスです。当社の API はサンプル音声を分析し、話者の声質、アクセント、発音、イントネーションの固有の特徴を抽出します。このデータを使用して、当社の音声モデルは元の話者を人間のような自然さで模倣した新しい音声を合成できます。"
+}

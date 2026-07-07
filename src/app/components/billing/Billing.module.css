@@ -1,0 +1,189 @@
+.billing_container {
+  background-color: var(--background-second-bg);
+  border-radius: 20px;
+  padding: 0 32px;
+}
+.pricing_container {
+  padding: 0 32px;
+  background-color: var(--background-second-bg);
+  border-radius: 20px;
+}
+.billing_container .title {
+  padding: 28px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  font-size: var(--font-size-3);
+  color: #ffffff;
+  letter-spacing: 0;
+  font-weight: 700;
+}
+.billing_container .box {
+  position: relative;
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  justify-content: space-between;
+}
+.box > div {
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+}
+.description_box {
+  border-left: 1px solid rgba(255, 255, 255, 0.15);
+  font-size: 16px;
+  color: var(--second-font-color);
+  letter-spacing: 0;
+  line-height: 24px;
+  font-weight: 400;
+  padding: 10px 0 10px 26px;
+}
+.pricing_box {
+  font-size: 16px;
+  color: var(--second-font-color);
+  margin-top: 20px;
+}
+.billing_box .balance {
+  font-size: 20px;
+  color: #ffffff;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+.billing_box .desc {
+  font-size: 20px;
+  color: #ffffff;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+.billing_deposit {
+  margin-top: 8px;
+}
+
+.payment_box {
+  margin-top: 20px;
+}
+
+.hash_input {
+  width: 100%;
+  margin-left: 10px;
+}
+
+.order_info {
+  color: #fff;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.canvas_box {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  border: 1px solid #eee;
+  flex-shrink: 0;
+}
+
+.canvas_box > img {
+  width: 80px;
+  height: 80px;
+}
+
+.sub_desc {
+  color: #bbb;
+}
+
+.tab_item {
+  display: flex;
+  align-items: center;
+}
+
+.tab_item img {
+  height: 20px;
+  object-fit: scale-down;
+}
+
+.modal {
+  top: calc(50vh - 220px) !important;
+}
+
+.modal_title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 12px;
+  margin-top: 20px;
+}
+
+.modal_desc {
+  font-size: 18px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.45);
+}
+
+.price_box {
+  text-align: center;
+  margin-top: 20px;
+  color: rgba(255, 255, 255, 0.25);
+  font-size: 18px;
+}
+
+.list_wrap {
+  display: flex;
+  margin: 14px auto;
+  justify-content: center;
+}
+
+.list_wrap li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 4px;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.modal_btn_wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.modal_btn_wrap .btn {
+  color: #fff;
+}
+
+.modal_btn_wrap .btn:hover {
+  color: #fff;
+}
+
+@media screen and (max-width: 1000px) {
+  .billing_container {
+    padding: 0 20px;
+  }
+  .pricing_container {
+    padding: 0 20px;
+  }
+  .billing_container .box {
+    flex-direction: column;
+  }
+  .description_box {
+    border-left: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+  }
+  .billing_container .title {
+    padding: 20px 0;
+  }
+  .box > div {
+    padding: 20px 10px;
+  }
+}
+
+.btn {
+  background-color: #6c17ff !important;
+  border: none !important;
+}
+
+.btn:hover {
+  color: #fff !important;
+}

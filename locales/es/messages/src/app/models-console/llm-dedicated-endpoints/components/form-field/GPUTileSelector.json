@@ -1,0 +1,6 @@
+{
+  "gpuCount": "Cantidad de GPU:",
+  "insufficientGpuResourcesPleaseRetryAfter": "Recursos de GPU insuficientes. Vuelve a intentarlo después de un tiempo.",
+  "selectGpuType": "Seleccionar tipo de GPU",
+  "thereIsCurrentlyNoRecommendedGpu": "Actualmente no hay ninguna configuración de GPU recomendada."
+}

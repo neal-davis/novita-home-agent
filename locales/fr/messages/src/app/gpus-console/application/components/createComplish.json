@@ -1,0 +1,7 @@
+{
+  "application": "Application",
+  "deployed": "Déployé",
+  "myInstances": "Mes instances",
+  "redirectingToMyInstances": "Redirection vers Mes instances ......",
+  "yourApplicationIsBeingCreatedUsing": "Votre application est en cours de création avec la configuration que vous avez sélectionnée. Elle sera bientôt prête — consultez-la dans la console."
+}

@@ -1,0 +1,21 @@
+{
+  "allSystemsOperational": "Todos los sistemas operativos",
+  "autoscalingInProgress": "Autoescalado en curso...",
+  "deploying": "Implementando",
+  "deploymentFailedCheckLogsOrRedeploy": "La implementación falló. Revisa los registros o vuelve a implementar.",
+  "endpointIsShuttingDown": "El endpoint se está apagando...",
+  "endpointTerminatedRedeployToRestart": "Endpoint terminado. Vuelve a implementarlo para reiniciar.",
+  "failed": "Fallido",
+  "health": "Estado",
+  "healthy": "Correcto",
+  "initialDeploymentInProgress": "Implementación inicial en curso...",
+  "pending": "Pendiente",
+  "rolling": "Actualización continua",
+  "rollingUpdateInProgress": "Actualización continua en curso...",
+  "scaleToZeroActiveWillWake": "Scale-to-Zero activo. Se activará con la primera solicitud.",
+  "scaling": "Escalando",
+  "sleeping": "Inactivo",
+  "terminated": "Terminado",
+  "terminating": "Terminando",
+  "waitingForResources": "Esperando recursos..."
+}

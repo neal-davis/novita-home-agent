@@ -1,0 +1,147 @@
+{
+  "_comment": "De-PII'd /v1/product/resource-pack-specs/list for hermetic /coding-plan. Pricing catalog only (no user PII). deductRules trimmed to 5 representative models; the 3 tiers (Lite/Pro/Max) are kept intact so PlanList renders exactly 3 plan cards. Consumed BOTH server-side (RSC getBasicResourcePackSpecsList -> WhyUs baseModeList) and client-side (PlanList getResourcePackSpecsList). type:1 is required (PlanList filters item.type===1).",
+  "list": [
+    {
+      "id": "1",
+      "name": "Novita Coding",
+      "description": "",
+      "billingCycle": "cycle-based",
+      "validityPeriod": "1",
+      "userBuyLimit": "1",
+      "tierList": [
+        {
+          "tier": "Lite",
+          "quota": "500000000000",
+          "price": "199000",
+          "discountPrice": "199000",
+          "productId": "RP-llm-1-Lite-base",
+          "discountProductId": "RP-llm-1-Lite-discount",
+          "labelList": [],
+          "rpm": "45",
+          "tpm": "50000000"
+        },
+        {
+          "tier": "Pro",
+          "quota": "1500000000000",
+          "price": "499000",
+          "discountPrice": "499000",
+          "productId": "RP-llm-1-Pro-base",
+          "discountProductId": "RP-llm-1-Pro-discount",
+          "labelList": [],
+          "rpm": "150",
+          "tpm": "50000000"
+        },
+        {
+          "tier": "Max",
+          "quota": "7500000000000",
+          "price": "1999000",
+          "discountPrice": "1999000",
+          "productId": "RP-llm-1-Max-base",
+          "discountProductId": "RP-llm-1-Max-discount",
+          "labelList": [],
+          "rpm": "450",
+          "tpm": "50000000"
+        }
+      ],
+      "deductRules": [
+        {
+          "productId": "MA-llm-416",
+          "displayName": "zai-org/glm-5",
+          "llmRule": {
+            "inputToken": "15000",
+            "outputToken": "55000",
+            "cacheReadInputToken": "2750",
+            "cacheCreationInputToken": "0",
+            "cacheCreation1HourInputToken": "0"
+          },
+          "priceInfo": {
+            "inputToken": "10000",
+            "outputToken": "32000",
+            "cacheReadInputToken": "2000",
+            "cacheCreationInputToken": "0",
+            "cacheCreation1HourInputToken": "0"
+          },
+          "tieredConfig": null
+        },
+        {
+          "productId": "MA-llm-410",
+          "displayName": "moonshotai/kimi-k2.5",
+          "llmRule": {
+            "inputToken": "15000",
+            "outputToken": "75000",
+            "cacheReadInputToken": "2500",
+            "cacheCreationInputToken": "0",
+            "cacheCreation1HourInputToken": "0"
+          },
+          "priceInfo": {
+            "inputToken": "6000",
+            "outputToken": "30000",
+            "cacheReadInputToken": "1000",
+            "cacheCreationInputToken": "0",
+            "cacheCreation1HourInputToken": "0"
+          },
+          "tieredConfig": null
+        },
+        {
+          "productId": "MA-llm-380",
+          "displayName": "zai-org/glm-4.7",
+          "llmRule": {
+            "inputToken": "15000",
+            "outputToken": "55000",
+            "cacheReadInputToken": "2750",
+            "cacheCreationInputToken": "0",
+            "cacheCreation1HourInputToken": "0"
+          },
+          "priceInfo": {
+            "inputToken": "6000",
+            "outputToken": "22000",
+            "cacheReadInputToken": "1100",
+            "cacheCreationInputToken": "0",
+            "cacheCreation1HourInputToken": "0"
+          },
+          "tieredConfig": null
+        },
+        {
+          "productId": "MA-llm-369",
+          "displayName": "deepseek/deepseek-v3.2",
+          "llmRule": {
+            "inputToken": "6725",
+            "outputToken": "10000",
+            "cacheReadInputToken": "3362",
+            "cacheCreationInputToken": "0",
+            "cacheCreation1HourInputToken": "0"
+          },
+          "priceInfo": {
+            "inputToken": "2690",
+            "outputToken": "4000",
+            "cacheReadInputToken": "1345",
+            "cacheCreationInputToken": "0",
+            "cacheCreation1HourInputToken": "0"
+          },
+          "tieredConfig": null
+        },
+        {
+          "productId": "MA-llm-381",
+          "displayName": "minimax/minimax-m2.1",
+          "llmRule": {
+            "inputToken": "7500",
+            "outputToken": "30000",
+            "cacheReadInputToken": "750",
+            "cacheCreationInputToken": "0",
+            "cacheCreation1HourInputToken": "0"
+          },
+          "priceInfo": {
+            "inputToken": "3000",
+            "outputToken": "12000",
+            "cacheReadInputToken": "300",
+            "cacheCreationInputToken": "0",
+            "cacheCreation1HourInputToken": "0"
+          },
+          "tieredConfig": null
+        }
+      ],
+      "type": 1,
+      "validityPeriodUnit": "month"
+    }
+  ]
+}

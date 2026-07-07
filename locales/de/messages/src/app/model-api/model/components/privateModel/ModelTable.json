@@ -1,0 +1,16 @@
+{
+  "baseModel": "Basismodell",
+  "baseModelType": "Basismodelltyp",
+  "confirm": "Bestätigen",
+  "delete": "Löschen",
+  "deleteSuccess": "Erfolgreich gelöscht!",
+  "modelNameInApi": "MODELLNAME in API",
+  "name": "Name",
+  "operate": "BEDIENEN",
+  "pleaseSelectAModelFirst": "Bitte wählen Sie zuerst ein Modell aus!",
+  "running": "wird ausgeführt",
+  "status": "STATUS",
+  "type": "Typ",
+  "unavailable": "nicht verfügbar",
+  "warningThisActionCannotBeUndone": "Warnung: Diese Aktion kann nicht rückgängig gemacht werden."
+}

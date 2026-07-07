@@ -1,0 +1,55 @@
+.filter_container {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.filter_type_group {
+  display: flex;
+  width: 100%;
+  max-width: 980px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.model_filter_label,
+.model_filter_select_label,
+.model_filter_label:hover {
+  flex: 0 0 auto;
+  height: 32px;
+  padding: 8px 12px;
+  @include font-mono-14;
+  color: var(--text-1);
+  border: 1px solid var(--gray-400);
+  white-space: nowrap;
+}
+
+.model_filter_label_icon {
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-right: 4px;
+}
+
+.model_filter_select_label {
+  padding: 8px;
+}
+
+.model_filter_label_active,
+.model_filter_label_active:hover {
+  color: var(--white);
+  border: 1px solid var(--gray-800);
+  background-color: var(--gray-800);
+}
+
+.campaign_filter {
+  position: relative;
+}
+
+.campaign_filter.model_filter_label_active {
+  border: 1px solid var(--purple-1);
+  background-color: var(--purple-6);
+}

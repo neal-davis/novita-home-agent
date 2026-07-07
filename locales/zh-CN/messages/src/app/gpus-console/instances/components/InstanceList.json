@@ -1,0 +1,17 @@
+{
+  "billing": "计费",
+  "containerDisk": "容器磁盘",
+  "createTime": "创建时间",
+  "creator": "创建者",
+  "dataCenter": "数据中心",
+  "disk": "磁盘",
+  "editInstanceName": "编辑实例名称",
+  "expirationTime": "到期时间",
+  "gb": "GB",
+  "gpu": "GPU：",
+  "gpuId": "GPU ID",
+  "id": "ID：",
+  "localVolumePath": "本地卷路径",
+  "networkVolume": "网络卷",
+  "template": "模板"
+}

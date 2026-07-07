@@ -1,0 +1,18 @@
+{
+  "billedPerSecondForRunningReplicas": "実行中のレプリカのみ秒単位で課金",
+  "costEstimation": "コスト見積もり",
+  "createEndpoint": "エンドポイントを作成",
+  "creating": "作成中...",
+  "estMonthlyIf1Replica": "月額見積もり（1レプリカの場合）",
+  "estMonthlyIf1ReplicaAlways": "月額見積もり（1レプリカが常時稼働の場合）",
+  "gpuType": "GPUタイプ",
+  "gpuUnitPrice": "GPU単価",
+  "hourlyMaxReplicas": "時間単位（最大レプリカ数）",
+  "hourlyMinReplicas": "時間単位（最小レプリカ数）",
+  "max": "最大:",
+  "min": "最小:",
+  "replica": "レプリカ",
+  "replicasMin": "レプリカ（最小）",
+  "selectAGpuToSeeCost": "コストを確認するにはGPUを選択してください",
+  "selectGpu": "GPUを選択"
+}

@@ -1,0 +1,17 @@
+{
+  "billedByGpuHourWithPer": "按 GPU-小时计费，精确到秒。空闲时缩容至零——无最低承诺，无空闲 GPU 成本。",
+  "blazingFastInference": "极速推理",
+  "builtForProductionWorkloads": "专为生产工作负载而构建",
+  "chooseFromNvidiaH200H100And": "可选择 NVIDIA H200、H100 和 RTX 4090。选择张量并行度和 GPU 数量，以匹配您的模型要求。",
+  "dedicatedTechnicalSupportCustomSlasAnd": "专属技术支持、自定义 SLA，以及优先使用新 GPU 类型。大型部署可享受批量折扣。",
+  "dynamicAutoScaling": "动态自动扩缩容",
+  "enterpriseSupport": "企业级支持",
+  "everythingYouNeedToDeployScale": "部署、扩展和管理生产环境 AI 推理所需的一切。",
+  "flexibleGpuOptions": "灵活的 GPU 选项",
+  "hotSwapLoraAdaptersOnRunning": "无需重启，即可在运行中的端点上热插拔 LoRA 适配器。在单个基础模型上部署多个微调变体。",
+  "loraAdapterSupport": "LoRA 适配器支持",
+  "payPerHourBilling": "按小时计费",
+  "platform": "平台",
+  "poweredByOptimizedServingEnginesOn": "由运行在 NVIDIA H200、H100 和 RTX 4090 GPUs 上的优化服务引擎提供支持。为实时应用提供亚秒级延迟。",
+  "scaleFrom0ToNReplicas": "根据流量自动从 0 扩展到 N 个副本。设置最小/最大副本数和缩容延迟，以匹配您的流量模式。"
+}

@@ -1,0 +1,11 @@
+{
+  "day": "Día",
+  "endpointsId": "ID de endpoints",
+  "export": "Exportar",
+  "groupBy": "Agrupar por",
+  "hour": "Hora",
+  "month": "Mes",
+  "noData": "¡Sin datos!",
+  "timeRange": "Rango de tiempo",
+  "week": "Semana"
+}

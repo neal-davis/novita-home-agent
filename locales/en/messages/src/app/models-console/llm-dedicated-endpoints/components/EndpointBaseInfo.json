@@ -1,0 +1,9 @@
+{
+  "copiedToClipboard": "Copied to clipboard!",
+  "endpoint": "Endpoint",
+  "endpointHealth": "Endpoint Health",
+  "endpointId": "Endpoint ID",
+  "modelId": "Model ID",
+  "openaiCompatibleBaseUrl": "OpenAI Compatible Base URL",
+  "replicas": "Replicas"
+}

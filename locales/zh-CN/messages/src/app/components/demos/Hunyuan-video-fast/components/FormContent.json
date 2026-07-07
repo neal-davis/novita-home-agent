@@ -1,0 +1,8 @@
+{
+  "model": "模型",
+  "prompt": "提示词",
+  "seed": "种子",
+  "showcase": "展示",
+  "steps": "步数",
+  "widthHeight": "宽度 * 高度"
+}

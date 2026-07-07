@@ -1,0 +1,8 @@
+{
+  "audio": "音频",
+  "embedding": "嵌入",
+  "image": "图像",
+  "reranker": "重排序器",
+  "video": "视频",
+  "vision": "视觉"
+}

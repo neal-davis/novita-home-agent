@@ -1,0 +1,12 @@
+{
+  "all": "Alle",
+  "application": "Anwendung",
+  "copyLink": "Link kopieren",
+  "deploy": "Bereitstellen",
+  "favoriteSuccessfully": "Erfolgreich zu Favoriten hinzugefügt",
+  "instance": "Instanz",
+  "official": "Offiziell",
+  "pleaseLogInFirst": "Bitte melden Sie sich zuerst an",
+  "serverless": "Serverless",
+  "unfavoriteSuccessfully": "Erfolgreich aus Favoriten entfernt"
+}

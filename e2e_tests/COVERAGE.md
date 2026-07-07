@@ -1,0 +1,146 @@
+## E2E 路由覆盖率
+
+> 双口径：**广度**（sweep 健康巡检，每路由导航+不崩断言）与**深度**（专属行为 spec，断言交互/数据）。
+
+| 口径                           | 覆盖    | 占比      | 说明                                  |
+| ------------------------------ | ------- | --------- | ------------------------------------- |
+| **路由覆盖**（≥1 个 e2e 触达） | 132/140 | **94.3%** | sweep 覆盖全部可巡检路由              |
+| **深度行为 spec**              | 132/140 | 94.3%     | 像 billing-overview 那样断言行为      |
+| blocked（无法采样）            | 8/140   | 5.7%      | 动态 `[param]` 无样例 / needs-context |
+
+**目标线 60%**：路由覆盖 ✅ 已达成（94.3%）；深度覆盖 94.3%（持续补充中）。
+
+### 已有深度 spec 的路由（132）
+
+- `/` — e2e_tests/public-pages.spec.ts
+- `/affiliate` — e2e_tests/affiliate.spec.ts, e2e_tests/smoke/affiliate.spec.ts
+- `/affiliate-new` — e2e_tests/affiliate.spec.ts, e2e_tests/smoke/affiliate.spec.ts
+- `/billing` — e2e_tests/console-misc.spec.ts
+- `/billing/[section]` — e2e_tests/billing-overview.spec.ts, e2e_tests/smoke/billing-overview.spec.ts
+- `/billing/budgets` — e2e_tests/billing-budgets.spec.ts, e2e_tests/smoke/billing-budgets.spec.ts
+- `/build-month` — e2e_tests/public-pages.spec.ts
+- `/coding-plan` — e2e_tests/coding-plan.spec.ts, e2e_tests/smoke/coding-plan.spec.ts
+- `/console` — e2e_tests/console-home.spec.ts, e2e_tests/smoke/console-home.spec.ts
+- `/console/pricing-console` — e2e_tests/console-pricing-console.spec.ts, e2e_tests/smoke/console-pricing-console.spec.ts
+- `/dedicated-endpoint` — e2e_tests/dedicated-endpoint.spec.ts, e2e_tests/smoke/dedicated-endpoint.spec.ts
+- `/dedicated-endpoint-order` — e2e_tests/dedicated-endpoint-order.spec.ts, e2e_tests/smoke/dedicated-endpoint-order.spec.ts
+- `/gpu-baremetal` — e2e_tests/gpu-baremetal.spec.ts, e2e_tests/smoke/gpu-baremetal.spec.ts
+- `/gpus` — e2e_tests/gpus.spec.ts, e2e_tests/smoke/gpus.spec.ts
+- `/gpus-console` — e2e_tests/gpus-console-extended.spec.ts
+- `/gpus-console/application` — e2e_tests/gpus-console-application.spec.ts, e2e_tests/smoke/gpus-console-application.spec.ts
+- `/gpus-console/billing` — e2e_tests/gpus-console-billing.spec.ts, e2e_tests/smoke/gpus-console-billing.spec.ts
+- `/gpus-console/explore` — e2e_tests/gpus-console-explore.spec.ts, e2e_tests/smoke/gpus-console-explore.spec.ts
+- `/gpus-console/image` — e2e_tests/gpus-console-image.spec.ts, e2e_tests/smoke/gpus-console-image.spec.ts
+- `/gpus-console/instances` — e2e_tests/gpus-console-instances.spec.ts, e2e_tests/smoke/gpus-console-instances.spec.ts
+- `/gpus-console/jobs` — e2e_tests/smoke/gpus-console-jobs.spec.ts
+- `/gpus-console/savingsPlans` — e2e_tests/gpus-console-extended.spec.ts
+- `/gpus-console/serverless` — e2e_tests/gpus-console-serverless.spec.ts, e2e_tests/smoke/gpus-console-serverless.spec.ts
+- `/gpus-console/serverless-deploy` — e2e_tests/gpus-console-serverless-deploy.spec.ts, e2e_tests/smoke/gpus-console-serverless-deploy.spec.ts
+- `/gpus-console/settings` — e2e_tests/gpus-console-settings.spec.ts, e2e_tests/smoke/gpus-console-settings.spec.ts
+- `/gpus-console/storage` — e2e_tests/gpus-console-storage.spec.ts, e2e_tests/smoke/gpus-console-storage.spec.ts
+- `/gpus-console/templates` — e2e_tests/gpus-console-templates.spec.ts, e2e_tests/smoke/gpus-console-templates.spec.ts
+- `/gpus-console/templates-library` — e2e_tests/gpus-console-templates-library.spec.ts, e2e_tests/smoke/gpus-console-templates-library.spec.ts
+- `/gpus-console/upgrade` — e2e_tests/gpus-console-upgrade.spec.ts, e2e_tests/smoke/gpus-console-upgrade.spec.ts
+- `/gpus-spot` — e2e_tests/gpus-spot.spec.ts, e2e_tests/smoke/gpus-spot.spec.ts
+- `/gpus/gpu/[gpu_model]` — e2e_tests/dynamic-and-user-routes.spec.ts
+- `/legal` — e2e_tests/legal.spec.ts
+- `/legal/cookie-policy` — e2e_tests/legal.spec.ts
+- `/legal/dedicated-endpoints-sla` — e2e_tests/legal.spec.ts
+- `/legal/privacy-policy` — e2e_tests/legal.spec.ts
+- `/legal/terms-of-service` — e2e_tests/legal.spec.ts
+- `/llama3` — e2e_tests/public-pages.spec.ts
+- `/model-api/model` — e2e_tests/smoke/model-api-model.spec.ts
+- `/model-api/model/upload` — e2e_tests/console-misc.spec.ts
+- `/model-api/product/animate-anyone` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/cleanup` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/create-tile` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/doodle` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/img2img` — e2e_tests/model-api-product-img2img.spec.ts, e2e_tests/smoke/model-api-product-img2img.spec.ts
+- `/model-api/product/img2video` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/img2video-motion` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/inpainting` — e2e_tests/model-api-product-inpainting.spec.ts, e2e_tests/smoke/model-api-product-inpainting.spec.ts
+- `/model-api/product/lcm-txt2img` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/LoRA-training` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/merge-face` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/mix-pose` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/outpainting` — e2e_tests/model-api-product-outpainting.spec.ts, e2e_tests/smoke/model-api-product-outpainting.spec.ts
+- `/model-api/product/reimagine` — e2e_tests/model-api-product-reimagine.spec.ts, e2e_tests/smoke/model-api-product-reimagine.spec.ts
+- `/model-api/product/remove-background` — e2e_tests/model-api-product-remove-background.spec.ts, e2e_tests/smoke/model-api-product-remove-background.spec.ts
+- `/model-api/product/remove-text` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/remove-watermark` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/replace-background` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/replace-object` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/replace-sky` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/restore-face` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/sd3` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/sdxl-turbo` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/speech2txt` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/speech2txt-translate` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/txt2img` — e2e_tests/model-api-product-txt2img.spec.ts, e2e_tests/smoke/model-api-product-txt2img.spec.ts
+- `/model-api/product/txt2video` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/upscale` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/video-magic-cut` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/video-remove-object` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/video-remove-subtitle` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/video-remove-watermark` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/video-translate` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/video-upscale` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/voice-cloning` — e2e_tests/model-api-product-extended.spec.ts
+- `/model-api/product/voice-cloning-instant` — e2e_tests/model-api-product-extended.spec.ts
+- `/models` — e2e_tests/public-pages.spec.ts
+- `/models-console` — e2e_tests/models-console-extended.spec.ts
+- `/models-console/image-dedicated-endpoints` — e2e_tests/models-console-extended.spec.ts
+- `/models-console/image-playground` — e2e_tests/models-console-extended.spec.ts
+- `/models-console/library` — e2e_tests/models-console-extended.spec.ts
+- `/models-console/llm-dedicated-endpoints` — e2e_tests/models-console-extended.spec.ts
+- `/models-console/llm-metrics` — e2e_tests/models-console-llm-metrics.spec.ts, e2e_tests/smoke/models-console-llm-metrics.spec.ts
+- `/models-console/llm-playground` — e2e_tests/models-console-llm-playground.spec.ts, e2e_tests/smoke/models-console-llm-playground.spec.ts
+- `/models-console/logs` — e2e_tests/models-console-extended.spec.ts
+- `/models-console/metrics/usage` — e2e_tests/models-console-metrics-usage.spec.ts, e2e_tests/smoke/models-console-metrics-usage.spec.ts
+- `/models-console/model-management` — e2e_tests/smoke/models-console-model-management.spec.ts
+- `/models-console/multimodal-playground` — e2e_tests/smoke/models-console-multimodal-playground.spec.ts
+- `/models-console/settings` — e2e_tests/models-console-settings.spec.ts, e2e_tests/smoke/models-console-settings.spec.ts
+- `/models-console/usage` — e2e_tests/models-console-usage.spec.ts, e2e_tests/smoke/models-console-usage.spec.ts
+- `/models/[model_series]/[model_name]` — e2e_tests/dynamic-and-user-routes.spec.ts
+- `/models/end-of-service` — e2e_tests/models-end-of-service.spec.ts, e2e_tests/smoke/models-end-of-service.spec.ts
+- `/models/image` — e2e_tests/models-image.spec.ts, e2e_tests/smoke/models-image.spec.ts
+- `/models/llm` — e2e_tests/smoke/models-llm.spec.ts
+- `/models/llm/[model]` — e2e_tests/dynamic-and-user-routes.spec.ts
+- `/models/video/kling-v1.6-i2v` — e2e_tests/models-video-extended.spec.ts
+- `/models/video/kling-v1.6-t2v` — e2e_tests/models-video-kling-t2v.spec.ts, e2e_tests/smoke/models-video-kling-t2v.spec.ts
+- `/models/video/minimax-hailuo-02` — e2e_tests/models-video-minimax-hailuo.spec.ts, e2e_tests/smoke/models-video-minimax-hailuo.spec.ts
+- `/models/video/minimax-video-01` — e2e_tests/models-video-extended.spec.ts
+- `/models/video/wan-2.1` — e2e_tests/models-video-wan-21.spec.ts, e2e_tests/smoke/models-video-wan-21.spec.ts
+- `/models/video/wan-2.1-i2v` — e2e_tests/models-video-extended.spec.ts
+- `/models/video/wan-2.6` — e2e_tests/models-video-extended.spec.ts
+- `/models/voices` — e2e_tests/models-voices.spec.ts, e2e_tests/smoke/models-voices.spec.ts
+- `/oauth/authorize` — e2e_tests/console-misc.spec.ts
+- `/oauth/authorize/refuse` — e2e_tests/public-pages.spec.ts
+- `/oauth/authorize/success` — e2e_tests/public-pages.spec.ts
+- `/pricing` — e2e_tests/pricing.spec.ts, e2e_tests/smoke/pricing.spec.ts
+- `/quota-limits` — e2e_tests/quota-limits.spec.ts
+- `/quota-limits/image` — e2e_tests/quota-limits.spec.ts
+- `/quota-limits/llm` — e2e_tests/quota-limits.spec.ts
+- `/quota-limits/sandbox` — e2e_tests/quota-limits.spec.ts
+- `/referral` — e2e_tests/public-pages.spec.ts
+- `/sandbox` — e2e_tests/sandbox.spec.ts
+- `/sandbox-console` — e2e_tests/sandbox-console.spec.ts
+- `/sandbox-console/quota-limits` — e2e_tests/sandbox-console.spec.ts
+- `/sandbox-console/template` — e2e_tests/sandbox-console.spec.ts
+- `/sandbox-console/usage` — e2e_tests/sandbox-console.spec.ts
+- `/sandbox-console/view` — e2e_tests/sandbox-console.spec.ts
+- `/sandbox/success` — e2e_tests/sandbox.spec.ts
+- `/sandbox1` — e2e_tests/sandbox.spec.ts
+- `/serverless` — e2e_tests/public-pages.spec.ts
+- `/settings` — e2e_tests/settings.spec.ts
+- `/settings/account` — e2e_tests/settings.spec.ts
+- `/settings/audit-logs` — e2e_tests/settings.spec.ts
+- `/settings/key-management` — e2e_tests/settings.spec.ts
+- `/settings/team` — e2e_tests/settings.spec.ts
+- `/team-permission-details` — e2e_tests/public-pages.spec.ts
+- `/templates` — e2e_tests/public-pages.spec.ts
+- `/user/email-validate` — e2e_tests/dynamic-and-user-routes.spec.ts
+- `/user/login` — e2e_tests/smoke/user-login.spec.ts, e2e_tests/user-login.spec.ts
+- `/user/register` — e2e_tests/smoke/user-register.spec.ts, e2e_tests/user-register.spec.ts
+- `/user/reset` — e2e_tests/dynamic-and-user-routes.spec.ts
+- `/user/reset/[token]` — e2e_tests/dynamic-and-user-routes.spec.ts

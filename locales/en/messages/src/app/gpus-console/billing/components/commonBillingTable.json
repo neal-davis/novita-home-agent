@@ -1,0 +1,21 @@
+{
+  "all": "All",
+  "amountShouldPay": "Amount Should Pay",
+  "billingPeriod": "Billing Period",
+  "captionTable": "caption table",
+  "cashPaid": "Cash Paid",
+  "instance": "Instance",
+  "localStorage": "Local Storage",
+  "networkStorage": "Network Storage",
+  "onDemand": "On Demand",
+  "prepaid": "Prepaid",
+  "prepaidByDay": "Prepaid By Day",
+  "prepaidByMonth": "Prepaid By Month",
+  "prepaidByWeek": "Prepaid By Week",
+  "prepaidByYear": "Prepaid By Year",
+  "pricingModel": "Pricing Model",
+  "product": "Product",
+  "productName": "Product Name",
+  "productType": "Product Type",
+  "voucherDeduction": "Voucher Deduction"
+}

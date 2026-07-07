@@ -1,0 +1,99 @@
+# Novita AI
+
+> Novita AI provides APIs for LLMs, image, video, audio generation, GPU cloud, and agent sandboxes. For full documentation content, fetch [llms-full.txt](https://novita.ai/llms-full.txt).
+
+Use this file as the canonical documentation index for agents. Prefer Markdown retrieval with `Accept: text/markdown` or `.md` URL variants when available.
+
+## Platform Entry Points
+
+- [Documentation](https://novita.ai/docs): Developer documentation, guides, and API reference.
+- [API Reference](https://novita.ai/docs/api-reference/model-apis-introduction): Model API reference and endpoint details.
+- [Model Library](https://novita.ai/models): Public model catalog for LLM, image, video, and voice models.
+- [Pricing](https://novita.ai/pricing): Usage-based pricing for models, GPU products, and sandbox products.
+- [Console](https://novita.ai/console): Authenticated console for API keys, billing, usage, and product workflows.
+
+## Discovery Documents
+
+- [OpenAPI Description](https://novita.ai/.well-known/openapi.json): OpenAPI description for Novita APIs.
+- [API Catalog](https://novita.ai/.well-known/api-catalog): Linkset catalog that points agents to API docs and service descriptions.
+- [MCP Server Card](https://novita.ai/.well-known/mcp/server-card.json): Discovery card for the Novita MCP server.
+- [Agent Skills Index](https://novita.ai/.well-known/agent-skills/index.json): Product-specific agent skill entry point.
+- [OAuth Authorization Server Metadata](https://novita.ai/.well-known/oauth-authorization-server): OAuth authorization server discovery metadata.
+- [OAuth Protected Resource Metadata](https://novita.ai/.well-known/oauth-protected-resource): Protected resource metadata for API access.
+- [Auth Guide](https://novita.ai/auth.md): Machine-readable authentication and access summary.
+
+## Authentication And Billing
+
+- [Basic Authentication](https://novita.ai/docs/api-reference/basic-authentication): API key authentication with `Authorization: Bearer <API_KEY>`.
+- [Error Codes](https://novita.ai/docs/api-reference/basic-error-code): Common API error codes and response patterns.
+- [Get User Balance](https://novita.ai/docs/api-reference/basic-get-user-balance): Query account balance.
+- [Query Monthly Bill](https://novita.ai/docs/api-reference/basic-query-monthly-bill): Query billing usage by month.
+
+## LLM APIs
+
+- [LLM API Guide](https://novita.ai/docs/guides/llm-api): OpenAI-compatible LLM API quickstart.
+- [Create Chat Completion](https://novita.ai/docs/api-reference/model-apis-llm-create-chat-completion): Create an OpenAI-compatible chat completion.
+- [Create Completion](https://novita.ai/docs/api-reference/model-apis-llm-create-completion): Create an OpenAI-compatible text completion.
+- [Create Embeddings](https://novita.ai/docs/api-reference/model-apis-llm-create-embeddings): Generate embeddings.
+- [Create Rerank](https://novita.ai/docs/api-reference/model-apis-llm-create-rerank): Rerank documents with supported models.
+- [List Models](https://novita.ai/docs/api-reference/model-apis-llm-list-models): List available OpenAI-compatible models.
+- [Retrieve Model](https://novita.ai/docs/api-reference/model-apis-llm-retrieve-model): Retrieve one model by ID.
+- [Batch API](https://novita.ai/docs/guides/llm-batch-api): Run asynchronous LLM batch jobs.
+- [Function Calling](https://novita.ai/docs/guides/llm-function-calling): Use tool calling with supported LLMs.
+- [Structured Outputs](https://novita.ai/docs/guides/llm-structured-outputs): Request schema-constrained model outputs.
+
+## Image APIs
+
+- [Text To Image](https://novita.ai/docs/api-reference/model-apis-txt2img): Generate images from prompts.
+- [Image To Image](https://novita.ai/docs/api-reference/model-apis-img2img): Transform an input image.
+- [Upscale](https://novita.ai/docs/api-reference/model-apis-upscale): Increase image resolution.
+- [Remove Background](https://novita.ai/docs/api-reference/model-apis-remove-background): Remove an image background.
+- [Replace Background](https://novita.ai/docs/api-reference/model-apis-replace-background): Replace an image background.
+- [Inpainting](https://novita.ai/docs/api-reference/model-apis-inpainting): Edit masked image regions.
+
+## Video And Audio APIs
+
+- [Text To Video](https://novita.ai/docs/api-reference/model-apis-txt2video): Generate video from text prompts.
+- [Image To Video](https://novita.ai/docs/api-reference/model-apis-img2video): Generate video from an input image.
+- [Hunyuan Video Fast](https://novita.ai/docs/api-reference/model-apis-hunyuan-video-fast): Hunyuan video generation endpoint.
+- [Kling V2.1 Master](https://novita.ai/docs/api-reference/model-apis-kling-v2.1-t2v-master): Kling text-to-video endpoint.
+- [Minimax Hailuo 02](https://novita.ai/docs/api-reference/model-apis-minimax-hailuo-02): Minimax video generation endpoint.
+- [Minimax Speech 02 HD](https://novita.ai/docs/api-reference/model-apis-minimax-speech-02-hd): Text-to-speech endpoint.
+- [GLM ASR](https://novita.ai/docs/api-reference/model-apis-glm-asr): Speech recognition endpoint.
+
+## GPU Cloud
+
+- [GPU Instance Overview](https://novita.ai/gpus): GPU Cloud product overview.
+- [Create GPU Instance](https://novita.ai/docs/api-reference/gpu-instance-create-instance): Create a GPU instance.
+- [List GPU Instances](https://novita.ai/docs/api-reference/gpu-instance-list-instances): List GPU instances.
+- [Get GPU Instance](https://novita.ai/docs/api-reference/gpu-instance-get-instance): Get one GPU instance.
+- [Start GPU Instance](https://novita.ai/docs/api-reference/gpu-instance-start-instance): Start a GPU instance.
+- [Stop GPU Instance](https://novita.ai/docs/api-reference/gpu-instance-stop-instance): Stop a GPU instance.
+- [Delete GPU Instance](https://novita.ai/docs/api-reference/gpu-instance-delete-instance): Delete a GPU instance.
+- [List GPU Products](https://novita.ai/docs/api-reference/gpu-instance-list-products): List available GPU products.
+- [Create Instance Guide](https://novita.ai/docs/guides/gpu-instance-quickstart-create-instances): GPU instance quickstart.
+
+## Serverless GPUs
+
+- [Create Serverless Endpoint](https://novita.ai/docs/api-reference/serverless-create-endpoint): Create a serverless GPU endpoint.
+- [List Serverless Endpoints](https://novita.ai/docs/api-reference/serverless-list-endpoint): List serverless GPU endpoints.
+- [Get Serverless Endpoint](https://novita.ai/docs/api-reference/serverless-get-endpoint): Get one endpoint.
+- [Update Serverless Endpoint](https://novita.ai/docs/api-reference/serverless-update-endpoint): Update endpoint configuration.
+- [Delete Serverless Endpoint](https://novita.ai/docs/api-reference/serverless-delete-endpoint): Delete an endpoint.
+
+## Agent Sandbox
+
+- [Agent Sandbox Overview](https://novita.ai/docs/guides/sandbox-overview): Secure sandbox runtime for autonomous agents.
+- [Sandbox SDK And CLI](https://novita.ai/docs/guides/sandbox-sdk-and-cli): SDK and CLI setup for sandboxes.
+- [NovitaClaw](https://novita.ai/docs/guides/novitaclaw): NovitaClaw agent workflow guide.
+- [NovitaClaw Configuration](https://novita.ai/docs/guides/novitaclaw-configuration): Configure NovitaClaw.
+- [NovitaClaw Commands](https://novita.ai/docs/guides/novitaclaw-commands): NovitaClaw command reference.
+
+## Integrations
+
+- [Claude Code](https://novita.ai/docs/guides/claude-code): Use Novita with Claude Code.
+- [OpenAI Agents SDK](https://novita.ai/docs/guides/openai-agents-sdk): Use Novita with the OpenAI Agents SDK.
+- [LangChain](https://novita.ai/docs/guides/langchain): Use Novita with LangChain.
+- [Cursor](https://novita.ai/docs/guides/cursor): Use Novita in Cursor.
+- [Dify](https://novita.ai/docs/guides/dify): Use Novita with Dify.
+- [LiteLLM](https://novita.ai/docs/guides/litellm): Use Novita through LiteLLM.

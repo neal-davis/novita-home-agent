@@ -1,0 +1,8 @@
+{
+  "engine": "エンジン",
+  "instanceConfiguration": "インスタンス構成",
+  "lora": "LoRA",
+  "loraAdapters": "LoRAアダプター",
+  "model": "モデル",
+  "readOnly": "読み取り専用"
+}

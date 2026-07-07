@@ -1,0 +1,5 @@
+{
+  "apiCallsMadeUsingVoucherCredits": "使用代金券额度发起的 API 调用可能会根据需求受到较低的速率限制。如需更高限制，请通过以下方式联系我们：",
+  "areThereAnyUsageLimitsWith": "代金券是否有任何使用限制？",
+  "noteVouchersAreNonTransferableCannot": "注意：代金券不可转让，不能用于为用户在 Novita 上的余额充值，也不能兑换现金。可能适用其他条款，Novita AI 保留随时修改或终止此优惠的权利。"
+}

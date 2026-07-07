@@ -1,0 +1,10 @@
+{
+  "dateAlignmentTest": "Test d’alignement des dates",
+  "legacyLlmListActionTestModel": "Modèle de test d’action de liste LLM hérité",
+  "legacyLlmListModel": "Modèle de liste LLM hérité",
+  "longSummaryLayoutTest": "Test de mise en page du résumé long",
+  "multimodalActionTestModel": "Modèle de test d’action multimodal",
+  "multimodalLabelTestModel": "Modèle de test d’étiquette multimodal",
+  "multimodalListTestModel": "Modèle de test de liste multimodal",
+  "tieredListModel": "Modèle de liste par niveaux"
+}

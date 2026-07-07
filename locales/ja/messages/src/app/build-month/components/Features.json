@@ -1,0 +1,9 @@
+{
+  "fastScalability": "高速なスケーラビリティ",
+  "keyFeatures": "主な機能",
+  "launch0To1000Sandboxes": "200 ms未満で0から1,000以上のサンドボックスを起動し、AIエージェントの迅速なデプロイを可能にします。",
+  "maintainMemoryFileSystemPersistenceFor": "迅速な復旧、実行の継続性、効率的なリソース利用、複雑なタスクのために、メモリとファイルシステムの永続性を維持します。",
+  "onlyPayForWhatYouUse": "使用した分だけお支払いいただけます。サブスクリプション料金は不要で、柔軟かつ費用効率の高いアクセスを実現します。",
+  "payAsYouGoPricing": "従量課金制の料金",
+  "sessionPersistence": "セッション永続化"
+}

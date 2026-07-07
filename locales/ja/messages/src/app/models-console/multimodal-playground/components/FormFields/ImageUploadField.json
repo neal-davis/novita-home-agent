@@ -1,0 +1,9 @@
+{
+  "add": "追加",
+  "addLink": "リンクを追加",
+  "confirm": "確認",
+  "dataImagePngBase64": "data:image/png;base64,...",
+  "invalidInputFormat": "入力形式が無効です",
+  "uploadImage": "画像をアップロード",
+  "uploading": "アップロード中..."
+}

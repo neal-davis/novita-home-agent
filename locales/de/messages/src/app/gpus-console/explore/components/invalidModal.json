@@ -1,0 +1,6 @@
+{
+  "cancel": "Abbrechen",
+  "updateTemplateNow": "Vorlage jetzt aktualisieren",
+  "volumeDiskMounting": "Volume-Disk-Einbindung",
+  "yourTemplateCurrentlyIncludesVolumeDisk": "Ihre Vorlage enthält derzeit eine Volume-Disk-Einbindung, die nicht mehr unterstützt wird (Container Disk wurde erweitert). Bitte aktualisieren Sie Ihre Vorlage, um die Konfigurationen für die Volume-Disk-Einbindung zu entfernen und Daten auf der Container Disk zu speichern."
+}

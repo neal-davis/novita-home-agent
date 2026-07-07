@@ -1,0 +1,20 @@
+{
+  "autoRenew": "Auto-renew",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "confirmCurrentOperation": "Confirm current operation?",
+  "currentExpirationTime": "Current expiration time",
+  "details": "Details",
+  "expirationTimeAfterRenewal": "Expiration time after renewal",
+  "gpuFee": "GPU fee",
+  "instanceId": "Instance ID",
+  "off": "% OFF",
+  "processing": "Processing",
+  "renewSubscriptionInstance": "Renew Subscription Instance",
+  "renewalDuration": "Renewal duration",
+  "settlementAmount": "Settlement amount",
+  "storageFee": "Storage fee",
+  "switchToSubscription": "Switch to Subscription",
+  "unitPrice": "Unit price",
+  "weWillAttemptCharge3Days": "We will attempt charge 3 days before expiration"
+}

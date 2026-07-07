@@ -1,0 +1,16 @@
+{
+  "amountShouldPay": "Valor a pagar",
+  "billingPeriod": "Período de cobrança",
+  "captionTable": "tabela de legendas",
+  "cashPaid": "Valor pago em dinheiro",
+  "duration": "Duração",
+  "endpointId-a11c3a": "ID do endpoint",
+  "endpointId-b72156": "ID do endpoint",
+  "export": "Exportar",
+  "gpuType": "Tipo de GPU",
+  "gpusWorker": "GPUs/Worker",
+  "priceUnitS": "Preço (Unidade:/s)",
+  "search": "pesquisar",
+  "voucherDeduction": "Dedução de voucher",
+  "workId": "ID do trabalho"
+}

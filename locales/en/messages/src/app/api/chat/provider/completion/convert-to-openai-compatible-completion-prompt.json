@@ -1,0 +1,3 @@
+{
+  "unexpectedSystemMessageInPromptContent": "Unexpected system message in prompt: ${content}"
+}

@@ -1,0 +1,18 @@
+{
+  "affiliateDashboard": "Affiliate-Dashboard",
+  "email": "E-Mail",
+  "initialLoginCredentials": "Erste Anmeldedaten",
+  "initialPassword": "Initiales Passwort",
+  "notAvailableYet": "Noch nicht verfügbar",
+  "openDashboard": "Dashboard öffnen",
+  "referralLink": "Empfehlungslink",
+  "retry": "Erneut versuchen",
+  "shareThisLinkToEarn10": "Teile diesen Link, um 10 % Provision auf die Ausgaben jeder Empfehlung zu verdienen",
+  "startEarningCommissionsWithYourPersonalized": "Verdiene Provisionen mit deinen personalisierten Affiliate-Tools",
+  "trackYourReferralsEarningsAndPayout": "Verfolge deine Empfehlungen, Einnahmen und Auszahlungshistorie",
+  "unableToLoadAffiliateCredentialsPlease": "Affiliate-Zugangsdaten konnten nicht geladen werden. Bitte versuche es später erneut.",
+  "useTheseToAccessYourAffiliate": "Verwende diese Daten, um dich zum ersten Mal in dein Affiliate-Dashboard einzuloggen",
+  "weRecommendChangingYourPasswordAfter": "Wir empfehlen, dein Passwort nach der ersten Anmeldung zu ändern.",
+  "yourAffiliateCredentials": "Deine Affiliate-Zugangsdaten",
+  "yourReferralLink": "Dein Empfehlungslink"
+}

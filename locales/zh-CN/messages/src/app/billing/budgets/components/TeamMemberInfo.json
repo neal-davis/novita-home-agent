@@ -1,0 +1,13 @@
+{
+  "alias": "别名",
+  "goToTeamSetting": "前往团队设置",
+  "loading": "加载中...",
+  "membersWithBudget": "有预算的成员",
+  "role": "角色",
+  "team": "团队",
+  "teamId": "团队 ID",
+  "teamInformation": "团队信息",
+  "teamMemberBudgets": "团队成员预算",
+  "totalMembers": "成员总数",
+  "youCanSetIndividualBudgetLimits": "您可以为每位团队成员设置单独的预算限额，以控制他们在平台上的总支出。"
+}

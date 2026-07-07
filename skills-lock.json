@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": {
+    "frontend-engineering": {
+      "source": "git@gitlab.paigod.work:ai-cloud-public/skills.git",
+      "ref": "feat/frontend-engineering",
+      "sourceType": "git",
+      "skillPath": "skills/frontend-engineering/SKILL.md",
+      "computedHash": "bdb29624d52b464243a91fbe0a65783162989a105c0e71c7814b43cabab4d358"
+    }
+  }
+}

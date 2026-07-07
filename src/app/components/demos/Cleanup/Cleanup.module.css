@@ -1,0 +1,10 @@
+.preview_wrapper {
+  flex: 1;
+  width: 100%;
+  overflow: hidden;
+}
+
+.drawer_wrapper {
+  height: 100%;
+  overflow: hidden;
+}

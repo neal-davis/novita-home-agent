@@ -1,0 +1,15 @@
+{
+  "automaticInstanceMigration": "实例自动迁移",
+  "automaticMigration": "自动迁移",
+  "automaticallyMigratesTheInstanceToA": "在硬件故障时，自动将实例迁移到健康节点。实例 ID、端口映射地址和数据保持不变，仅会有短暂停机。",
+  "cancel": "取消",
+  "confirm": "确认",
+  "ifNoActionIsTakenThe": "如果不采取任何操作，系统将自动迁移以保持服务连续性。",
+  "ifTheSystemDiskIsIncluded": "如果包含系统盘，停机时间取决于其大小（通常为数分钟到约 10 多分钟）。",
+  "migrateSystemDisk": "迁移系统盘",
+  "success": "成功",
+  "supportIsAvailableDuringMigrationIf": "如有需要，迁移期间可获得支持。",
+  "theFollowingRegionsDontSupportThis": "以下区域不支持此功能：",
+  "usCa03UsCaNas": "US-CA-03/US-CA-NAS-01/US-02/US-CA-02",
+  "youllBeNotifiedOfFaultsAnd": "你将收到故障通知，并且必须在 7 天内手动迁移。"
+}

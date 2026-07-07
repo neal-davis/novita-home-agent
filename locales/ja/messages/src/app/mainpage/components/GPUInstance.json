@@ -1,0 +1,6 @@
+{
+  "agentSandbox": "エージェントサンドボックス",
+  "exploreNow": "今すぐ探索",
+  "runAutonomousAgentsInIsolatedContainers": "自律型エージェントを隔離されたコンテナ内で実行。起動は約200ミリ秒、安全なツール利用（ブラウザ/API/コード）、大規模な同時実行に対応。CPU/RAM は秒単位の課金です。",
+  "safeInstantRuntimesForAiAgents": "AI エージェント向けの安全で即時利用可能なランタイム"
+}

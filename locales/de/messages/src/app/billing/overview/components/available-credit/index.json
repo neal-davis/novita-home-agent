@@ -1,0 +1,12 @@
+{
+  "accountBalance": "Kontostand",
+  "availableCredit": "Verfügbarer Kredit",
+  "creditLimit": "Kreditlimit",
+  "outstandingInvoices": "Ausstehende Rechnungen",
+  "pendingCharges": "Ausstehende Gebühren",
+  "prepaidFundsInYourAccountThat": "Vorausbezahlte Guthabenbeträge in Ihrem Konto, die abnehmen, wenn Sie nutzungsbasierte Käufe tätigen.",
+  "theMaximumPostpaidAmountApprovedBased": "Der maximale Postpaid-Betrag, der basierend auf dem Kreditprofil Ihres Kontos genehmigt wurde und es Ihnen ermöglicht, zuerst zu nutzen und später zu bezahlen.",
+  "totalAmountOwedUnderYourCredit": "Der Gesamtbetrag, der im Rahmen Ihres Kreditlimits geschuldet wird und innerhalb des Zahlungszeitraums zurückgezahlt werden muss.",
+  "usageChargesThatHaveBeenIncurred": "Nutzungsgebühren, die angefallen, aber noch nicht zur Abbuchung fällig sind. Diese Beträge werden automatisch von Ihrem Guthaben oder Kreditlimit abgebucht, sobald der Abrechnungszyklus den Zahlungszeitpunkt erreicht.",
+  "yourAvailableCreditIsTheRemaining": "Ihr verfügbarer Kredit ist der verbleibende Betrag, den Sie nach ausstehenden Gebühren nutzen können, bevor Sie Ihr Kreditlimit erreichen."
+}

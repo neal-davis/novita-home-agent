@@ -1,0 +1,11 @@
+{
+  "addControlnetUnit": "添加 ControlNet 单元",
+  "controlnet": "ControlNet",
+  "end": "结束",
+  "guidance": "引导",
+  "image": "图像",
+  "model": "模型",
+  "preprocessor": "预处理器",
+  "start": "开始",
+  "strength": "强度"
+}

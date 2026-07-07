@@ -1,0 +1,6 @@
+{
+  "cancel": "Cancelar",
+  "updateTemplateNow": "Actualizar plantilla ahora",
+  "volumeDiskMounting": "Montaje de Disco de volumen",
+  "yourTemplateCurrentlyIncludesVolumeDisk": "Tu plantilla incluye actualmente el montaje de Disco de volumen, que ya no es compatible (se ha ampliado el Disco de contenedor). Actualiza tu plantilla para eliminar las configuraciones de montaje de Disco de volumen y almacenar los datos en el Disco de contenedor."
+}

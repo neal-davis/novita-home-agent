@@ -1,0 +1,16 @@
+{
+  "cancel": "Cancelar",
+  "contactEmail": "Correo electrónico de contacto",
+  "currentLimit": "Límite actual",
+  "increaseLimit": "Aumentar límite",
+  "limitMetric": "Métrica de límite",
+  "pleaseEnterAPositiveIntegerValue": "Por favor, introduce un valor entero positivo",
+  "pleaseEnterAValidEmailAddress": "Introduce una dirección de correo electrónico válida",
+  "pleaseEnterTheReasonForYour": "Introduce el motivo de tu solicitud de cuota para agilizar nuestro proceso de revisión",
+  "quotaIncreaseRequestSubmitted": "Solicitud de aumento de cuota enviada",
+  "reasonForRequest": "Motivo de la solicitud",
+  "requestRateLimitIncrease": "Solicitar aumento del límite de tasa",
+  "requestedRateLimit": "Límite de tasa solicitado",
+  "resourceService": "Recurso/Servicio",
+  "submit": "Enviar"
+}

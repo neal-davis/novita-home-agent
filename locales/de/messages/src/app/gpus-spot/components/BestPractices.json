@@ -1,0 +1,12 @@
+{
+  "adoptMixedStrategies": "Gemischte Strategien einsetzen",
+  "bestPractices": "Best Practices",
+  "breakJobsIntoSmallerUnitsWith": "Aufträge mit Fortsetzen/Wiederholen in kleinere Einheiten aufteilen",
+  "designRetryableWorkloads": "Wiederholbare Workloads entwerfen",
+  "enableCheckpointing": "Checkpointing aktivieren",
+  "noticeSpotIsBestForFlexible": "Hinweis: Spot eignet sich am besten für flexible Workloads. Verwenden Sie On-Demand oder reservierte Instanzen für geschäftskritische Anwendungen.",
+  "respondQuickly": "Schnell reagieren",
+  "runCriticalWorkloadsOnOnDemand": "Kritische Workloads auf On-Demand ausführen, flexible Workloads auf Spot auslagern",
+  "saveTrainingStateRegularlyToPersistent": "Trainingszustand regelmäßig in persistentem Speicher speichern",
+  "useTerminationNotificationsToTriggerBackup": "Beendigungsbenachrichtigungen verwenden, um Backup- oder Shutdown-Logik auszulösen"
+}

@@ -1,0 +1,31 @@
+.homepage {
+  margin-top: var(--header-height);
+
+  .left_view {
+    width: 100%;
+  }
+}
+
+@include screen-sm {
+  .homepage {
+    .left_view {
+      width: 361px;
+    }
+
+    .right_view {
+      width: calc(100% - 361px);
+    }
+  }
+}
+
+@include screen-lg {
+  .homepage {
+    .left_view {
+      width: 561px;
+    }
+
+    .right_view {
+      width: calc(100% - 561px);
+    }
+  }
+}

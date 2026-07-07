@@ -1,0 +1,7 @@
+{
+  "cacheReadInput": "缓存（读取）输入",
+  "cacheWrite5mInput": "缓存（写入：5m）输入",
+  "cacheWrites1hInput": "缓存（写入：1h）输入",
+  "output": "输出",
+  "uncachedInput": "未缓存输入"
+}

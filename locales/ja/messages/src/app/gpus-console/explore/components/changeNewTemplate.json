@@ -1,0 +1,18 @@
+{
+  "allTemplates": "すべてのテンプレート",
+  "close": "閉じる",
+  "currentTemplate": "現在のテンプレート",
+  "loginFailurePleaseLogInAgain": "ログインに失敗しました。もう一度ログインしてください",
+  "myCreations": "自分の作成物",
+  "myFavorites": "お気に入り",
+  "new": "新規",
+  "noResultsFound": "結果が見つかりません",
+  "novitaAiGpuMarketplaceDeployGpu": "Novita AI GPU Marketplace - GPU インスタンスをシームレスにデプロイ",
+  "official": "公式",
+  "pleaseLogInFirst": "まずログインしてください",
+  "recommendedForYou": "🔥 あなたへのおすすめ",
+  "rentGpusFromNovitaAisGpu": "Novita AI の GPU マーケットプレイスから GPUs をレンタルし、独自のデプロイをカスタマイズしてインスタンスを起動できます。4090、A100、L40、3090 が利用可能です。使用した分だけお支払いください。",
+  "searchTemplate": "テンプレートを検索",
+  "trySearchingForSomethingElseOr": "別のキーワードで検索するか、自分のテンプレートを作成してください。",
+  "updatedTime": "更新日時:"
+}

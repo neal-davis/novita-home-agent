@@ -1,0 +1,10 @@
+{
+  "a100": "A100",
+  "default1HourProtection1Hour": "Standardmäßiger 1-Stunden-Schutz, Kündigungsfrist 1 Stunde im Voraus, vollständig kompatibel mit traditionellen Spot-Workflows. Am besten geeignet für Workloads, die Unterbrechungen tolerieren",
+  "deploySpotInstance": "Spot-Instance bereitstellen",
+  "gpuTypesAvailable": "Verfügbare GPU-Typen:",
+  "h100": "H100",
+  "spotGpuInstances": "Spot-GPU-Instanzen",
+  "upTo50OffRtx4090": "Bis zu 50 % Rabatt – RTX 4090 ab nur 0,18 $/Stunde",
+  "viewPricing": "Preise anzeigen"
+}

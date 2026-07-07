@@ -1,0 +1,14 @@
+{
+  "and": "und $",
+  "autoRecharge": "Automatische Aufladung",
+  "autoRechargeIsNotGuaranteedIf": "Die automatische Aufladung ist nicht garantiert. Wenn ein Zahlungsversuch fehlschlägt und Ihr Guthaben 0 erreicht, können Ihre Dienste unterbrochen werden. Bitte stellen Sie sicher, dass Ihre Zahlungsmethode gültig ist, und überprüfen Sie regelmäßig Ihr Guthaben oder aktivieren Sie eine",
+  "autoTopUpIsNotGuaranteed": "Automatisches Aufladen ist nicht garantiert. Wenn ein Zahlungsversuch fehlschlägt und Ihr Guthaben 0 erreicht, können Ihre Dienste unterbrochen werden. Bitte stellen Sie sicher, dass Ihre Zahlungsmethode gültig ist, und überprüfen Sie regelmäßig Ihr Guthaben oder aktivieren Sie eine",
+  "automaticPayments": "Automatische Zahlungen",
+  "bringCreditBackUpTo": "Guthaben wieder auffüllen auf",
+  "cancel": "Abbrechen",
+  "enterAnIntegerAmountBetween": "Geben Sie einen ganzzahligen Betrag zwischen $",
+  "lowBalanceAlert": "Warnung bei niedrigem Guthaben",
+  "saveSetting": "Einstellung speichern",
+  "toGetNotifiedInAdvance": "um im Voraus benachrichtigt zu werden.",
+  "whenCreditGoesBelow": "Wenn das Guthaben unter"
+}

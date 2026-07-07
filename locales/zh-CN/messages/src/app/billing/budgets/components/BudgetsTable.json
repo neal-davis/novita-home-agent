@@ -1,0 +1,13 @@
+{
+  "actions": "操作",
+  "apiKeyName": "API 密钥名称",
+  "budget": "预算",
+  "budgetType": "预算类型",
+  "edit": "编辑",
+  "loading": "正在加载...",
+  "member": "成员",
+  "noApiKeyBudgets": "无 API 密钥预算",
+  "resetAt": "重置时间",
+  "status": "状态",
+  "usage": "用量"
+}

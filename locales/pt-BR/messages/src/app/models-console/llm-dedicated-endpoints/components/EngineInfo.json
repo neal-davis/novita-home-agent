@@ -1,0 +1,12 @@
+{
+  "cancel": "Cancelar",
+  "confirmRestart": "Confirmar e reiniciar",
+  "edit": "Editar",
+  "engineConfiguration": "Configuração do mecanismo",
+  "off": "Desligado",
+  "on": "Ligado",
+  "restartEngine": "Reiniciar mecanismo?",
+  "saveRestartEngine": "Salvar e reiniciar mecanismo",
+  "savingChangesWillTriggerARolling": "Salvar as alterações acionará uma reinicialização gradual do mecanismo",
+  "thisWillTriggerARollingRestart": "Isso acionará uma reinicialização gradual de todas as réplicas. O processo pode levar alguns minutos. Durante a reinicialização, seu endpoint permanecerá disponível."
+}

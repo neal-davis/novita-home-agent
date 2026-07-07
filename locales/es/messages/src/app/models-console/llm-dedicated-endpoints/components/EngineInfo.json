@@ -1,0 +1,12 @@
+{
+  "cancel": "Cancelar",
+  "confirmRestart": "Confirmar y reiniciar",
+  "edit": "Editar",
+  "engineConfiguration": "Configuración del motor",
+  "off": "Desactivado",
+  "on": "Activado",
+  "restartEngine": "¿Reiniciar el motor?",
+  "saveRestartEngine": "Guardar y reiniciar el motor",
+  "savingChangesWillTriggerARolling": "Guardar los cambios activará un reinicio progresivo del motor",
+  "thisWillTriggerARollingRestart": "Esto activará un reinicio progresivo de todas las réplicas. El proceso puede tardar unos minutos. Durante el reinicio, tu endpoint seguirá estando disponible."
+}

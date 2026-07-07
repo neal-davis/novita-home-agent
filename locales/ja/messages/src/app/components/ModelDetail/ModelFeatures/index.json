@@ -1,0 +1,13 @@
+{
+  "availableServerless": "利用可能なサーバーレス",
+  "cacheRead": "キャッシュ読み取り",
+  "cacheWrite1h": "キャッシュ書き込み(1h)",
+  "cacheWrite5m": "キャッシュ書き込み(5m)",
+  "features": "機能",
+  "input": "入力",
+  "onDemandDeployments": "オンデマンドデプロイメント",
+  "output": "出力",
+  "runQueriesImmediatelyPayOnlyFor": "クエリをすぐに実行し、使用した分だけお支払い",
+  "serverlessApi": "サーバーレス API",
+  "tryNow": "今すぐ試す"
+}

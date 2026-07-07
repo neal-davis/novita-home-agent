@@ -1,0 +1,5 @@
+{
+  "allSystemsNormal": "Todos los sistemas funcionan con normalidad",
+  "someSystemsAreDown": "Algunos sistemas están caídos",
+  "systemStatusUnknown": "Estado del sistema desconocido"
+}

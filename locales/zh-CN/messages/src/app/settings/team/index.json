@@ -1,0 +1,8 @@
+{
+  "setTeamNameFailed": "设置团队名称失败",
+  "team": "团队",
+  "teamInformation": "团队信息",
+  "teamMember": "团队成员",
+  "teamOwnerUuid": "团队所有者 UUID",
+  "teamOwnerUuidCopied": "团队所有者 UUID 已复制"
+}

@@ -1,0 +1,22 @@
+{
+  "afterMigrationInstanceDetailsEG": "Después de la migración, los detalles de la instancia (p. ej., ID, IP saliente) permanecerán sin cambios. La imagen se almacenará de forma segura en",
+  "afterMigrationYourInstanceInformationWill": "Después de la migración, la información de tu instancia permanecerá sin cambios (como el ID de instancia y la IP de salida).",
+  "backUpYourData": "haz una copia de seguridad de tus datos",
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
+  "cudaVersionIsIncompatible": "La versión de CUDA es incompatible",
+  "howeverLocalDataOnTheNode": "Sin embargo, los datos locales del nodo no se conservarán.",
+  "iUnderstandThatCurrentDataWill": "Entiendo que los datos actuales no se conservarán después de la migración y que he completado una copia de seguridad.",
+  "ifSelectedTheContainerDiskWill": "Si se selecciona, se creará una imagen del disco del contenedor y se migrará con la instancia. La nueva imagen incluye los datos del disco del contenedor y está lista para usar.",
+  "inAdvanceToPreventLossInstance": "con antelación para evitar pérdidas. El Job de migración de instancia no se puede finalizar.",
+  "instanceMigration": "Migración de instancia",
+  "migrateData": "Migrar datos",
+  "noResourcesAvailablePleaseTryAgain": "No hay recursos disponibles; inténtalo de nuevo más tarde o ponte en contacto con el servicio de atención al cliente.",
+  "please": "Por favor",
+  "pleaseConfirmThatYouHaveBacked": "Confirma que has hecho una copia de seguridad de tus datos.",
+  "success": "éxito",
+  "theMigrationTaskCannotBeCanceled": "La tarea de migración no se puede cancelar una vez iniciada.",
+  "theNovitaOfficialRepo": "el Repo oficial de Novita.",
+  "toEnsureDataSafety": "Para garantizar la seguridad de los datos,",
+  "weRecommendBackingUpYourData": "recomendamos hacer una copia de seguridad de tus datos con antelación."
+}

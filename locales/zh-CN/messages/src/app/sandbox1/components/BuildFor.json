@@ -1,0 +1,18 @@
+{
+  "aiPoweredCiCd": "AI 驱动的 CI/CD",
+  "browserAutomation": "浏览器自动化",
+  "builtForAiNativeWorkloads": "专为 AI 原生工作负载而构建",
+  "codingAgents": "编码智能体",
+  "computerUse": "计算机使用",
+  "enableAgentsToInteractWithFull": "让智能体能够与完整桌面环境交互，以执行基于 GUI 的工作流和类人操作。",
+  "evaluationsRl": "评估与 RL",
+  "fromAgentExecutionToEvalsAnd": "从智能体执行到评估与 RL",
+  "keepMultiStepAgentTasksRunning": "让多步骤智能体任务在长时间会话中持续运行，而不中断执行流程。",
+  "learnMore": "了解更多",
+  "longRunningWorkflows": "长时间运行的工作流",
+  "powerAgentsThatBrowseTheWeb": "支持智能体浏览网页、完成多步骤任务并提取结构化结果。",
+  "runAgentsThatWriteExecuteAnd": "在隔离的沙盒环境中运行能够编写、执行并迭代代码的智能体。",
+  "runCodeReviewTestGenerationAnd": "在您的 CI/CD 流水线中，在隔离沙盒内运行代码审查、测试生成和验证工作流。",
+  "runRepeatableEvaluationAndReinforcementLearning": "在受控环境中运行可重复的评估和强化学习工作负载，用于测试、训练和迭代优化。",
+  "supportTheFullRangeOfAi": "支持全范围的 AI 原生工作负载&mdash;从编码智能体和浏览器自动化，到评估、强化学习环境以及长时间运行的工作流。"
+}

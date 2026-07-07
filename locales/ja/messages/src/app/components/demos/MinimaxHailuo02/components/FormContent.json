@@ -1,0 +1,12 @@
+{
+  "duration": "長さ",
+  "enableImageUpload": "画像アップロードを有効化",
+  "enablePromptExpansion": "プロンプト拡張を有効化",
+  "message1080p": "1080P",
+  "message10s": "10秒",
+  "message6s": "6秒",
+  "message768p": "768P",
+  "prompt": "プロンプト",
+  "resolution": "解像度",
+  "showcase": "ショーケース"
+}

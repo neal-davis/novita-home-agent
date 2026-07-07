@@ -1,0 +1,10 @@
+{
+  "areYouSureYouWantTo": "Are you sure you want to stop your instance?",
+  "cancel": "Cancel",
+  "forSuspendedInstancesDataWillBe": "For suspended instances, data will be retained for",
+  "stop": "Stop",
+  "stopInstance": "Stop Instance",
+  "stopYourInstanceYouCanStart": "Stop your instance. You can start the instance later.",
+  "success": "success",
+  "whenTheInstanceIsStoppedIf": "When the instance is stopped, if another user preempts this node, your instance cannot be restarted normally, but migration to other nodes is supported."
+}

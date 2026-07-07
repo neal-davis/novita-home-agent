@@ -1,0 +1,8 @@
+{
+  "confirm": "確認",
+  "invalidEmailAddress": "無効なメールアドレスです。",
+  "password": "パスワード",
+  "passwordConfirmation": "パスワードの確認",
+  "passwordResetSuccessfully": "パスワードが正常にリセットされました。",
+  "resetPassword": "パスワードをリセット"
+}

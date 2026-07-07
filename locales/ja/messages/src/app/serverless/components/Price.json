@@ -1,0 +1,7 @@
+{
+  "byTheHour": "時間単位",
+  "byTheSecond": "秒単位",
+  "costEffectivePricingByTheSecond": "秒単位の費用対効果の高い料金体系。詳細な請求情報により、使用状況を把握し、コストを効率的に管理できます。",
+  "payAsYouGoSaveCosts": "従量課金でコストを削減",
+  "pricePerCard": "カードあたりの料金"
+}

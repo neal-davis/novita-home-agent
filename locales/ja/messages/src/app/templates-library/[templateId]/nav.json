@@ -1,0 +1,15 @@
+{
+  "applicatioin": "アプリケーション",
+  "deployInstance": "インスタンスをデプロイ",
+  "deployServerless": "サーバーレスをデプロイ",
+  "imagePrewarm": "イメージの事前ウォームアップ",
+  "instances": "インスタンス",
+  "jobs": "ジョブ",
+  "myEndpoints": "マイエンドポイント",
+  "myInstances": "マイインスタンス",
+  "networkVolume": "ネットワークボリューム",
+  "other": "その他",
+  "serverless": "サーバーレス",
+  "settings": "設定",
+  "templatesLibrary": "テンプレートライブラリ"
+}

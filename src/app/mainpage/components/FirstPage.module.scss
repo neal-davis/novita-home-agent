@@ -1,0 +1,169 @@
+.firstPage {
+  position: relative;
+  padding-top: 100px;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+
+  .bg_top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-48%);
+    width: 100%;
+    height: 1182px;
+    background-image: url("/mainpage/home-bg-01.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  .bg_bottom {
+    display: none;
+    position: absolute;
+    bottom: -68px;
+    left: 0;
+    width: 277px;
+    height: 252px;
+    background-image: url("/mainpage/home-bg-02.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 1;
+  }
+
+  .animation_wrap {
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+  .bg_right {
+    position: absolute;
+    right: 5px;
+    bottom: 0;
+    width: 230px;
+    height: 460px;
+    background-image: url("/mainpage/home-bg-03.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 3;
+  }
+
+  .mainInfo {
+    flex: 1;
+    margin-top: 80px;
+    max-width: 510px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.3) 0%,
+      rgba(255, 255, 255, 0.8) 30%,
+      rgba(255, 255, 255, 1) 100%
+    );
+    z-index: 2;
+
+    h1 {
+      margin-bottom: 24px;
+      @include font-h1;
+      color: var(--black);
+    }
+
+    p {
+      margin-bottom: 24px;
+      @include font-p;
+      color: var(--dark-2);
+    }
+  }
+
+  .ship_info {
+    margin-top: 24px;
+    padding: 70px 24px 327px;
+    flex: 1;
+    max-width: 660px;
+    background-color: var(--black);
+    z-index: 2;
+
+    .label {
+      margin-bottom: 8px;
+      @include font-small-console;
+      color: var(--dark-3);
+    }
+
+    h3 {
+      margin-bottom: 24px;
+      max-width: 345px;
+      @include font-h4-large;
+      color: var(--gray-3);
+    }
+
+    .description {
+      margin-bottom: 32px;
+      max-width: 345px;
+      @include font-body;
+      color: var(--gray-1);
+    }
+  }
+}
+
+@include screen-sm {
+  .firstPage .bg_top {
+    display: block;
+  }
+}
+
+@include screen-md {
+  .firstPage .bg_top {
+    width: 46%;
+    left: 0;
+    transform: translateX(0);
+  }
+
+  .firstPage .mainInfo {
+    margin-top: 0;
+  }
+
+  .firstPage .bg_bottom {
+    display: block;
+    width: 416px;
+    height: 378px;
+  }
+
+  .firstPage .bg_right {
+    right: 0;
+    bottom: 230px;
+    width: 340px;
+    height: 630px;
+  }
+
+  .firstPage .ship_info {
+    padding: 90px 90px 120px;
+
+    h3 {
+      margin-bottom: 249px;
+      @include font-h3;
+    }
+  }
+
+  .firstPage:has(.home-campaign-banner) .ship_info {
+    margin-top: 90px;
+  }
+}
+
+@include screen-xl {
+  .firstPage .animation_wrap {
+    left: 1;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+
+  .firstPage .bg_top,
+  .firstPage .bg_bottom {
+    display: none;
+  }
+
+  .firstPage .mainInfo {
+    margin-top: 0;
+  }
+}
+
+@include slideOut;
+@include slideRecover;

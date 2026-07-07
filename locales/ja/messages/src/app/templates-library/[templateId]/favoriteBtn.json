@@ -1,0 +1,10 @@
+{
+  "bookmarkThisTemplate": "このテンプレートをブックマーク",
+  "favorite": "お気に入り",
+  "favoriteSuccessfully": "お気に入りに追加しました",
+  "loginFailurePleaseLogInAgain": "ログインに失敗しました。もう一度ログインしてください",
+  "pleaseLogInFirst": "先にログインしてください",
+  "unbookmarkThisTemplate": "このテンプレートのブックマークを解除",
+  "unfavorite": "お気に入りを解除",
+  "unfavoriteSuccessfully": "お気に入りを解除しました"
+}

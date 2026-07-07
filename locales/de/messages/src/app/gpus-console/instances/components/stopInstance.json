@@ -1,0 +1,10 @@
+{
+  "areYouSureYouWantTo": "Möchten Sie Ihre Instanz wirklich stoppen?",
+  "cancel": "Abbrechen",
+  "forSuspendedInstancesDataWillBe": "Bei angehaltenen Instanzen werden die Daten für",
+  "stop": "Stopp",
+  "stopInstance": "Instanz stoppen",
+  "stopYourInstanceYouCanStart": "Stoppen Sie Ihre Instanz. Sie können die Instanz später wieder starten.",
+  "success": "Erfolg",
+  "whenTheInstanceIsStoppedIf": "Wenn die Instanz gestoppt ist und ein anderer Benutzer diesen Knoten verdrängt, kann Ihre Instanz nicht normal neu gestartet werden, die Migration auf andere Knoten wird jedoch unterstützt."
+}

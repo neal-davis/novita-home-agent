@@ -1,0 +1,13 @@
+{
+  "accountSettings": "账户设置",
+  "apiKeys": "API 密钥",
+  "balance": "余额",
+  "billing": "计费",
+  "dedicatedEndpoints": "专用端点",
+  "emailCopied": "邮箱已复制",
+  "home": "首页",
+  "logOut": "退出登录",
+  "quotasLimits": "配额与限制",
+  "userId": "用户 ID",
+  "userIdCopied": "用户 ID 已复制"
+}

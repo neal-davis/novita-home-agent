@@ -1,0 +1,18 @@
+{
+  "allTemplates": "全部模板",
+  "close": "关闭",
+  "currentTemplate": "当前模板",
+  "loginFailurePleaseLogInAgain": "登录失败，请重新登录",
+  "myCreations": "我的创作",
+  "myFavorites": "我的收藏",
+  "new": "新建",
+  "noResultsFound": "未找到结果",
+  "novitaAiGpuMarketplaceDeployGpu": "Novita AI GPU Marketplace - 无缝部署 GPU 实例",
+  "official": "官方",
+  "pleaseLogInFirst": "请先登录",
+  "recommendedForYou": "🔥 为您推荐",
+  "rentGpusFromNovitaAisGpu": "从 Novita AI 的 GPU marketplace 租用 GPUs，自定义您自己的部署并启动实例。可选 4090、A100、L40、3090。按实际用量付费。",
+  "searchTemplate": "搜索模板",
+  "trySearchingForSomethingElseOr": "尝试搜索其他内容，或创建您自己的模板。",
+  "updatedTime": "更新时间："
+}

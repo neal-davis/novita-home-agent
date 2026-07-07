@@ -1,0 +1,9 @@
+{
+  "_comment": "De-PII'd /v3/stripe/promotion captured from /gpus-console/billing (which 308-redirects to /billing/details). Fired by the console Header via fetchUserDiscount -> queryUserDiscount. valid:false keeps DiscountToast silent (no Black Friday toast), matching the captured prod default. No identifying fields in this payload.",
+  "couponId": "",
+  "percentOff": 0,
+  "amountOff": "0",
+  "redeemBy": "0",
+  "valid": false,
+  "activityName": ""
+}

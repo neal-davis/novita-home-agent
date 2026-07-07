@@ -1,0 +1,10 @@
+{
+  "billedTokens": "Abgerechnete Tokens",
+  "billingMultiplier": "Abrechnungsfaktor",
+  "modelId": "Modell-ID",
+  "next": "Weiter",
+  "noUsageData": "Keine Nutzungsdaten",
+  "previous": "Zurück",
+  "rawUsageTokens": "Rohnutzung (Tokens)",
+  "startTimeEndTime": "Startzeit - Endzeit"
+}

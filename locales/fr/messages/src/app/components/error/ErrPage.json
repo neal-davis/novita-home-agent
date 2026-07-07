@@ -1,0 +1,17 @@
+{
+  "buildGenAiProductsSeamlessly": "Créez des produits d’IA générative en toute simplicité",
+  "buildWithModelApis": "Créez avec les API de modèles",
+  "contactUs": "contactez-nous",
+  "cutCostsByUpTo50": "Réduisez les coûts jusqu’à 50 %",
+  "deployWithGpuInstance": "Déployez avec une instance GPU",
+  "discordChannel": "Canal Discord",
+  "error": "Erreur",
+  "goToHomePage": "Aller à la page d’accueil",
+  "ifYoureBrowsingAroundJustLook": "Si vous naviguez simplement, jetez un œil à celui-ci que nous avons sélectionné pour vous !",
+  "launchAgentSandbox": "Lancer le bac à sable d’agents",
+  "pageNotFound": "Page introuvable",
+  "refresh": "Actualiser",
+  "scaleWithServerless": "Passez à l’échelle avec Serverless",
+  "scaleWithoutManagingGpuInfrastructure": "Passez à l’échelle sans gérer l’infrastructure GPU",
+  "theRuntimeInfrastructureForSecureScalable": "L’infrastructure d’exécution pour des agents IA sécurisés et évolutifs"
+}

@@ -1,0 +1,11 @@
+{
+  "action": "Acción",
+  "dateRange": "Rango de fechas",
+  "failedToGetAuditLogs": "Error al obtener los registros de auditoría",
+  "member": "Miembro",
+  "resource": "Recurso",
+  "resourceGroup": "Grupo de recursos",
+  "resourceId": "ID de recurso",
+  "search": "Buscar",
+  "timestamp": "Marca de tiempo"
+}

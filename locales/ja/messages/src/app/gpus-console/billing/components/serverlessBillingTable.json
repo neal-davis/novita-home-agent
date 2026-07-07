@@ -1,0 +1,16 @@
+{
+  "amountShouldPay": "支払うべき金額",
+  "billingPeriod": "請求期間",
+  "captionTable": "キャプションテーブル",
+  "cashPaid": "現金支払い額",
+  "duration": "期間",
+  "endpointId-a11c3a": "エンドポイントID",
+  "endpointId-b72156": "エンドポイントID",
+  "export": "エクスポート",
+  "gpuType": "GPUタイプ",
+  "gpusWorker": "GPUs/ワーカー",
+  "priceUnitS": "価格（単位:/s）",
+  "search": "検索",
+  "voucherDeduction": "バウチャー割引",
+  "workId": "ワークID"
+}

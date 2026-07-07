@@ -1,0 +1,6 @@
+.stableCopyBtn {
+  // CheckOutlined icon has the correct size
+  :global(.anticon) {
+    font-size: inherit !important;
+  }
+}

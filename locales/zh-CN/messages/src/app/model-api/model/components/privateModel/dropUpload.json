@@ -1,0 +1,9 @@
+{
+  "clickOrDragFileToThis": "点击或将文件拖拽到此区域以上传",
+  "modelNameCanOnlyContainLetters": "模型名称只能包含字母、数字和下划线，且长度不超过 100",
+  "pleaseAddKeyFirst": "请先添加密钥",
+  "pleaseEnterModelNameFirst": "请先输入模型名称",
+  "sha256ComputationFailedPleaseCheckIf": "SHA256 计算失败，请检查您的浏览器版本是否支持 crypto 和 btoa 函数，或者您可以联系我们以解决模型上传问题。",
+  "supportForASingleOrBulk": "支持单个或批量上传。严禁上传公司数据或其他被禁止的文件。",
+  "uploadFailed": "上传失败"
+}

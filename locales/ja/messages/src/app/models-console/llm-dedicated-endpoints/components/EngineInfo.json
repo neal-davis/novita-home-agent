@@ -1,0 +1,12 @@
+{
+  "cancel": "キャンセル",
+  "confirmRestart": "確認して再起動",
+  "edit": "編集",
+  "engineConfiguration": "エンジン設定",
+  "off": "オフ",
+  "on": "オン",
+  "restartEngine": "エンジンを再起動しますか？",
+  "saveRestartEngine": "保存してエンジンを再起動",
+  "savingChangesWillTriggerARolling": "変更を保存すると、エンジンのローリング再起動が開始されます",
+  "thisWillTriggerARollingRestart": "これにより、すべてのレプリカのローリング再起動が開始されます。この処理には数分かかる場合があります。再起動中もエンドポイントは引き続き利用可能です。"
+}

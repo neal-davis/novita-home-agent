@@ -1,0 +1,8 @@
+{
+  "available": "disponible",
+  "chargesAreAppliedInOrderCoding": "Los cargos se aplican en este orden: Plan de Coding > Cupón > Saldo de la cuenta > Límite de crédito",
+  "noActiveVouchers": "No hay cupones activos",
+  "redeem": "Canjear",
+  "valid": "válido",
+  "vouchers": "Cupones"
+}

@@ -1,0 +1,9 @@
+{
+  "copy": "コピー",
+  "linkCopiedSuccessfully": "リンクをコピーしました",
+  "shareLink": "リンクを共有",
+  "shareLinkFailed": "リンクの共有に失敗しました",
+  "shareLinkToReproducePlaygroundExample": "Playground の例を再現するためのリンクを共有",
+  "validFor30Days": "30日間有効",
+  "validIndefinitely": "無期限で有効"
+}

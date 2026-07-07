@@ -1,0 +1,9 @@
+{
+  "copiedToClipboard": "Copié dans le presse-papiers !",
+  "endpoint": "Point de terminaison",
+  "endpointHealth": "État du point de terminaison",
+  "endpointId": "ID du point de terminaison",
+  "modelId": "ID du modèle",
+  "openaiCompatibleBaseUrl": "URL de base compatible OpenAI",
+  "replicas": "Répliques"
+}

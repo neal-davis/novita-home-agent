@@ -1,0 +1,14 @@
+{
+  "autoRenewEnabledPeriod": "Renouvellement automatique activé (Période :",
+  "billingMethod": "Mode de facturation",
+  "chargeOrderCouponsBalanceAutoTop": ") | Ordre de prélèvement : Coupons→Solde→Recharge automatique.",
+  "details": "Détails",
+  "gb": "GB",
+  "gpuCost": "Coût du GPU",
+  "instanceSummary": "Résumé de l’instance",
+  "onDemand": "À la demande",
+  "perDay": "par jour",
+  "pricingSummary": "Résumé des tarifs",
+  "spot": "Spot",
+  "totalDisk": "Disque total"
+}

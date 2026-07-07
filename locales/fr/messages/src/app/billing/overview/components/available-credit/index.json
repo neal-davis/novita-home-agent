@@ -1,0 +1,12 @@
+{
+  "accountBalance": "Solde du compte",
+  "availableCredit": "Crédit disponible",
+  "creditLimit": "Limite de crédit",
+  "outstandingInvoices": "Factures impayées",
+  "pendingCharges": "Frais en attente",
+  "prepaidFundsInYourAccountThat": "Fonds prépayés sur votre compte, qui diminuent à mesure que vous effectuez des achats facturés à l’utilisation.",
+  "theMaximumPostpaidAmountApprovedBased": "Le montant maximal postpayé approuvé en fonction du profil de crédit de votre compte, vous permettant de consommer d’abord et de payer plus tard.",
+  "totalAmountOwedUnderYourCredit": "Montant total dû au titre de votre limite de crédit, qui doit être remboursé pendant la période de paiement.",
+  "usageChargesThatHaveBeenIncurred": "Frais d’utilisation qui ont été engagés mais ne sont pas encore exigibles pour déduction. Ces montants seront automatiquement prélevés sur votre solde ou votre limite de crédit une fois que le cycle de facturation atteindra son échéance de paiement.",
+  "yourAvailableCreditIsTheRemaining": "Votre crédit disponible correspond au montant restant que vous pouvez utiliser après les frais en attente, avant d’atteindre votre limite de crédit."
+}

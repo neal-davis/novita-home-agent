@@ -1,0 +1,16 @@
+{
+  "apiKey": "API Key",
+  "apiKeyBudgetSavedSuccessfully": "API Key 预算已成功保存",
+  "apiKeyBudgetSettings": "API Key 预算设置",
+  "applyTheFollowingBudgetSettings": "应用以下预算设置？",
+  "budgetLimit": "预算限额",
+  "budgetType": "预算类型",
+  "cancel": "取消",
+  "confirm": "确认",
+  "confirmApiKeyBudget": "确认 API Key 预算",
+  "enterAmount": "输入金额",
+  "ifTheKeyBudgetExceedsThe": "如果密钥预算超过成员预算，则成员预算将优先。",
+  "save": "保存",
+  "saving": "正在保存...",
+  "unlimited": "无限制"
+}

@@ -1,0 +1,14 @@
+{
+  "all": "すべて",
+  "allModels": "すべてのモデル",
+  "audio": "音声",
+  "embedding": "埋め込み",
+  "featured": "注目",
+  "image": "画像",
+  "modelSeries": "モデルシリーズ",
+  "providers": "プロバイダー:",
+  "reranker": "リランカー",
+  "serverless": "サーバーレス",
+  "video": "動画",
+  "vision": "ビジョン"
+}

@@ -1,0 +1,12 @@
+{
+  "addCard": "添加银行卡",
+  "cancel": "取消",
+  "confirmationOfCardDeletion": "银行卡删除确认",
+  "exp": "有效期",
+  "noPaymentMethod": "没有支付方式",
+  "remove": "移除",
+  "removeCard": "移除银行卡",
+  "removingThisCardWillDisableAuto": "移除此卡将禁用自动充值。",
+  "removingThisCardWillDisableRecharges": "移除此银行卡将禁用充值和自动支付",
+  "youCanUpdateYourCreditCard": "您每月只能更新一次信用卡。"
+}

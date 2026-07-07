@@ -1,0 +1,40 @@
+{
+  "_comment": "Synthetic /api/v1/networkstorages/list response for hermetic /gpus-console/storage. The read-only prod capture could not reach this endpoint (storage data loads client-side only after login), so this is shaped to the reqGetStorage contract in src/api/gpu-instance/storage.ts: { data: Storage[], total }. Each row carries storageId/storageName/storageSize/clusterName which the card renders. No real PII (synthetic ids only).",
+  "code": 0,
+  "total": 3,
+  "data": [
+    {
+      "storageId": "stor-e2e-aaaa1111",
+      "storageName": "e2e-volume-alpha",
+      "storageSize": 50,
+      "clusterId": "cluster-e2e-us-1",
+      "clusterName": "E2E-US-CLUSTER-1",
+      "price": "0.05",
+      "creator": "",
+      "uuid": "00000000-0000-4000-8000-000000000001",
+      "createdAt": "1718000000"
+    },
+    {
+      "storageId": "stor-e2e-bbbb2222",
+      "storageName": "e2e-volume-beta",
+      "storageSize": 100,
+      "clusterId": "cluster-e2e-eu-1",
+      "clusterName": "E2E-EU-CLUSTER-1",
+      "price": "0.10",
+      "creator": "",
+      "uuid": "00000000-0000-4000-8000-000000000001",
+      "createdAt": "1718100000"
+    },
+    {
+      "storageId": "stor-e2e-cccc3333",
+      "storageName": "e2e-volume-gamma",
+      "storageSize": 200,
+      "clusterId": "cluster-e2e-ap-1",
+      "clusterName": "E2E-AP-CLUSTER-1",
+      "price": "0.20",
+      "creator": "",
+      "uuid": "00000000-0000-4000-8000-000000000001",
+      "createdAt": "1718200000"
+    }
+  ]
+}

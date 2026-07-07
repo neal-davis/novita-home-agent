@@ -1,0 +1,4 @@
+{
+  "invalidSecret": "Ungültiges Secret",
+  "missingTagParam": "Fehlender tag-Parameter"
+}

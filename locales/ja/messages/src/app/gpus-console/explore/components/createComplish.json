@@ -1,0 +1,7 @@
+{
+  "deployed": "デプロイ済み",
+  "gpuCloud": "GPUクラウド",
+  "myInstances": "マイインスタンス",
+  "redirectingToMyInstances": "マイインスタンスにリダイレクトしています......",
+  "yourInstanceIsBeingBuiltAs": "インスタンスは現在構築中です。数分で準備が完了します！"
+}

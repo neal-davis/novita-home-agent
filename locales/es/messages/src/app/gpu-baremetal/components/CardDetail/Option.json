@@ -1,0 +1,12 @@
+{
+  "duration": "Duración",
+  "eachNodeConsistsOf": "Cada nodo consta de",
+  "gpus": "GPUs.",
+  "gpusForExampleRequesting": "GPUs. Por ejemplo, solicitar",
+  "monthS": "Mes(es)",
+  "nodeQuantity": "Cantidad de nodos",
+  "nodesWillGiveYouAccessTo": "nodos te darán acceso a",
+  "option": "Opción",
+  "pleaseEnterTheNumberOfMachines": "Introduce el número de máquinas",
+  "yearS": "Año(s)"
+}

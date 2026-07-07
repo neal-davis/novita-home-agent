@@ -1,0 +1,6 @@
+{
+  "endpointIsWakingUp": "端点正在唤醒",
+  "failedToWakeUpEndpoint": "唤醒端点失败",
+  "redeploy": "重新部署",
+  "wakeUp": "唤醒"
+}

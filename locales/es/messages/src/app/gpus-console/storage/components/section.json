@@ -1,0 +1,17 @@
+{
+  "createTime": "Fecha de creación",
+  "creator": "Creador",
+  "delete": "Eliminar",
+  "deploy": "Implementar",
+  "edit": "Editar",
+  "gbI": "GB I",
+  "itIsHighlyAdvisableToContinually": "Se recomienda encarecidamente realizar copias de seguridad de forma continua de todo lo que desee guardar fuera del sitio, localmente o con un proveedor en la nube.",
+  "networkVolumeIsProvidedInThe": "El Volumen de red se proporciona con el fin de ejecutar tareas usando sus GPUs y",
+  "newNetworkVolume": "+ Nuevo volumen de red",
+  "notMeantToBeALong": "no está pensado para ser una solución de copia de seguridad a largo plazo.",
+  "pleaseNoteThatIfYourAccount": "Tenga en cuenta que, si su cuenta está en mora y no hay instancias en ejecución, su Volumen de red será",
+  "released3DaysLater": "liberado 3 días después.",
+  "search": "buscar",
+  "storageNameIdFilter": "Filtro de nombre/ID de almacenamiento",
+  "success": "éxito"
+}

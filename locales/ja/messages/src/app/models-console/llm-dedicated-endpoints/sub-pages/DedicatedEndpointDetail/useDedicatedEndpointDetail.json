@@ -1,0 +1,6 @@
+{
+  "endpointIsWakingUp": "エンドポイントを起動中です",
+  "failedToWakeUpEndpoint": "エンドポイントの起動に失敗しました",
+  "redeploy": "再デプロイ",
+  "wakeUp": "起動"
+}

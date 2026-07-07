@@ -1,0 +1,19 @@
+{
+  "action": "Action",
+  "addCredential-e41f30": "+ Ajouter un identifiant",
+  "addCredential-efd6c2": "Ajouter un identifiant",
+  "addingPublicKeysToYourAccount": "L’ajout de clés publiques à votre compte permettra d’accéder aux instances en utilisant l’option d’accès terminal de base via la clé privée associée. Vous pouvez ajouter plusieurs clés publiques en les séparant par une nouvelle ligne.",
+  "captionTable": "tableau des légendes",
+  "changePassword": "Modifier le mot de passe",
+  "containerRegistryAuth": "Authentification du registre de conteneurs",
+  "deleteRegistryAuth": "Supprimer l’authentification du registre",
+  "name": "Nom",
+  "preferSingleNuma": "Préférer un NUMA unique",
+  "singleNuma": "NUMA unique",
+  "sshPublicKey": "Clé publique SSH",
+  "sshPublicKeys": "Clés publiques SSH",
+  "success": "succès",
+  "thisPolicyWouldAllowResourceAllocation": "Cette politique autoriserait l’allocation de ressources depuis différents nœuds NUMA uniquement s’il n’existait aucun autre moyen de satisfaire cette demande d’allocation.",
+  "updatePublicKey": "Mettre à jour la clé publique",
+  "youCanRegisterYourContainerRegistry": "Vous pouvez enregistrer ici les identifiants de votre registre de conteneurs afin d’extraire des images privées depuis divers registres de conteneurs. Veuillez noter que nous ne prenons actuellement en charge que les identifiants de type docker login. Vous pouvez ajouter vos identifiants à un modèle en les enregistrant ici, puis en les sélectionnant dans la liste déroulante lors de la modification ou de la création de votre modèle."
+}

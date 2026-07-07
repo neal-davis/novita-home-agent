@@ -1,0 +1,101 @@
+.container {
+  padding: 134px 0 100px 0;
+}
+.subContainer {
+  width: 100%;
+}
+.section {
+  padding-bottom: 16px;
+}
+.steps {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #0CAF60;
+  border-radius: 8px;
+  height: 88px;
+  padding: 18px 59px 16px 59px;
+}
+.title {
+  font-size: 28px;
+  color: #11142D;
+  line-height: 28px;
+  font-weight: 900;
+  margin-bottom: 12px;
+}
+.desc {
+  font-size: 16px;
+  color: #514F6E;
+  line-height: 16px;
+  font-weight: 400;
+  margin-bottom: 32px;
+}
+.rowTitle {
+  font-weight: 500;
+  font-size: 14px;
+  color: #FAFAFA;
+  opacity: 0.6;
+  line-height: 14px;
+  text-align: left;
+  font-style: normal;
+}
+.rowData {
+  color: #FFFFFF;
+}
+.googleLoginBtn {
+  width: 424px;
+  height: 52px;
+  border: 1px solid rgba(217,219,233,0.6);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  .loginBtnDesc {
+    font-size: 14px;
+    color: #11142D;
+    line-height: 14px;
+    font-weight: 500;
+  }
+}
+.githubLoginBtn {
+  margin-top: 12px;
+  width: 424px;
+  height: 52px;
+  border: 1px solid rgba(217,219,233,0.6);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  .loginBtnDesc {
+    font-size: 14px;
+    color: #11142D;
+    line-height: 14px;
+    font-weight: 500;
+  }
+}
+.wrap {
+  display: flex;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+@media screen and (max-width: 1000px) {
+  .container {
+    padding: 86px 0 100px 0;
+  }
+  .title {
+    font-size: 24px;
+  }
+  .desc {
+    font-size: 14px;
+  }
+  .wrap {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "availableModels": "利用可能なモデル",
+  "byProceedingToPaymentYouAcknowledge": "お支払いに進むことで、以下に同意したものとみなされます",
+  "cancel": "キャンセル",
+  "codingPlan": "コーディングプラン –",
+  "confirmYourSubscription": "サブスクリプションを確認",
+  "noRefundPolicy": "返金不可ポリシー",
+  "pleaseReviewTheDetailsBelow": "以下の詳細をご確認ください。",
+  "proceedToPayment": "お支払いに進む",
+  "processing": "処理中...",
+  "thisSubscriptionIsNonRefundableAnd": "このサブスクリプションは返金不可であり、アクセスは上記に記載されたモデルに限定されます。",
+  "youAposReAboutToSubscribe": "次のプランに登録しようとしています",
+  "youreAboutToSubscribeToThe": "次のプランに登録しようとしています"
+}

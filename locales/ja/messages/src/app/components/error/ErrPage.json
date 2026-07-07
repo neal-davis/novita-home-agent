@@ -1,0 +1,17 @@
+{
+  "buildGenAiProductsSeamlessly": "生成AIプロダクトをシームレスに構築",
+  "buildWithModelApis": "Model APIsで構築",
+  "contactUs": "お問い合わせ",
+  "cutCostsByUpTo50": "コストを最大50%削減",
+  "deployWithGpuInstance": "GPU Instanceでデプロイ",
+  "discordChannel": "Discordチャンネル",
+  "error": "エラー",
+  "goToHomePage": "ホームページへ移動",
+  "ifYoureBrowsingAroundJustLook": "見て回っているだけなら、あなたのために選んだこちらをご覧ください！",
+  "launchAgentSandbox": "Agent Sandboxを起動",
+  "pageNotFound": "ページが見つかりません",
+  "refresh": "更新",
+  "scaleWithServerless": "Serverlessでスケール",
+  "scaleWithoutManagingGpuInfrastructure": "GPUインフラを管理せずにスケール",
+  "theRuntimeInfrastructureForSecureScalable": "セキュアでスケーラブルなAI Agentsのためのランタイムインフラ"
+}

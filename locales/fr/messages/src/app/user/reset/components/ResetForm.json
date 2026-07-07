@@ -1,0 +1,10 @@
+{
+  "back": "Retour",
+  "confirm": "Confirmer",
+  "emailAddress": "Adresse e-mail",
+  "needToCreateAnAccount": "Besoin de créer un compte ?",
+  "resetPassword": "Réinitialiser le mot de passe",
+  "resettingYourPasswordWillLogYou": "La réinitialisation de votre mot de passe vous déconnectera de votre compte actuel",
+  "signUp": "S’inscrire",
+  "weWillEmailYouInstructionsFor": "Nous vous enverrons des instructions par e-mail pour réinitialiser votre mot de passe."
+}

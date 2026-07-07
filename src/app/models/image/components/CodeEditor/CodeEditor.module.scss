@@ -1,0 +1,121 @@
+/* .code_editor_wrap {
+  border-left: 1px solid var(--border);
+} */
+
+.editor_wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  position: relative;
+  width: 420px;
+  height: 100%;
+  overflow: hidden;
+  border-left: 4px solid var(--border);
+}
+@media screen and (max-width: 1600px) {
+  .editor_wrap {
+    width: 340px;
+  }
+}
+
+.unavailable {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(194, 194, 194, 0.5);
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.editor_opt {
+  display: flex;
+  width: 100%;
+  flex: 0 0 56px;
+  border-bottom: 1px solid var(--border);
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 12px;
+  /* cursor: pointer; */
+}
+
+.editor_opt .copy_btn {
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+  text-align: center;
+  background-color: transparent;
+  color: var(--dark-3);
+  border: 0;
+  margin-right: 12px;
+  box-shadow: none !important;
+}
+
+.markdown_container {
+  overflow-y: auto;
+  overflow-x: auto;
+  height: 100%;
+  background-color: var(--white);
+
+  :global {
+    pre {
+      border: 0 !important;
+    }
+  }
+}
+.markdown_container pre {
+  width: fit-content;
+  margin: 0 !important;
+  background: var(--white) !important;
+  overflow: visible !important;
+}
+
+.key_mark {
+  box-shadow: 1px 1px 5px rgba(255, 255, 255, 0.2);
+}
+
+.editor_show_trigger {
+  position: absolute !important;
+  padding: 0 10px;
+  top: 32px;
+  right: 10px;
+  /* display: flex;
+  justify-content: flex-start;
+  align-items: center; */
+  /* column-gap: 6px; */
+  color: var(--black) !important;
+  background-color: var(--white) !important;
+  user-select: none;
+  font-size: 13px;
+  z-index: 100;
+}
+
+.editor_hide_trigger {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  line-height: 40px;
+  top: 50%;
+  margin-top: -20px;
+  width: 24px;
+  left: -1px;
+  text-align: center;
+  user-select: none;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+  background-color: var(--gray-2);
+  cursor: pointer;
+  color: var(--dark-3);
+  transition: color 0.2s ease;
+  z-index: 1;
+}
+.editor_hide_trigger:hover {
+  color: var(--dark-1);
+}
+
+.editor_wrap:hover .editor_show_trigger.hide {
+  display: block;
+}

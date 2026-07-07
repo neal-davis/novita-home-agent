@@ -1,0 +1,12 @@
+{
+  "currentTier": "Nivel actual",
+  "endpointType": "Tipo de endpoint",
+  "here": "aquí",
+  "increaseLimit": "Aumentar límite",
+  "learnMore": "Más información",
+  "limitAdjustable": "Límite ajustable",
+  "limitQuotaMetric": "Métrica de límite/​cuota",
+  "searchService": "Buscar servicio",
+  "toUnlockQuotaLimitsForHigher": "para desbloquear límites de cuota para niveles superiores.",
+  "topUp": "Recargar saldo"
+}

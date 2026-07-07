@@ -1,0 +1,13 @@
+{
+  "audioInput": "Audio input",
+  "audioOutput": "Audio output",
+  "imageInput": "Image input",
+  "imageOutput": "Image output",
+  "textInputCachedRead": "Text input cached read",
+  "textInputCachedWrite1h": "Text input cached write(1h)",
+  "textInputCachedWrite5m": "Text input cached write(5m)",
+  "textInputUncached": "Text input uncached",
+  "textOutput": "Text output",
+  "videoInput": "Video input",
+  "videoOutput": "Video output"
+}

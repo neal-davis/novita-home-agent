@@ -1,0 +1,9 @@
+{
+  "cancel": "取消",
+  "confirm": "确认",
+  "confirmCreate": "确认创建",
+  "createA": "创建",
+  "subscriptionInstance": "订阅实例",
+  "theInstanceIsNotRefundableAnd": "，该实例不可退款且无法释放，如果运行过程中出现问题，您可以点击“迁移”无缝切换到其他 GPUs，是否确认支付？",
+  "youNeedToPayUpfront": "，您需要预先支付"
+}

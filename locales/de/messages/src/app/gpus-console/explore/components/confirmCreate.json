@@ -1,0 +1,9 @@
+{
+  "cancel": "Abbrechen",
+  "confirm": "Bestätigen",
+  "confirmCreate": "Erstellung bestätigen",
+  "createA": "Eine erstellen",
+  "subscriptionInstance": "Abonnement-Instanz",
+  "theInstanceIsNotRefundableAnd": ", die Instanz ist nicht erstattungsfähig und kann nicht freigegeben werden. Falls während des Betriebs ein Problem auftritt, können Sie auf „Migrieren“ klicken, um nahtlos zu anderen GPUs zu wechseln. Bestätigen Sie die Zahlung?",
+  "youNeedToPayUpfront": ", Sie müssen im Voraus bezahlen"
+}

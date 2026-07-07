@@ -1,0 +1,10 @@
+{
+  "audio": "音声",
+  "embedding": "埋め込み",
+  "image": "画像",
+  "recommendMeAModel": "モデルをおすすめして",
+  "reranker": "リランカー",
+  "seeEventTerms": "イベント規約を見る",
+  "video": "動画",
+  "vision": "ビジョン"
+}

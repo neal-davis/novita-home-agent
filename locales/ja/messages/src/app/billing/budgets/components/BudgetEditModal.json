@@ -1,0 +1,15 @@
+{
+  "applyTheFollowingBudgetSettings": "次の予算設定を適用しますか？",
+  "budgetLimit": "予算上限",
+  "budgetSettings": "予算設定",
+  "budgetSettingsSavedSuccessfully": "予算設定が正常に保存されました",
+  "budgetType": "予算タイプ",
+  "cancel": "キャンセル",
+  "confirm": "確認",
+  "confirmBudgetSettings": "予算設定の確認",
+  "enterAmount": "金額を入力",
+  "member": "メンバー",
+  "save": "保存",
+  "saving": "保存中...",
+  "unlimited": "無制限"
+}

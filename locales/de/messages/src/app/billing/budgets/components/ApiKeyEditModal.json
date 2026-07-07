@@ -1,0 +1,16 @@
+{
+  "apiKey": "API-Schlüssel",
+  "apiKeyBudgetSavedSuccessfully": "API-Schlüsselbudget erfolgreich gespeichert",
+  "apiKeyBudgetSettings": "Budgeteinstellungen für API-Schlüssel",
+  "applyTheFollowingBudgetSettings": "Die folgenden Budgeteinstellungen anwenden?",
+  "budgetLimit": "Budgetlimit",
+  "budgetType": "Budgettyp",
+  "cancel": "Abbrechen",
+  "confirm": "Bestätigen",
+  "confirmApiKeyBudget": "API-Schlüsselbudget bestätigen",
+  "enterAmount": "Betrag eingeben",
+  "ifTheKeyBudgetExceedsThe": "Wenn das Schlüsselbudget das Mitgliederbudget überschreitet, hat das Mitgliederbudget Vorrang.",
+  "save": "Speichern",
+  "saving": "Speichern...",
+  "unlimited": "Unbegrenzt"
+}

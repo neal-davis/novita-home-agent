@@ -1,0 +1,21 @@
+{
+  "agentSandbox": "Sandbox de agentes",
+  "anyBillingDataViewedBeforeThis": "Cualquier dato de facturación consultado antes de este momento es solo de referencia y no debe utilizarse para la conciliación.",
+  "billingRecordsAreGeneratedAtAn": "Los registros de facturación se generan en intervalos de una hora. Como excepción, los servicios de almacenamiento se facturan diariamente, con registros generados a las 00:00 UTC.",
+  "billingSummariesAggregatedByApiKey-51443b": "Los resúmenes de facturación agregados por clave de API actualmente solo admiten datos de facturación a partir de 2026.",
+  "billingSummariesAggregatedByApiKey-e50926": "Los resúmenes de facturación agregados por clave de API actualmente solo son compatibles con productos LLM y de imagen/vídeo.",
+  "byApiKey": "Por clave de API",
+  "byCreator": "Por creador",
+  "chargesAreGenerallyCalculatedAndDeducted": "Los cargos generalmente se calculan y deducen cada hora. Se aplica un cargo mínimo de $0.0001 si las tarifas de uso por hora están por debajo de este importe.",
+  "forProductsBilledOnAFixed": "Para los productos facturados con una base de facturación de plazo fijo, los extractos de facturación se generan en un ciclo mensual. El extracto de facturación final del mes actual estará disponible después de las 06:00 UTC del día 1 del mes siguiente.",
+  "gpuInstance": "Instancia de GPU",
+  "gpuInstances": "Instancias de GPU",
+  "gpuServerless": "GPU Serverless",
+  "imageDedicatedEndpoint": "Endpoint dedicado de imagen",
+  "imageVideo": "Imagen/Video",
+  "llmDedicatedEndpoints": "Endpoints dedicados de LLM",
+  "llmServerlessEndpoints": "LLM Serverless Endpoints",
+  "multiDimensionalSummaryBillsDisplayOther": "Las facturas de resumen multidimensional muestran otras dimensiones de resumen, excepto la dimensión del modo de facturación.",
+  "storage": "Almacenamiento",
+  "summary": "Resumen"
+}

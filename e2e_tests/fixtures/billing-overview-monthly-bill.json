@@ -1,0 +1,56 @@
+{
+  "_comment": "De-PII'd /v1/billing/monthly/bill. 3 synthetic bills (statuses pending/paid/voided) => MonthlyBill table renders exactly 3 rows under the default 'All' filter. userId replaced with synthetic id. invoiceUrl present only on the paid row (renders the Download link). Amount fields are raw points (/10000 for display).",
+  "data": [
+    {
+      "billId": "20260601000000000001",
+      "userId": "100001",
+      "billingMonth": "2026-06",
+      "totalAmount": "41292191",
+      "originTotalAmount": "39897279",
+      "voucherPayAmount": "40295715",
+      "cashPayAmount": "377410",
+      "debtAmount": "619066",
+      "status": "pending",
+      "invoiceUrl": "",
+      "startTime": "1780272000",
+      "endTime": "1782863999",
+      "repaidAmount": "0",
+      "taxAmount": "0",
+      "grossAmount": "619066"
+    },
+    {
+      "billId": "20260501000000000002",
+      "userId": "100001",
+      "billingMonth": "2026-05",
+      "totalAmount": "78494301",
+      "originTotalAmount": "78450167",
+      "voucherPayAmount": "78155301",
+      "cashPayAmount": "339000",
+      "debtAmount": "0",
+      "status": "paid",
+      "invoiceUrl": "https://example.com/invoice/e2e-mock.pdf",
+      "startTime": "1777593600",
+      "endTime": "1780271999",
+      "repaidAmount": "0",
+      "taxAmount": "0",
+      "grossAmount": "0"
+    },
+    {
+      "billId": "20260401000000000003",
+      "userId": "100001",
+      "billingMonth": "2026-04",
+      "totalAmount": "62543649",
+      "originTotalAmount": "62525785",
+      "voucherPayAmount": "62543649",
+      "cashPayAmount": "0",
+      "debtAmount": "0",
+      "status": "voided",
+      "invoiceUrl": "",
+      "startTime": "1775001600",
+      "endTime": "1777593599",
+      "repaidAmount": "0",
+      "taxAmount": "0",
+      "grossAmount": "0"
+    }
+  ]
+}

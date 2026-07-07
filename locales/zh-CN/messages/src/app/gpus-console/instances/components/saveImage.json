@@ -1,0 +1,15 @@
+{
+  "addCredential": "添加凭证",
+  "afterAdjustingTheInstanceYouCan": "调整实例后，您可以将更新后的实例保存为镜像，然后基于最新镜像创建新的模板和实例！",
+  "cancel": "取消",
+  "containerRegistryCredentials": "容器镜像仓库凭证",
+  "imagePath": "镜像路径",
+  "pleaseEnterAPathConsistingOf": "请输入由小写字母和数字组成的路径，每个路径段可选择包含 .、_ 或 -，并支持使用 / 分隔的多级路径。",
+  "pleaseInputYourImageAddress": "请输入您的镜像地址",
+  "pleaseSelectCredentials": "请选择凭证",
+  "save": "保存",
+  "saveImage": "保存镜像",
+  "success": "成功",
+  "theContainerRegistryCredentialsCanNot": "容器镜像仓库凭据不能为空",
+  "theImagePathCanNotBe": "镜像路径不能为空，且不能包含空白字符"
+}

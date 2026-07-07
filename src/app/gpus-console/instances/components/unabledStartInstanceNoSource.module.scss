@@ -1,0 +1,122 @@
+.container {
+  padding: 134px 0 100px 0;
+}
+.subContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0;
+  /* background: #ffffff; */
+  box-shadow: 0px 4px 20px 0px rgba(21, 34, 50, 0.1);
+  border-radius: 12px;
+}
+.section {
+  color: var(--black);
+  background: var(--white);
+  width: 100%;
+  border-radius: var(--radius-dialog);
+  padding: var(--spacing-console-24);
+  border: 1px solid var(--gray-2);
+}
+.title {
+  color: var(--black);
+  margin-bottom: var(--spacing-console-24);
+  @include font-h6;
+}
+.desc {
+  margin-top: calc(2 * var(--spacing-console-24));
+  @include font-body;
+}
+.isSaveDataTxt {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: left;
+  font-style: normal;
+}
+.mainSection {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 504px;
+  height: 608px;
+  padding: 24px 32px;
+}
+.subtitle {
+  font-size: 12px;
+  color: #514f6e;
+  line-height: 12px;
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+.line {
+  position: absolute;
+  top: 71px;
+  border-bottom: 1px solid var(--gray-2);
+  width: 100%;
+  height: 1px;
+}
+.tipsTitle {
+  margin-top: 41px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: left;
+  font-style: normal;
+  color: #514f6e;
+}
+.tip12 {
+  font-weight: 700;
+  color: rgb(255, 61, 100);
+}
+.stopBtn {
+  background: var(--dark-1) !important;
+  height: 32px;
+  min-width: 124px !important;
+  float: right;
+  text-transform: none !important;
+  box-shadow: none !important;
+}
+.stopBtnTxt {
+  color: var(--white) !important;
+  @include font-subtle;
+}
+.stopBtn:hover {
+  background: var(--dark-2) !important;
+}
+.cancelBtn {
+  background: var(--white) !important;
+  margin-right: var(--spacing-button) !important;
+  width: 124px;
+  height: 32px;
+  float: right;
+  border: 1px solid var(--dark-1) !important;
+  box-shadow: none !important;
+  text-transform: none !important;
+}
+.cancelBtn:hover {
+  background-color: var(--gray-3) !important;
+}
+.cancelBtnTxt {
+  color: var(--dark-1);
+  @include font-subtle;
+}
+
+@media screen and (max-width: 1000px) {
+  .container {
+    padding: 86px 0 100px 0;
+  }
+  .title {
+    font-size: 24px;
+  }
+  .desc {
+    font-size: 14px;
+  }
+  .wrap {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+.confirmCheckbox {
+  display: flex !important;
+  align-items: flex-start !important;
+}

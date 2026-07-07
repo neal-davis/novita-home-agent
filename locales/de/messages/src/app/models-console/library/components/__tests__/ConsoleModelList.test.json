@@ -1,0 +1,10 @@
+{
+  "dateAlignmentTest": "Test der Datumsausrichtung",
+  "legacyLlmListActionTestModel": "Legacy-LLM-Listenaktion-Testmodell",
+  "legacyLlmListModel": "Legacy-LLM-Listenmodell",
+  "longSummaryLayoutTest": "Test des Layouts für lange Zusammenfassungen",
+  "multimodalActionTestModel": "Multimodales Aktionstestmodell",
+  "multimodalLabelTestModel": "Multimodales Label-Testmodell",
+  "multimodalListTestModel": "Multimodales Listentestmodell",
+  "tieredListModel": "Gestuftes Listenmodell"
+}

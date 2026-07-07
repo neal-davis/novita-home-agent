@@ -1,0 +1,18 @@
+{
+  "anthropicApi": "Anthropic API",
+  "apiAccessGuide": "API Access Guide",
+  "apiEndpoint": "API Endpoint",
+  "apiKey": "API Key",
+  "baseUrl": "Base URL",
+  "contextLength": "Context Length",
+  "info": "Info",
+  "inputCapabilities": "Input Capabilities",
+  "maxOutput": "Max Output",
+  "modelId": "Model ID",
+  "notSupported": "Not supported",
+  "outputCapabilities": "Output Capabilities",
+  "provider": "Provider",
+  "quantization": "Quantization",
+  "supported": "Supported",
+  "supportedFunctionality": "Supported Functionality"
+}

@@ -1,0 +1,19 @@
+{
+  "anthropicApi": "Anthropic API",
+  "apiAccessGuide": "API 访问指南",
+  "apiEndpoint": "API 端点",
+  "apiKey": "API 密钥",
+  "baseUrl": "基础 URL",
+  "contextLength": "上下文长度",
+  "info": "信息",
+  "inputCapabilities": "输入能力",
+  "maxOutput": "最大输出",
+  "modelId": "模型 ID",
+  "notSupported": "不支持",
+  "outputCapabilities": "输出能力",
+  "provider": "提供商",
+  "quantization": "量化",
+  "serverless": "无服务器",
+  "supported": "支持",
+  "supportedFunctionality": "支持的功能"
+}

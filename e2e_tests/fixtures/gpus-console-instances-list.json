@@ -1,0 +1,63 @@
+{
+  "_comment": "Synthetic GPU instance list for hermetic /gpus-console/instances (response of reqGpuInstance -> /gpu/instances). The read-only prod capture did not reach this endpoint (loads post-login), so values are synthesized from the source field contract in section.tsx (res.instances[] + res.total). 3 representative rows cover onDemand/monthly/spot billing + running/exited status branches. No real PII: ids/names/uuids/images are all placeholders.",
+  "instances": [
+    {
+      "id": "inst-aaaa1111",
+      "name": "e2e-instance-onDemand",
+      "productName": "RTX 4090 24GB",
+      "gpuNum": 1,
+      "gpuIds": [],
+      "cpuNum": 16,
+      "memory": 64,
+      "rootfsSize": 60,
+      "imageUrl": "docker.io/library/example-image:latest",
+      "billingMode": "onDemand",
+      "status": "running",
+      "createdAt": "1718000000",
+      "endTime": "0",
+      "creator": "",
+      "uuid": "00000000-0000-4000-8000-000000000001",
+      "isApiInstance": false,
+      "statusError": {}
+    },
+    {
+      "id": "inst-bbbb2222",
+      "name": "e2e-instance-monthly",
+      "productName": "A100 SXM 80GB",
+      "gpuNum": 2,
+      "gpuIds": [],
+      "cpuNum": 32,
+      "memory": 128,
+      "rootfsSize": 100,
+      "imageUrl": "docker.io/library/example-image:cuda12",
+      "billingMode": "monthly",
+      "status": "running",
+      "createdAt": "1718100000",
+      "endTime": "1893456000",
+      "creator": "",
+      "uuid": "00000000-0000-4000-8000-000000000001",
+      "isApiInstance": false,
+      "statusError": {}
+    },
+    {
+      "id": "inst-cccc3333",
+      "name": "e2e-instance-spot",
+      "productName": "RTX 4090 24GB",
+      "gpuNum": 1,
+      "gpuIds": [],
+      "cpuNum": 8,
+      "memory": 32,
+      "rootfsSize": 40,
+      "imageUrl": "docker.io/library/example-image:slim",
+      "billingMode": "spot",
+      "status": "exited",
+      "createdAt": "1718200000",
+      "endTime": "0",
+      "creator": "",
+      "uuid": "00000000-0000-4000-8000-000000000001",
+      "isApiInstance": false,
+      "statusError": {}
+    }
+  ],
+  "total": 3
+}

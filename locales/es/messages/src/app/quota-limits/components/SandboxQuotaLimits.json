@@ -1,0 +1,18 @@
+{
+  "aboutPricing": "Sobre los precios",
+  "afterTopUp": "después de la recarga.",
+  "contactSales": "Contactar con ventas",
+  "forAdvancedWorkloadsThatNeedHigher": "Para cargas de trabajo avanzadas que necesitan límites de recursos más altos, regiones de implementación personalizadas o infraestructura dedicada.",
+  "increaseLimit": "Aumentar límite",
+  "maximumConcurrentSandboxes": "Máximo de sandboxes simultáneos",
+  "maximumLocalStoragePerSandbox": "Almacenamiento local máximo por sandbox",
+  "maximumMemoryPerSandbox": "Memoria máxima por sandbox",
+  "maximumVcpuPerSandbox": "Máximo de vCPU por sandbox",
+  "needCustomQuotas": "¿Necesitas cuotas personalizadas?",
+  "promoCredits": "CRÉDITOS PROMOCIONALES",
+  "quotaTier": "Nivel de cuota",
+  "sandboxMaximumLifetime": "Vida útil máxima del sandbox",
+  "unlockHigherQuotas": "Desbloquea cuotas más altas",
+  "upgradeToPaidTier": "Mejorar a nivel de pago",
+  "yourCurrentTier": "Tu nivel actual:"
+}

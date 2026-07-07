@@ -1,0 +1,9 @@
+{
+  "add": "Ajouter",
+  "addLink": "Ajouter un lien",
+  "confirm": "Confirmer",
+  "dataImagePngBase64": "data:image/png;base64,...",
+  "invalidInputFormat": "Format d’entrée invalide",
+  "uploadImage": "Importer une image",
+  "uploading": "Importation..."
+}

@@ -1,0 +1,18 @@
+{
+  "allTemplates": "所有模板",
+  "createTemplate": "创建模板",
+  "deployPreConfiguredEnvironmentsOrCreate": "部署预配置环境或创建你自己的环境。",
+  "favoriteSuccessfully": "收藏成功",
+  "loginFailurePleaseLogInAgain": "登录失败，请重新登录",
+  "myCreations": "我的创建",
+  "myFavorites": "我的收藏",
+  "noResultsFound": "未找到结果",
+  "official": "官方",
+  "pleaseLogInFirst": "请先登录",
+  "recommendedForYou": "🔥 为你推荐",
+  "searchTemplates": "搜索模板...",
+  "success": "成功",
+  "templatesLibrary": "模板库",
+  "trySearchingForSomethingElseOr": "尝试搜索其他内容，或创建你自己的模板。",
+  "unfavoriteSuccessfully": "取消收藏成功"
+}

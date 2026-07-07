@@ -1,0 +1,11 @@
+{
+  "day": "日",
+  "endpointsId": "エンドポイントID",
+  "export": "エクスポート",
+  "groupBy": "グループ化",
+  "hour": "時間",
+  "month": "月",
+  "noData": "データがありません！",
+  "timeRange": "時間範囲",
+  "week": "週"
+}

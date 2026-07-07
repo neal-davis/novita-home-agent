@@ -1,0 +1,21 @@
+{
+  "convertDocumentToMarkdownFormat": "ドキュメントをMarkdown形式に変換",
+  "detailedImageDescription": "詳細な画像説明",
+  "document": "ドキュメント",
+  "enterTextToLocate": "検索するテキストを入力",
+  "enterTheTextToLocateIn": "画像内で検索するテキストを入力...",
+  "figuresInDocument": "ドキュメント内の図",
+  "freeOcrWithoutLayoutDetection": "レイアウト検出なしの無料OCR",
+  "general": "一般",
+  "inTheImage": "画像内。",
+  "locateSpecificTextInImageRequires": "画像内の特定のテキストを検索（カスタム入力が必要）",
+  "ocrRecognitionForGeneralImages": "一般画像向けOCR認識",
+  "otherImage": "その他の画像",
+  "parseFiguresFromDocuments": "ドキュメントから図を解析",
+  "promptLocate": "プロンプト: 検索",
+  "recognition": "認識",
+  "ref-8f2130": "<|/ref|>",
+  "ref-cb1038": "<|ref|>",
+  "selectOcrMode": "OCRモードを選択...",
+  "withoutLayouts": "レイアウトなし"
+}

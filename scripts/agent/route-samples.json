@@ -1,0 +1,14 @@
+{
+  "__comment": "动态路由模板 → 可访问的示例 URL。供 diff-routes/verify-task 把 [param] 路由变成可真机验证的地址；无示例的动态路由会被标记 BLOCKED(needs-params)。示例失效（404）会被 warm-routes 检出，请更新为真实存在的 slug。",
+  "/billing/[section]": "/billing/overview",
+  "/models/llm/[model]": "/models/llm/deepseek-deepseek-r1-turbo",
+  "/models/[model_series]/[model_name]": "/models/deepseek/deepseek-r1-turbo",
+  "/gpus/gpu/[gpu_model]": "/gpus/gpu/rtx-4090",
+  "/templates/[slug]": null,
+  "/templates-library/[templateId]": null,
+  "/models/model-detail/[modelId]": null,
+  "/models-console/model-detail/[modelId]": null,
+  "/model-api/model/[version_id]": null,
+  "/model-api/image/[keyword]": null,
+  "/user/reset/[token]": "/user/reset/e2e-sample-token"
+}

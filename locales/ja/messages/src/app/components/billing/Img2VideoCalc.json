@@ -1,0 +1,11 @@
+{
+  "apiImg2video": "API img2Video",
+  "apiImg2videoMotion": "API img2Video-motion",
+  "apiTxt2video": "API txt2Video",
+  "creditCost": "クレジットコスト",
+  "frames": "フレーム -",
+  "maxTrainSteps": "最大トレーニングステップ数 -",
+  "models": "モデル -",
+  "steps": "ステップ -",
+  "videoApi": "動画 API"
+}

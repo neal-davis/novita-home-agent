@@ -1,0 +1,44 @@
+.user_profile {
+  background-color: #15131d;
+  padding: 24px 32px;
+  margin-top: 24px;
+  border-radius: 24px;
+  box-sizing: border-box;
+}
+
+.user_profile .title {
+  font-size: 18px;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: 18px;
+  font-weight: 700;
+}
+
+.user_profile .label {
+  font-size: 14px;
+  color: #b6b1c8;
+  letter-spacing: 0;
+  line-height: 14px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+
+.user_profile .input_wrap {
+  margin-top: 13px;
+  width: 100%;
+}
+
+.user_profile .input {
+  height: 48px;
+  background: #15131d;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 8px;
+}
+
+.btn {
+}
+
+.btn:disabled {
+  color: #666;
+  cursor: not-allowed;
+}

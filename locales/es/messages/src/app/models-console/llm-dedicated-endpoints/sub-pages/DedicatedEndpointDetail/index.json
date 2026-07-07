@@ -1,0 +1,8 @@
+{
+  "editLoraAdapters": "Editar adaptadores LoRA",
+  "failedToUpdateLoraAdapters": "No se pudieron actualizar los adaptadores LoRA",
+  "loraAdaptersUpdated": "Adaptadores LoRA actualizados",
+  "metrics": "Métricas",
+  "overview": "Resumen",
+  "settings": "Configuración"
+}

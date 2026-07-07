@@ -1,0 +1,11 @@
+{
+  "amount": "Montant",
+  "applicable": "Applicable",
+  "cancel": "Annuler",
+  "gotIt": "Compris",
+  "redeem": "Utiliser",
+  "validUntil": "Valable jusqu’au",
+  "voucherCode": "Code du bon",
+  "voucherCodeRedeem": "Utiliser un code de bon",
+  "voucherRedeemedSuccessfully": "Bon utilisé avec succès !"
+}

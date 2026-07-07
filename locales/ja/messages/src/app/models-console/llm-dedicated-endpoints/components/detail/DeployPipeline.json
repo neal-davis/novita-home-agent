@@ -1,0 +1,8 @@
+{
+  "deploymentPipeline": "デプロイメントパイプライン",
+  "engineStartup": "エンジン起動",
+  "modelImagePull": "モデルとイメージのプル",
+  "resourceScheduling": "リソーススケジューリング",
+  "running": "実行中",
+  "waiting": "待機中..."
+}

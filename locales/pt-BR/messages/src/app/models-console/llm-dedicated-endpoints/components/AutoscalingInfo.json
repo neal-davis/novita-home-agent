@@ -1,0 +1,14 @@
+{
+  "autoscalingChangesTakeEffectWithin5": "As alterações de dimensionamento automático entram em vigor em até 5 minutos",
+  "autoscalingConfiguration": "Configuração de dimensionamento automático",
+  "cancel": "Cancelar",
+  "disabled": "Desativado",
+  "edit-530164": "Editar",
+  "edit-a15b1c": "Editar (",
+  "enabled": "Ativado",
+  "maxReplicas": "Máx. de réplicas",
+  "minReplicas": "Mín. de réplicas",
+  "save": "Salvar",
+  "scaleDownDelay": "Atraso na redução de escala",
+  "scaleToZero": "Reduzir para zero"
+}

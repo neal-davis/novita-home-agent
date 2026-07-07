@@ -1,0 +1,21 @@
+{
+  "agentSandbox": "Agent 沙盒",
+  "baseUrl": "BASE_URL",
+  "dedicatedEndpoints": "专用端点",
+  "exploreAllModels": "探索所有模型",
+  "getStarted": "开始使用",
+  "gpuCloud": "GPU 云",
+  "model": "MODEL",
+  "modelApis-10b567": "模型 APIs",
+  "modelApis-8d449d": "模型 APIs",
+  "noInfrastructureToManage": "无需管理基础设施。",
+  "operational": "运行正常",
+  "privateEndpointsGuaranteedPerformanceNoNoisy": "私有端点。性能有保障。无嘈杂邻居。",
+  "productNavigation": "产品导航",
+  "productionReadyYouCallItWe": "生产就绪。您调用，我们运行。按",
+  "run200ModelsThroughASingle": "通过单个 API 运行 200+ 个模型。",
+  "serverlessModelApis": "无服务器模型 APIs",
+  "textImageAudioVideoAllServerless": "文本、图像、音频、视频——全部无服务器，全部",
+  "tokenNotTheHour": "token 计费，而不是按小时。",
+  "yourModelYourComputeIsolatedResources": "您的模型。您的计算资源。隔离资源意味着在任何吞吐量下都能保持稳定延迟。因为生产环境没有重试预算。"
+}

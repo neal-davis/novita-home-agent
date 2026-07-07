@@ -1,0 +1,7 @@
+{
+  "anInvitationHasAlreadyBeenSent": "Eine Einladung wurde bereits gesendet und ist noch aktiv. Wenn Sie eine weitere senden, wird die bestehende ersetzt.",
+  "cancel": "Abbrechen",
+  "failedToResendInvitation": "Einladung konnte nicht erneut gesendet werden",
+  "invitationEmailSentSuccessfully": "Einladungs-E-Mail wurde erfolgreich gesendet!",
+  "resendInvitation": "Einladung erneut senden"
+}

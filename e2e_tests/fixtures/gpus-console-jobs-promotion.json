@@ -1,0 +1,9 @@
+{
+  "_comment": "De-PII'd /v3/stripe/promotion captured from prod for /gpus-console/jobs chrome (DiscountToast/promotion banner). Generic empty promotion — no coupon active. No PII.",
+  "couponId": "",
+  "percentOff": 0,
+  "amountOff": "0",
+  "redeemBy": "0",
+  "valid": false,
+  "activityName": ""
+}

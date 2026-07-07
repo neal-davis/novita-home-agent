@@ -1,0 +1,18 @@
+{
+  "all": "すべて",
+  "applicableProducts": "対象製品",
+  "balanceTotal": "残高 / 合計",
+  "collapse": "折りたたむ",
+  "effectDate": "発効日",
+  "expirationDate": "有効期限日",
+  "expired": "期限切れ",
+  "status-11dc9e": "ステータス:",
+  "status-bae7d5": "ステータス",
+  "textVarBrand1": "text-[var(--brand-1)]",
+  "textVarDark3": "text-[var(--dark-3)]",
+  "textVarRed2": "text-[var(--red-2)]",
+  "used": "使用済み",
+  "valid": "有効",
+  "voucher": "バウチャー",
+  "voucherDetails": "バウチャー詳細"
+}

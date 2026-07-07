@@ -1,0 +1,10 @@
+{
+  "bookACall": "Book a Call",
+  "concurrentInstances": "Concurrent Instances",
+  "contactSales": "Contact Sales",
+  "deploymentRegion": "Deployment Region",
+  "enterprise": "Enterprise",
+  "forAdvancedWorkloadsRequiringLargeMemory": "For advanced workloads requiring large memory, higher vCPU, or custom deployment locations.",
+  "maxVcpusPerSandbox": "Max vCPUs per Sandbox",
+  "uptimeSla": "Uptime SLA"
+}

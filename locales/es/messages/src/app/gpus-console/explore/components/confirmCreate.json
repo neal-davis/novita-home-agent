@@ -1,0 +1,9 @@
+{
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
+  "confirmCreate": "Confirmar creación",
+  "createA": "Crear una",
+  "subscriptionInstance": "Instancia de suscripción",
+  "theInstanceIsNotRefundableAnd": ", la instancia no es reembolsable y no se puede liberar; si hay algún problema durante la operación, puede hacer clic en \"Migrar\" para cambiar sin interrupciones a otras GPUs. ¿Confirma el pago?",
+  "youNeedToPayUpfront": ", debe pagar por adelantado"
+}

@@ -1,0 +1,34 @@
+<svg width="402" height="362" viewBox="0 0 402 362" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M161 161L201 121H161V161Z" fill="#4F4E4A" stroke="#4F4E4A" stroke-linejoin="round"/>
+<path d="M201 121L241 81H201V121Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M201 201L241 161H201V201Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M121 121L81 161L121 161L121 121Z" fill="#4F4E4A" stroke="#4F4E4A" stroke-linejoin="round"/>
+<path d="M241 121L281 161L281 121L241 121Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M281 161L241 201L281 201L281 161Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M241 161L201 201L241 201L241 161Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M201 201L161 241L201 241L201 201Z" fill="#4F4E4A" stroke="#4F4E4A" stroke-linejoin="round"/>
+<path d="M121 201L81 241L121 241L121 201Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M121 321L81 281L81 321L121 321Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M241 241L201 281L241 281L241 241Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M201 361L161 321L161 361L201 361Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M241 321L281 281H241V321Z" fill="#4F4E4A" stroke="#4F4E4A" stroke-linejoin="round"/>
+<path d="M321 281L361 241H321V281Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M361 321L401 281H361V321Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M1 161L41 201L41 161L1 161Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M361 201L321 161L321 201L361 201Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M321 121L281 81L281 121L321 121Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M321 121L361 81H321V121Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M321 281L281 241L281 281L321 281Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M281 41L241 1L241 41L281 41Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M121 121L161 81H121V121Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M161 41L201 81L201 41L161 41Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M121 201L161 241L161 201L121 201Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M41 241L81 281L81 241L41 241Z" fill="#4F4E4A" stroke="#4F4E4A" stroke-linejoin="round"/>
+<path d="M121 161L161 201L161 161L121 161Z" stroke="#CBC9C4" stroke-linejoin="round"/>
+<path d="M241 241L281 201H241V241Z" fill="#4F4E4A" stroke="#4F4E4A" stroke-linejoin="round"/>
+<circle cx="99" cy="298" r="4" fill="#16B063"/>
+<circle cx="105" cy="217" r="4" fill="#16B063"/>
+<circle cx="201" cy="97" r="4" fill="#16B063"/>
+<circle cx="263" cy="143" r="4" fill="#16B063"/>
+<circle cx="255" cy="227" r="4" fill="#16B063"/>
+</svg>

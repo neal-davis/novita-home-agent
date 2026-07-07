@@ -1,0 +1,47 @@
+.form_container {
+  display: flex;
+  flex-direction: column;
+
+  .policy {
+    margin-top: 20px;
+    font-size: 12px;
+
+    a {
+      color: var(--primary-color);
+    }
+  }
+
+  .operate_box {
+    margin: 12px 0;
+
+    .opt_btn {
+      width: 100%;
+    }
+  }
+
+  .forgot_box {
+    text-align: right;
+    margin-top: 12px;
+    font-size: 12px;
+    color: var(--primary-color);
+  }
+
+  .form_footer {
+    margin-top: 24px;
+    text-align: center;
+    font-size: 14px;
+
+    a {
+      color: var(--primary-color);
+    }
+  }
+}
+
+.form_body {
+  padding: 12px 0 0;
+  .item {
+    label {
+      height: auto !important;
+    }
+  }
+}

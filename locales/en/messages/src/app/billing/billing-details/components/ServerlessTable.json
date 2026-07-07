@@ -1,0 +1,15 @@
+{
+  "day": "Day",
+  "endpoint": "Endpoint",
+  "export": "Export",
+  "forEachEndpointUsageDurationIs": "For each endpoint, usage duration is calculated based on the total GPU time consumed by all workers under it. Specifically, each worker's usage duration is determined by (number of GPUs) * (time in seconds), and the endpoint's total usage duration is the sum of all workers' GPU usage within the billing period.",
+  "gpuType": "GPU Type",
+  "groupBy": "Group By",
+  "hour": "Hour",
+  "month": "Month",
+  "noData": "No Data!",
+  "seconds": "(seconds)",
+  "timeRange": "Time Range",
+  "usageDuration": "Usage Duration",
+  "week": "Week"
+}

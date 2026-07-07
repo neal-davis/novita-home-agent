@@ -1,0 +1,18 @@
+{
+  "allTemplates": "すべてのテンプレート",
+  "createTemplate": "テンプレートを作成",
+  "deployPreConfiguredEnvironmentsOrCreate": "事前構成済みの環境をデプロイするか、独自の環境を作成します。",
+  "favoriteSuccessfully": "お気に入りに追加しました",
+  "loginFailurePleaseLogInAgain": "ログインに失敗しました。もう一度ログインしてください",
+  "myCreations": "自分の作成物",
+  "myFavorites": "お気に入り",
+  "noResultsFound": "結果が見つかりません",
+  "official": "公式",
+  "pleaseLogInFirst": "先にログインしてください",
+  "recommendedForYou": "🔥 あなたへのおすすめ",
+  "searchTemplates": "テンプレートを検索...",
+  "success": "成功",
+  "templatesLibrary": "テンプレートライブラリ",
+  "trySearchingForSomethingElseOr": "別のキーワードで検索するか、独自のテンプレートを作成してください。",
+  "unfavoriteSuccessfully": "お気に入りから削除しました"
+}

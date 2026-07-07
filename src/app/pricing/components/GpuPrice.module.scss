@@ -1,0 +1,74 @@
+.gpu_price {
+  padding-bottom: 0;
+
+  .price_card {
+    margin: 16px 0;
+    padding: 8px 24px 24px;
+    background-color: var(--white);
+    border-radius: 8px;
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  .gpu_product_name {
+    @include font-h4;
+    color: var(--dark-1);
+  }
+
+  .table_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 54px;
+  }
+
+  .get_started {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--dark-1);
+    text-decoration: underline;
+    cursor: pointer;
+  }
+
+  .gpu_price_table {
+    thead tr th {
+      padding-top: 14px;
+      padding-bottom: 8px;
+      background-color: var(--gray-3);
+    }
+
+    tbody tr {
+      &:hover {
+        background-color: transparent;
+      }
+    }
+
+    .table_cell_hover {
+      transition: background-color 0.2s ease;
+
+      &:hover {
+        background-color: var(--gray-3);
+      }
+    }
+
+    .table_row_hover {
+      transition: background-color 0.2s ease;
+
+      &:hover {
+        td:not(.table_cell_no_hover) {
+          background-color: var(--gray-3);
+        }
+
+        td.table_cell_no_hover {
+          background-color: transparent;
+        }
+      }
+    }
+
+    .table_cell_no_hover {
+      // 合并的单元格不参与hover效果
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "cancel": "Abbrechen",
+  "restart": "Neu starten",
+  "restartInstance": "Instanz neu starten",
+  "success": "Erfolg",
+  "youWillRestartTheRunningInstance": "Sie werden die laufende Instanz neu starten. Bitte bestätigen Sie, ob Sie fortfahren möchten?"
+}

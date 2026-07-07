@@ -1,0 +1,16 @@
+{
+  "adapterAlreadyExists": "Adapter already exists",
+  "adapterName": "Adapter name",
+  "adapterReadyToAdd": "Adapter ready to add.",
+  "cancel": "Cancel",
+  "clickTheButtonAboveToAdd-5002cb": "Click the button above to add adapters.",
+  "clickTheButtonAboveToAdd-fcb6d5": "Click the button above to add Hugging Face adapters.",
+  "enterAdaptersRepositoryName": "Enter adapter's repository name",
+  "enterHuggingFaceAdaptersRepositoryName": "Enter Hugging Face adapter's repository name",
+  "gatheringAdapterInformation": "Gathering adapter information...",
+  "loraAdapterSuccessfullyMatchedWithThe": "LoRA adapter successfully matched with the base model.",
+  "noAdapterAdded": "No adapter added",
+  "optionalRouteForThisAdapterLeave": "Optional route for this adapter. Leave empty to fall back to the adapter name. Route must be unique within the endpoint.",
+  "remove": "Remove",
+  "route": "Route"
+}

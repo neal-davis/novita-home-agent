@@ -1,0 +1,21 @@
+{
+  "agentSandbox": "エージェントサンドボックス",
+  "anyBillingDataViewedBeforeThis": "この時点より前に表示された請求データは参考情報のみであり、照合には使用しないでください。",
+  "billingRecordsAreGeneratedAtAn": "請求レコードは1時間ごとに生成されます。例外として、ストレージサービスは日次で請求され、レコードはUTC 00:00に生成されます。",
+  "billingSummariesAggregatedByApiKey-51443b": "API Key別に集計された請求サマリーは、現在2026年以降の請求データのみをサポートしています。",
+  "billingSummariesAggregatedByApiKey-e50926": "API Key別に集計された請求サマリーは、現在LLMおよび画像/動画製品のみをサポートしています。",
+  "byApiKey": "API Key別",
+  "byCreator": "作成者別",
+  "chargesAreGenerallyCalculatedAndDeducted": "料金は通常、1時間ごとに計算され差し引かれます。1時間あたりの利用料金がこの金額を下回る場合、最低料金として$0.0001が適用されます。",
+  "forProductsBilledOnAFixed": "固定期間請求ベースで請求される製品については、請求明細は月次サイクルで生成されます。当月の最終請求明細は、翌月1日のUTC 06:00以降に利用可能になります。",
+  "gpuInstance": "GPUインスタンス",
+  "gpuInstances": "GPUインスタンス",
+  "gpuServerless": "GPU Serverless",
+  "imageDedicatedEndpoint": "画像専用エンドポイント",
+  "imageVideo": "画像/動画",
+  "llmDedicatedEndpoints": "LLM専用エンドポイント",
+  "llmServerlessEndpoints": "LLM Serverless Endpoints",
+  "multiDimensionalSummaryBillsDisplayOther": "多次元サマリー請求書には、請求モードのディメンションを除くその他のサマリーディメンションが表示されます。",
+  "storage": "ストレージ",
+  "summary": "概要"
+}

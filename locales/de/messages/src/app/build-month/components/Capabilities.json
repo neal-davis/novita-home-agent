@@ -1,0 +1,15 @@
+{
+  "allowAgentsToAccessExternalApis": "Erlaube Agenten, bei Bedarf auf externe APIs und Online-Daten zuzugreifen.",
+  "automateWebNavigationFormFillingAnd": "Automatisiere Webnavigation, das Ausfüllen von Formularen und das Scraping von Inhalten.",
+  "browserUse": "Browser-Nutzung",
+  "codeExecution": "Codeausführung",
+  "computerUse": "Computer-Nutzung",
+  "controlFullGuiEnvironmentsInputText": "Steuere vollständige GUI-Umgebungen: Text eingeben, Seiten scrollen, Screenshots erstellen und mehr.",
+  "enableAgentsToInteractWithGui": "Ermögliche Agenten die Interaktion mit der GUI und das Streamen der Aufgabenausführung über VNC.",
+  "networkAccess": "Netzwerkzugriff",
+  "pauseAndResumeLongRunningAgent": "Pausiere und setze lang laufende Agentenaufgaben fort, ohne den Fortschritt zu verlieren.",
+  "runPythonJavascriptCAndOther": "Führe Python, JavaScript, C++ und andere Sprachen in einer sicheren Sandbox aus.",
+  "sandboxCapabilities": "Sandbox-Funktionen",
+  "sessionPersistence": "Sitzungspersistenz",
+  "visualOutput": "Visuelle Ausgabe"
+}

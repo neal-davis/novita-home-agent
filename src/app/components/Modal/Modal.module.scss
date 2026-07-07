@@ -1,0 +1,20 @@
+.modal_header {
+  flex-shrink: 0;
+}
+.modal_body {
+  min-height: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.modal_footer {
+  flex-shrink: 0;
+}
+.modal_mask {
+  backdrop-filter: var(--modal-backdrop-filter);
+  background: var(--modal-mask-bg);
+}
+.modal_wrapper {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}

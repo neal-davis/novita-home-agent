@@ -1,0 +1,16 @@
+{
+  "amountShouldPay": "Zu zahlender Betrag",
+  "billingPeriod": "Abrechnungszeitraum",
+  "captionTable": "Beschriftungstabelle",
+  "cashPaid": "Gezahlter Betrag",
+  "duration": "Dauer",
+  "endpointId-a11c3a": "Endpoint-ID",
+  "endpointId-b72156": "Endpoint-ID",
+  "export": "Exportieren",
+  "gpuType": "GPU-Typ",
+  "gpusWorker": "GPUs/Worker",
+  "priceUnitS": "Preis (Einheit:/s)",
+  "search": "Suche",
+  "voucherDeduction": "Gutscheinabzug",
+  "workId": "Work-ID"
+}

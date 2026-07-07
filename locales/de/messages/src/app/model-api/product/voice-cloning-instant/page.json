@@ -1,0 +1,6 @@
+{
+  "applyForAccess": "Zugang beantragen",
+  "novitaAi": "Novita AI |",
+  "voiceCloningInstantApiCreateCloned": "Stimmenklonen - Instant API - Erstellen Sie sofort geklonte Stimmen aus beliebigen Sprechern",
+  "voiceCloningInstantApiIsAn": "Die Instant API für Stimmenklonen ist ein KI-Stimmenklondienst, der es ermöglicht, mit nur wenigen Minuten Referenzaudio synthetische Stimmen zu erzeugen, die von beliebigen Sprechern geklont wurden. Unsere API analysiert Sprachproben, um die einzigartigen Merkmale der Stimmqualität, des Akzents, der Aussprache und der Intonation eines Sprechers zu extrahieren. Mit diesen Daten können unsere Stimmmodelle neue Sprache synthetisieren, die den Ausgangssprecher mit menschenähnlicher Natürlichkeit nachahmt."
+}

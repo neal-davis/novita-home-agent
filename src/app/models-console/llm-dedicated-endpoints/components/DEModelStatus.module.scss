@@ -1,0 +1,79 @@
+.status_tag {
+  padding: 0 4px;
+  @include font-small-console;
+  color: var(--dark-2);
+  border-radius: 4px;
+  background-color: var(--gray-3);
+}
+
+// Running - active/success state
+.status_tag_running {
+  background-color: var(--brand-3);
+  color: var(--brand-1);
+}
+
+// Sleeping - paused state
+.status_tag_sleeping {
+  background-color: var(--purple-6);
+  color: var(--purple-1);
+}
+
+// Failed - error state
+.status_tag_failed {
+  background-color: var(--red-6);
+  color: var(--red-1);
+}
+
+// Terminated - stopped state (uses default gray)
+.status_tag_terminated {
+  background-color: var(--gray-3);
+  color: var(--dark-2);
+}
+
+// Pending - waiting state
+.status_tag_pending {
+  background-color: var(--cyan-5);
+  color: var(--cyan-2);
+}
+
+// Deploying - 初始化中 (首次部署或重新部署)
+.status_tag_deploying {
+  background-color: var(--cyan-5);
+  color: var(--cyan-2);
+}
+
+// Rolling - updating state
+.status_tag_rolling {
+  background-color: var(--purple-6);
+  color: var(--purple-1);
+}
+
+// Scaling - capacity change state
+.status_tag_scaling {
+  background-color: var(--cyan-5);
+  color: var(--cyan-2);
+}
+
+// Terminating - shutdown state
+.status_tag_terminating {
+  background-color: var(--yellow-6);
+  color: var(--yellow-1);
+}
+
+.spin_wrapper {
+  @include font-small-console;
+  color: var(--dark-2);
+
+  .spin {
+    animation: spin-animation 2s linear infinite;
+  }
+}
+
+@keyframes spin-animation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "affiliateDashboard": "アフィリエイトダッシュボード",
+  "email": "メールアドレス",
+  "initialLoginCredentials": "初回ログイン認証情報",
+  "initialPassword": "初期パスワード",
+  "notAvailableYet": "まだ利用できません",
+  "openDashboard": "ダッシュボードを開く",
+  "referralLink": "紹介リンク",
+  "retry": "再試行",
+  "shareThisLinkToEarn10": "このリンクを共有すると、紹介者の利用額に対して10%のコミッションを獲得できます",
+  "startEarningCommissionsWithYourPersonalized": "あなた専用のアフィリエイトツールでコミッション獲得を始めましょう",
+  "trackYourReferralsEarningsAndPayout": "紹介、収益、支払い履歴を確認できます",
+  "unableToLoadAffiliateCredentialsPlease": "アフィリエイト認証情報を読み込めませんでした。後でもう一度お試しください。",
+  "useTheseToAccessYourAffiliate": "初めてアフィリエイトダッシュボードにアクセスする際は、これらを使用してください",
+  "weRecommendChangingYourPasswordAfter": "初回ログイン後にパスワードを変更することをおすすめします。",
+  "yourAffiliateCredentials": "あなたのアフィリエイト認証情報",
+  "yourReferralLink": "あなたの紹介リンク"
+}

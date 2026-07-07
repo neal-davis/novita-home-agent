@@ -1,0 +1,64 @@
+.container {
+  padding: 25px 50px;
+  min-height: 100vh;
+  background-color: var(--gray-3);
+}
+
+.page_main {
+  margin: 20vh auto;
+  padding: 40px 24px 24px;
+  max-width: 575px;
+  border-radius: var(--small-radius);
+  border: 1px solid var(--gray-2);
+  background-color: var(--white);
+
+  .title {
+    margin-bottom: 16px;
+    padding-bottom: 16px;
+    @include font-h6;
+    color: var(--black);
+    border-bottom: 1px solid var(--gray-2);
+  }
+
+  .tips_large {
+    margin-bottom: 16px;
+    padding-bottom: 16px;
+    @include font-body;
+    color: var(--black);
+    border-bottom: 1px solid var(--gray-2);
+  }
+
+  .tips {
+    margin-bottom: 16px;
+    padding-bottom: 16px;
+    @include font-subtle;
+    color: var(--black);
+    border-bottom: 1px solid var(--gray-2);
+  }
+
+  .button_wrap {
+    margin-top: 30px;
+  }
+
+  .confirm_message_large {
+    @include font-h6;
+    color: var(--black);
+  }
+
+  .confirm_message {
+    @include font-subtle-medium;
+    color: var(--black);
+  }
+
+  .account_guide {
+    margin-left: 36px;
+    @include font-subtle;
+    color: var(--black);
+  }
+
+  .link_btn {
+    @include font-link-small;
+    color: var(--black);
+    text-decoration: underline;
+  }
+}

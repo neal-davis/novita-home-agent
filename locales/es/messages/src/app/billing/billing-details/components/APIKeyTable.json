@@ -1,0 +1,17 @@
+{
+  "all": "Todos",
+  "day": "Día",
+  "export": "Exportar",
+  "groupBy": "Agrupar por",
+  "imageVideo": "Imagen/Vídeo",
+  "modelName": "Nombre del modelo",
+  "month": "Mes",
+  "noData": "¡Sin datos!",
+  "productType": "Tipo de producto",
+  "selectCategory": "Seleccionar categoría",
+  "theQueryTimeRangeCannotBe": "El intervalo de tiempo de la consulta no puede ser anterior al 2026-01-01",
+  "theQueryTimeRangeCannotExceed": "El intervalo de tiempo de la consulta no puede superar los 31 días",
+  "theStartTimeCannotBeLater": "La hora de inicio no puede ser posterior a la hora de finalización",
+  "timeRange": "Rango de tiempo",
+  "week": "Semana"
+}

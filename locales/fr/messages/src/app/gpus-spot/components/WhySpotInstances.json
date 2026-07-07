@@ -1,0 +1,12 @@
+{
+  "advanceNotice": "Préavis",
+  "builtInProtection": "Protection intégrée",
+  "combineWithOnDemandOrReserved": "Combinez avec des instances à la demande ou réservées pour trouver le bon équilibre entre coût et stabilité",
+  "flexibleDeployment": "Déploiement flexible",
+  "guaranteed1HourInitialRuntime": "Durée d’exécution initiale garantie de 1 heure",
+  "message1HourTerminationAlertsViaApi": "Alertes de résiliation 1 heure à l’avance via API, e-mail ou console",
+  "payHalfTheOnDemandRate": "Payez la moitié du tarif à la demande",
+  "runWorkloadsAtAFractionOf": "Exécutez des charges de travail à une fraction du coût, sans sacrifier la fiabilité",
+  "saveUpTo50": "Économisez jusqu’à 50 %",
+  "whySpotInstances": "Pourquoi les instances Spot"
+}

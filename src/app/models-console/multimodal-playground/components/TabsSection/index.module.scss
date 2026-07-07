@@ -1,0 +1,208 @@
+@import "@/styles/mixins.scss";
+
+.tabs_container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+  min-height: 0;
+}
+
+.tabs_header {
+  position: sticky;
+  top: 0;
+  background: var(--white);
+  flex-shrink: 0;
+  z-index: 10;
+  transition: opacity 0.3s ease-in-out;
+
+  &.near_snap {
+    opacity: 0.85;
+  }
+}
+
+.tabs_header_console {
+  padding: 0 16px;
+}
+
+.tabs_list {
+  display: flex;
+  align-items: stretch;
+  gap: 4px;
+  border-bottom: 1px solid var(--gray-2);
+}
+
+.tab_trigger {
+  @include font-subtle;
+  padding: 8px 12px 10px 12px;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid transparent;
+  color: var(--dark-2);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  position: relative;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &:hover {
+    color: var(--black);
+  }
+
+  &.active {
+    color: var(--black);
+    border-bottom-color: var(--black);
+  }
+}
+
+.content {
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  background-color: var(--white);
+  min-height: 0;
+}
+
+.model_header_section {
+  flex-shrink: 0;
+  background: white;
+  transition: opacity 0.3s ease-in-out;
+
+  &.near_snap {
+    opacity: 0.7;
+  }
+}
+
+.section {
+  padding-top: 16px;
+  padding-bottom: 16px;
+
+  &:first-child {
+    padding-top: 0;
+  }
+
+  &:last-child {
+    padding-bottom: 40px;
+  }
+
+  .section_title {
+    margin-bottom: 8px;
+    @include font-body-medium;
+    color: var(--black);
+  }
+}
+
+// Playground Layout
+.playground_layout {
+  display: grid;
+  grid-template-columns: 400px 1fr;
+
+  @media (max-width: 1024px) {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr;
+  }
+}
+
+.left_panel {
+  background-color: var(--gray-3);
+  border-bottom-right-radius: 4px;
+
+  @media (max-width: 1024px) {
+    max-height: 50vh;
+    border-right: none;
+    border-bottom: 1px solid var(--gray-2);
+  }
+}
+
+.right_panel {
+  min-width: 0;
+  overflow: hidden;
+}
+
+// Common Tab Styles
+.json_tab,
+.bash_tab,
+.examples_tab,
+.readme_tab {
+  padding: 16px;
+
+  h2 {
+    @include font-h4;
+    color: var(--dark-1);
+    margin-bottom: 16px;
+  }
+
+  p {
+    @include font-body-medium;
+    color: var(--dark-2);
+  }
+}
+
+.web_json_tab,
+.web_bash_tab,
+.web_examples_tab,
+.web_readme_tab {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+// JSON Tab Specific Styles
+.json_tab,
+.bash_tab {
+  pre {
+    max-width: calc(100vw - 224px);
+    overflow: hidden;
+    background: var(--gray-3);
+    border: 1px solid var(--gray-2);
+    border-radius: 4px;
+    padding: 12px;
+    @include font-small;
+    color: var(--dark-2);
+    overflow-x: auto;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+}
+
+// Examples Tab Specific Styles
+.examples_tab {
+  p {
+    color: var(--dark-3);
+  }
+}
+
+// README Tab Specific Styles
+.readme_tab {
+  p {
+    line-height: 1.8;
+  }
+}
+
+// Mobile Responsive
+@media (max-width: 640px) {
+  .json_tab,
+  .api_tab,
+  .examples_tab,
+  .readme_tab {
+    padding: 20px;
+  }
+
+  .web_json_tab,
+  .web_bash_tab,
+  .web_examples_tab,
+  .web_readme_tab {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .json_tab,
+  .bash_tab {
+    pre {
+      max-width: 100%;
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "addAlerts": "アラートを追加",
+  "alias": "エイリアス",
+  "areYouSureYouWantTo": "このアラートを削除してもよろしいですか？",
+  "confirm": "確認",
+  "confirmationOfOperation": "操作の確認",
+  "deleteSuccessfully": "削除に成功しました",
+  "edit": "編集",
+  "email": "メール",
+  "informationalNotes": "情報メモ",
+  "loadingTeamMembers": "チームメンバーを読み込み中...",
+  "members": "メンバー",
+  "notificationMethod": "通知方法",
+  "operation": "操作",
+  "remove": "削除",
+  "status": "ステータス",
+  "success": "成功",
+  "warningAmount": "警告金額",
+  "whenYourAccountBalanceFallsBelow": "アカウント残高が設定した警告しきい値を下回ると、サービスの運用を中断なく継続できるよう、メール通知が送信されます。通知は、アカウント残高が指定されたしきい値を超えるまで、自然日（00:00-24:00、UTC+0）ごとに最大1回送信されます。"
+}

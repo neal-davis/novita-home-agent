@@ -1,0 +1,6 @@
+{
+  "addFundsUsdMinimum5And": "資金を追加（USD）最小 >= $5 かつ整数",
+  "pleaseEnterAnIntegerGreaterThan": "5より大きい整数を入力してください",
+  "pleaseLoginFirst": "先にログインしてください",
+  "topUp": "$ チャージ"
+}

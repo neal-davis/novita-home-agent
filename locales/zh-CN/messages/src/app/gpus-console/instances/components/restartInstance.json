@@ -1,0 +1,7 @@
+{
+  "cancel": "取消",
+  "restart": "重启",
+  "restartInstance": "重启实例",
+  "success": "成功",
+  "youWillRestartTheRunningInstance": "您将重启正在运行的实例，请确认是否继续？"
+}

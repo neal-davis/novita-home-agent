@@ -1,0 +1,6 @@
+{
+  "pricing": "定价",
+  "topUp": "充值",
+  "yourBalanceIsLow": "您的余额不足...",
+  "yourBalanceIsLowPreventingTask": "您的余额不足，导致任务无法完成。请充值以继续。"
+}

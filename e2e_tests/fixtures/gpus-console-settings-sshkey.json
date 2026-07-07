@@ -1,0 +1,5 @@
+{
+  "_comment": "De-PII'd /api/v1/user/sshkey for hermetic /gpus-console/settings. Section reads res.key → SSH Public Keys textarea value. Synthetic non-secret public-key placeholder string (not a real key).",
+  "code": 0,
+  "key": "ssh-ed25519 AAAAE2EPUBLICKEYPLACEHOLDER0001 e2e-user@example.com"
+}

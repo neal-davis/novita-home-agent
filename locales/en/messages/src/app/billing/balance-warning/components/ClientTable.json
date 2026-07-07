@@ -1,0 +1,20 @@
+{
+  "addAlerts": "Add Alerts",
+  "alias": "Alias",
+  "areYouSureYouWantTo": "Are you sure you want to delete this alert?",
+  "confirm": "Confirm",
+  "confirmationOfOperation": "Confirmation of operation",
+  "deleteSuccessfully": "Delete successfully",
+  "edit": "Edit",
+  "email": "Email",
+  "informationalNotes": "Informational Notes",
+  "loadingTeamMembers": "Loading team members...",
+  "members": "Members",
+  "notificationMethod": "Notification Method",
+  "operation": "Operation",
+  "remove": "Remove",
+  "status": "Status",
+  "success": "success",
+  "warningAmount": "Warning Amount",
+  "whenYourAccountBalanceFallsBelow": "When your account balance falls below the warning threshold you set, you will receive an email notification to ensure uninterrupted service operation. Notifications will be sent at most once per natural day (00:00-24:00, UTC+0) until the account balance exceeds the specified threshold."
+}

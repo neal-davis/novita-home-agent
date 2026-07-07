@@ -1,0 +1,57 @@
+.card {
+  background-color: var(--brand-2);
+  padding: 24px;
+  position: relative;
+  border-radius: 6px;
+  overflow: hidden;
+
+  .icon_box {
+    margin-bottom: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 100%;
+    background-color: var(--dark-1);
+
+    span {
+      font-size: 20px;
+      color: var(--brand-0);
+    }
+  }
+
+  .title {
+    margin-bottom: 3px;
+    @include font-h6;
+    color: var(--black);
+  }
+
+  .content {
+    @include font-subtle;
+    color: var(--black);
+
+    .highlight {
+      @include font-subtle-medium;
+    }
+  }
+
+  .triangle {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 55px 75px;
+    border-color: transparent transparent var(--brand-0) transparent;
+
+    span {
+      position: absolute;
+      top: 24px;
+      right: 11px;
+      color: var(--white);
+      font-size: 22px;
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "imageInvalid": "Ungültiges Bild!",
+  "theSizeOfTheImageFile": "Die Größe der Bilddatei sollte kleiner sein als",
+  "theSizeOfTheVideoFile": "Die Größe der Videodatei sollte kleiner sein als",
+  "uploadImage": "Bild hochladen",
+  "videoInvalid": "Ungültiges Video!",
+  "youCanOnlyUploadJpgPng": "Sie können nur JPG/PNG-Bilder hochladen."
+}

@@ -1,0 +1,18 @@
+{
+  "allTemplates": "Todos os templates",
+  "createTemplate": "Criar template",
+  "deployPreConfiguredEnvironmentsOrCreate": "Implante ambientes pré-configurados ou crie o seu próprio.",
+  "favoriteSuccessfully": "Adicionado aos favoritos com sucesso",
+  "loginFailurePleaseLogInAgain": "Falha no login, faça login novamente",
+  "myCreations": "Minhas criações",
+  "myFavorites": "Meus favoritos",
+  "noResultsFound": "Nenhum resultado encontrado",
+  "official": "Oficial",
+  "pleaseLogInFirst": "Faça login primeiro",
+  "recommendedForYou": "🔥 Recomendado para você",
+  "searchTemplates": "Pesquisar templates...",
+  "success": "sucesso",
+  "templatesLibrary": "Biblioteca de templates",
+  "trySearchingForSomethingElseOr": "Tente pesquisar por outra coisa ou crie seu próprio template.",
+  "unfavoriteSuccessfully": "Removido dos favoritos com sucesso"
+}

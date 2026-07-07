@@ -1,0 +1,14 @@
+{
+  "autoRenewEnabledPeriod": "Auto-renew enabled (Period:",
+  "billingMethod": "Billing Method",
+  "chargeOrderCouponsBalanceAutoTop": ") | Charge order: Coupons→Balance→Auto top-up.",
+  "details": "Details",
+  "gb": "GB",
+  "gpuCost": "GPU Cost",
+  "instanceSummary": "Instance Summary",
+  "onDemand": "On-Demand",
+  "perDay": "per day",
+  "pricingSummary": "Pricing Summary",
+  "spot": "Spot",
+  "totalDisk": "Total Disk"
+}

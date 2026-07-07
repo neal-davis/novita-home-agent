@@ -1,0 +1,14 @@
+{
+  "and": "et $",
+  "autoRecharge": "Recharge automatique",
+  "autoRechargeIsNotGuaranteedIf": "La recharge automatique n’est pas garantie. Si une tentative de paiement échoue et que votre solde atteint 0, vos services peuvent être interrompus. Veuillez vous assurer que votre moyen de paiement est valide et vérifier régulièrement votre solde, ou activer une",
+  "autoTopUpIsNotGuaranteed": "La recharge automatique n’est pas garantie. Si une tentative de paiement échoue et que votre solde atteint 0, vos services peuvent être interrompus. Veuillez vous assurer que votre méthode de paiement est valide et vérifier régulièrement votre solde, ou activez une",
+  "automaticPayments": "Paiements automatiques",
+  "bringCreditBackUpTo": "Ramener le crédit à",
+  "cancel": "Annuler",
+  "enterAnIntegerAmountBetween": "Saisissez un montant entier compris entre $",
+  "lowBalanceAlert": "Alerte de solde faible",
+  "saveSetting": "Enregistrer le paramètre",
+  "toGetNotifiedInAdvance": "pour être averti à l’avance.",
+  "whenCreditGoesBelow": "Lorsque le crédit passe en dessous de"
+}

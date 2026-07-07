@@ -1,0 +1,15 @@
+{
+  "cancel": "取消",
+  "descriptionOfTheNewObjectYou": "你想放入图像的新对象的描述",
+  "descriptionOfTheObjectInThe": "你想替换的图像中对象的描述",
+  "download": "下载",
+  "generate": "生成",
+  "hideChanges": "隐藏更改",
+  "negativePrompt": "负面提示词",
+  "objectPrompt": "对象提示词",
+  "pleaseEnterTheDescriptionOfThe-3a6d5f": "请输入你想生成的新对象的描述",
+  "pleaseEnterTheDescriptionOfThe-550816": "请输入你想替换的对象的描述",
+  "replacePrompt": "替换提示词",
+  "showChanges": "显示更改",
+  "whatYouWantToAvoidGenerating": "你想避免生成的内容..."
+}

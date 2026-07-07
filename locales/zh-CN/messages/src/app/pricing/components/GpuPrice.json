@@ -1,0 +1,12 @@
+{
+  "billingMethod": "计费方式",
+  "getStarted": "开始使用",
+  "message1x": "1x",
+  "message1xGpu": "1x GPU",
+  "message8xGpu": "8x GPU",
+  "onDemand": "按需",
+  "pricing": "定价",
+  "specification": "规格",
+  "spot": "竞价",
+  "spotInstanceInfo": "竞价实例信息"
+}

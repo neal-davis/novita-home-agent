@@ -1,0 +1,9 @@
+{
+  "advancedScalingOptions": "Opciones avanzadas de escalado",
+  "optional": "(opcional)",
+  "scaleDownWindow": "Ventana de reducción de escala",
+  "seconds": "Segundos",
+  "stableWindow": "Ventana estable",
+  "timeInSecondsBeforeScalingDown": "Tiempo en segundos antes de reducir el número de réplicas.",
+  "timeInSecondsBeforeScalingUp": "Tiempo en segundos antes de aumentar el número de réplicas."
+}

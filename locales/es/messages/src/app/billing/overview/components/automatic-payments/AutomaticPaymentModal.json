@@ -1,0 +1,14 @@
+{
+  "and": "y $",
+  "autoRecharge": "Recarga automática",
+  "autoRechargeIsNotGuaranteedIf": "La recarga automática no está garantizada. Si un intento de pago falla y tu saldo llega a 0, tus servicios podrían interrumpirse. Asegúrate de que tu método de pago sea válido y revisa tu saldo con regularidad, o activa una",
+  "autoTopUpIsNotGuaranteed": "La recarga automática no está garantizada. Si un intento de pago falla y tu saldo llega a 0, tus servicios podrían interrumpirse. Asegúrate de que tu método de pago sea válido y revisa tu saldo con regularidad, o habilita una",
+  "automaticPayments": "Pagos automáticos",
+  "bringCreditBackUpTo": "Restablecer el crédito hasta",
+  "cancel": "Cancelar",
+  "enterAnIntegerAmountBetween": "Ingresa un importe entero entre $",
+  "lowBalanceAlert": "Alerta de saldo bajo",
+  "saveSetting": "Guardar configuración",
+  "toGetNotifiedInAdvance": "para recibir una notificación por adelantado.",
+  "whenCreditGoesBelow": "Cuando el crédito sea inferior a"
+}

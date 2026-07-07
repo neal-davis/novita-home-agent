@@ -1,0 +1,10 @@
+{
+  "day": "Jour",
+  "export": "Exporter",
+  "groupBy": "Regrouper par",
+  "hour": "Heure",
+  "month": "Mois",
+  "noData": "Aucune donnée !",
+  "timeRange": "Plage horaire",
+  "week": "Semaine"
+}

@@ -1,0 +1,24 @@
+{
+  "_comment": "De-PII'd /v1/user/team/key-budget-list for hermetic /billing/budgets row-expand. getKeyBudgetList reads body.key_budgets and parseFloat's the amounts (already plain dollars here, not *10000). 2 synthetic API-key budgets cover Recurring(Monthly) + Unlimited. key_id/key_name are synthetic placeholders — no real key material.",
+  "key_budgets": [
+    {
+      "key_id": "key-e2e-0001",
+      "key_name": "E2E Production Key",
+      "budget_type": "Recurring",
+      "budget_limit": "500",
+      "used": "320.25",
+      "remaining": "179.75",
+      "cycle": "Monthly",
+      "period_start": "2026-06-01T00:00:00Z",
+      "period_end": "2026-07-01T00:00:00Z"
+    },
+    {
+      "key_id": "key-e2e-0002",
+      "key_name": "E2E Dev Key",
+      "budget_type": "Unlimited",
+      "budget_limit": "0",
+      "used": "45.8",
+      "remaining": "0"
+    }
+  ]
+}

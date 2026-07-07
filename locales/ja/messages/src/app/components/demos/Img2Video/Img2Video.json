@@ -1,0 +1,14 @@
+{
+  "cancel": "キャンセル",
+  "crop": "クロップ",
+  "estimatedCost": "推定コスト:",
+  "generate": "生成",
+  "model": "モデル",
+  "originalResolution": "元の解像度",
+  "resizeMode": "リサイズモード",
+  "seed": "シード",
+  "steps": "ステップ",
+  "svd": "SVD",
+  "svdXt": "SVD-XT",
+  "theImageResolutionShouldBeLess": "リサイズモードとして「元の解像度」を選択した場合、画像解像度は 576 * 1024 未満である必要があります。"
+}

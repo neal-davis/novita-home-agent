@@ -1,0 +1,19 @@
+{
+  "action": "Action",
+  "addCredential-e41f30": "+ Add Credential",
+  "addCredential-efd6c2": "Add Credential",
+  "addingPublicKeysToYourAccount": "Adding Public Keys to your account will allow access to instances using the basic terminal access option via the associated private key. You can add multiple public keys by separating them with a newline.",
+  "captionTable": "caption table",
+  "changePassword": "Change Password",
+  "containerRegistryAuth": "Container Registry Auth",
+  "deleteRegistryAuth": "Delete registry auth",
+  "name": "Name",
+  "preferSingleNuma": "Prefer Single-Numa",
+  "singleNuma": "Single-Numa",
+  "sshPublicKey": "SSH Public Key",
+  "sshPublicKeys": "SSH Public Keys",
+  "success": "success",
+  "thisPolicyWouldAllowResourceAllocation": "This policy would allow resource allocation from different NUMA nodes only if there would never be any other way to satisfy that allocation request.",
+  "updatePublicKey": "Update Public Key",
+  "youCanRegisterYourContainerRegistry": "You can register your container registry credentials here to pull private images from various container registries. Please be aware that we currently only support docker login type credentials. You can add your credentials to a template by registering the credential here and then selecting it from the dropdown when editing or creating your template."
+}

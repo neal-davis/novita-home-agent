@@ -1,0 +1,17 @@
+{
+  "billedPerTokenWithAMinimum": "Facturé par token avec un engagement minimal de tokens quotidien.",
+  "contactSales": "Contacter l’équipe commerciale",
+  "customPricing": "Tarification personnalisée",
+  "customSlasForUptimeLatencyThroughput": "SLA personnalisés pour la disponibilité, la latence et le débit.",
+  "dedicatedComputeClusters": "Clusters de calcul dédiés",
+  "dynamicAutoScaling": "Mise à l’échelle automatique dynamique",
+  "enterpriseGradeModelMonitoringAndServices": "Surveillance des modèles et services de niveau entreprise.",
+  "enterpriseGradePerformanceInfiniteScaleAnd": "Performances de niveau entreprise, échelle infinie et zéro opération",
+  "guaranteedUptimeSlas": "SLA de disponibilité garantis",
+  "handleTrafficSpikesInstantlyNoManual": "Gérez instantanément les pics de trafic, sans provisionnement manuel.",
+  "llmsEnterprise": "LLMs Entreprise",
+  "message247EnterpriseSupport": "Support entreprise 24/7",
+  "payAsYouGo": "Paiement à l’usage",
+  "payForYourPerformanceNotIdle": "Payez pour vos performances, pas pour des GPUs inactifs.",
+  "zeroSharedResourcesPhysicalIsolationFor": "Aucune ressource partagée : isolation physique pour vos modèles/données."
+}

@@ -1,0 +1,18 @@
+{
+  "batchProcessing": "Traitement par lots",
+  "bestPracticesForMaximizingSpot": "Bonnes pratiques pour maximiser Spot",
+  "classroomLabsTechnicalWorkshopsAndProof": "Travaux pratiques en classe, ateliers techniques et preuves de concept",
+  "costEffectiveForOvernightWeekendOr": "Rentable pour les tâches de données de nuit, le week-end ou à grande échelle",
+  "dataProcessing": "Traitement des données",
+  "deepLearning": "Deep Learning",
+  "educationDemos": "Formation et démonstrations",
+  "idealUseCases": "Cas d’utilisation idéaux",
+  "labs": "Travaux pratiques",
+  "largeScaleCompute": "Calcul à grande échelle",
+  "proofOfConcepts": "Preuves de concept",
+  "shortTermTrainingPrototypingOrSmall": "Entraînement à court terme, prototypage ou inférence à petite échelle",
+  "smallScaleInference": "Inférence à petite échelle",
+  "training": "Entraînement",
+  "validation": "Validation",
+  "workshops": "Ateliers"
+}

@@ -1,0 +1,14 @@
+{
+  "a": "A/",
+  "contactUs": "联系我们",
+  "getRidiculouslyFastInferenceServerWith": "获取配备专用 GPU 的超高速推理服务器",
+  "message04Pricing": "04 — 定价",
+  "payOnlyForThePerformanceYou-0a7804": "只为你所需的性能付费。提交你的需求，例如 QPS 和目标延迟，我们将返回量身定制的报价。",
+  "payOnlyForThePerformanceYou-96aa2c": "只为你所需的性能付费——无需承担闲置 GPU 成本。按 token 计费，并设有每日最低 token 承诺用量。提交你的需求，我们将提供成本优化的报价。",
+  "pricingFaq": "定价与常见问题",
+  "pricingStatement": "定价说明",
+  "q": "Q/",
+  "topFaqs": "热门常见问题",
+  "whatAposSIncluded": "包含哪些内容",
+  "whatsIncluded": "包含内容"
+}

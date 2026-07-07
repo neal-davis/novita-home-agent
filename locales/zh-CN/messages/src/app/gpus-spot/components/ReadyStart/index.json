@@ -1,0 +1,7 @@
+{
+  "deploySpotInstance": "部署 Spot 实例",
+  "message1HourAdvanceNotice": "提前 1 小时通知",
+  "message1HourGuaranteedRuntime": "1 小时保证运行时长",
+  "startAtHalfTheCost": "以半价开始",
+  "upTo50LowerCost": "成本最高降低 50%"
+}

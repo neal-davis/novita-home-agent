@@ -1,0 +1,47 @@
+.box {
+  position: relative;
+  display: flex;
+  min-width: 450px;
+  height: 128px;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  padding: 24px 30px;
+  /* border: 1px solid var(--console-model-api-box-bdcolor); */
+  background: var(--white);
+  border-radius: 8px;
+  max-width: 100%;
+}
+
+.title {
+  color: var(--black);
+}
+
+.subTitle {
+  color: var(--dark-2);
+}
+.subValue {
+  color: var(--black);
+}
+
+@media screen and (max-width: 800px) {
+  .box {
+    max-width: 100%;
+    min-width: unset;
+  }
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+  height: 40px !important;
+  min-width: 86px;
+  font-weight: 700;
+  border-radius: 8px;
+  background-color: var(--brand-2) !important;
+  border: none !important;
+}
+
+.btn:hover {
+  color: var(--white) !important;
+  background-color: var(--brand-2) !important;
+}

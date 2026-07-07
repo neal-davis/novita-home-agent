@@ -1,0 +1,16 @@
+{
+  "apiKey": "API Key",
+  "apiKeyBudgetSavedSuccessfully": "API Key budget saved successfully",
+  "apiKeyBudgetSettings": "API Key Budget Settings",
+  "applyTheFollowingBudgetSettings": "Apply the following budget settings?",
+  "budgetLimit": "Budget Limit",
+  "budgetType": "Budget Type",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "confirmApiKeyBudget": "Confirm API Key Budget",
+  "enterAmount": "Enter amount",
+  "ifTheKeyBudgetExceedsThe": "If the key budget exceeds the member budget, the member budget will take precedence.",
+  "save": "Save",
+  "saving": "Saving...",
+  "unlimited": "Unlimited"
+}

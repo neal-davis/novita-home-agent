@@ -1,0 +1,6 @@
+{
+  "agentSandbox": "SANDBOX DE AGENTES",
+  "exploreNow": "Explorar ahora",
+  "runAutonomousAgentsInIsolatedContainers": "Ejecuta agentes autónomos en contenedores aislados con inicios de ~200 ms, uso seguro de herramientas (navegador/API/código) y concurrencia masiva. Facturación por segundo para CPU/RAM.",
+  "safeInstantRuntimesForAiAgents": "Entornos de ejecución seguros e instantáneos para agentes de IA"
+}

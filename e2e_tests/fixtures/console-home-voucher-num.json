@@ -1,0 +1,4 @@
+{
+  "_comment": "Synthetic /v1/billing/voucher/num. useVoucherModal sets voucherNum from this; AccountSummary renders voucherNum.num as the 'Available Vouchers' count. num:5 => deterministic '5'. No PII.",
+  "num": 5
+}

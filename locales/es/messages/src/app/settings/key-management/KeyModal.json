@@ -1,0 +1,11 @@
+{
+  "addApiKey": "Añadir clave API",
+  "apiKey": "Clave API",
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
+  "inputYourApiKey": "Introduce tu clave API",
+  "inputYourKeyName": "Introduce el nombre de tu clave",
+  "keyName": "Nombre de la clave",
+  "modifyApiKey": "Modificar clave API",
+  "upTo10KeysCanBe": "Se pueden generar hasta 10 claves por cuenta."
+}

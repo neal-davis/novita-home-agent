@@ -1,0 +1,13 @@
+{
+  "application": "Application",
+  "deployServerless": "Deploy Serverless",
+  "explore": "Explore",
+  "gpus": "GPUS",
+  "image": "Image",
+  "instances": "Instances",
+  "jobs": "Jobs",
+  "settings": "Settings",
+  "storage": "Storage",
+  "templates": "Templates",
+  "templateslibrary": "TemplatesLibrary"
+}

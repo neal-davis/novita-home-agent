@@ -1,0 +1,18 @@
+{
+  "a9GstAppliesToPayments": "Une taxe GST de 9 % s’applique aux paiements depuis Singapour.",
+  "accountInformation": "Informations du compte",
+  "amount": "Montant",
+  "cancel": "Annuler",
+  "confirmPayment": "Confirmer le paiement",
+  "description": "Description",
+  "novitaAiCredit": "Crédit Novita AI",
+  "paymentAmount": "Montant du paiement",
+  "paymentMethod": "Mode de paiement",
+  "recharging": "Recharge en cours...",
+  "redirecting": "Redirection...",
+  "stripeCheckout": "Stripe Checkout",
+  "teamId": "ID d’équipe :",
+  "theCreditTopUpOf": "La recharge de crédit de $",
+  "topUpCredit": "Recharger le crédit",
+  "wasSuccessful": "a réussi."
+}

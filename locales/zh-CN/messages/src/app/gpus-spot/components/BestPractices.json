@@ -1,0 +1,12 @@
+{
+  "adoptMixedStrategies": "采用混合策略",
+  "bestPractices": "最佳实践",
+  "breakJobsIntoSmallerUnitsWith": "将作业拆分为更小的单元，并支持恢复/重试",
+  "designRetryableWorkloads": "设计可重试的工作负载",
+  "enableCheckpointing": "启用检查点",
+  "noticeSpotIsBestForFlexible": "注意：Spot 最适合灵活的工作负载。对于关键任务应用，请使用按需或预留实例。",
+  "respondQuickly": "快速响应",
+  "runCriticalWorkloadsOnOnDemand": "在按需实例上运行关键工作负载，将灵活工作负载卸载到 Spot",
+  "saveTrainingStateRegularlyToPersistent": "定期将训练状态保存到持久化存储",
+  "useTerminationNotificationsToTriggerBackup": "使用终止通知来触发备份或关闭逻辑"
+}

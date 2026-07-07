@@ -1,0 +1,9 @@
+{
+  "fastScalability": "快速扩展",
+  "keyFeatures": "主要功能",
+  "launch0To1000Sandboxes": "在 200 毫秒内启动 0 到 1,000+ 个沙盒，支持快速部署 AI 代理。",
+  "maintainMemoryFileSystemPersistenceFor": "保持内存和文件系统持久化，以便快速恢复、执行连续性、高效资源使用和处理复杂任务。",
+  "onlyPayForWhatYouUse": "仅按实际使用量付费，无订阅费用，提供灵活且具成本效益的访问。",
+  "payAsYouGoPricing": "按需付费定价",
+  "sessionPersistence": "会话持久性"
+}

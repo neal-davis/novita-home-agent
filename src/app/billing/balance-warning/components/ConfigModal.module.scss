@@ -1,0 +1,10 @@
+.alert {
+    display: flex;
+    padding: 4px 12px;
+    align-items: flex-start;
+    gap: 4px;
+    align-self: stretch;
+
+    border-radius: 2px;
+    background: var(--gray-3);
+}

@@ -1,0 +1,152 @@
+default:
+  image: node:18-alpine
+  retry: 2
+
+variables:
+  ### BEGIN: The following variables must be pre-defined in the GitLab CI/CD settings.
+  # Settings -> CI/CD -> Variables
+  DOCKER_REGISTRY: ${DOCKER_REGISTRY:-}
+  APP_NAME: ${APP_NAME:-}
+  DOCKERFILE_PATH: ${DOCKERFILE_PATH:-}
+  STATIC_COS_BUCKET: ${STATIC_COS_BUCKET:-}
+  STATIC_COS_REGION: ${STATIC_COS_REGION:-}
+  STATIC_COS_SECRET_ID: ${STATIC_COS_SECRET_ID:-}
+  STATIC_COS_SECRET_KEY: ${STATIC_COS_SECRET_KEY:-}
+  CUSTOM_BRANCH_TEST: ${CUSTOM_BRANCH_TEST:-}
+  STRAPI_API_TOKEN_PROD: ${STRAPI_API_TOKEN_PROD:-}
+  STRAPI_API_TOKEN_TEST: ${STRAPI_API_TOKEN_TEST:-}
+  ### END: The above variables must be pre-defined in the GitLab CI/CD settings.
+
+  ### BEGIN: Keep the following variables unchanged.
+  TEAM: "ai-cloud-platform-cicd"
+  GIT_CLONE_PATH: "${CI_BUILDS_DIR}/cache/${TEAM}/${APP_NAME}/${CI_COMMIT_BRANCH}" # Custom build directory, remove cache if no cache is needed.
+  GIT_CLEAN_FLAGS: "-ffdx"
+  CACHE_RUN_LAYERS: "true"
+  CICD_CONFIG_PATH: "/cloud-devops"
+  CICD_PATH: "${CICD_CONFIG_PATH}/${TEAM}"
+  NOVITA_VERSION: ${CI_COMMIT_SHORT_SHA}
+  # GitLab Runner k8s environment.
+  CI_RUNNER_TAG: "dev-runner-k8s"
+  TZ: "UTC"
+  TEST_BUILD_ENV: "dev-cnsh"
+  PRE_BUILD_ENV: "pre-cnsh"
+  PROD_BUILD_ENV: "prod-cnsh"
+  ### END: Keep the above variables unchanged.
+
+cache:
+  paths:
+    - node_modules/
+
+stages:
+  - pre-check
+  - build
+
+pre-check-job:
+  stage: pre-check
+  tags:
+    - ${CI_RUNNER_TAG}
+  # Since the node:18-alpine image only has /bin/sh (which is ash), you need to adapt the script to be compatible with sh.
+  script:
+    - |
+      # Pre-check required variables
+      required_vars="DOCKER_REGISTRY APP_NAME DOCKERFILE_PATH STATIC_COS_BUCKET STATIC_COS_REGION STATIC_COS_SECRET_ID STATIC_COS_SECRET_KEY CUSTOM_BRANCH_TEST GIT_CLONE_PATH"
+      for var in $required_vars; do
+        if [ -z "$(eval echo \$$var)" ]; then
+          echo "Error: Required variable $var is not set"
+          exit 1
+        fi
+        if [ "$var" != "STATIC_COS_SECRET_KEY" ]; then
+          echo "$var: $(eval echo \$$var)"
+        fi
+      done
+    # Your actual job steps go here
+    - echo "All required variables are set, proceeding with the job"
+  rules:
+    - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH || $CI_COMMIT_BRANCH == $CUSTOM_BRANCH_TEST
+
+.base_build_job:
+  image:
+    name: public.ecr.aws/f6b2t4s1/kaniko-executor:debug-v1.21.1-tzdata
+    entrypoint: [""]
+  tags:
+    - ${CI_RUNNER_TAG}
+  before_script:
+    - VERSION=$(date +%Y%m%d)-${CI_COMMIT_REF_NAME}-${CI_COMMIT_SHORT_SHA}
+    - VERSION=${VERSION//\//-}
+    - DOCKER_IMAGE_PATH=${DOCKER_REGISTRY}/${APP_NAME}
+    - DOCKER_IMAGE=${DOCKER_IMAGE_PATH}:${VERSION}
+    - KANIKO_CACHE=${DOCKER_IMAGE_PATH}/ci-cache
+  script:
+    - set -x
+    - echo "Building ${APP_NAME}..."
+    - echo "DEBUG ${NOVITA_VERSION}, ${STATIC_COS_BUCKET}, ${STATIC_COS_REGION}"
+    # Kaniko executor flags:
+    # --cache, set this flag as --cache=true to opt into caching with kaniko.
+    # --cache-dir, set this flag to specify a local directory cache for base images. Defaults to /cache. This flag must be used in conjunction with the --cache=true flag.
+    # --context, use the --context flag with the appropriate prefix to specify the location of your build context.
+    # --force, Force building outside of a container.
+    # --cache-run-layers, Set this flag to cache run layers (default=true).
+    # --cache-repo, set this flag to specify a remote repository that will be used to store cached layers.
+    # --build-arg, this flag allows you to pass in ARG values at build time, similarly to Docker. You can set it multiple times for multiple arguments.
+    # --dockerfile, Path to the dockerfile to be built. (default "Dockerfile").
+    # --destination, set this flag to specify the destination of the built image.
+    # More details: https://github.com/GoogleContainerTools/kaniko?tab=readme-ov-file#additional-flags.
+    - /kaniko/executor
+      --cache=true
+      --cache-dir=/cache
+      --context="${GIT_CLONE_PATH}"
+      --force
+      --cache-run-layers=${CACHE_RUN_LAYERS}
+      --cache-repo="${KANIKO_CACHE}"
+      --build-arg TZ="${TZ}"
+      --build-arg NOVITA_VERSION="${NOVITA_VERSION}"
+      --build-arg STATIC_COS_BUCKET="${STATIC_COS_BUCKET}"
+      --build-arg STATIC_COS_REGION="${STATIC_COS_REGION}"
+      --build-arg STATIC_COS_SECRET_ID="${STATIC_COS_SECRET_ID}"
+      --build-arg STATIC_COS_SECRET_KEY="${STATIC_COS_SECRET_KEY}"
+      --build-arg STRAPI_API_TOKEN="${STRAPI_API_TOKEN}"
+      --build-arg USE_CDN="${USE_CDN}"
+      --build-arg NPM_RUNNER="${NPM_RUNNER}"
+      --dockerfile="${DOCKERFILE_PATH}"
+      --destination="${DOCKER_IMAGE}" || exit 1
+    - echo "Build complete."
+    - echo -e "The image address is as follows:\n${DOCKER_IMAGE}"
+    - echo -e "${CICD_PATH}/${APP_NAME}/${BUILD_ENV}"
+    - cd ${CICD_PATH}/${APP_NAME}/${BUILD_ENV} && sed -i "s/branch:.*/branch:\ ${CI_COMMIT_BRANCH}/g" kustomization.yaml &&
+      sed -i "s/descriptions:.*/descriptions:\ ${DESC}/g" kustomization.yaml &&
+      ${CICD_CONFIG_PATH}/kustomize edit set image ${DOCKER_IMAGE} && cat ${CICD_PATH}/${APP_NAME}/${BUILD_ENV}/kustomization.yaml || exit 1
+    
+    - if [ $BUILD_ENV == $PROD_BUILD_ENV ]; then echo -e "${CICD_PATH}/${APP_NAME}/${BUILD_PRE_ENV}" && cd ${CICD_PATH}/${APP_NAME}/${BUILD_PRE_ENV} && sed -i "s/branch:.*/branch:\ ${CI_COMMIT_BRANCH}/g" kustomization.yaml &&
+          sed -i "s/descriptions:.*/descriptions:\ ${DESC}/g" kustomization.yaml &&
+          ${CICD_CONFIG_PATH}/kustomize edit set image ${DOCKER_IMAGE} && cat ${CICD_PATH}/${APP_NAME}/${BUILD_PRE_ENV}/kustomization.yaml || exit 1; fi
+
+build-test:
+  stage: build
+  extends:
+    - .base_build_job
+  variables:
+    BUILD_ENV: $TEST_BUILD_ENV
+    BUILD_PRE_ENV: $PRE_BUILD_ENV
+    STRAPI_API_TOKEN: $STRAPI_API_TOKEN_TEST
+    NPM_RUNNER: build:zh-test
+    # USE_CDN: 1
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CUSTOM_BRANCH_TEST
+      when: on_success
+    - when: never
+
+build-prod:
+  stage: build
+  extends:
+    - .base_build_job
+  variables:
+    BUILD_ENV: $PROD_BUILD_ENV
+    BUILD_PRE_ENV: $PRE_BUILD_ENV
+    STRAPI_API_TOKEN: $STRAPI_API_TOKEN_PROD
+    NPM_RUNNER: build:zh
+    USE_CDN: 1
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+      when: on_success
+    - when: never

@@ -1,0 +1,68 @@
+.section_root {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding-bottom: var(--commit-footer-h, 84px);
+}
+.gpu_brand_text {
+  display: inline-flex;
+  padding: 3px 6px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 4px;
+  background: var(--gray-3);
+  color: var(--dark-3-1);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 14px;
+}
+.gpu_store_level {
+  color: var(--brand-1);
+  text-align: right;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+}
+.create_form {
+  display: flex;
+  padding: 16px 24px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  border-radius: 12px;
+  border: 1px solid var(--gray-2);
+  background: var(--gray-4);
+
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+.create_form_footer {
+  display: flex;
+  padding: 24px
+    max(
+      24px,
+      calc((100vw - 218px - clamp(1200px, (100vw - 218px) * 0.85, 1800px)) / 2)
+    );
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  border-top: 1px solid var(--gray-2);
+  background: var(--white);
+  box-shadow: 0 -4px 20px -5px rgba(0, 0, 0, 0.05);
+  position: fixed;
+  left: 218px;
+  right: 0;
+  bottom: 0;
+  z-index: 50;
+}
+.create_form_footer_price_text {
+  color: var(--Black);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}

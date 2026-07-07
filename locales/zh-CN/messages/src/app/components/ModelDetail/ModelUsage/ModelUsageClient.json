@@ -1,0 +1,11 @@
+{
+  "apiUsage": "API 使用",
+  "applications": "应用",
+  "chat": "聊天",
+  "completion": "补全",
+  "emptyContent": "内容为空",
+  "howToUse": "使用方法",
+  "modelCard": "模型卡片",
+  "prompting": "提示词",
+  "useTheFollowingCodeExamplesTo": "使用以下代码示例与我们的 API 集成："
+}

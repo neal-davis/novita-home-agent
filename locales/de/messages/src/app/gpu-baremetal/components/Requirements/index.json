@@ -1,0 +1,17 @@
+{
+  "companyName": "Firmenname",
+  "companyNameIsRequired": "Firmenname ist erforderlich",
+  "confirm": "Bestätigen",
+  "email": "E-Mail",
+  "emailIsRequired": "E-Mail ist erforderlich",
+  "inOrderToEnableUsTo": "Damit wir mit Ihnen kommunizieren können, geben Sie bitte eine E-Mail-Adresse ein.",
+  "informationSubmittedSuccessfully": "Informationen erfolgreich übermittelt",
+  "inputCompanyName": "Firmennamen eingeben",
+  "inputEmail": "E-Mail eingeben",
+  "inputName": "Namen eingeben",
+  "invalidEmailFormat": "Ungültiges E-Mail-Format",
+  "name": "Name",
+  "nameIsRequired": "Name ist erforderlich",
+  "submitRequirements": "Anforderungen einreichen",
+  "submitting": "Wird übermittelt..."
+}

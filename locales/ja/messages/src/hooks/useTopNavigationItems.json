@@ -1,0 +1,14 @@
+{
+  "agentSandbox": "エージェントサンドボックス",
+  "billing": "請求",
+  "blog": "ブログ",
+  "console": "コンソール",
+  "docs": "ドキュメント",
+  "gpuBareMetal": "GPUベアメタル",
+  "gpuBaremetal": "GPUベアメタル",
+  "gpuInstance": "GPUインスタンス",
+  "gpus": "GPUs",
+  "modelApis": "モデル APIs",
+  "myModels": "マイモデル",
+  "pricing": "料金"
+}

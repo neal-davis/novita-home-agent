@@ -1,0 +1,10 @@
+{
+  "continents": "continentes",
+  "deployGpuInstancesCloserToYour": "Implante instâncias de GPU mais perto dos seus usuários por meio da nossa rede mundial. Garanta latência mínima e acesso rápido, não importa onde seus usuários ou equipes estejam localizados.",
+  "globalDeployment": "Implantação global",
+  "gpuPricingBackground": "Contexto de preços de GPU",
+  "locations": "locais",
+  "message20ms": "<20ms",
+  "network": "rede",
+  "startNow": "Comece agora"
+}

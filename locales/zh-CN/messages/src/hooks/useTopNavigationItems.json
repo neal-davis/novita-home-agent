@@ -1,0 +1,14 @@
+{
+  "agentSandbox": "智能体沙盒",
+  "billing": "账单",
+  "blog": "博客",
+  "console": "控制台",
+  "docs": "文档",
+  "gpuBareMetal": "GPU 裸金属",
+  "gpuBaremetal": "GPU 裸金属",
+  "gpuInstance": "GPU 实例",
+  "gpus": "GPUs",
+  "modelApis": "模型 APIs",
+  "myModels": "我的模型",
+  "pricing": "定价"
+}

@@ -1,0 +1,14 @@
+{
+  "and": "和",
+  "cutGpuCostsBy": "将 GPU 成本降低",
+  "message1HourAdvanceReclaimNotice": "提前 1 小时的回收通知",
+  "message1HourGuaranteedRunTime": "1 小时保证运行时间",
+  "reduceYourCloudExpensesByUp": "将云支出降低最高 50%，同时不影响性能。",
+  "reliableSavingsWithSpotPricing": "通过竞价定价实现可靠节省",
+  "saveUpTo50OnCosts": "节省高达 50% 的成本",
+  "seePricing": "查看定价",
+  "soYouAlwaysHaveTimeTo": "，因此你始终有时间进行调整，而不会丢失进度。",
+  "spotInstanceInfo": "竞价实例信息",
+  "upTo50": "高达 50%",
+  "whileKeepingWorkflowsPredictableEverySpot": "同时保持工作流可预测。每个竞价实例都提供"
+}

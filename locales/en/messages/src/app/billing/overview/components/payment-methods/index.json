@@ -1,0 +1,12 @@
+{
+  "addCard": "Add card",
+  "bindACardToReceiveA": "Bind a card to receive a $1 Model API Voucher",
+  "cancel": "Cancel",
+  "confirmationOfCardDeletion": "Confirmation of Card Deletion",
+  "exp": "Exp",
+  "noPaymentMethod": "No payment method",
+  "remove": "Remove",
+  "removeCard": "Remove card",
+  "removingThisCardWillDisableAuto": "Removing this card will disable Auto Recharge.",
+  "youCanUpdateYourCreditCard": "You can update your credit card only once each month."
+}

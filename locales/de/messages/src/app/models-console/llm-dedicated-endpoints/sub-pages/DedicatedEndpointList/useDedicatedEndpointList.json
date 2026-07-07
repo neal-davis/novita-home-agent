@@ -1,0 +1,6 @@
+{
+  "endpointIsBeingRedeployed": "Endpunkt wird erneut bereitgestellt",
+  "endpointIsWakingUp": "Endpunkt wird aufgeweckt",
+  "failedToRedeployEndpoint": "Endpunkt konnte nicht erneut bereitgestellt werden",
+  "failedToWakeUpEndpoint": "Endpunkt konnte nicht aufgeweckt werden"
+}

@@ -1,0 +1,13 @@
+{
+  "cleanup": "清理",
+  "img2img": "图生图",
+  "lcmTxt2img": "LCM-文生图",
+  "outpainting": "外绘",
+  "reimagine": "重新想象",
+  "removeBackground": "移除背景",
+  "removeText": "移除文字",
+  "removeWatermark": "移除水印",
+  "replaceSky": "替换天空",
+  "txt2img": "文生图",
+  "upscale": "放大"
+}

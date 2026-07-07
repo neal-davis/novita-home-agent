@@ -1,0 +1,11 @@
+{
+  "cancel": "Cancelar",
+  "download": "Descargar",
+  "generate": "Generar",
+  "imagePrompt": "Prompt de imagen",
+  "negativePrompt": "Prompt negativo",
+  "seed": "Semilla",
+  "selectAnExample": "Selecciona un ejemplo",
+  "strength": "Intensidad",
+  "tryAnExample": "Prueba un ejemplo"
+}

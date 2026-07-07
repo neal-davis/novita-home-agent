@@ -1,0 +1,55 @@
+.table_wrap {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  overflow: auto;
+  min-height: 400px;
+}
+
+.pagination {
+  width: 100%;
+  flex-shrink: 0;
+  bottom: 0;
+  background-color: #fff;
+}
+
+.filter_label {
+  @include font-small-console-medium;
+  color: var(--dark-3);
+  margin-bottom: var(--spacing-console-text);
+}
+
+.select_trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  white-space: nowrap;
+}
+
+.select_label {
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.link {
+  color: var(--billing-overview-pay-link-color);
+  cursor: pointer;
+}
+
+.wait_pay {
+  color: var(--warn-color);
+  cursor: pointer;
+}
+
+.expire {
+  color: var(--inactive-color);
+}
+
+.success {
+  color: var(--success-color);
+}
+
+.fail {
+  color: var(--error-color);
+}

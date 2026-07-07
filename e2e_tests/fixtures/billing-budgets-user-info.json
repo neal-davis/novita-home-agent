@@ -1,0 +1,41 @@
+{
+  "_comment": "De-PII'd /v1/user/info for hermetic /billing/budgets. Synthetic team account: teams[] populated + teamId set => userSlice derives currentTeam (role=owner), so the page renders the real Budgets UI (table + Team Info + Refresh) instead of the 'Team Account Required' fallback (shown when currentTeam is null). The owner role is granted billing/budget permission by the test-env SSR role-permissions fetch (RSC boundary, cannot be mocked; see spec header). All identifying fields are synthetic placeholders — no real PII.",
+  "email": "e2e-owner@example.com",
+  "uid": "100001",
+  "keys": [],
+  "uuid": "00000000-0000-4000-8000-000000000001",
+  "mobilePhone": "",
+  "firstName": "E2E",
+  "lastName": "Owner",
+  "companyName": "Example",
+  "country": "",
+  "username": "e2e-owner@example.com",
+  "verifyStatus": 0,
+  "isVerifyLimit": false,
+  "teamId": "team-e2e-0001",
+  "teams": [
+    {
+      "teamId": "team-e2e-0001",
+      "teamName": "E2E Test Team",
+      "role": "owner",
+      "maxMemberCount": 10,
+      "memberId": "member-e2e-0001",
+      "remarkName": "e2e-alias"
+    }
+  ],
+  "billingAccount": "",
+  "wechatOpenId": "",
+  "isAlreadyTopup": true,
+  "thirdPartyName": "E2E Owner",
+  "isQuestionnaire": true,
+  "tier": "T1",
+  "wechatUnionId": "",
+  "hasSetPwd": true,
+  "wechatBindTime": "0",
+  "isBalanceEnough": true,
+  "balance": "12345600",
+  "voucher": "0",
+  "credit": "0",
+  "keyId": "",
+  "teamOwnerUuid": "00000000-0000-4000-8000-000000000001"
+}

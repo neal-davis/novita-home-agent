@@ -1,0 +1,62 @@
+{
+  "_comment": "De-PII'd /v1/user/team/budget-list for hermetic /billing/budgets (BudgetsTable + Team Info drawer). request() returns the raw body, so member_count/budget_count/budgets are top-level. 4 synthetic rows cover the status/role/budget-type branches the component renders (Unlimited / Recurring(Monthly) with period_end reset / One-time / Left Team). Amounts are in the backend's integer *10000 string form (component divides by 10000): used '12505000' -> $1,250.50. All emails/ids/remark_name are synthetic placeholders — no real PII.",
+  "member_count": "4",
+  "budget_count": "3",
+  "budgets": [
+    {
+      "email": "alice.owner@example.com",
+      "role": "owner",
+      "status": "Active",
+      "member_id": "member-e2e-0001",
+      "phone": "",
+      "user_id": "user-e2e-0001",
+      "remark_name": "Alice Owner",
+      "budget_type": "Unlimited",
+      "budget_limit": "0",
+      "used": "12505000",
+      "remaining": "0"
+    },
+    {
+      "email": "bob.dev@example.com",
+      "role": "developer",
+      "status": "Active",
+      "member_id": "member-e2e-0002",
+      "phone": "",
+      "user_id": "user-e2e-0002",
+      "remark_name": "Bob Dev",
+      "budget_type": "Recurring",
+      "budget_limit": "10000000",
+      "used": "6507500",
+      "remaining": "3492500",
+      "cycle": "Monthly",
+      "period_start": "2026-06-01T00:00:00Z",
+      "period_end": "2026-07-01T00:00:00Z"
+    },
+    {
+      "email": "carol.billing@example.com",
+      "role": "billing",
+      "status": "Invite Pending",
+      "member_id": "member-e2e-0003",
+      "phone": "",
+      "user_id": "user-e2e-0003",
+      "remark_name": "Carol Billing",
+      "budget_type": "One-time",
+      "budget_limit": "20000000",
+      "used": "18000000",
+      "remaining": "2000000"
+    },
+    {
+      "email": "dave.basic@example.com",
+      "role": "basic",
+      "status": "Left Team",
+      "member_id": "member-e2e-0004",
+      "phone": "",
+      "user_id": "user-e2e-0004",
+      "remark_name": "",
+      "budget_type": "One-time",
+      "budget_limit": "5000000",
+      "used": "5000000",
+      "remaining": "0"
+    }
+  ]
+}

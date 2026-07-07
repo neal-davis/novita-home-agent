@@ -1,0 +1,7 @@
+{
+  "authorizationSuccessful": "¡Autorización correcta!",
+  "goToAgentSandboxConsole": "-> Ir a la consola de Agent Sandbox",
+  "invalidRedirectLink": "Enlace de redirección no válido",
+  "redirectingToYourAuthorizedApplicationPlease": "Redirigiendo a tu aplicación autorizada, espera...",
+  "theRedirectLinkIsInvalidOr": "El enlace de redirección no es válido o ha caducado"
+}

@@ -1,0 +1,12 @@
+{
+  "adoptMixedStrategies": "Adopt Mixed Strategies",
+  "bestPractices": "Best Practices",
+  "breakJobsIntoSmallerUnitsWith": "Break jobs into smaller units with resume/retry",
+  "designRetryableWorkloads": "Design Retryable Workloads",
+  "enableCheckpointing": "Enable Checkpointing",
+  "noticeSpotIsBestForFlexible": "Notice: Spot is best for flexible workloads. Use on-demand or reserved for mission-critical applications.",
+  "respondQuickly": "Respond Quickly",
+  "runCriticalWorkloadsOnOnDemand": "Run critical workloads on on-demand, offload flexible ones to Spot",
+  "saveTrainingStateRegularlyToPersistent": "Save training state regularly to persistent storage",
+  "useTerminationNotificationsToTriggerBackup": "Use termination notifications to trigger backup or shutdown logic"
+}

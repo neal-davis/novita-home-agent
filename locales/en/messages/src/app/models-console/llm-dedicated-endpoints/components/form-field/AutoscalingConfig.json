@@ -1,0 +1,15 @@
+{
+  "autoscaling": "Autoscaling",
+  "autoscalingHandlesHighlyVariableTrafficWhile": "Autoscaling handles highly variable traffic while minimizing spend on idle compute resources.",
+  "max": "~ Max:",
+  "min": "Min:",
+  "min300s": "Min: 300s",
+  "numberOfReplicas": "Number of replicas:",
+  "off": "Off",
+  "on": "On",
+  "replicaRange": "Replica Range:",
+  "scaleDownDelay": "Scale-down Delay:",
+  "scaleToZeroIsEnabled": "Scale-to-Zero is enabled",
+  "sec": "sec",
+  "yourEndpointHasADefaultMinimum": "Your endpoint has a default minimum of 1 replica and will automatically sleep when idle. Cold start time depends on your model size, and typically takes a few minutes."
+}

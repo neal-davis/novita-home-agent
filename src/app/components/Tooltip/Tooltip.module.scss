@@ -1,0 +1,9 @@
+.tooltip_content {
+  padding: 3px 7px;
+  @include font-subtle;
+  color: var(--white);
+  background-color: var(--dark-2);
+  border-radius: 4px;
+  opacity: 0.9;
+  z-index: 99999;
+}

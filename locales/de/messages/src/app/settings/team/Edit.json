@@ -1,0 +1,8 @@
+{
+  "assignAccessPermissionsToMembersBy": "Weisen Sie Mitgliedern Zugriffsberechtigungen zu, indem Sie Rollen auswählen. Das Budget für jedes neue Mitglied ist standardmäßig unbegrenzt. Wenn Sie es anpassen müssen, gehen Sie bitte zur Seite „Budgets“.",
+  "cancel": "Abbrechen",
+  "edit": "Bearbeiten",
+  "failedToUpdateRole": "Rolle konnte nicht aktualisiert werden",
+  "save": "Speichern",
+  "viewPermissionDetails": "Berechtigungsdetails anzeigen"
+}

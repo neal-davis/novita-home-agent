@@ -1,0 +1,15 @@
+{
+  "message1EligibilityScope": "1. Elegibilidade e Escopo",
+  "message2GpuInstanceDiscountRules": "2. Regras de Desconto para Instâncias de GPU",
+  "message3UsageTimingBilling": "3. Tempo de Uso e Cobrança",
+  "message4CombiningDiscounts": "4. Combinação de Descontos",
+  "message5CapacityAvailabilityChanges": "5. Capacidade, Disponibilidade e Alterações",
+  "message6FairUseAbusePrevention": "6. Uso Justo e Prevenção de Abusos",
+  "message7PaymentChargebacksDisputes": "7. Pagamento, Chargebacks e Disputas",
+  "message8ModificationOrSuspension": "8. Modificação ou Suspensão",
+  "message9AcceptanceOfTerms": "9. Aceitação dos Termos",
+  "novitaAiMayRestrictOrRevoke": "A Novita AI pode restringir ou revogar preços promocionais para contas que apresentem abuso ou atividade anormal, incluindo, entre outros:",
+  "relatedAccountsSharedBillingPaymentMethods": "Contas relacionadas (com faturamento compartilhado, métodos de pagamento ou propriedade da organização) podem ser tratadas como uma única entidade para fins de elegibilidade ao desconto.",
+  "termsRestrictions": "Termos e Restrições",
+  "theBuildMonthPromotionPromotionIs": "A promoção Build Month (\"Promoção\") é válida de 24 de novembro de 2025 a 31 de dezembro de 2025, às 23h59 PST. Ao participar, você concorda com os seguintes termos:"
+}

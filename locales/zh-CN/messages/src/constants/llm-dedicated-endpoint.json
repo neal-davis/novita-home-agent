@@ -1,0 +1,6 @@
+{
+  "enablingThisFeatureAcceleratesModelOutput": "启用此功能可使模型在编程场景中的输出速度提升 30% 以上（达到基准性能的 130%）",
+  "maximumNumberOfConcurrentRequestsThat": "单个副本可处理的最大并发请求数。后端会根据模型和 GPU 配置推荐最优值。",
+  "modelContextLengthIfUnspecifiedWill": "模型上下文长度。如果未指定，将自动从模型配置中推导。",
+  "theModelsMaximumContextLengthDefaults": "模型的最大上下文长度。默认为 None（将改用模型 config.json 中的值）。"
+}

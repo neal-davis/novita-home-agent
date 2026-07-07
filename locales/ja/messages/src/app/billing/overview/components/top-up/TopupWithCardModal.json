@@ -1,0 +1,18 @@
+{
+  "a9GstAppliesToPayments": "シンガポールからのお支払いには9%のGSTが適用されます。",
+  "accountInformation": "アカウント情報",
+  "amount": "金額",
+  "cancel": "キャンセル",
+  "confirmPayment": "支払いを確認",
+  "description": "説明",
+  "novitaAiCredit": "Novita AI クレジット",
+  "paymentAmount": "支払い金額",
+  "paymentMethod": "支払い方法",
+  "recharging": "チャージ中...",
+  "redirecting": "リダイレクトしています...",
+  "stripeCheckout": "Stripe Checkout",
+  "teamId": "チーム ID:",
+  "theCreditTopUpOf": "クレジットチャージ $",
+  "topUpCredit": "クレジットをチャージ",
+  "wasSuccessful": "が成功しました。"
+}

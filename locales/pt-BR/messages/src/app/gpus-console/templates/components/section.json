@@ -1,0 +1,12 @@
+{
+  "community": "Comunidade",
+  "createTime": "Data de criação",
+  "creator": "Criador",
+  "flagged": "Sinalizado",
+  "id": "ID:",
+  "newTemplate": "+ Novo modelo",
+  "private": "Privado",
+  "search": "pesquisar",
+  "success": "sucesso",
+  "templateNameFilter": "Filtro por nome do modelo"
+}

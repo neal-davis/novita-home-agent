@@ -1,0 +1,13 @@
+{
+  "cleanup": "limpeza",
+  "img2img": "imagem2imagem",
+  "lcmTxt2img": "LCM-texto2imagem",
+  "outpainting": "expansão-de-imagem",
+  "reimagine": "reimaginar",
+  "removeBackground": "remover-fundo",
+  "removeText": "remover-texto",
+  "removeWatermark": "remover-marca-d'água",
+  "replaceSky": "substituir-céu",
+  "txt2img": "texto2imagem",
+  "upscale": "aumentar-resolução"
+}

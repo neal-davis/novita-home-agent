@@ -1,0 +1,13 @@
+{
+  "availableServerless": "Verfügbare Serverless",
+  "cacheRead": "Cache-Lesevorgang",
+  "cacheWrite1h": "Cache-Schreibvorgang (1 h)",
+  "cacheWrite5m": "Cache-Schreibvorgang (5 min)",
+  "features": "Funktionen",
+  "input": "Eingabe",
+  "onDemandDeployments": "On-Demand-Bereitstellungen",
+  "output": "Ausgabe",
+  "runQueriesImmediatelyPayOnlyFor": "Abfragen sofort ausführen, nur für die Nutzung bezahlen",
+  "serverlessApi": "Serverless API",
+  "tryNow": "Jetzt ausprobieren"
+}

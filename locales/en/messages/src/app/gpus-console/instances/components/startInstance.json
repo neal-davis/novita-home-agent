@@ -1,0 +1,9 @@
+{
+  "cancel": "Cancel",
+  "start": "Start",
+  "startInstance": "Start Instance",
+  "startYourInstance": "Start your Instance.",
+  "startYourInstanceIfYouHave": "Start your Instance. If you have a volume configured, it will be retrieved and mounted.",
+  "success": "success",
+  "theCurrentMachinePriceFor": "The current machine price for"
+}

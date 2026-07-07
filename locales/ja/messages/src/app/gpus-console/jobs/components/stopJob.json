@@ -1,0 +1,11 @@
+{
+  "cancel": "キャンセル",
+  "confirm": "確認",
+  "confirmToTerminateJob": "ジョブを終了してもよろしいですか？",
+  "ifYouConfirmTerminateTheJob": "終了を確定すると、ジョブは削除されます。ジョブを再作成するには",
+  "instanceManagement": "インスタンス管理",
+  "jobId": "(ジョブID:",
+  "success": "成功",
+  "terminateJob": "ジョブを終了",
+  "toRecreateTheJob": "に移動してください！"
+}

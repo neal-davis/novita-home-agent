@@ -1,0 +1,23 @@
+{
+  "actions": "アクション",
+  "cacheRead-08ba9a": "· キャッシュ読み取り",
+  "cacheRead-e47778": "· キャッシュ読み取り",
+  "cacheWrite1h": "· キャッシュ書き込み(1h)",
+  "cacheWrite5m": "· キャッシュ書き込み(5m)",
+  "cachedReads": "キャッシュ済み読み取り",
+  "cachedWrites1h": "キャッシュ済み書き込み(1h)",
+  "cachedWrites5m": "キャッシュ済み書き込み(5m)",
+  "context": "コンテキスト",
+  "free": "無料",
+  "input": "入力",
+  "inputLength": "入力長",
+  "inputPriceMtokens": "入力価格 (Mtokens)",
+  "modelName": "モデル名",
+  "more": "詳細",
+  "omnimodal": "オムニモーダル",
+  "output": "出力",
+  "outputLength": "出力長",
+  "outputPriceMtokens": "出力価格 (Mtokens)",
+  "showOmnimodalPricing": "オムニモーダル料金を表示",
+  "showTieredPricing": "段階制料金を表示"
+}

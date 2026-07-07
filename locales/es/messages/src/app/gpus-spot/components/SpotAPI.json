@@ -1,0 +1,13 @@
+{
+  "apisAutomation": "APIs y automatización",
+  "checkAvailability": "Comprobar disponibilidad",
+  "exploreApiDocs": "Explorar documentación de API",
+  "getPricing": "Obtener precios",
+  "gpuCapacityByModel": "Capacidad de GPU por modelo",
+  "handleInterruptions": "Gestionar interrupciones",
+  "launchInstances": "Lanzar instancias",
+  "manageSpotInstancesProgrammaticallyWithFull": "Gestiona instancias Spot programáticamente con soporte completo de API",
+  "provisionSpotWithBillingTypeSpot": "Aprovisionar Spot con billing_type=spot",
+  "realTimeSpotRates": "Tarifas Spot en tiempo real",
+  "subscribeToTerminationEventsViaApi": "Suscribirse a eventos de terminación vía API o correo electrónico"
+}

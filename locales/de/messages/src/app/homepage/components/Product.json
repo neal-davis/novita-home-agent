@@ -1,0 +1,21 @@
+{
+  "agentSandbox": "Agent-Sandbox",
+  "baseUrl": "BASE_URL",
+  "dedicatedEndpoints": "Dedizierte Endpunkte",
+  "exploreAllModels": "Alle Modelle erkunden",
+  "getStarted": "Loslegen",
+  "gpuCloud": "GPU-Cloud",
+  "model": "MODELL",
+  "modelApis-10b567": "MODELL-APIs",
+  "modelApis-8d449d": "Modell-APIs",
+  "noInfrastructureToManage": "Keine Infrastruktur zu verwalten.",
+  "operational": "BETRIEBSBEREIT",
+  "privateEndpointsGuaranteedPerformanceNoNoisy": "Private Endpunkte. Garantierte Leistung. Keine störenden Nachbarn.",
+  "productNavigation": "Produktnavigation",
+  "productionReadyYouCallItWe": "produktionsbereit. Sie rufen es auf, wir betreiben es. Abgerechnet nach",
+  "run200ModelsThroughASingle": "Führen Sie 200+ Modelle über eine einzige API aus.",
+  "serverlessModelApis": "Serverless-Modell-APIs",
+  "textImageAudioVideoAllServerless": "Text, Bild, Audio, Video — alles serverless, alles",
+  "tokenNotTheHour": "Token, nicht nach Stunde.",
+  "yourModelYourComputeIsolatedResources": "Ihr Modell. Ihre Rechenleistung. Isolierte Ressourcen bedeuten konsistente Latenz bei jedem Durchsatz. Denn in der Produktion gibt es kein Retry-Budget."
+}

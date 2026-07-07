@@ -1,0 +1,93 @@
+{
+  "configs": [
+    {
+      "fusionConfig": {
+        "name": "e2e-fixture-video-gen",
+        "displayName": "E2E Fixture Video Gen",
+        "series": "E2EFixtureSeries",
+        "modelFamily": "",
+        "description": "Synthetic media model injected by e2e fixture (no real product).",
+        "labels": [
+          { "key": "filter", "value": "featured" },
+          { "key": "features", "value": "Text-to-Video" },
+          { "key": "display", "value": "NEW" }
+        ],
+        "examples": "[]",
+        "markdown": "",
+        "rank": 1,
+        "modelReleasedAt": "0",
+        "platformReleaseAt": "1700000000"
+      },
+      "modelConfig": {
+        "config": {
+          "name": "e2e-fixture-video-gen",
+          "openapiSchema": "{}",
+          "category": "video_gen",
+          "billingExpr": "",
+          "async": true,
+          "priceConfig": "",
+          "providerBillingExpr": "",
+          "billingFactorMappers": []
+        },
+        "skuMappings": []
+      }
+    },
+    {
+      "fusionConfig": {
+        "name": "e2e-fixture-image-gen",
+        "displayName": "E2E Fixture Image Gen",
+        "series": "E2EFixtureSeries",
+        "modelFamily": "",
+        "description": "Synthetic media model injected by e2e fixture (no real product).",
+        "labels": [{ "key": "features", "value": "Text to Image" }],
+        "examples": "[]",
+        "markdown": "",
+        "rank": 2,
+        "modelReleasedAt": "0",
+        "platformReleaseAt": "1700000000"
+      },
+      "modelConfig": {
+        "config": {
+          "name": "e2e-fixture-image-gen",
+          "openapiSchema": "{}",
+          "category": "image_gen",
+          "billingExpr": "",
+          "async": false,
+          "priceConfig": "",
+          "providerBillingExpr": "",
+          "billingFactorMappers": []
+        },
+        "skuMappings": []
+      }
+    },
+    {
+      "fusionConfig": {
+        "name": "e2e-fixture-audio-gen",
+        "displayName": "E2E Fixture Audio Gen",
+        "series": "E2EFixtureSeries",
+        "modelFamily": "",
+        "description": "Synthetic media model injected by e2e fixture (no real product).",
+        "labels": [{ "key": "features", "value": "Text to Audio" }],
+        "examples": "[]",
+        "markdown": "",
+        "rank": 3,
+        "modelReleasedAt": "0",
+        "platformReleaseAt": "1700000000"
+      },
+      "modelConfig": {
+        "config": {
+          "name": "e2e-fixture-audio-gen",
+          "openapiSchema": "{}",
+          "category": "audio_gen",
+          "billingExpr": "",
+          "async": true,
+          "priceConfig": "",
+          "providerBillingExpr": "",
+          "billingFactorMappers": []
+        },
+        "skuMappings": []
+      }
+    }
+  ],
+  "total": 3
+}

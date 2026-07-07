@@ -1,0 +1,10 @@
+{
+  "generateAiImagesWith": "AI画像を生成：",
+  "latentConsistencyModel": "Latent Consistency Model",
+  "on": "（",
+  "playground": "プレイグラウンド",
+  "stableDiffusionApi": "Stable Diffusion API",
+  "toAccessMoreFeatures": "でさらに多くの機能にアクセスできます。",
+  "tryLatentConsistencyModelApiDemo": "Latent Consistency Model APIデモを試す",
+  "visitThe": "）。"
+}

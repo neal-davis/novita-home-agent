@@ -1,0 +1,12 @@
+{
+  "chatCompletionResponse": "チャット補完レスポンス",
+  "completionResponse": "補完レスポンス",
+  "createAnOpenaiCompatibleChatCompletion": "OpenAI 互換のチャット補完を作成します。",
+  "createAnOpenaiCompatibleTextCompletion": "OpenAI 互換のテキスト補完を作成します。",
+  "createOpenaiCompatibleEmbeddings": "OpenAI 互換の埋め込みを作成します。",
+  "discoveryDocumentForNovitasOpenaiCompatible": "Novita の OpenAI 互換モデル API とプラットフォーム API のディスカバリードキュメント。",
+  "embeddingResponse": "埋め込みレスポンス",
+  "listAvailableOpenaiCompatibleModels": "利用可能な OpenAI 互換モデルを一覧表示します。",
+  "modelList": "モデル一覧",
+  "novitaApi": "Novita API"
+}

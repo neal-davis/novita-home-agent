@@ -1,0 +1,12 @@
+{
+  "convertDocumentToMarkdownFormat": "ドキュメントをマークダウン形式に変換",
+  "describeImage": "画像を説明",
+  "document": "ドキュメント",
+  "extractTextFromGeneralImages": "一般的な画像からテキストを抽出",
+  "freeFormOcrWithoutLayoutConstraints": "レイアウト制約なしの自由形式OCR",
+  "freeOcr": "無料OCR",
+  "generateDetailedImageDescriptions": "詳細な画像説明を生成",
+  "ocrImage": "画像をOCR処理",
+  "parseFigure": "図を解析",
+  "parseFiguresInDocuments": "ドキュメント内の図を解析"
+}

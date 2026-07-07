@@ -1,0 +1,3 @@
+{
+  "indicatesWhetherTheEndpointIsPublic": "Indica si el endpoint es público (infraestructura compartida) o dedicado (recursos exclusivos). Los límites de velocidad y la facturación varían según el tipo."
+}

@@ -1,0 +1,9 @@
+{
+  "copiedToClipboard": "已复制到剪贴板！",
+  "endpoint": "端点",
+  "endpointHealth": "端点健康状态",
+  "endpointId": "端点 ID",
+  "modelId": "模型 ID",
+  "openaiCompatibleBaseUrl": "OpenAI 兼容基础 URL",
+  "replicas": "副本数"
+}

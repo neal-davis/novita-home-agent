@@ -1,0 +1,46 @@
+.faq {
+  margin-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 1px;
+  border-left: 1px solid var(--gray-2);
+
+  h3 {
+    margin-left: 1px;
+    margin-bottom: 48px;
+    padding-left: 24px;
+    border-left: 4px solid var(--brand-1);
+    @include font-h3;
+    color: var(--dark-1);
+  }
+
+  main {
+    padding-left: 30px;
+    list-style: disc;
+
+    .faq_item {
+      margin-bottom: 24px;
+
+      .question {
+        @include font-h6;
+        color: var(--dark-1);
+      }
+
+      .answer {
+        margin-top: 4px;
+        @include font-body;
+        color: var(--dark-1);
+      }
+
+      .link {
+        @include font-link;
+        color: var(--brand-1);
+      }
+    }
+
+    .note {
+      @include font-body;
+      color: var(--dark-1);
+      font-style: italic;
+    }
+  }
+}

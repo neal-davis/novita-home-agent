@@ -1,0 +1,15 @@
+{
+  "_comment": "Synthetic /v1/user/queryApiUsageByTime body for hermetic /models-console/usage. The prod capture for this endpoint was 401 (unauthenticated), so it carries no real data shape; this fixture matches the exact TS contract consumed by wrapper.tsx/apiUsage.tsx/apiCreditUsage.tsx/apiUsagePie.tsx: `taskData` => [{taskType,points}] (bar + pie), `data` => [{taskType,points,date}] (stacked credit chart). points are 1e4-scaled credit integers (balanceFormat divides by 10000). No PII: only task-type labels + numeric metrics. Body is returned with HTTP 200 and no `code>=400`/`code:401` so the client never logs out / redirects to /user/login.",
+  "code": 0,
+  "data": [
+    { "taskType": "txt2img", "points": 1230000, "date": "2026-06-21" },
+    { "taskType": "img2img", "points": 450000, "date": "2026-06-21" },
+    { "taskType": "txt2img", "points": 980000, "date": "2026-06-20" },
+    { "taskType": "upscale", "points": 220000, "date": "2026-06-19" }
+  ],
+  "taskData": [
+    { "taskType": "txt2img", "points": 2210000 },
+    { "taskType": "img2img", "points": 450000 },
+    { "taskType": "upscale", "points": 220000 }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "bookmarkThisTemplate": "Ajouter ce modèle aux marque-pages",
+  "favorite": "Ajouter aux favoris",
+  "favoriteSuccessfully": "Ajouté aux favoris avec succès",
+  "loginFailurePleaseLogInAgain": "Échec de la connexion, veuillez vous reconnecter",
+  "pleaseLogInFirst": "Veuillez d’abord vous connecter",
+  "unbookmarkThisTemplate": "Retirer ce modèle des marque-pages",
+  "unfavorite": "Retirer des favoris",
+  "unfavoriteSuccessfully": "Retiré des favoris avec succès"
+}

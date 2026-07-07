@@ -1,0 +1,41 @@
+.title {
+  display: inline-block;
+  font-size: 20px;
+  color: var(--dark-2);
+  letter-spacing: 0;
+  line-height: 20px;
+  font-weight: 600;
+}
+
+.desc {
+  font-size: 15px;
+  color: #6f767e;
+  line-height: 24px;
+  font-weight: 500;
+  margin: 24px 0;
+}
+
+.desc a {
+  color: #6f767e;
+  text-decoration: underline;
+  font-weight: 700;
+}
+.desc a:hover {
+  color: #b3c0cd;
+  text-decoration: underline;
+}
+
+.model_content {
+  :global {
+    .ant-modal-close {
+      color: var(--dark5) !important;
+    }
+  }
+}
+
+.pricing_btn {
+  color: var(--black);
+}
+.pricing_btn:hover {
+  color: var(--black);
+}

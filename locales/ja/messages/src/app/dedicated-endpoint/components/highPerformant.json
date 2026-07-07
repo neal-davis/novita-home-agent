@@ -1,0 +1,6 @@
+{
+  "createANewEndpoint": "新しいエンドポイントを作成",
+  "deployAvailableModelsAndLoraAdapters": "· 利用可能なモデルと LoRA アダプターを、カスタマイズ可能な GPU エンドポイントに時間課金でデプロイできます。",
+  "highCostPerformance": "高いコストパフォーマンス",
+  "lowerPricesNoHardRateLimits": "· 低価格、厳格なレート制限なし、高利用率時により低コスト、カスタムベースモデルと複数の LoRA、予測可能なパフォーマンスへの影響なし。"
+}

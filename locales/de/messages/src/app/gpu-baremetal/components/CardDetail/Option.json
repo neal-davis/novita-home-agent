@@ -1,0 +1,12 @@
+{
+  "duration": "Dauer",
+  "eachNodeConsistsOf": "Jeder Knoten besteht aus",
+  "gpus": "GPUs.",
+  "gpusForExampleRequesting": "GPUs. Wenn Sie beispielsweise anfordern",
+  "monthS": "Monat(e)",
+  "nodeQuantity": "Knotenanzahl",
+  "nodesWillGiveYouAccessTo": "Knoten geben Ihnen Zugriff auf",
+  "option": "Option",
+  "pleaseEnterTheNumberOfMachines": "Bitte geben Sie die Anzahl der Maschinen ein",
+  "yearS": "Jahr(e)"
+}

@@ -1,0 +1,14 @@
+{
+  "autoRenew": "自動更新",
+  "bulkAutoRenew": "一括自動更新",
+  "cancel": "キャンセル",
+  "confirm": "確認",
+  "confirmCurrentOperation": "現在の操作を確認しますか？",
+  "instancesDifferentExpirationDatesAreSupported": "インスタンス。異なる有効期限がサポートされています。システムは各インスタンスのそれぞれの有効期限に基づいて自動的に更新します。",
+  "month": "か月",
+  "months": "か月",
+  "processing": "処理中",
+  "renewalDuration": "更新期間",
+  "scopeThisOperationWillApplyTo": "範囲：この操作は次に適用されます",
+  "warningFailedPaymentsDueToLow": "警告：残高不足による支払い失敗は毎日再試行されます。期日までに解決されない場合、請求は従量課金に切り替わります"
+}

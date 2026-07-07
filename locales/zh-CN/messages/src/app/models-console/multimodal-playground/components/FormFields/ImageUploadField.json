@@ -1,0 +1,9 @@
+{
+  "add": "添加",
+  "addLink": "添加链接",
+  "confirm": "确认",
+  "dataImagePngBase64": "data:image/png;base64,...",
+  "invalidInputFormat": "输入格式无效",
+  "uploadImage": "上传图片",
+  "uploading": "正在上传..."
+}
