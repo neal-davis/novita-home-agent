@@ -4,7 +4,7 @@ name: E2E
 # （mcr.microsoft.com/playwright:v<ver>-jammy，tag 必须与 @playwright/test 版本对齐）——
 # 不再在 runner 上现装浏览器（曾因 Playwright CDN stall 反复卡死，见 git history 一串 ci(e2e) 修复）。
 #
-# 分片（sharding）加速：208 用例切成 N 片并行——每片一台独立 runner，自建 + 自启 app +
+# 分片（sharding）加速：用例切成 N 片并行——每片一台独立 runner，自建 + 自启 app +
 # 只跑自己那 1/N 用例（Playwright --shard=i/N）。
 # 各片产出 blob 分片报告，最后 merge job 合并成单一 HTML/JSON + 覆盖率 + PR 评论。
 # 为什么不在单机加 worker：单机 app server 是共享瓶颈，10 worker 抢同一批 CPU 只会更慢更 flaky；
@@ -128,7 +128,7 @@ jobs:
     strategy:
       fail-fast: false # 一片挂不取消其它片——要收齐全部分片结果再汇总/门禁
       matrix:
-        shard: [1, 2, 3, 4] # 调分片数只改这里；--shard 的 /N 用 strategy.job-total 自动对齐
+        shard: [1, 2, 3, 4, 5, 6] # 调分片数只改这里；--shard 的 /N 用 strategy.job-total 自动对齐
     steps:
       - uses: actions/checkout@v5
         with:
@@ -240,7 +240,6 @@ jobs:
         if: ${{ needs.scope.outputs.run_e2e == 'true' }}
         with:
           node-version: 24.x
-          cache: npm
 
       - name: Download blob reports
         if: ${{ needs.scope.outputs.run_e2e == 'true' }}
