@@ -2,6 +2,7 @@
 
 const path = require("path");
 const isDev = process.env.NEXT_PUBLIC_ENV == "dev";
+const isE2EFastBuild = process.env.NEXT_E2E_FAST_BUILD === "1";
 
 const allowImageDomains = [
   "next-app-static.s3.ap-southeast-1.amazonaws.com",
@@ -14,7 +15,7 @@ const allowImageDomains = [
 
 const withPWA = require("next-pwa")({
   dest: "public",
-  disable: isDev,
+  disable: isDev || isE2EFastBuild,
 });
 
 const withBundleAnalyzer = require("@next/bundle-analyzer")({
@@ -247,6 +248,12 @@ const config = {
   compiler: {
     removeConsole:
       process.env.NODE_ENV === "production" ? { exclude: ["info"] } : false,
+  },
+  eslint: {
+    ignoreDuringBuilds: isE2EFastBuild,
+  },
+  typescript: {
+    ignoreBuildErrors: isE2EFastBuild,
   },
   webpack(config) {
     config.module.rules.unshift({
