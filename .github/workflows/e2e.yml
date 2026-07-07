@@ -4,7 +4,7 @@ name: E2E
 # （mcr.microsoft.com/playwright:v<ver>-jammy，tag 必须与 @playwright/test 版本对齐）——
 # 不再在 runner 上现装浏览器（曾因 Playwright CDN stall 反复卡死，见 git history 一串 ci(e2e) 修复）。
 #
-# 分片（sharding）加速：208 用例切成 N 片并行——每片一台独立 runner，自建 + 自启 app +
+# 分片（sharding）加速：~356 用例切成 N 片并行——每片一台独立 runner，自建 + 自启 app +
 # 只跑自己那 1/N 用例（Playwright --shard=i/N），墙钟 ≈ build + 测试时间/N。
 # 各片产出 blob 分片报告，最后 merge job 合并成单一 HTML/JSON + 覆盖率 + PR 评论。
 # 为什么不在单机加 worker：单机 app server 是共享瓶颈，10 worker 抢同一批 CPU 只会更慢更 flaky；
@@ -96,7 +96,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
         with:
-          fetch-depth: 0 # 路由 catalog / spec 扫描用；与单机时保持一致
+          fetch-depth: 1 # 分片只 build+跑测；全量 git 历史仅 scope job（diff-routes）需要
 
       # 容器自带 Node 20，但本仓库 engines 要求 24.x——叠装 24 对齐本地/CI 行为。
       # 浏览器在 /ms-playwright（镜像 ENV 已指向），与 Node 版本无关，不受影响。
@@ -106,11 +106,21 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci
+        run: npm ci --prefer-offline --no-audit --no-fund
+
+      # 跨 run 复用 Next 编译缓存；4 片并行 restore 同 key，job 末 save 竞态可接受（最后写入者生效）。
+      # key 两层 hash：① 工具链 + i18n + build:test 资源（变则冷启动）；② src/样式（变则 primary miss，
+      #    但 restore-keys 仍命中① → 安全局部复用）。去掉宽泛的 `next-build-` 回退，避免 lockfile 变了还吃到旧缓存。
+      - name: Restore Next.js build cache
+        uses: actions/cache@v4
+        with:
+          path: .next/cache
+          key: ${{ runner.os }}-next-e2e-${{ hashFiles('package-lock.json', 'next.config.js', 'tsconfig.json', 'tailwind.config.ts', 'postcss.config.js', 'components.json', '.i18n/manifest.json', 'scripts/i18n/**', 'scripts/watcher/**', 'locales/**/messages/**', 'locales/en/public/**', 'locales/en/.env.test') }}-${{ hashFiles('src/**/*.ts', 'src/**/*.tsx', 'src/**/*.js', 'src/**/*.jsx', 'src/**/*.scss') }}
+          restore-keys: |
+            ${{ runner.os }}-next-e2e-${{ hashFiles('package-lock.json', 'next.config.js', 'tsconfig.json', 'tailwind.config.ts', 'postcss.config.js', 'components.json', '.i18n/manifest.json', 'scripts/i18n/**', 'scripts/watcher/**', 'locales/**/messages/**', 'locales/en/public/**', 'locales/en/.env.test') }}-
 
       # build:test 无 prebuild 钩子——显式先编 i18n（与 predev/prebuild 一致），否则构建缺资源。
-      # NODE_OPTIONS 抬堆上限：这个大应用（139 路由 + PWA + i18n）next build 超过 Node 默认 ~2GB 堆
-      # 会 OOM（实测 CI: Reached heap limit, 2030MB FATAL）。ubuntu-latest 内存充足，给 6GB。
+      # build:test 已跳过 PWA（next.config.js）；NODE_OPTIONS 抬堆上限防大应用 next build OOM。
       - name: Build test app
         env:
           NODE_OPTIONS: --max-old-space-size=6144
@@ -185,7 +195,7 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci # merge-reports / route-catalog / coverage 需要 @playwright/test 及脚本依赖
+        run: npm ci --prefer-offline --no-audit --no-fund # merge-reports 需要 @playwright/test
 
       - name: Download blob reports
         uses: actions/download-artifact@v5

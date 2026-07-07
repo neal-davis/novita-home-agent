@@ -2,6 +2,7 @@
 
 const path = require("path");
 const isDev = process.env.NEXT_PUBLIC_ENV == "dev";
+const isTest = process.env.NEXT_PUBLIC_ENV == "test";
 
 const allowImageDomains = [
   "next-app-static.s3.ap-southeast-1.amazonaws.com",
@@ -14,7 +15,8 @@ const allowImageDomains = [
 
 const withPWA = require("next-pwa")({
   dest: "public",
-  disable: isDev,
+  // E2E build:test 不需要 service worker；跳过 workbox 生成可显著缩短 CI next build。
+  disable: isDev || isTest,
 });
 
 const withBundleAnalyzer = require("@next/bundle-analyzer")({

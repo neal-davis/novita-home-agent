@@ -19,8 +19,8 @@ export default defineConfig({
   forbidOnly: !!process.env.CI,
   /* Retry on CI only */
   retries: process.env.CI ? 2 : 0,
-  /* Opt out of parallel tests on CI. */
-  workers: process.env.CI ? 1 : undefined,
+  /* CI 分片 workflow 用 --workers=4；此处与之一致，本地默认 undefined（CPU 核数）。 */
+  workers: process.env.CI ? 4 : undefined,
   /* 单测超时：默认 30s 对「全站 sweep 130 路由 + workers 并发」下的重路由不够（goto 自身就 45s）——
      重路由首屏在高负载下 >30s 会先撞测试超时。给 60s 头量（sweep config 用 90s，此处 deep+sweep 混跑取中）。 */
   timeout: 60_000,
