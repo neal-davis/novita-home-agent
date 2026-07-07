@@ -242,10 +242,6 @@ jobs:
           node-version: 24.x
           cache: npm
 
-      - name: Install dependencies
-        if: ${{ needs.scope.outputs.run_e2e == 'true' }}
-        run: npm ci --prefer-offline --no-audit --no-fund # merge-reports / coverage 需要 @playwright/test 及脚本依赖
-
       - name: Download blob reports
         if: ${{ needs.scope.outputs.run_e2e == 'true' }}
         uses: actions/download-artifact@v5
@@ -269,7 +265,9 @@ jobs:
             echo "⚠ 没有任何 blob 分片报告（分片可能在跑测试前就挂了）——跳过合并"
             echo '{"stats":{"expected":0,"unexpected":0,"flaky":0,"skipped":0}}' > e2e-results.json
           else
-            ./node_modules/.bin/playwright merge-reports --reporter=html,json ./all-blob-reports
+            PW_VERSION=$(node -p "require('./package-lock.json').packages['node_modules/@playwright/test'].version")
+            npm exec --yes --package="@playwright/test@$PW_VERSION" -- \
+              playwright merge-reports --reporter=html,json ./all-blob-reports
           fi
 
       # 覆盖率口径是静态的（扫 catalog + spec 源码里的 goto），不依赖测试结果。
