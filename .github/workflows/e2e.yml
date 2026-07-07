@@ -147,10 +147,11 @@ jobs:
       - name: Install dependencies
         run: npm ci --prefer-offline --no-audit --no-fund
 
-      # build:test 无 prebuild 钩子——显式先编 i18n（与 predev/prebuild 一致），否则构建缺资源。
+      # build:test:e2e 无 prebuild 钩子——显式先编 i18n（与 predev/prebuild 一致），否则构建缺资源。
       # NODE_OPTIONS 抬堆上限：这个大应用（139 路由 + PWA + i18n）next build 超过 Node 默认 ~2GB 堆
       # 会 OOM（实测 CI: Reached heap limit, 2030MB FATAL）。ubuntu-latest 内存充足，给 6GB。
       # NEXT_E2E_FAST_BUILD 只影响本 job：跳过 PWA/type/lint 附加工作；类型/lint 由 CI workflow 单独门禁。
+      # i18n scan / forbidden keywords 也由 CI workflow 的 required pre-build-check 覆盖，E2E 只保留运行所需产物刷新。
       - name: Build test app
         shell: bash
         env:
@@ -166,9 +167,8 @@ jobs:
             echo "✓ $label took $((SECONDS - start))s"
             echo "::endgroup::"
           }
-          timed "i18n scan" npm run i18n:scan
           timed "i18n compile" npm run i18n:compile
-          timed "next build:test" npm run build:test
+          timed "next build:test:e2e" npm run build:test:e2e
 
       - name: Generate route catalog
         run: node scripts/agent/route-catalog.mjs --out e2e_tests/route-catalog.generated.json

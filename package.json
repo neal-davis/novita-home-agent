@@ -10,6 +10,7 @@
     "build": "node ./scripts/sitemap-generate && node scripts/watcher/resourceCopy en && node scripts/check-forbidden-keywords.js && cross-env NEXT_PUBLIC_BASE_URL=https://api-server.novita.ai NEXT_PUBLIC_API_URL=https://api.novita.ai NEXT_PUBLIC_ENV=prod NEXT_PUBLIC_LANG=en next build",
     "build:zh": "node scripts/watcher/resourceCopy en && node scripts/check-forbidden-keywords.js && cross-env NEXT_PUBLIC_BASE_URL=https://api-server.novita.ai NEXT_PUBLIC_API_URL=https://api.novita.ai NEXT_PUBLIC_ENV=prod NEXT_PUBLIC_LANG=zh-CN next build",
     "build:test": "node scripts/watcher/resourceCopy en test && node scripts/check-forbidden-keywords.js && cross-env NEXT_PUBLIC_BASE_URL=https://dev-api-server.novita.ai NEXT_PUBLIC_API_URL=https://dev-api.novita.ai NEXT_PUBLIC_ENV=test NEXT_PUBLIC_LANG=en next build",
+    "build:test:e2e": "node scripts/watcher/resourceCopy en test && cross-env NEXT_PUBLIC_BASE_URL=https://dev-api-server.novita.ai NEXT_PUBLIC_API_URL=https://dev-api.novita.ai NEXT_PUBLIC_ENV=test NEXT_PUBLIC_LANG=en next build",
     "build:analyze": "node scripts/watcher/resourceCopy en && node scripts/check-forbidden-keywords.js && cross-env ANALYZE=true NEXT_PUBLIC_BASE_URL=https://api-server.novita.ai NEXT_PUBLIC_API_URL=https://api.novita.ai NEXT_PUBLIC_ENV=prod NEXT_PUBLIC_LANG=en next build",
     "lint": "oxlint .",
     "lint:ci": "oxlint . --deny-warnings",
