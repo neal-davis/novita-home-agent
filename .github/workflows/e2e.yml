@@ -75,7 +75,7 @@ jobs:
             echo "PR 仅局部改动 → 只跑 deep（全站 sweep 交给 nightly / push:main 兜底）"
           fi
 
-  # ② 构建一次：i18n + build:test + prepare-standalone，打成产物供全部分片复用。
+  # ② 构建一次：使用已提交的 i18n 产物 + build:test 环境变量 + prepare-standalone，打成产物供全部分片复用。
   # 跑在普通 ubuntu（不需 Playwright 容器）；.next/cache 只在此 job restore/save 一次（省 4×~50s 上传）。
   build:
     name: Build test app
@@ -106,10 +106,16 @@ jobs:
       - name: Build test app
         env:
           NODE_OPTIONS: --max-old-space-size=6144
+          NEXT_TELEMETRY_DISABLED: "1"
+          NEXT_PUBLIC_BASE_URL: https://dev-api-server.novita.ai
+          NEXT_PUBLIC_API_URL: https://dev-api.novita.ai
+          NEXT_PUBLIC_ENV: test
+          NEXT_PUBLIC_LANG: en
         run: |
-          npm run i18n:scan
-          npm run i18n:compile
-          npm run build:test
+          test -f src/i18n/generated/messages.ts
+          test -f locales/en/public/i18n/en.json
+          node scripts/watcher/resourceCopy en test
+          npx next build
           node scripts/prepare-standalone.js
 
       - name: Pack standalone artifact
